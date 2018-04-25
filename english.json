@@ -8,6 +8,9 @@
     "bai_hide_hostage_panel_during_endless_assault" : "Hide hostage panel during an Endless Assault",
     "bai_hide_hostage_panel_during_endless_assault_desc" : "Hide hostage panel during an Endless Assault (Defeat the Capitan is counted as Endless Assault)",
 
+    "bai_show_difficulty_name_instead_of_skulls" : "Show difficulty name instead of skulls",
+    "bai_show_difficulty_name_instead_of_skulls_desc" : "Show difficulty name instead of skulls in assault box",
+
     "bai_client_only" : "Client only",
 
     "bai_trigger_endless_assault_client" : "Show Endless Assault on Supported Heists",
