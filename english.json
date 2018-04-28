@@ -9,7 +9,7 @@
     "bai_hide_hostage_panel_during_endless_assault_desc" : "Hide hostage panel during an Endless Assault (Defeat the Capitan is counted as Endless Assault)",
 
     "bai_show_difficulty_name_instead_of_skulls" : "Show difficulty name instead of skulls",
-    "bai_show_difficulty_name_instead_of_skulls_desc" : "Show difficulty name instead of skulls in assault box",
+    "bai_show_difficulty_name_instead_of_skulls_desc" : "Show difficulty name instead of skulls on assault box",
 
     "bai_client_only" : "Client only",
 
@@ -17,29 +17,35 @@
     "bai_trigger_endless_assault_client_desc" : "Show Endless Assault on Supported Heists when you are client. This setting is ignored when you are hosting or host have this mod. You may experience a little performace penalty when this setting is enabled.",
     
     "bai_r" : "Red",
+    "bai_r_desc" : "Sets red value (only the whole number is used; eg: 28.55 -> used 28)",
     "bai_g" : "Green",
+    "bai_g_desc" : "Sets green value (only the whole number is used; eg: 28.55 -> used 28)",
     "bai_b" : "Blue",
+    "bai_b_desc" : "Sets blue value (only the whole number is used; eg: 28.55 -> used 28)",
 
     "bai_color": "Colors",
     "bai_color_desc": "Changes Box Color\nNote: New color will be loaded on heist reload",
 
     "bai_assault_box" : "Assault Box",
     "bai_assault_box_desc" : "Changes Assault Box Color",
-    "bai_assault_box_r_desc" : "Sets red value in assault box (only the whole number is used; eg: 28.55 -> used 28)",
-    "bai_assault_box_g_desc" : "Sets green value in assault box (only the whole number is used; eg: 28.55 -> used 28)",
-    "bai_assault_box_b_desc" : "Sets blue value in assault box (only the whole number is used; eg: 28.55 -> used 28)",
 
-    "bai_endless_box" : "Endless Assault Box",
+    "bai_assault_box_mutated" : "Assault Box (Mutators On)",
+    "bai_assault_box_mutated_desc" : "Changes Assault Box Color (Mutators On)",
+
+    "bai_capitan_box" : "Assault Box (Capitan)",
+    "bai_capitan_box_desc" : "Changes Assault Box Color (When Capitan arrived)",
+
+    "bai_capitan_box_mutated" : "Assault Box (Capitan, Mutators On)",
+    "bai_capitan_box_mutated_desc" : "Changes Assault Box Color (When Capitan arrived with mutators on)",
+
+    "bai_endless_box": "Endless Assault Box",
     "bai_endless_box_desc": "Changes Endless Assault Box Color",
-    "bai_endless_box_r_desc" : "Sets red value in endless assault box (only the whole number is used; eg: 28.55 -> used 28)",
-    "bai_endless_box_g_desc" : "Sets green value in endless assault box (only the whole number is used; eg: 28.55 -> used 28)",
-    "bai_endless_box_b_desc" : "Sets blue value in endless assault box (only the whole number is used; eg: 28.55 -> used 28)",
 
-    "bai_survived_box" : "Wave Survived Box",
+    "bai_endless_box_mutated": "Endless Assault Box (Mutators On)",
+    "bai_endless_box_mutated_desc": "Changes Endless Assault Box Color (Mutators On)",
+
+    "bai_survived_box": "Wave Survived Box",
     "bai_survived_box_desc": "Changes Wave Survived Box Color (Also applies to Wave Survived Banner on Safehouse Raid)",
-    "bai_survived_box_r_desc" : "Sets red value in wave survived box (only the whole number is used; eg: 28.55 -> used 28)",
-    "bai_survived_box_g_desc" : "Sets green value in wave survived box (only the whole number is used; eg: 28.55 -> used 28)",
-    "bai_survived_box_b_desc" : "Sets blue value in wave survived box (only the whole number is used; eg: 28.55 -> used 28)",
 
     "bai_color_reset" : "Reset Colors",
     "bai_color_reset_desc" : "Resets colors to game's default value",
