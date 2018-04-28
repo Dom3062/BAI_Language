@@ -32,8 +32,8 @@
     "bai_assault_box_mutated" : "Assault Box (Mutators On)",
     "bai_assault_box_mutated_desc" : "Changes Assault Box Color (Mutators On)",
 
-    "bai_capitan_box" : "Assault Box (Capitan)",
-    "bai_capitan_box_desc" : "Changes Assault Box Color (When Capitan arrived)",
+    "bai_capitan_box" : "Assault Box (Captain)",
+    "bai_capitan_box_desc" : "Changes Assault Box Color (When Captain arrived)",
 
     "bai_capitan_box_mutated" : "Assault Box (Capitan, Mutators On)",
     "bai_capitan_box_mutated_desc" : "Changes Assault Box Color (When Capitan arrived with mutators on)",
