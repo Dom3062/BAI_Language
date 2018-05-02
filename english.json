@@ -32,11 +32,11 @@
     "bai_assault_box_mutated" : "Assault Box (Mutators On)",
     "bai_assault_box_mutated_desc" : "Changes Assault Box Color (Mutators On)",
 
-    "bai_capitan_box" : "Assault Box (Capitan)",
-    "bai_capitan_box_desc" : "Changes Assault Box Color (When Capitan arrived)",
+    "bai_capitan_box" : "Assault Box (Captain)",
+    "bai_capitan_box_desc" : "Changes Assault Box Color (When Captain arrived)",
 
-    "bai_capitan_box_mutated" : "Assault Box (Capitan, Mutators On)",
-    "bai_capitan_box_mutated_desc" : "Changes Assault Box Color (When Capitan arrived with mutators on)",
+    "bai_capitan_box_mutated" : "Assault Box (Captain, Mutators On)",
+    "bai_capitan_box_mutated_desc" : "Changes Assault Box Color (When Captain arrived with mutators on)",
 
     "bai_endless_box": "Endless Assault Box",
     "bai_endless_box_desc": "Changes Endless Assault Box Color",
@@ -46,6 +46,9 @@
 
     "bai_survived_box": "Wave Survived Box",
     "bai_survived_box_desc": "Changes Wave Survived Box Color (Also applies to Wave Survived Banner on Safehouse Raid)",
+
+    "bai_escape_box" : "Point Of No Return Box",
+    "bai_escape_box_desc": "Changes Point Of No Return Box Color",
 
     "bai_color_reset" : "Reset Colors",
     "bai_color_reset_desc" : "Resets colors to game's default value",
