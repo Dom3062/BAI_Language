@@ -9,7 +9,7 @@
     "bai_hide_hostage_panel_during_endless_assault_desc": "ซ่อนหน้าต่างแสดงจำนวนตัวประกันในระหว่างการจู่โจมไม่มีที่สิ้นสุดของตำรวจ\n(การกำจัดกัปตันก็ถือเป็นการจู่โจมแบบไม่มีที่สิ้นสุดเช่นเดียวกัน)",
     
     "bai_show_difficulty_name_instead_of_skulls" : "แสดงชื่อระดับความยากแทนรูปหัวกะโหลก",
-    "bai_show_difficulty_name_instead_of_skulls_desc" : "แสดงชื่อระดับความยากแทนการแสดงรูปหัวกะโหลกในหน้าต่างการจู่โจม",
+    "bai_show_difficulty_name_instead_of_skulls_desc" : "แสดงชื่อระดับความยากแทนการแสดงรูปหัวกะโหลกในหน้าต่างการจู่โจม\nตัวเลือกนี้ใช้ไม่ได้กับโหมด Crime Spree",
     
     "bai_client_only": "เฉพาะฝั่งไคลเอ็นต์เท่านั้น",
     
