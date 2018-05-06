@@ -32,11 +32,11 @@
     "bai_assault_box_mutated" : "หน้าต่างการจู่โจม (เมื่อเปิดโหมด Mutators)",
     "bai_assault_box_mutated_desc" : "Assault Box (Mutators On): เปลี่ยนสีหน้าต่างแสดงสถานะการจู่โจมของตำรวจ (เมื่อเปิดโหมด Mutators)",
 
-    "bai_capitan_box" : "หน้าต่างการจู่โจม (กัปตัน)",
-    "bai_capitan_box_desc" : "Assault Box (Captain): เปลี่ยนสีหน้าต่างแสดงสถานะการจู่โจมของตำรวจ (เมื่อกัปตันมาถึง)",
+    "bai_captain_box" : "หน้าต่างการจู่โจม (กัปตัน)",
+    "bai_captain_box_desc" : "Assault Box (Captain): เปลี่ยนสีหน้าต่างแสดงสถานะการจู่โจมของตำรวจ (เมื่อกัปตันมาถึง)",
 
-    "bai_capitan_box_mutated" : "หน้าต่างการจู่โจม (กัปตัน, เมื่อเปิดโหมด Mutators)",
-    "bai_capitan_box_mutated_desc" : "Assault Box (Captain, Mutators on): เปลี่ยนสีหน้าต่างแสดงสถานะการจู่โจมของตำรวจ (เมื่อกัปตันมาถึงและมีการเปิดโหมด mutators)",
+    "bai_captain_box_mutated" : "หน้าต่างการจู่โจม (กัปตัน, เมื่อเปิดโหมด Mutators)",
+    "bai_captain_box_mutated_desc" : "Assault Box (Captain, Mutators on): เปลี่ยนสีหน้าต่างแสดงสถานะการจู่โจมของตำรวจ (เมื่อกัปตันมาถึงและมีการเปิดโหมด mutators)",
 	
     "bai_endless_box": "หน้าต่างการจู่โจมไม่มีที่สิ้นสุด",
     "bai_endless_box_desc": "Endless Assault Box: เปลี่ยนสีหน้าต่างแสดงสถานะการจู่โจมไม่มีที่สิ้นสุดของตำรวจ",
