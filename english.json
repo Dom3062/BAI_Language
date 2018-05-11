@@ -24,7 +24,7 @@
     "bai_b_desc" : "Sets blue value (only the whole number is used; eg: 28.55 -> used 28)",
 
     "bai_color": "Colors",
-    "bai_color_desc": "Changes Box Color\nNote: New color will be loaded on heist reload",
+    "bai_color_desc": "Changes Box Color\nNote: If you are in game, new color will be loaded on next assault otherwise it will be loaded on next heist",
 
     "bai_assault_box" : "Assault Box",
     "bai_assault_box_desc" : "Changes Assault Box Color",
