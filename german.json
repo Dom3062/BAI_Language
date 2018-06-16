@@ -59,6 +59,9 @@
     "bai_show_assault_states" : "Zeigt Stand des Vorstoßes",
     "bai_show_assault_states_desc" : "Zeigt Stand des Vorstoßes (Ruhephase, Vorbereitung zum Vorstoß, Vorstoß, Vorstoß aufrechterhalten und Abklingen) in der Vorstß Box\nDiese Option funktioniert nicht beim Endlosen Vorstoß oder bei anwesenheit vom Captain",
 
+    "bai_assault_states" : "Stand des Vorstoßes",
+    "bai_assault_states_desc" : "Ändert die Farbe des Standes des Vorstoßes. \nAnzeige des Vorstoßstandes muß aktiv sein um zu funktionieren",
+    
     "hud_control" : "Ruhephase",
     "hud_anticipation" : "Vorbereitung zum Vorstoß",
     "hud_build" : "Vorstoß",
