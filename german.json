@@ -56,8 +56,8 @@
     "hud_assault_endless" : "Endloser Polizeivorstoß im Gange",
     "hud_assault_survived_endless" : "Endlose Welle überlebt",
 
-    "bai_show_assault_states" : "Show assault states",
-    "bai_show_assault_states_desc" : "Show assault state (control, anticipation, build, sustain and fade) in assault box\nThis option will not work on endless assault and when captain is on the level",
+    "bai_show_assault_states" : "Zeigt Stand des Vorstoßes",
+    "bai_show_assault_states_desc" : "Zeigt Stand des Vorstoßes (Ruhephase, Vorbereitung zum Vorstoß, Vorstoß, Vorstoß aufrechterhalten und Abklingen) in der Vorstß Box\nDiese Option funktioniert nicht beim Endlosen Vorstoß oder bei anwesenheit vom Captain",
 
     "bai_assault_states" : "Stand des Vorstoßes",
     "bai_assault_states_desc" : "Ändert die Farbe des Standes des Vorstoßes. \nAnzeige des Vorstoßstandes muß aktiv sein um zu funktionieren",
