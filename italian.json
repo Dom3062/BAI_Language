@@ -1,0 +1,70 @@
+{
+    "bai_mod_title" : "Better Assault Indicator",
+    "bai_mod_desc" : "Impostazioni della mod",
+ 
+    "bai_show_wave_survived" : "Mostra banner 'Ondata superata'",
+    "bai_show_wave_survived_desc" : "Mostra il banner 'Ondata superata' ogni volta che sopravvivi ad un assalto\n(viene normalmente mostrato solo nell'irruzione al rifugio)",
+   
+    "bai_hide_hostage_panel_during_endless_assault" : "Nascondi ostaggi durante assalti infiniti",
+    "bai_hide_hostage_panel_during_endless_assault_desc" : "Nascondi l'indicatore degli ostaggi durante gli assalti infiniti\n(Gli assalti bloccati dal Capitano sono considerati infiniti)",
+ 
+    "bai_show_difficulty_name_instead_of_skulls" : "Nome difficoltà invece dei teschi",
+    "bai_show_difficulty_name_instead_of_skulls_desc" : "Mostra il nome della difficoltà invece dei teschi nell'indicatore dell'assalto\nNon applicabile nelle Serie Criminali",
+ 
+    "bai_client_only" : "Solo Client",
+ 
+    "bai_trigger_endless_assault_client" : "Mostra Assalto Infinito quando supportato",
+    "bai_trigger_endless_assault_client_desc" : "Mostra l'Assalto Infinito nelle missioni supportate quando sei un client\nQuesta impostazione è ignorata quando sei l'host o se anche l'host possiede questa mod",
+   
+    "bai_r" : "Rosso",
+    "bai_r_desc" : "Imposta il valore rosso del colore (verranno usati solo numeri interi; es: 28.55 -> 28)",
+    "bai_g" : "Verde",
+    "bai_g_desc" : "Imposta il valore verde del colore (verranno usati solo numeri interi; es: 28.55 -> 28)",
+    "bai_b" : "Blu",
+    "bai_b_desc" : "Imposta il valore blu del colore (verranno usati solo numeri interi; es: 28.55 -> 28)",
+ 
+    "bai_color": "Colori",
+    "bai_color_desc": "Cambia il colore dell'indicatore\nNota: Se sei in gioco, i nuovi colori saranno usati dal prossimo assalto, altrimenti della prossima missione",
+ 
+    "bai_assault_box" : "Assalto",
+    "bai_assault_box_desc" : "Cambia il colore dell'indicatore durante un assalto",
+ 
+    "bai_assault_box_mutated" : "Assalto (Mutatori attivi)",
+    "bai_assault_box_mutated_desc" : "Cambia il colore dell'indicatore durante un assalto in una partita con mutatori attivi",
+ 
+    "bai_captain_box" : "Assalto (Capitano)",
+    "bai_captain_box_desc" : "Cambia il colore dell'indicatore durante un assalto quando il Capitano è presente",
+ 
+    "bai_captain_box_mutated" : "Assalto (Capitano, Mutatori attivi)",
+    "bai_captain_box_mutated_desc" : "Cambia il colore dell'indicatore durante un assalto in una partita con mutatori attivi quando il Capitano è presente",
+ 
+    "bai_endless_box": "Assalto Infinito",
+    "bai_endless_box_desc": "Cambia il colore dell'indicatore durante un assalto infinito",
+ 
+    "bai_endless_box_mutated": "Assalto Infinito (Mutatori attivi)",
+    "bai_endless_box_mutated_desc": "Cambia il colore dell'indicatore durante un assalto infinito in una partita con mutatori attivi",
+ 
+    "bai_survived_box": "Ondata superata",
+    "bai_survived_box_desc": "Cambia il colore dell'indicatore dopo essere sopravvissuti ad un assalto\n(Verrà inoltre applicato nell'indicatore durante le irruzioni al rifugio)",
+ 
+    "bai_escape_box" : "Punto di non ritorno",
+    "bai_escape_box_desc": "Cambia il colore dell'indicatore del punto di non ritorno (Missione fallita tra...)",
+ 
+    "bai_color_reset" : "Reimposta colori",
+    "bai_color_reset_desc" : "Reimposta i colori con i valori di default del gioco",
+ 
+    "hud_assault_endless" : "ASSALTO DELLA POLIZIA INFINITO IN CORSO",
+    "hud_assault_survived_endless" : "ASSALTO INFINITO SOPRAVVISSUTO",
+ 
+    "bai_show_assault_states" : "Mostra stati dell'assalto",
+    "bai_show_assault_states_desc" : "Mostra gli stati dell'assalto (controllo, anticipazione, preparazione, attacco e ritirata)\nQuesta opzione non funzionerà con gli assalti infiniti oppure se il Capitano è presente nel livello",
+ 
+    "bai_assault_states" : "Stati dell'assalto",
+    "bai_assault_states_desc" : "Cambia il colore dell'indicatore dell'assalto per ogni singolo stato\n'Mostra stati dell'assalto' deve essere attivato",
+ 
+    "hud_control" : "Controllo",
+    "hud_anticipation" : "Anticipazione",
+    "hud_build" : "Preparazione",
+    "hud_sustain" : "Assalto",
+    "hud_fade" : "Ritirata"
+}
