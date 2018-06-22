@@ -60,7 +60,7 @@
     "bai_assault_states_desc" : "Changes Assault States color and state visibility in the Assault Box.\nShow Assault State must be enabled in order to work",
 
     "bai_enabled" : "Enabled",
-    "bai_enabled_not_assault_desc" : "If checked, it will show in the Assault Box. If not, the Assault Box will close instead.",
+    "bai_enabled_not_assault_desc" : "If checked, it will show in the Assault Box. If not, that state will not be visible in the Assault Box",
     "bai_enabled_assault_desc" : "If checked, it will show in the Assault Box. If not, the Assault Box will show normal assault instead.",
 
     "hud_assault_endless" : "ENDLESS POLICE ASSAULT IN PROGRESS",
