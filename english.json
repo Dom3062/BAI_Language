@@ -24,7 +24,7 @@
     "bai_b_desc" : "Sets blue value (only the whole number is used; eg: 28.55 -> used 28)",
 
     "bai_color": "Colors",
-    "bai_color_desc": "Changes Box Color\nNote: If you are in game, new color will be loaded on next assault otherwise it will be loaded on next heist",
+    "bai_color_desc": "Changes Box Color",
 
     "bai_assault_box" : "Assault Box",
     "bai_assault_box_desc" : "Changes Assault Box Color",
@@ -51,16 +51,20 @@
     "bai_escape_box_desc": "Changes Point Of No Return Box Color",
 
     "bai_color_reset" : "Reset Colors",
-    "bai_color_reset_desc" : "Resets colors to game's default value",
-
-    "hud_assault_endless" : "ENDLESS POLICE ASSAULT IN PROGRESS",
-    "hud_assault_survived_endless" : "ENDLESS WAVE SURVIVED",
+    "bai_color_reset_desc" : "Reset colors to default value",
 
     "bai_show_assault_states" : "Show assault states",
     "bai_show_assault_states_desc" : "Show assault state (control, anticipation, build, sustain and fade) in assault box\nThis option will not work on endless assault and when captain is on the level",
 
     "bai_assault_states" : "Assault States",
-    "bai_assault_states_desc" : "Changes Assault States color.\nShow assault state must be enabled in order to work",
+    "bai_assault_states_desc" : "Changes Assault States color and state visibility in the Assault Box.\nShow Assault State must be enabled in order to work",
+
+    "bai_enabled" : "Enabled",
+    "bai_enabled_not_assault_desc" : "If checked, it will show in the Assault Box. If not, the Assault Box will close instead.",
+    "bai_enabled_assault_desc" : "If checked, it will show in the Assault Box. If not, the Assault Box will show normal assault instead.",
+
+    "hud_assault_endless" : "ENDLESS POLICE ASSAULT IN PROGRESS",
+    "hud_assault_survived_endless" : "ENDLESS WAVE SURVIVED",
 
     "hud_control" : "Control",
     "hud_anticipation" : "Anticipation",
