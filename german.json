@@ -24,7 +24,7 @@
     "bai_b_desc" : "Blauen Wert einstellen (Nur ganze zahlen werden benutzt(abgerundet); bsp.: 28.55 -> 28)",
 
     "bai_color": "Farben",
-    "bai_color_desc": "Ändere die farbe des feldes\nHinweis: Wenn du im spiel bist wird die neue Farbe bei dem nächsten Vorstoß oder beim nächsten Raub geladen",
+    "bai_color_desc": "Ändere die farbe des feldes",
 
     "bai_assault_box" : "Vorstoßfeld",
     "bai_assault_box_desc" : "Ändert die Farbe des Vorstoßfeld",
@@ -45,7 +45,7 @@
     "bai_endless_box_mutated_desc": "Ändert die Endloser Vorstoßfeldfarbe (Mutatoren aktiv)",
 
     "bai_survived_box": "Welle überlebt feld",
-    "bai_survived_box_desc": "Ändert Welle überlebt feldfarbe (Gilt auch  für den Welle überlebt Banner in Versteck-Razzia)",
+    "bai_survived_box_desc": "Ändert Welle überlebt feldfarbe (Gilt auch für den Welle überlebt Banner in Versteck-Razzia)",
 
     "bai_escape_box" : "Punk ohne Wiederkehr feld",
     "bai_escape_box_desc": "Ändert Punk ohne Wiederkehr feldfarbe",
@@ -53,14 +53,18 @@
     "bai_color_reset" : "Farben zurücksetzen",
     "bai_color_reset_desc" : "Setzt die Farben zurück zum Spielestandart",
 
-    "hud_assault_endless" : "Endloser Polizeivorstoß im Gange",
-    "hud_assault_survived_endless" : "Endlose Welle überlebt",
-
     "bai_show_assault_states" : "Zeige Stand des Vorstoßes",
     "bai_show_assault_states_desc" : "Zeigt Stand des Vorstoßes (Ruhephase, Vorbereitung zum Vorstoß, Vorstoß, Vorstoß aufrechterhalten und Abklingphase) im Vorstoßfeld an\nDiese Option funktioniert nicht bei einem Endlosem Vorstoß oder bei anwesenheit vom Captain",
 
     "bai_assault_states" : "Stand des Vorstoßes",
-    "bai_assault_states_desc" : "Ändert die Farbe des Standes des Vorstoßes. \nAnzeige des Vorstoßstandes muß aktiv sein um zu funktionieren",
+    "bai_assault_states_desc" : "Ändert die Vorstoßstatusfarbe und die sichtbarkeit im vorstoßfeld.\nAnzeige des Vorstoßstandes muß aktiv sein um zu funktionieren",
+
+    "bai_enabled" : "Enabled",
+    "bai_enabled_not_assault_desc" : "Wenn ausgewählt dann wird es in dem vorstoßfeld angezeigt. Wenn nicht dann wird der status nicht in dem vorstoßfeld angezeigt.",
+    "bai_enabled_assault_desc" : "Wenn ausgewählt dann wird es in dem vorstoßfeld angezeigt. Wenn nicht dann zeigt das vorstoßfeld den normalen vorstoßstatus an.",
+
+    "hud_assault_endless" : "Endloser Polizeivorstoß im Gange",
+    "hud_assault_survived_endless" : "Endlose Welle überlebt",
     
     "hud_control" : "Ruhephase",
     "hud_anticipation" : "Vorbereitung zum Vorstoß",
