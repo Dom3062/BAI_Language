@@ -55,4 +55,20 @@
 
     "hud_assault_endless" : "警方无尽突袭进行中",
     "hud_assault_survived_endless" : "波数存活(无尽突击)"
+    
+    "bai_enabled" : "启用该状态显示",
+    "bai_enabled_not_assault_desc" : "若打钩, 这个状态将显示在突击横幅中. 若不打钩,该状态不会显示在横幅中.",
+    "bai_enabled_assault_desc" : "若打钩, 这个状态将显示在突击横幅中. 若不打钩,该状态不会显示在横幅中.",
+	
+    "bai_show_assault_states" : "显示突击状态",
+    "bai_show_assault_states_desc" : "在突击横幅中显示以下状态 (控制, 试探, 构建, 持续, 撤退)\n当冬日队长到达或者无尽突袭进行时此选项无效.",
+
+    "bai_assault_states" : "突击状态视觉更改界面",
+    "bai_assault_states_desc" : "更改突击状态的颜色以及决定是否在横幅中显示一些状态.\n需要开启'显示突击状态'",
+	
+    "hud_control" : "控制阶段",
+    "hud_anticipation" : "试探阶段",
+    "hud_build" : "构建阶段",
+    "hud_sustain" : "持续阶段",
+    "hud_fade" : "撤退阶段"
 }
