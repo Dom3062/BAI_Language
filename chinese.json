@@ -24,7 +24,7 @@
     "bai_b_desc" : "设置蓝色的数值 (仅限使用整数; 例: 28.55 -> 将使用 28)",
 
     "bai_color": "横幅颜色设置",
-    "bai_color_desc": "更改突击横幅的颜色数值\n注意: 如果当前在游戏中, 新的颜色设置将在下次突击中生效,否则将随下次载入关卡时生效",
+    "bai_color_desc": "更改突击横幅的颜色数值",
 
     "bai_assault_box" : "突击横幅颜色",
     "bai_assault_box_desc" : "更改突击横幅的颜色",
@@ -52,9 +52,6 @@
 
     "bai_color_reset" : "重置颜色设置",
     "bai_color_reset_desc" : "将所有颜色设置恢复为默认",
-
-    "hud_assault_endless" : "警方无尽突袭进行中",
-    "hud_assault_survived_endless" : "波数存活(无尽突击)"
     
     "bai_enabled" : "启用该状态显示",
     "bai_enabled_not_assault_desc" : "若打钩, 这个状态将显示在突击横幅中. 若不打钩,该状态不会显示在横幅中.",
@@ -65,6 +62,9 @@
 
     "bai_assault_states" : "突击状态视觉更改界面",
     "bai_assault_states_desc" : "更改突击状态的颜色以及决定是否在横幅中显示一些状态.\n需要开启'显示突击状态'",
+
+    "hud_assault_endless" : "警方无尽突袭进行中",
+    "hud_assault_survived_endless" : "波数存活(无尽突击)",
 	
     "hud_control" : "控制阶段",
     "hud_anticipation" : "试探阶段",
