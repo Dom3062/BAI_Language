@@ -14,7 +14,7 @@
     "bai_client_only" : "Client only",
 
     "bai_trigger_endless_assault_client" : "Show Endless Assault on Supported Heists",
-    "bai_trigger_endless_assault_client_desc" : "Show Endless Assault on Supported Heists when you are client. This setting is ignored when you are hosting or host have this mod. You may experience little performace penalty when this setting is enabled.",
+    "bai_trigger_endless_assault_client_desc" : "Show Endless Assault on Supported Heists when you are client. This setting is ignored when you are hosting or host have this mod. You may experience little performance penalty when this setting is enabled.",
     
     "bai_r" : "Red",
     "bai_r_desc" : "Sets red value (only the whole number is used; eg: 28.55 -> used 28)",
