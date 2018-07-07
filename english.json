@@ -5,8 +5,13 @@
     "bai_show_wave_survived" : "Show Wave Survived Banner",
     "bai_show_wave_survived_desc" : "Show Wave Survived banner (from Safehouse Raid) every time you and your crew survives police assault",
     
-    "bai_hide_hostage_panel_during_endless_assault" : "Hide hostage panel during Endless Assault",
-    "bai_hide_hostage_panel_during_endless_assault_desc" : "Hide hostage panel during EA (Defeat the Captain is counted as EA)",
+    "bai_hide_hostage_panel" : "Hide hostage panel",
+    "bai_hide_hostage_panel_assault_desc" : "Hides hostage panel during normal assault",
+    "bai_hide_hostage_panel_captain_desc" : "Hides hostage panel when Captain arrives",
+    "bai_hide_hostage_panel_endless_desc" : "Hides hostage panel during endless assault",
+
+    "bai_completely_hide_hostage_panel" : "Completely Hide Hostage Panel",
+    "bai_completely_hide_hostage_panel_desc" : "Hostage Panel will not be visible when you spawn into a mission",
 
     "bai_show_difficulty_name_instead_of_skulls" : "Show difficulty name instead of skulls",
     "bai_show_difficulty_name_instead_of_skulls_desc" : "Show difficulty name instead of skulls in assault box\nNot applicable in Crime Spree",
