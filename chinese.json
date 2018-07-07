@@ -5,8 +5,13 @@
     "bai_show_wave_survived" : "在突击横幅中显示'波数存活'",
     "bai_show_wave_survived_desc" : "当你和你的队友在安全屋突袭中从一波突击中存活下来将会显示.",
     
-    "bai_hide_hostage_panel_during_endless_assault" : "在无尽突击下隐藏人质面板",
-    "bai_hide_hostage_panel_during_endless_assault_desc" : "在无尽突击下隐藏人质面板 (冬日队长也算作无尽突击)",
+    "bai_hide_hostage_panel" : "Hide hostage panel",
+    "bai_hide_hostage_panel_assault_desc" : "Hides hostage panel during normal assault",
+    "bai_hide_hostage_panel_captain_desc" : "Hides hostage panel when Captain arrives",
+    "bai_hide_hostage_panel_endless_desc" : "Hides hostage panel during endless assault",
+
+    "bai_completely_hide_hostage_panel" : "Completely Hide Hostage Panel",
+    "bai_completely_hide_hostage_panel_desc" : "Hostage Panel will not be visible when you spawn into a mission\nThis setting ignores 'Hide hostage panel' option in Assault, Captain and Endless box when enabled",
 
     "bai_show_difficulty_name_instead_of_skulls" : "显示难度名而不显示骷髅数",
     "bai_show_difficulty_name_instead_of_skulls_desc" : "在突击横幅中显示当前难度名称而不显示难度等级\n挑战模式下无效",
@@ -24,7 +29,7 @@
     "bai_b_desc" : "设置蓝色的数值 (仅限使用整数; 例: 28.55 -> 将使用 28)",
 
     "bai_color": "横幅颜色设置",
-    "bai_color_desc": "更改突击横幅的颜色数值\n注意: 如果当前在游戏中, 新的颜色设置将在下次突击中生效,否则将随下次载入关卡时生效",
+    "bai_color_desc": "更改突击横幅的颜色数值",
 
     "bai_assault_box" : "突击横幅颜色",
     "bai_assault_box_desc" : "更改突击横幅的颜色",
@@ -52,7 +57,23 @@
 
     "bai_color_reset" : "重置颜色设置",
     "bai_color_reset_desc" : "将所有颜色设置恢复为默认",
+    
+    "bai_enabled" : "启用该状态显示",
+    "bai_enabled_not_assault_desc" : "若打钩, 这个状态将显示在突击横幅中. 若不打钩,该状态不会显示在横幅中.",
+    "bai_enabled_assault_desc" : "若打钩, 这个状态将显示在突击横幅中. 若不打钩,该状态不会显示在横幅中.",
+	
+    "bai_show_assault_states" : "显示突击状态",
+    "bai_show_assault_states_desc" : "在突击横幅中显示以下状态 (控制, 试探, 构建, 持续, 撤退)\n当冬日队长到达或者无尽突袭进行时此选项无效.",
+
+    "bai_assault_states" : "突击状态视觉更改界面",
+    "bai_assault_states_desc" : "更改突击状态的颜色以及决定是否在横幅中显示一些状态.\n需要开启'显示突击状态'",
 
     "hud_assault_endless" : "警方无尽突袭进行中",
-    "hud_assault_survived_endless" : "波数存活(无尽突击)"
+    "hud_assault_survived_endless" : "波数存活(无尽突击)",
+	
+    "hud_control" : "控制阶段",
+    "hud_anticipation" : "试探阶段",
+    "hud_build" : "构建阶段",
+    "hud_sustain" : "持续阶段",
+    "hud_fade" : "撤退阶段"
 }
