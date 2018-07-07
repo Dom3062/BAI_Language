@@ -5,8 +5,13 @@
     "bai_show_wave_survived": "แสดงแบนเนอร์ 'คุณรอดชีวิตในรอบนี้!'",
     "bai_show_wave_survived_desc": "Show Wave Survived Banner: แสดงแบนเนอร์ 'คุณรอดชีวิตในรอบนี้!'(เหมือนกับในด่าน Safehouse Raid) ทุกครั้งหลังจากที่คุณและเพื่อนร่วมทีมรอดชีวิตจากช่วงการจู่โจมของตำรวจในแต่ละรอบ",
     
-    "bai_hide_hostage_panel_during_endless_assault": "ซ่อนหน้าต่างตัวประกันระหว่างการจู่โจมไม่มีที่สิ้นสุด",
-    "bai_hide_hostage_panel_during_endless_assault_desc": "ซ่อนหน้าต่างแสดงจำนวนตัวประกันในระหว่างการจู่โจมไม่มีที่สิ้นสุดของตำรวจ\n(การกำจัดกัปตันก็ถือเป็นการจู่โจมแบบไม่มีที่สิ้นสุดเช่นเดียวกัน)",
+	"bai_hide_hostage_panel" : "ซ่อนหน้าต่างตัวประกัน",
+    "bai_hide_hostage_panel_assault_desc" : "ซ่อนหน้าต่างแสดงจำนวนตัวประกันระหว่างการจู่โจมปรกติ",
+    "bai_hide_hostage_panel_captain_desc" : "ซ่อนหน้าต่างแสดงจำนวนตัวประกันระหว่างช่วงที่กัปตันมาถึง",
+    "bai_hide_hostage_panel_endless_desc" : "ซ่อนหน้าต่างแสดงจำนวนตัวประกันระหว่างการจู่โจมไม่มีที่สิ้นสุด",
+
+    "bai_completely_hide_hostage_panel" : "ซ่อนหน้าต่างตัวประกันอย่างสมบูรณ์แบบ",
+    "bai_completely_hide_hostage_panel_desc" : "Completely Hide Hostage Panel: หน้าต่างแสดงจำนวนตัวประกันจะไม่แสดงหากคุณปรากฏตัวในด่าน\nการตั้งค่านี้ไม่สนใจตัวเลือก 'ซ่อนหน้าต่างตัวประกัน' ในช่อง การจู่โจมปรกติ, กัปตันและการจู่โจมไม่มีที่สิ้นสุด ถูกเปิดใช้งาน",
     
     "bai_show_difficulty_name_instead_of_skulls" : "แสดงชื่อระดับความยากแทนรูปหัวกะโหลก",
     "bai_show_difficulty_name_instead_of_skulls_desc" : "แสดงชื่อระดับความยากแทนการแสดงรูปหัวกะโหลกในหน้าต่างการจู่โจม\nตัวเลือกนี้ใช้ไม่ได้กับโหมด Crime Spree",
