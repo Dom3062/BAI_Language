@@ -11,7 +11,7 @@
     "bai_hide_hostage_panel_endless_desc" : "Hides hostage panel during endless assault",
 
     "bai_completely_hide_hostage_panel" : "Completely Hide Hostage Panel",
-    "bai_completely_hide_hostage_panel_desc" : "Hostage Panel will not be visible when you spawn into a mission",
+    "bai_completely_hide_hostage_panel_desc" : "Hostage Panel will not be visible when you spawn into a mission\nThis setting ignores 'Hide hostage panel' option in Assault, Captain and Endless box when enabled",
 
     "bai_show_difficulty_name_instead_of_skulls" : "Show difficulty name instead of skulls",
     "bai_show_difficulty_name_instead_of_skulls_desc" : "Show difficulty name instead of skulls in assault box\nNot applicable in Crime Spree",
@@ -62,7 +62,7 @@
     "bai_show_assault_states_desc" : "Show assault state (control, anticipation, build, sustain and fade) in assault box\nThis option will not work on endless assault and when captain is on the level",
 
     "bai_assault_states" : "Assault States",
-    "bai_assault_states_desc" : "Changes Assault States color and state visibility in the Assault Box.\nShow Assault State must be enabled in order to work",
+    "bai_assault_states_desc" : "Changes Assault States color and state visibility in the Assault Box.\n'Show Assault State' must be enabled in order to work",
 
     "bai_enabled" : "Enabled",
     "bai_enabled_not_assault_desc" : "If checked, it will show in the Assault Box. If not, that state will not be visible in the Assault Box",
