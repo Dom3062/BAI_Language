@@ -68,6 +68,9 @@
     "bai_enabled_not_assault_desc" : "Wenn ausgewählt dann wird es in dem vorstoßfeld angezeigt. Wenn nicht dann wird der status nicht in dem vorstoßfeld angezeigt.",
     "bai_enabled_assault_desc" : "Wenn ausgewählt dann wird es in dem vorstoßfeld angezeigt. Wenn nicht dann zeigt das vorstoßfeld den normalen vorstoßstatus an.",
 
+    "bai_show_advanced_assault_info" : "Erweiterte Überfall anzeigen",
+    "bai_show_advanced_assault_info_desc" : "Zeigt'Verbleibende Zeit' und'Verbleibende Spawns' Informationen in der Assault Box\nDiese Informationen sind nicht verfügbar bei endlosen Angriffen und wenn der Captain anwesend ist.",
+    
     "hud_assault_endless" : "Endloser Polizeivorstoß im Gange",
     "hud_assault_survived_endless" : "Endlose Welle überlebt",
     
@@ -76,4 +79,8 @@
     "hud_build" : "Vorstoß",
     "hud_sustain" : "Vorstoß aufrechterhalten",
     "hud_fade" : "Abklingen"
+    
+    "hud_overdue" : "Überfällig",
+    "hud_time_left" : "Verbleibende Zeit: ",
+    "hud_spawns_left" : "Verbleibende Spawns: "
 }
