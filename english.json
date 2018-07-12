@@ -59,14 +59,17 @@
     "bai_color_reset_desc" : "Reset colors to default value",
 
     "bai_show_assault_states" : "Show assault states",
-    "bai_show_assault_states_desc" : "Show assault state (control, anticipation, build, sustain and fade) in assault box\nThis option will not work on endless assault and when captain is on the level",
+    "bai_show_assault_states_desc" : "Show assault state (control, anticipation, build, sustain and fade) in the assault box\nThis option will not work on endless assault and when captain is present",
 
     "bai_assault_states" : "Assault States",
     "bai_assault_states_desc" : "Changes Assault States color and state visibility in the Assault Box.\n'Show Assault State' must be enabled in order to work",
 
     "bai_enabled" : "Enabled",
     "bai_enabled_not_assault_desc" : "If checked, it will show in the Assault Box. If not, that state will not be visible in the Assault Box",
-    "bai_enabled_assault_desc" : "If checked, it will show in the Assault Box. If not, the Assault Box will show normal assault instead.",
+    "bai_enabled_assault_desc" : "If checked, it will show in the Assault Box. If not, the Assault Box will show normal assault instead",
+
+    "bai_show_advanced_assault_info" : "Show Advanced Assault Info",
+    "bai_show_advanced_assault_info_desc" : "Shows 'Spawns Left' and 'Time Left' information in the Assault Box\nThis info is not available on endless assault and when captain is present",
 
     "hud_assault_endless" : "ENDLESS POLICE ASSAULT IN PROGRESS",
     "hud_assault_survived_endless" : "ENDLESS WAVE SURVIVED",
@@ -75,5 +78,9 @@
     "hud_anticipation" : "Anticipation",
     "hud_build" : "Build",
     "hud_sustain" : "Sustain",
-    "hud_fade" : "Fade"
+    "hud_fade" : "Fade",
+
+    "hud_overdue" : "Overdue",
+    "hud_time_left" : "Time Left: ",
+    "hud_spawns_left" : "Spawns Left: "
 }
