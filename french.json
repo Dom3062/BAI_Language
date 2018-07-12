@@ -59,7 +59,7 @@
     "bai_color_reset_desc" : "Réinitialise les couleurs à leurs couleurs par défaut",
 
     "bai_show_assault_states" : "Montrer les États d'assaut",
-    "bai_show_assault_states_desc" : "Montre les États d'assaut (Contrôle, Anticipation, Développement, Support et Retrait) dans la boîte d'assaut\nCette option ne fonctionnera pas sur un assaut sans fin et quand le capitaine est dans le niveau",
+    "bai_show_assault_states_desc" : "Montre les États d'assaut (Contrôle, Anticipation, Développement, Support et Retrait) dans la boîte d'assaut\nCette option n'est pas disponible en cas d'assaut sans fin et quand le capitaine est présent",
 
     "bai_assault_states" : "États d'assaut",
     "bai_assault_states_desc" : "Change la couleur des États d'assaut et la visibilité de l'état dans la boîte d'assaut.\nMontre les 'États d'assaut' doit être activé pour pouvoir fonctionner",
@@ -68,6 +68,9 @@
     "bai_enabled_not_assault_desc" : "Si coché, cela apparaîtra dans la boîte d'assaut. Si non, l'état ne sera pas visible dans la boîte d'assaut",
     "bai_enabled_assault_desc" : "Si coché, cela apparaîtra dans la boîte d'assaut. Si non, la boîte d'assaut montrera l'assaut normal à la place.",
 
+    "bai_show_advanced_assault_info" : "Montrer les infos d'Assaut avancées",
+    "bai_show_advanced_assault_info_desc" : "Affiche les informations'Spawns restant' et'Temps restant' dans la boîte d'Assaut\nCette option n'est pas disponible en cas d'assaut sans fin et quand le capitaine est présent",
+    
     "hud_assault_endless" : "ASSAUT SANS FIN EN COURS",
     "hud_assault_survived_endless" : "ASSAUT SANS FIN SURVÉCUE",
 
@@ -76,4 +79,8 @@
     "hud_build" : "Développement",
     "hud_sustain" : "Support",
     "hud_fade" : "Retrait"
+    
+    "hud_overdue" : "Retard",
+    "hud_time_left" : "Temps restant: ",
+    "hud_spawns_left" : "Spawns restant: "
 }
