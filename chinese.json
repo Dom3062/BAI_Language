@@ -68,8 +68,8 @@
     "bai_assault_states" : "突击状态视觉更改界面",
     "bai_assault_states_desc" : "更改突击状态的颜色以及决定是否在横幅中显示一些状态.\n需要开启'显示突击状态'",
 
-    "bai_show_advanced_assault_info" : "Show Advanced Assault Info",
-    "bai_show_advanced_assault_info_desc" : "Shows 'Spawns Left' and 'Time Left' information in the Assault Box\nThis info is not available on endless assault and when captain is present",
+    "bai_show_advanced_assault_info" : "显示更详细的突击信息",
+    "bai_show_advanced_assault_info_desc" : "在突击横幅中显示剩余的敌人数量和剩余时间\n此功能在无尽突击下或队长到达时不可用。",
 
     "hud_assault_endless" : "警方无尽突袭进行中",
     "hud_assault_survived_endless" : "波数存活(无尽突击)",
@@ -80,7 +80,7 @@
     "hud_sustain" : "持续阶段",
     "hud_fade" : "撤退阶段",
 
-    "hud_overdue" : "Overdue",
-    "hud_time_left" : "Time Left: ",
-    "hud_spawns_left" : "Spawns Left: "
+    "hud_overdue" : "突击延时中",
+    "hud_time_left" : "剩余时间: ",
+    "hud_spawns_left" : "剩余敌人: "
 }
