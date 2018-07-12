@@ -69,7 +69,7 @@
     "bai_enabled_assault_desc" : "Si coché, cela apparaîtra dans la boîte d'assaut. Si non, la boîte d'assaut montrera l'assaut normal à la place.",
 
     "bai_show_advanced_assault_info" : "Montrer les infos d'Assaut avancées",
-    "bai_show_advanced_assault_info_desc" : "Affiche les informations'Spawns restant' et'Temps restant' dans la boîte d'Assaut\nCette option n'est pas disponible en cas d'assaut sans fin et quand le capitaine est présent",
+    "bai_show_advanced_assault_info_desc" : "Affiche les informations 'Spawns restant' et 'Temps restant' dans la boîte d'Assaut\nCette option n'est pas disponible en cas d'assaut sans fin et quand le capitaine est présent",
     
     "hud_assault_endless" : "ASSAUT SANS FIN EN COURS",
     "hud_assault_survived_endless" : "ASSAUT SANS FIN SURVÉCUE",
@@ -78,7 +78,7 @@
     "hud_anticipation" : "Anticipation",
     "hud_build" : "Développement",
     "hud_sustain" : "Support",
-    "hud_fade" : "Retrait"
+    "hud_fade" : "Retrait",
     
     "hud_overdue" : "Retard",
     "hud_time_left" : "Temps restant: ",
