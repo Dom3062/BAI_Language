@@ -5,8 +5,13 @@
     "bai_show_wave_survived" : "Montrer les vagues survécues",
     "bai_show_wave_survived_desc" : "Montrer les vagues survécues (du Raid de la Planque) à chaque fois que vous et votre crew survivez à un assaut de police",
 
-    "bai_hide_hostage_panel_during_endless_assault" : "Cacher les otages durant un assaut sans fin",
-    "bai_hide_hostage_panel_during_endless_assault_desc" : "Cacher le panneau des otages durant un ASF (Vaincre le capitaine est compté comme un ASF)",
+    "bai_hide_hostage_panel" : "Cacher le panneau d'otages",
+    "bai_hide_hostage_panel_assault_desc" : "Cache le panneau d'otages pendant l'assaut normal.",
+    "bai_hide_hostage_panel_captain_desc" : "Cache le panneau d'otages quand le Capitaine arrive",
+    "bai_hide_hostage_panel_endless_desc" : "Cache le panneau d'otages pendant un assaut sans fin",
+
+    "bai_completely_hide_hostage_panel" : "Cacher complètement le panneau d'otages",
+    "bai_completely_hide_hostage_panel_desc" : "Le panneau d'otages ne sera caché une fois la mission lancée.\nCette option ignore les options 'Cacher le panneau d'otages' précédents lorsqu'elle est activée.",
 
     "bai_show_difficulty_name_instead_of_skulls" : "Montrer le nom de la difficulté",
     "bai_show_difficulty_name_instead_of_skulls_desc" : "Montrer le nom de la difficulté plutôt que les crânes dans la boîte de l'assaut\nNon applicable en mode Crime Spree",
@@ -54,15 +59,18 @@
     "bai_color_reset_desc" : "Réinitialise les couleurs à leurs couleurs par défaut",
 
     "bai_show_assault_states" : "Montrer les États d'assaut",
-    "bai_show_assault_states_desc" : "Montre les États d'assaut (Contrôle, Anticipation, Développement, Support et Retrait) dans la boîte d'assaut\nCette option ne fonctionnera pas sur un assaut sans fin et quand le capitaine est dans le niveau",
+    "bai_show_assault_states_desc" : "Montre les États d'assaut (Contrôle, Anticipation, Développement, Support et Retrait) dans la boîte d'assaut\nCette option n'est pas disponible en cas d'assaut sans fin et quand le capitaine est présent",
 
     "bai_assault_states" : "États d'assaut",
-    "bai_assault_states_desc" : "Change la couleur des États d'assaut et la visibilité de l'état dans la boîte d'assaut.\nMontre les États d'assaut doit être activé pour pouvoir fonctionner",
+    "bai_assault_states_desc" : "Change la couleur des États d'assaut et la visibilité de l'état dans la boîte d'assaut.\nMontre les 'États d'assaut' doit être activé pour pouvoir fonctionner",
 
     "bai_enabled" : "Activé",
     "bai_enabled_not_assault_desc" : "Si coché, cela apparaîtra dans la boîte d'assaut. Si non, l'état ne sera pas visible dans la boîte d'assaut",
     "bai_enabled_assault_desc" : "Si coché, cela apparaîtra dans la boîte d'assaut. Si non, la boîte d'assaut montrera l'assaut normal à la place.",
 
+    "bai_show_advanced_assault_info" : "Montrer les infos d'Assaut avancées",
+    "bai_show_advanced_assault_info_desc" : "Affiche les informations 'Spawns restant' et 'Temps restant' dans la boîte d'Assaut\nCette option n'est pas disponible en cas d'assaut sans fin et quand le capitaine est présent",
+    
     "hud_assault_endless" : "ASSAUT SANS FIN EN COURS",
     "hud_assault_survived_endless" : "ASSAUT SANS FIN SURVÉCUE",
 
@@ -70,5 +78,9 @@
     "hud_anticipation" : "Anticipation",
     "hud_build" : "Développement",
     "hud_sustain" : "Support",
-    "hud_fade" : "Retrait"
+    "hud_fade" : "Retrait",
+    
+    "hud_overdue" : "Retard",
+    "hud_time_left" : "Temps restant: ",
+    "hud_spawns_left" : "Spawns restant: "
 }

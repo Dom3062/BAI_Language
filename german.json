@@ -5,8 +5,13 @@
     "bai_show_wave_survived" : "Zeige Welle überlebt Banner",
     "bai_show_wave_survived_desc" : "Zeigt Welle überlebt Banner an(von Versteck-Razzia) jedesmal wenn du und deine Crew einen Polizeivorstoß überleben",
     
-    "bai_hide_hostage_panel_during_endless_assault" : "Verstecke Geiselfeld",
-    "bai_hide_hostage_panel_during_endless_assault_desc" : "Versteckt das Geiselfeld wärend eines PV (Besiege captain zählt als PV)",
+    "bai_hide_hostage_panel" : "Verstecke Geiselfeld",
+    "bai_hide_hostage_panel_assault_desc" : "Versteckt das Geiselfeld wärend eines normalen vorstoßes",
+    "bai_hide_hostage_panel_captain_desc" : "Versteckt das Geiselfeld wenn der captain ankommt",
+    "bai_hide_hostage_panel_endless_desc" : "Versteckt das Geiselfeld wärend eines endlosen vorstoßes",
+
+    "bai_completely_hide_hostage_panel" : "versteckt das geiselfeld komplett",
+    "bai_completely_hide_hostage_panel_desc" : "geiselfeld wird nicht sichtbar sein wenn du in eine mission spawnst\ndiese einstellung, wenn aktiviert, ignoriert verstecke geiselfeld option im vorstoß-, captain- und endlosfeld",
 
     "bai_show_difficulty_name_instead_of_skulls" : "Zeige Schwierigkeitsname statt Totenköpfe",
     "bai_show_difficulty_name_instead_of_skulls_desc" : "Zeigt Schwierigkeitsname statt Totenköpfe im Vorstoßfeld an\nNicht anwendbar in der Crime_Spree",
@@ -63,6 +68,9 @@
     "bai_enabled_not_assault_desc" : "Wenn ausgewählt dann wird es in dem vorstoßfeld angezeigt. Wenn nicht dann wird der status nicht in dem vorstoßfeld angezeigt.",
     "bai_enabled_assault_desc" : "Wenn ausgewählt dann wird es in dem vorstoßfeld angezeigt. Wenn nicht dann zeigt das vorstoßfeld den normalen vorstoßstatus an.",
 
+    "bai_show_advanced_assault_info" : "Erweiterte Überfall anzeigen",
+    "bai_show_advanced_assault_info_desc" : "Zeigt 'Verbleibende Zeit' und 'Verbleibender Spawn' Informationen in dem Vorstoßfeld\nDiese Informationen sind nicht verfügbar bei endlosen Angriffen und wenn der Captain anwesend ist.",
+    
     "hud_assault_endless" : "Endloser Polizeivorstoß im Gange",
     "hud_assault_survived_endless" : "Endlose Welle überlebt",
     
@@ -70,5 +78,9 @@
     "hud_anticipation" : "Vorbereitung zum Vorstoß",
     "hud_build" : "Vorstoß",
     "hud_sustain" : "Vorstoß aufrechterhalten",
-    "hud_fade" : "Abklingen"
+    "hud_fade" : "Abklingen",
+    
+    "hud_overdue" : "Überfällig",
+    "hud_time_left" : "Verbleibende Zeit: ",
+    "hud_spawns_left" : "Verbleibende Spawns: "
 }

@@ -5,8 +5,13 @@
     "bai_show_wave_survived" : "Mostra banner 'Ondata superata'",
     "bai_show_wave_survived_desc" : "Mostra il banner 'Ondata superata' ogni volta che sopravvivi ad un assalto\n(viene normalmente mostrato solo nell'irruzione al rifugio)",
    
-    "bai_hide_hostage_panel_during_endless_assault" : "Nascondi ostaggi durante assalti infiniti",
-    "bai_hide_hostage_panel_during_endless_assault_desc" : "Nascondi l'indicatore degli ostaggi durante gli assalti infiniti\n(Gli assalti bloccati dal Capitano sono considerati infiniti)",
+    "bai_hide_hostage_panel" : "Nascondi pannello ostaggi",
+    "bai_hide_hostage_panel_assault_desc" : "Nascondi il pannello degli ostaggi durante i normali assalti",
+    "bai_hide_hostage_panel_captain_desc" : "Nascondi il pannello degli ostaggi quanto il Capitano è presente",
+    "bai_hide_hostage_panel_endless_desc" : "Nascondi il pannello degli ostaggi durante gli assalti infiniti",
+    
+    "bai_completely_hide_hostage_panel" : "Nascondi completamente ostaggi",
+    "bai_completely_hide_hostage_panel_desc" : "Il pannello degli ostaggi non sarà visibile quando inizi una missione\nQuesta impostazione ignora le altre impostazioni che lo nascondono",
  
     "bai_show_difficulty_name_instead_of_skulls" : "Nome difficoltà invece dei teschi",
     "bai_show_difficulty_name_instead_of_skulls_desc" : "Mostra il nome della difficoltà invece dei teschi nell'indicatore dell'assalto\nNon applicabile nelle Serie Criminali",
@@ -63,6 +68,9 @@
     "bai_enabled_not_assault_desc" : "Se attivo, verranno mostrati gli stati dell'assalto quando un assalto non è in corso\nAltrimenti l'indicatore verrà nascosto",
     "bai_enabled_assault_desc" : "Se attivo, verranno mostrati gli stati dell'assalto durante gli assalti\nAltrimenti verrà mostrato il normale indicatore di assalto",
     
+    "bai_show_advanced_assault_info" : "Mostra informazioni assalto avanzate",
+    "bai_show_advanced_assault_info_desc" : "Mostra i rinforzi rimasti e il tempo rimasto nella barra dell'assalto\nQueste informazioni non sono visibili durante gli assalti infiniti e quando il capitano è presente",
+    
     "hud_assault_endless" : "ASSALTO DELLA POLIZIA INFINITO IN CORSO",
     "hud_assault_survived_endless" : "ASSALTO INFINITO SOPRAVVISSUTO",
 
@@ -70,5 +78,9 @@
     "hud_anticipation" : "Anticipazione",
     "hud_build" : "Preparazione",
     "hud_sustain" : "Assalto",
-    "hud_fade" : "Ritirata"
+    "hud_fade" : "Ritirata",
+    
+    "hud_overdue" : "Ritardo",
+    "hud_time_left" : "Tempo rimasto: ",
+    "hud_spawns_left" : "Rinforzi rimasti: "
 }
