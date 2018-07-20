@@ -66,7 +66,7 @@
     "bai_show_assault_states" : "显示突击状态",
     "bai_show_assault_states_desc" : "在突击横幅中显示以下状态 (控制, 试探, 构建, 持续, 撤退)\n当冬日队长到达或者无尽突袭进行时此选项无效.",
 
-    "bai_advanced_assault_info" : "'详细突击状态显示'定制界面",
+    "bai_advanced_assault_info" : "'突击状态显示'选项",
     "bai_advanced_assault_info_" : "在这里选择你需要显示的信息.\n需要开启'显示突击状态'",
 
     "bai_show_advanced_assault_info" : "显示更详细的突击信息",
