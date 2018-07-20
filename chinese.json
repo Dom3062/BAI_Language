@@ -17,6 +17,7 @@
     "bai_show_difficulty_name_instead_of_skulls_desc" : "在突击横幅中显示当前难度名称而不显示难度等级\n挑战模式下无效",
 
     "bai_client_only" : "当你作为一名玩家时...",
+"bai_host_only" : "当你作为主机时...",
 
     "bai_trigger_endless_assault_client" : "在支持的关卡下显示'无尽突击'",
     "bai_trigger_endless_assault_client_desc" : "当你作为玩家时且在支持的关卡下在突击横幅显示'无尽突击'. 当你作为主机/主机有这个MOD时此选项将被无视. 此选项启用时游戏性能可能会受小许影响.",
