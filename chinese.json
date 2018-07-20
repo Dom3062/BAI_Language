@@ -77,7 +77,7 @@
 	
     "bai_time_format" : "时间格式",
     "bai_time_format_desc" : "设定突击横幅中 '剩余时间' 的显示格式",
-    "bai_time_format_1" : "xx.xx 秒",
+    "bai_time_format_1" : "xx.xx(单位为秒)",
     "bai_time_format_2" : "'xx' 分钟 'yy' 秒",
     "bai_time_format_3" : "xx:yy",
     "bai_time_format_4" : "xx 秒",
