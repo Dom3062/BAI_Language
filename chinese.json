@@ -5,18 +5,19 @@
     "bai_show_wave_survived" : "在突击横幅中显示'波数存活'",
     "bai_show_wave_survived_desc" : "当你和你的队友在安全屋突袭中从一波突击中存活下来将会显示.",
     
-    "bai_hide_hostage_panel" : "Hide hostage panel",
-    "bai_hide_hostage_panel_assault_desc" : "Hides hostage panel during normal assault",
-    "bai_hide_hostage_panel_captain_desc" : "Hides hostage panel when Captain arrives",
-    "bai_hide_hostage_panel_endless_desc" : "Hides hostage panel during endless assault",
+    "bai_hide_hostage_panel" : "在什么时候隐藏人质面板?",
+    "bai_hide_hostage_panel_assault_desc" : "普通突击时隐藏",
+    "bai_hide_hostage_panel_captain_desc" : "队长到达时隐藏",
+    "bai_hide_hostage_panel_endless_desc" : "无尽突击时隐藏",
 
-    "bai_completely_hide_hostage_panel" : "Completely Hide Hostage Panel",
-    "bai_completely_hide_hostage_panel_desc" : "Hostage Panel will not be visible when you spawn into a mission\nThis setting ignores 'Hide hostage panel' option in Assault, Captain and Endless box when enabled",
+    "bai_completely_hide_hostage_panel" : "完全隐藏人质面板",
+    "bai_completely_hide_hostage_panel_desc" : "当你进入一个劫案时,不显示人质面板.\n当打钩时,分时候隐藏人质面板的选项无效",
 
     "bai_show_difficulty_name_instead_of_skulls" : "显示难度名而不显示骷髅数",
     "bai_show_difficulty_name_instead_of_skulls_desc" : "在突击横幅中显示当前难度名称而不显示难度等级\n挑战模式下无效",
 
     "bai_client_only" : "当你作为一名玩家时...",
+"bai_host_only" : "当你作为主机时...",
 
     "bai_trigger_endless_assault_client" : "在支持的关卡下显示'无尽突击'",
     "bai_trigger_endless_assault_client_desc" : "当你作为玩家时且在支持的关卡下在突击横幅显示'无尽突击'. 当你作为主机/主机有这个MOD时此选项将被无视. 此选项启用时游戏性能可能会受小许影响.",
@@ -65,11 +66,28 @@
     "bai_show_assault_states" : "显示突击状态",
     "bai_show_assault_states_desc" : "在突击横幅中显示以下状态 (控制, 试探, 构建, 持续, 撤退)\n当冬日队长到达或者无尽突袭进行时此选项无效.",
 
-    "bai_assault_states" : "突击状态视觉更改界面",
-    "bai_assault_states_desc" : "更改突击状态的颜色以及决定是否在横幅中显示一些状态.\n需要开启'显示突击状态'",
+    "bai_advanced_assault_info" : "'突击状态显示'选项",
+    "bai_advanced_assault_info_desc" : "在这里选择你需要显示的信息.\n需要开启'显示突击状态'",
 
     "bai_show_advanced_assault_info" : "显示更详细的突击信息",
     "bai_show_advanced_assault_info_desc" : "在突击横幅中显示剩余的敌人数量和剩余时间\n此功能在无尽突击下或队长到达时不可用。",
+
+    "bai_assault_states" : "突击状态视觉更改界面",
+    "bai_assault_states_desc" : "更改突击状态的颜色以及决定是否在横幅中显示一些状态.\n需要开启'显示突击状态'",
+	
+    "bai_show_time_left" : "显示 '剩余时间'",
+    "bai_show_time_left_desc" : "在突击横幅中显示 '剩余时间' ",
+	
+    "bai_time_format" : "时间格式",
+    "bai_time_format_desc" : "设定突击横幅中 '剩余时间' 的显示格式",
+    "bai_time_format_1" : "xx.xx(单位为秒)",
+    "bai_time_format_2" : "'xx' 分钟 'yy' 秒",
+    "bai_time_format_3" : "xx:yy",
+    "bai_time_format_4" : "xx 秒",
+    "bai_time_format_5" : "xx(单位为秒)",
+	
+"bai_show_spawns_left" : "显示 '剩余敌人数量'",
+    "bai_show_spawns_left_desc" : "在突击横幅中显示 '剩余敌人数量' ",
 
     "hud_assault_endless" : "警方无尽突袭进行中",
     "hud_assault_survived_endless" : "波数存活(无尽突击)",
@@ -82,5 +100,7 @@
 
     "hud_overdue" : "突击延时中",
     "hud_time_left" : "剩余时间: ",
-    "hud_spawns_left" : "剩余敌人: "
+    "hud_spawns_left" : "剩余敌人: ",
+    "hud_min" : "分钟",
+    "hud_s" : "秒"
 }
