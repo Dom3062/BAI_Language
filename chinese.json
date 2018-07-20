@@ -71,6 +71,9 @@
 
     "bai_show_advanced_assault_info" : "显示更详细的突击信息",
     "bai_show_advanced_assault_info_desc" : "在突击横幅中显示剩余的敌人数量和剩余时间\n此功能在无尽突击下或队长到达时不可用。",
+
+    "bai_assault_states" : "突击状态视觉更改界面",
+    "bai_assault_states_desc" : "更改突击状态的颜色以及决定是否在横幅中显示一些状态.\n需要开启'显示突击状态'",
 	
     "bai_show_time_left" : "显示 '剩余时间'",
     "bai_show_time_left_desc" : "在突击横幅中显示 '剩余时间' ",
