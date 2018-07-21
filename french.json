@@ -16,6 +16,7 @@
     "bai_show_difficulty_name_instead_of_skulls" : "Montrer le nom de la difficulté",
     "bai_show_difficulty_name_instead_of_skulls_desc" : "Montrer le nom de la difficulté plutôt que les crânes dans la boîte de l'assaut\nNon applicable en mode Crime Spree",
 
+    "bai_host_only" : "Seulement pour l'hôte",
     "bai_client_only" : "Seulement pour le client",
 
     "bai_trigger_endless_assault_client" : "Montrer l'assaut sans fin",
@@ -70,6 +71,22 @@
 
     "bai_show_advanced_assault_info" : "Montrer les infos d'Assaut avancées",
     "bai_show_advanced_assault_info_desc" : "Affiche les informations 'Spawns restant' et 'Temps restant' dans la boîte d'Assaut\nCette option n'est pas disponible en cas d'assaut sans fin et quand le capitaine est présent",
+
+    "bai_advanced_assault_info" : "informations d'Assaut avancées",
+    "bai_advanced_assault_info_desc" : "Change les informations d'assaut avancées.\n'Montrer les infos d'Assaut avancées' doit être activé pour fonctionner",
+
+    "bai_show_time_left" : "Montre 'Temps Restant'",
+    "bai_show_time_left_desc" : "Montre le 'Temps Restant' dans la boite d'assaut",
+     
+    "bai_time_format" : "Format de Temps",
+    "bai_time_format_desc" : "Change le format de temps utilisé par 'Temps Restant'",
+    "bai_time_format_1" : "xx.xx (en s)",
+    "bai_time_format_2" : "'xx' min 'yy' s",
+    "bai_time_format_3" : "xx:yy",
+    "bai_time_format_4" : "'xx' s",
+
+    "bai_show_spawns_left" : "Montre les 'Spawns restants'",
+    "bai_show_spawns_left_desc" : "Montre les 'Spawns restants' dans la boite d'assaut",
     
     "hud_assault_endless" : "ASSAUT SANS FIN EN COURS",
     "hud_assault_survived_endless" : "ASSAUT SANS FIN SURVÉCUE",
@@ -82,5 +99,7 @@
     
     "hud_overdue" : "Retard",
     "hud_time_left" : "Temps restant: ",
-    "hud_spawns_left" : "Spawns restant: "
-}
+    "hud_spawns_left" : "Spawns restants: ",
+    "hud_min" : "min",
+    "hud_s" : "s"
+}    
