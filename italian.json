@@ -16,6 +16,7 @@
     "bai_show_difficulty_name_instead_of_skulls" : "Nome difficoltà invece dei teschi",
     "bai_show_difficulty_name_instead_of_skulls_desc" : "Mostra il nome della difficoltà invece dei teschi nell'indicatore dell'assalto\nNon applicabile nelle Serie Criminali",
  
+    "bai_host_only" : "Solo Host",
     "bai_client_only" : "Solo Client",
  
     "bai_trigger_endless_assault_client" : "Mostra Assalto Infinito quando supportato",
@@ -70,7 +71,25 @@
     
     "bai_show_advanced_assault_info" : "Mostra informazioni assalto avanzate",
     "bai_show_advanced_assault_info_desc" : "Mostra i rinforzi rimasti e il tempo rimasto nella barra dell'assalto\nQueste informazioni non sono visibili durante gli assalti infiniti e quando il capitano è presente",
-    
+
+    "bai_advanced_assault_info" : "Informazioni assalto avanzate",
+    "bai_advanced_assault_info_desc" : "Modifica le impostazioni avanzate dell'assalto.\n'Mostra informazioni avanzate assalto' deve essere attivo per funzionare",    
+
+    "bai_show_time_left" : "Mostra 'Tempo rimanente'",
+    "bai_show_time_left_desc" : "Mostra l'informazione 'Tempo rimanente' nella barra dell'assalto",    
+
+    "bai_time_format" : "Formato tempo",
+    "bai_time_format_desc" : "Cambia il formato del tempo mostrato con l'informazione 'Tempo rimasto' dell'assalto",
+    "bai_time_format_1" : "xx.xx (in s)",
+    "bai_time_format_2" : "'xx.xx' s",
+    "bai_time_format_3" : "xx (in s)",
+    "bai_time_format_4" : "'xx' s",
+    "bai_time_format_5" : "'xx' min 'yy' s",
+    "bai_time_format_6" : "xx:yy",
+
+    "bai_show_spawns_left" : "Mostra 'Rinforzi rimanenti'",
+    "bai_show_spawns_left_desc" : "Mostra l'informazione 'Rinforzi rimanenti' nella barra dell'assalto",    
+
     "hud_assault_endless" : "ASSALTO DELLA POLIZIA INFINITO IN CORSO",
     "hud_assault_survived_endless" : "ASSALTO INFINITO SOPRAVVISSUTO",
 
@@ -82,5 +101,7 @@
     
     "hud_overdue" : "Ritardo",
     "hud_time_left" : "Tempo rimasto: ",
-    "hud_spawns_left" : "Rinforzi rimasti: "
+    "hud_spawns_left" : "Rinforzi rimasti: ",
+    "hud_min" : "min",
+    "hud_s" : "s"
 }
