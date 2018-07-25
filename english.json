@@ -2,6 +2,13 @@
     "bai_mod_title" : "Better Assault Indicator",
     "bai_mod_desc" : "Change mod options",
 
+    "bai_compatibility" : "HUD Compatibility",
+    "bai_compatibility_desc" : "Here you can select a compatibility with certain HUD you are using.\nApplying wrong HUD compatibility may cause your game to crash.",
+    "bai_compatibility_1" : "Detect",
+    "bai_compatibility_2" : "Vanilla",
+    "bai_compatibility_3" : "Void UI",
+    "bai_compatibility_4" : "Nepgearsy HUD Reborn",
+
     "bai_show_wave_survived" : "Show Wave Survived Banner",
     "bai_show_wave_survived_desc" : "Show Wave Survived banner (from Safehouse Raid) every time you and your crew survives police assault",
     
@@ -28,6 +35,10 @@
     "bai_g_desc" : "Sets green value (only the whole number is used; eg: 28.55 -> used 28)",
     "bai_b" : "Blue",
     "bai_b_desc" : "Sets blue value (only the whole number is used; eg: 28.55 -> used 28)",
+
+    "bai_padlock_end_line" : "Show padlock image instead of ///",
+    "bai_padlock_end_line_endless_assault_desc" : "Shows padlock image instead of /// in endless assault.\nNote: Some huds (like Void UI) have this option turned on by default and cannot be turned off",
+    "bai_padlock_end_line_endless_wave_survived_desc" : "Shows padlock image instead of /// in 'ENDLESS WAVE SURVIVED'.\nNote: Some huds (like Void UI) have this option turned on by default and cannot be turned off",
 
     "bai_color": "Colors",
     "bai_color_desc": "Changes Box Color",
