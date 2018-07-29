@@ -81,13 +81,14 @@
     "bai_time_format" : "รูปแบบเวลา",
     "bai_time_format_desc" : "Time Format: เปลี่ยนแปลงรูปแบบเวลาที่แสดงในตัวเลือก 'เวลาจู่โจมที่เหลือ'",
     "bai_time_format_1" : "xx.xx (ในหน่วยวินาที)",
-    "bai_time_format_2" : "'xx' นาที 'yy' วินาที",
-    "bai_time_format_3" : "xx:yy",
+    "bai_time_format_2" : "'xx.xx' วินาที",
+    "bai_time_format_3" : "xx (ในหน่วยวินาที)",
     "bai_time_format_4" : "'xx' วินาที",
-    "bai_time_format_5" : "xx (ในหน่วยวินาที)",
+    "bai_time_format_5" : "'xx' นาที 'yy' วินาที",
+    "bai_time_format_6" : "xx:yy",
 
     "bai_show_spawns_left" : "แสดง 'จำนวนตำรวจที่เสริมกำลังได้'",
-    "bai_show_spawns_left_desc" : "Shows 'Spawns Left': แสดง 'จำนวนตำรวจที่เสริมกำลังได้' ในหน้าต่างการจู่โจม",
+    "bai_show_spawns_left_desc" : "Show 'Spawns Left': แสดง 'จำนวนตำรวจที่เสริมกำลังได้' ในหน้าต่างการจู่โจม",
 	
     "hud_assault_endless" : "อยู่ระหว่างการจู่โจมไม่มีที่สิ้นสุดของตำรวจ",
     "hud_assault_survived_endless" : "คุณรอดชีวิตในรอบนี้!",  

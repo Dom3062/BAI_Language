@@ -16,6 +16,7 @@
     "bai_show_difficulty_name_instead_of_skulls" : "Zeige Schwierigkeitsname statt Totenköpfe",
     "bai_show_difficulty_name_instead_of_skulls_desc" : "Zeigt Schwierigkeitsname statt Totenköpfe im Vorstoßfeld an\nNicht anwendbar in der Crime_Spree",
 
+    "bai_host_only" : "Nur Host",
     "bai_client_only" : "Nur Client",
 
     "bai_trigger_endless_assault_client" : "Zeige endlose Vorstoße",
@@ -71,6 +72,24 @@
     "bai_show_advanced_assault_info" : "Erweiterte Überfall anzeigen",
     "bai_show_advanced_assault_info_desc" : "Zeigt 'Verbleibende Zeit' und 'Verbleibender Spawn' Informationen in dem Vorstoßfeld\nDiese Informationen sind nicht verfügbar bei endlosen Angriffen und wenn der Captain anwesend ist.",
     
+    "bai_advanced_assault_info" : "erweiterte vorstoßinformation",
+    "bai_advanced_assault_info_desc" : "ändert erweiterte vorstoßinformation.\n'zeigt erweiterte vorstoßinformation' mus aktiviert sein um zu funktionieren",
+
+    "bai_show_time_left" : "Zeigt 'übrige zeit'",
+    "bai_show_time_left_desc" : "zeigt 'übrige zeit' im vorstoßfeld",
+
+    "bai_time_format" : "Zeit Format",
+    "bai_time_format_desc" : "ändert zeit Format: angezeigt mit 'übrige zeit' information",
+    "bai_time_format_1" : "xx.xx (in s)",
+    "bai_time_format_2" : "'xx.xx' s",
+    "bai_time_format_3" : "xx (in s)",
+    "bai_time_format_4" : "'xx' s",
+    "bai_time_format_5" : "'xx' min 'yy' s",
+    "bai_time_format_6" : "xx:yy",
+
+    "bai_show_spawns_left" : "zeigt 'übrige Spawns'",
+    "bai_show_spawns_left_desc" : "zeigt 'übrige Spawns' im vorstoßfeld",
+    
     "hud_assault_endless" : "Endloser Polizeivorstoß im Gange",
     "hud_assault_survived_endless" : "Endlose Welle überlebt",
     
@@ -82,5 +101,7 @@
     
     "hud_overdue" : "Überfällig",
     "hud_time_left" : "Verbleibende Zeit: ",
-    "hud_spawns_left" : "Verbleibende Spawns: "
+    "hud_spawns_left" : "Verbleibende Spawns: ",
+    "hud_min" : "min",
+    "hud_s" : "s"
 }
