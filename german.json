@@ -2,6 +2,13 @@
     "bai_mod_title" : "Better Assault Indicator",
     "bai_mod_desc" : "Ändere mod optionen",
 
+    "bai_compatibility" : "HUD-Kompatibilität",
+    "bai_compatibility_desc" : "Hier können Sie eine Kompatibilität mit bestimmten HUDs auswählen.\nFalsche HUD-Kompatibilität kann zum Absturz des Spiels führen.",
+    "bai_compatibility_1" : "Erkennen",
+    "bai_compatibility_2" : "Vanilla",
+    "bai_compatibility_3" : "Void UI",
+    "bai_compatibility_4" : "Nepgearsy HUD Reborn",
+    
     "bai_show_wave_survived" : "Zeige Welle überlebt Banner",
     "bai_show_wave_survived_desc" : "Zeigt Welle überlebt Banner an(von Versteck-Razzia) jedesmal wenn du und deine Crew einen Polizeivorstoß überleben",
     
@@ -28,6 +35,10 @@
     "bai_g_desc" : "Grünen Wert einstellen (Nur ganze zahlen werden benutzt(abgerundet); bsp.: 28.55 -> 28)",
     "bai_b" : "Blau",
     "bai_b_desc" : "Blauen Wert einstellen (Nur ganze zahlen werden benutzt(abgerundet); bsp.: 28.55 -> 28)",
+    
+        "bai_padlock_end_line" : "Vorhängeschloss-Bild anzeigen statt ///",
+    "bai_padlock_end_line_endless_assault_desc" : "Vorhängeschloss-Bild anzeigen statt /// in endloser Gewalt.\nHinweis: Some huds (like Void UI) Einige huds (wie Void UI) haben diese Option standardmäßig aktiviert und können nicht deaktiviert werden.",
+    "bai_padlock_end_line_endless_wave_survived_desc" : "Vorhängeschloss-Bild anzeigen statt /// in 'ENDLOSE WELLE ÜBERLEBT'.\nHinweis: Some huds (like Void UI) Einige huds (wie Void UI) haben diese Option standardmäßig aktiviert und können nicht deaktiviert werden.",
 
     "bai_color": "Farben",
     "bai_color_desc": "Ändere die farbe des feldes",
@@ -90,8 +101,8 @@
     "bai_show_spawns_left" : "zeigt 'übrige Spawns'",
     "bai_show_spawns_left_desc" : "zeigt 'übrige Spawns' im vorstoßfeld",
     
-    "hud_assault_endless" : "Endloser Polizeivorstoß im Gange",
-    "hud_assault_survived_endless" : "Endlose Welle überlebt",
+    "hud_assault_endless" : "ENDLOSER POLIZEIVORSTOEß IM GANGE",
+    "hud_assault_survived_endless" : "ENDLOSE WELLE ÜBERLEBT",
     
     "hud_control" : "Ruhephase",
     "hud_anticipation" : "Vorbereitung zum Vorstoß",
