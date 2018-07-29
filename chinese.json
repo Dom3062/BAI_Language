@@ -1,6 +1,14 @@
 {
     "bai_mod_title" : "更好的突击横幅(设定)",
     "bai_mod_desc" : "在这里更改BAI的设定",
+	
+"bai_compatibility" : "HUD 兼容选项",
+    "bai_compatibility_desc" : "可根据你所使用的 HUD 选择所需要的兼容选项.\n若选错可能会导致游戏崩溃.\n默认自动识别当前使用的HUD",
+    "bai_compatibility_1" : "自动识别",
+    "bai_compatibility_2" : "不使用兼容选项",
+    "bai_compatibility_3" : "Void UI",
+    "bai_compatibility_4" : "Nepgearsy HUD '重生'版",
+
 
     "bai_show_wave_survived" : "在突击横幅中显示'波数存活'",
     "bai_show_wave_survived_desc" : "当你和你的队友在安全屋突袭中从一波突击中存活下来将会显示.",
@@ -77,6 +85,10 @@
 	
     "bai_show_time_left" : "显示 '剩余时间'",
     "bai_show_time_left_desc" : "在突击横幅中显示 '剩余时间' ",
+	
+"bai_padlock_end_line" : "显示小锁图标而不显示'///'",
+    "bai_padlock_end_line_endless_assault_desc" : "无尽突击时在横幅中显示小锁图标而不显示'///'.\n注意: 有些HUD (例如 Void UI) 默认开启了这个选项,且此选项不可被关闭",
+    "bai_padlock_end_line_endless_wave_survived_desc" : "在无尽突击中存活下来时在突击横幅显示小锁图标而不显示'///'.\n注意: 有些HUD (例如 Void UI) 默认开启了这个选项,且此选项不可被关闭",
 	
     "bai_time_format" : "时间格式",
     "bai_time_format_desc" : "设定突击横幅中 '剩余时间' 的显示格式",
