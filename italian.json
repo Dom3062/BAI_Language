@@ -1,14 +1,14 @@
 {
     "bai_mod_title" : "Better Assault Indicator",
     "bai_mod_desc" : "Impostazioni della mod",
- 
-    "bai_compatibility" : "Compatibilità con HUD",
-    "bai_compatibility_desc" : "Qui è possibile selezionare la compatibilità con alcuni HUD in uso.\nL'applicazione di una compatibilità HUD errata può causare un arresto anomalo del gioco.",
-    "bai_compatibility_1" : "Rilevare",
+
+    "bai_compatibility" : "Compatibilità HUD",
+    "bai_compatibility_desc" : "Seleziona un altro HUD che stai utilizzando per renderlo compatibile con BAI.\nIl gioco potrebbe crashare se selezioni un HUD che non hai installato!",
+    "bai_compatibility_1" : "Rileva",
     "bai_compatibility_2" : "Vanilla",
     "bai_compatibility_3" : "Void UI",
     "bai_compatibility_4" : "Nepgearsy HUD Reborn",
-    
+ 
     "bai_show_wave_survived" : "Mostra banner 'Ondata superata'",
     "bai_show_wave_survived_desc" : "Mostra il banner 'Ondata superata' ogni volta che sopravvivi ad un assalto\n(viene normalmente mostrato solo nell'irruzione al rifugio)",
    
@@ -35,11 +35,11 @@
     "bai_g_desc" : "Imposta il valore verde del colore (verranno usati solo numeri interi; es: 28.55 -> 28)",
     "bai_b" : "Blu",
     "bai_b_desc" : "Imposta il valore blu del colore (verranno usati solo numeri interi; es: 28.55 -> 28)",
+
+    "bai_padlock_end_line" : "Mostra lucchetto invece di ///",
+    "bai_padlock_end_line_endless_assault_desc" : "Mostra l'icona del lucchetto invece del separatore '///' negli assalti infiniti.\nNota: Alcuni HUD (es. Void UI) hanno questa impostazione già attiva di default e non può essere disattivata",
+    "bai_padlock_end_line_endless_wave_survived_desc" : "Mostra l'icona del lucchetto invece del separatore '///' dopo essere sopravvissuti ad un assalto infinito.\nNota: Alcuni HUD (es. Void UI) hanno questa impostazione già attiva di default e non può essere disattivata",
  
-    "bai_padlock_end_line" : "Mostra l'immagine del lucchetto invece di ///",
-    "bai_padlock_end_line_endless_assault_desc" : "Mostra l'immagine del lucchetto invece di /// in attacco senza fine.\nNota: Alcuni huds (come Void UI) hanno questa opzione attivata per impostazione predefinita e non possono essere disattivati.",
-    "bai_padlock_end_line_endless_wave_survived_desc" : "Mostra l'immagine del lucchetto invece di /// in 'ASSALTO INFINITO SOPRAVVISSUTO'.\nNota: Alcuni huds (come Void UI) hanno questa opzione attivata per impostazione predefinita e non possono essere disattivati.",
-    
     "bai_color": "Colori",
     "bai_color_desc": "Cambia il colore dell'indicatore",
  
