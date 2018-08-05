@@ -8,6 +8,12 @@
     "bai_compatibility_2" : "Vanilla",
     "bai_compatibility_3" : "Void UI",
     "bai_compatibility_4" : "Nepgearsy HUD Reborn",
+    "bai_compatibility_5" : "HoloUI",
+
+    "bai_holoui" : "HoloUI Options",
+    "bai_holoui_desc" : "Apply BAI specific settings to HoloUI",
+    "bai_holoui_update_text_color" : "Update text color",
+    "bai_holoui_update_text_color_desc" : "When updating Assault Banner color also update text color",
 
     "bai_show_wave_survived" : "Show Wave Survived Banner",
     "bai_show_wave_survived_desc" : "Show Wave Survived banner (from Safehouse Raid) every time you and your crew survives police assault",
