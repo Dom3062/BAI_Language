@@ -8,6 +8,12 @@
     "bai_compatibility_2" : "เกมต้นฉบับ",
     "bai_compatibility_3" : "Void UI",
     "bai_compatibility_4" : "Nepgearsy HUD Reborn",
+	"bai_compatibility_5" : "HoloUI",
+
+    "bai_holoui" : "ตัวเลือก HoloUI",
+    "bai_holoui_desc" : "ใช้การตั้งค่าเฉพาะของ BAI กับ HoloUI",
+    "bai_holoui_update_text_color" : "อัปเดตสีของข้อความ",
+    "bai_holoui_update_text_color_desc" : "เมื่ออัปเดตสีของหน้าต่างแสดงการจู่โจมยังมีการอัปเดตสีข้อความอีกด้วย",
 	
     "bai_show_wave_survived": "แสดงแบนเนอร์ 'คุณรอดชีวิตในรอบนี้!'",
     "bai_show_wave_survived_desc": "Show Wave Survived Banner: แสดงแบนเนอร์ 'คุณรอดชีวิตในรอบนี้!'(เหมือนกับในด่าน Safehouse Raid) ทุกครั้งหลังจากที่คุณและเพื่อนร่วมทีมรอดชีวิตจากช่วงการจู่โจมของตำรวจในแต่ละรอบ",
