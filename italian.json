@@ -12,7 +12,7 @@
 
     "bai_holoui" : "Opzioni HoloUI",
     "bai_holoui_desc" : "Applica le impostazioni specifiche di BAI a HoloUI",
-    "bai_holoui_update_text_color" : "Aggiorna colore test",
+    "bai_holoui_update_text_color" : "Aggiorna colore testo",
     "bai_holoui_update_text_color_desc" : "Aggiorna anche il colore del testo quando viene aggiornato il colore della barra d'assalto",
  
     "bai_show_wave_survived" : "Mostra banner 'Ondata superata'",
