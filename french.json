@@ -8,6 +8,12 @@
     "bai_compatibility_2" : "Vanilla",
     "bai_compatibility_3" : "Void UI",
     "bai_compatibility_4" : "Nepgearsy HUD Reborn",
+    "bai_compatibility_5" : "HoloUI", 
+
+    "bai_holoui" : "Options d'HoloUI", 
+    "bai_holoui_desc" : "Applique les options spécifiques de BAI à HoloUI", 
+    "bai_holoui_update_text_color" : "Mets à jour la couleur du texte", 
+    "bai_holoui_update_text_color_desc" : "En mettant à jour la couleur de la bannière d'assaut, aussi mettre à jour la couleur du texte",
     
     "bai_show_wave_survived" : "Montrer les vagues survécues",
     "bai_show_wave_survived_desc" : "Montrer les vagues survécues (du Raid de la Planque) à chaque fois que vous et votre crew survivez à un assaut de police",
