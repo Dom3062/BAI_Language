@@ -55,6 +55,9 @@
     "bai_assault_box_mutated" : "Assault Box (Mutators On)",
     "bai_assault_box_mutated_desc" : "Changes Assault Box Color (Mutators On)",
 
+    "bai_holdout_box" : "Assault Box (Holdout)",
+    "bai_holdout_box_desc" : "Changes Assault Box Color (Holdout)",
+
     "bai_captain_box" : "Assault Box (Captain)",
     "bai_captain_box_desc" : "Changes Assault Box Color (When Captain arrived)",
 
@@ -90,10 +93,10 @@
     "bai_show_advanced_assault_info_desc" : "Shows 'Spawns Left' and 'Time Left' information in the Assault Box\nThis info is not available on endless assault and when captain is present",
 
     "bai_advanced_assault_info" : "Advanced Assault Info",
-    "bai_advanced_assault_info_desc" : "Changes Advanced Assault Info.\n'Show Advanced Assault Info' must be enabled in order to work",
+    "bai_advanced_assault_info_desc" : "Changes Advanced Assault Info.\n'Show Advanced Assault Info' must be enabled in order to work. Some options will not work on client.",
 
     "bai_show_time_left" : "Show 'Time Left'",
-    "bai_show_time_left_desc" : "Shows 'Time Left' in the Assault Box",
+    "bai_show_time_left_desc" : "Shows 'Time Left' in the Assault Box\nThis option is not accurate on client when host does not have this option enabled.",
     
     "bai_time_format" : "Time Format",
     "bai_time_format_desc" : "Changes Time Format showed with 'Time Left' info",
@@ -105,7 +108,7 @@
     "bai_time_format_6" : "xx:yy",
 
     "bai_show_spawns_left" : "Show 'Spawns Left'",
-    "bai_show_spawns_left_desc" : "Shows 'Spawns Left' in the Assault Box",
+    "bai_show_spawns_left_desc" : "Shows 'Spawns Left' in the Assault Box (Host only)",
     
     "hud_assault_endless" : "ENDLESS POLICE ASSAULT IN PROGRESS",
     "hud_assault_survived_endless" : "ENDLESS WAVE SURVIVED",

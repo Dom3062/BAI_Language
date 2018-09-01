@@ -10,10 +10,10 @@
     "bai_compatibility_4" : "Nepgearsy HUD '重生'版",
     "bai_compatibility_5" : "HoloUI",
 
-    "bai_holoui" : "HoloUI Options",
-    "bai_holoui_desc" : "Apply BAI specific settings to HoloUI",
-    "bai_holoui_update_text_color" : "Update text color",
-    "bai_holoui_update_text_color_desc" : "When updating Assault Banner color also update text color",
+    "bai_holoui" : "适用于 HoloUI 的设定",
+    "bai_holoui_desc" : "这些是为 HoloUI 而生的功能",
+    "bai_holoui_update_text_color" : "横幅字体颜色更新",
+    "bai_holoui_update_text_color_desc" : "当BAI 更新横幅框的颜色时也更新框内字的颜色.",
 
     "bai_show_wave_survived" : "在突击横幅中显示'波数存活'",
     "bai_show_wave_survived_desc" : "当你和你的队友在安全屋突袭中从一波突击中存活下来将会显示.",
