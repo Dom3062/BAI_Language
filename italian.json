@@ -57,7 +57,10 @@
  
     "bai_captain_box" : "Assalto (Capitano)",
     "bai_captain_box_desc" : "Cambia il colore dell'indicatore durante un assalto quando il Capitano è presente",
- 
+
+    "bai_holdout_box" : "Assalto (Holdout)",
+    "bai_holdout_box_desc" : "Cambia il colore dell'indicatore durante un assalto in modalità Holdout",
+
     "bai_captain_box_mutated" : "Assalto (Capitano, Mutatori attivi)",
     "bai_captain_box_mutated_desc" : "Cambia il colore dell'indicatore durante un assalto in una partita con mutatori attivi quando il Capitano è presente",
  
@@ -90,10 +93,10 @@
     "bai_show_advanced_assault_info_desc" : "Mostra i rinforzi rimasti e il tempo rimasto nella barra dell'assalto\nQueste informazioni non sono visibili durante gli assalti infiniti e quando il capitano è presente",
 
     "bai_advanced_assault_info" : "Informazioni assalto avanzate",
-    "bai_advanced_assault_info_desc" : "Modifica le impostazioni avanzate dell'assalto.\n'Mostra informazioni avanzate assalto' deve essere attivo per funzionare",    
+    "bai_advanced_assault_info_desc" : "Modifica le impostazioni avanzate dell'assalto.\n'Mostra informazioni avanzate assalto' deve essere attivo per funzionare. Alcune impostazioni non funzioneranno quando stai giocando come client.",    
 
     "bai_show_time_left" : "Mostra 'Tempo rimanente'",
-    "bai_show_time_left_desc" : "Mostra l'informazione 'Tempo rimanente' nella barra dell'assalto",    
+    "bai_show_time_left_desc" : "Mostra l'informazione 'Tempo rimanente' nella barra dell'assalto.\nQuesta informazione non sarà accurata quando stai giocando come client e l'host non ha questa impostazione attiva.",    
 
     "bai_time_format" : "Formato tempo",
     "bai_time_format_desc" : "Cambia il formato del tempo mostrato con l'informazione 'Tempo rimasto' dell'assalto",
@@ -105,7 +108,7 @@
     "bai_time_format_6" : "xx:yy",
 
     "bai_show_spawns_left" : "Mostra 'Rinforzi rimanenti'",
-    "bai_show_spawns_left_desc" : "Mostra l'informazione 'Rinforzi rimanenti' nella barra dell'assalto",    
+    "bai_show_spawns_left_desc" : "Mostra l'informazione 'Rinforzi rimanenti' nella barra dell'assalto (Solo Host)",    
 
     "hud_assault_endless" : "ASSALTO DELLA POLIZIA INFINITO IN CORSO",
     "hud_assault_survived_endless" : "ASSALTO INFINITO SOPRAVVISSUTO",
