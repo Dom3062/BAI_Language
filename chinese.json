@@ -51,6 +51,9 @@
     "bai_assault_box_mutated" : "突击横幅颜色 (启用规则突变)",
     "bai_assault_box_mutated_desc" : "更改突击横幅的颜色(启用规则突变)",
 
+    "bai_holdout_box" : "Assault Box (Holdout)",
+    "bai_holdout_box_desc" : "Changes Assault Box Color (Holdout)",
+
     "bai_captain_box" : "突击横幅颜色 (冬日队长到达)",
     "bai_captain_box_desc" : "更改突击横幅的颜色(当冬日队长到达时)",
 
@@ -86,10 +89,10 @@
     "bai_assault_states_desc" : "更改突击状态的颜色以及决定是否在横幅中显示一些状态.\n需要开启'显示突击状态'",
 
     "bai_show_advanced_assault_info" : "显示更详细的突击信息",
-    "bai_show_advanced_assault_info_desc" : "在突击横幅中显示剩余的敌人数量和剩余时间\n此功能在无尽突击下或队长到达时不可用。",
+    "bai_show_advanced_assault_info_desc" : "在突击横幅中显示剩余的敌人数量和剩余时间\n此功能在无尽突击下或队长到达时不可用。Some options will not work on client.",
 	
     "bai_show_time_left" : "显示 '剩余时间'",
-    "bai_show_time_left_desc" : "在突击横幅中显示 '剩余时间' ",
+    "bai_show_time_left_desc" : "在突击横幅中显示 '剩余时间'\nThis option is not accurate on client when host does not have this option enabled.",
 	
     "bai_padlock_end_line" : "显示小锁图标而不显示'///'",
     "bai_padlock_end_line_endless_assault_desc" : "无尽突击时在横幅中显示小锁图标而不显示'///'.\n注意: 有些HUD (例如 Void UI) 默认开启了这个选项,且此选项不可被关闭",
@@ -105,7 +108,7 @@
     "bai_time_format_6" : "xx:yy",
 	
     "bai_show_spawns_left" : "显示 '剩余敌人数量'",
-    "bai_show_spawns_left_desc" : "在突击横幅中显示 '剩余敌人数量' ",
+    "bai_show_spawns_left_desc" : "在突击横幅中显示 '剩余敌人数量' (Host only)",
 
     "hud_assault_endless" : "警方无尽突袭进行中",
     "hud_assault_survived_endless" : "波数存活(无尽突击)",
