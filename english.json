@@ -9,11 +9,18 @@
     "bai_compatibility_3" : "Void UI",
     "bai_compatibility_4" : "Nepgearsy HUD Reborn",
     "bai_compatibility_5" : "HoloUI",
+    "bai_compatibility_6" : "SydneyHUD",
+    "bai_compatibility_7" : "PD:TH HUD Reborn",
 
     "bai_holoui" : "HoloUI Options",
     "bai_holoui_desc" : "Apply BAI specific settings to HoloUI",
     "bai_holoui_update_text_color" : "Update text color",
     "bai_holoui_update_text_color_desc" : "When updating Assault Banner color also update text color",
+
+    "bai_pdth_hud_reborn" : "PD:TH HUD Reborn Options",
+    "bai_pdth_hud_reborn_desc" : "Apply BAI specific settings to PD:TH HUD Reborn",
+    "bai_pdth_hud_reborn_custom_text_color" : "Use Custom Text Color",
+    "bai_pdth_hud_reborn_custom_text_color_desc" : "When disabled the game will apply assault icon color to text",
 
     "bai_show_wave_survived" : "Show Wave Survived Banner",
     "bai_show_wave_survived_desc" : "Show Wave Survived banner (from Safehouse Raid) every time you and your crew survives police assault",
@@ -123,5 +130,10 @@
     "hud_time_left" : "Time Left: ",
     "hud_spawns_left" : "Spawns Left: ",
     "hud_min" : "min",
-    "hud_s" : "s"
+    "hud_s" : "s",
+
+    "hud_assault" : "ASSAULT",
+    "hud_endless" : "ENDLESS",
+    "hud_captain" : "CAPTAIN",
+    "hud_survived" : "SURVIVED"
 }
