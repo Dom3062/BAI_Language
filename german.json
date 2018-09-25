@@ -9,11 +9,18 @@
     "bai_compatibility_3" : "Void UI",
     "bai_compatibility_4" : "Nepgearsy HUD Reborn",
     "bai_compatibility_5" : "HoloUI",
+    "bai_compatibility_6" : "SydneyHUD",
+    "bai_compatibility_7" : "PD:TH HUD Reborn",
 
     "bai_holoui" : "HoloUI einstellungen",
     "bai_holoui_desc" : "wende spezielle Bai einstellungen bei HoloUI an",
     "bai_holoui_update_text_color" : "aktualisiere text farbe",
     "bai_holoui_update_text_color_desc" : "wenn vorstoßfeld aktualisiert wird auch text farbe aktualisieren",
+
+    "bai_pdth_hud_reborn" : "PD:TH HUD Reborn einstellungen",
+    "bai_pdth_hud_reborn_desc" : "wende spezielle Bai einstellungen bei PD:TH HUD Reborn an",
+    "bai_pdth_hud_reborn_custom_text_color" : "wende benutzerdefiniert Text farbe an",
+    "bai_pdth_hud_reborn_custom_text_color_desc" : "Wenn deaktiviert, wird das Spiel die Farbe des vorstoßsymbols auf den Text anwenden",
 
     "bai_show_wave_survived" : "Zeige Welle überlebt Banner",
     "bai_show_wave_survived_desc" : "Zeigt Welle überlebt Banner an(von Versteck-Razzia) jedesmal wenn du und deine Crew einen Polizeivorstoß überleben",
@@ -55,6 +62,9 @@
     "bai_assault_box_mutated" : "Vorstoßfeld (Mutatoren aktiv)",
     "bai_assault_box_mutated_desc" : "Ändert die Vorstoßfeldfarbe (Mutatoren aktiv)",
 
+    "bai_holdout_box" : "Vorstoßfeld (Holdout)",
+    "bai_holdout_box_desc" : "Ändert die vorstoßfeldfarbe (Holdout)",
+
     "bai_captain_box" : "Vorstoßfeld (Captain)",
     "bai_captain_box_desc" : "Ändert die Vorstoßfeldfarbe (Wenn Captain anwesend)",
 
@@ -90,10 +100,10 @@
     "bai_show_advanced_assault_info_desc" : "Zeigt 'Verbleibende Zeit' und 'Verbleibender Spawn' Informationen in dem Vorstoßfeld\nDiese Informationen sind nicht verfügbar bei endlosen Angriffen und wenn der Captain anwesend ist.",
     
     "bai_advanced_assault_info" : "erweiterte vorstoßinformation",
-    "bai_advanced_assault_info_desc" : "ändert erweiterte vorstoßinformation.\n'zeigt erweiterte vorstoßinformation' mus aktiviert sein um zu funktionieren",
+    "bai_advanced_assault_info_desc" : "ändert erweiterte vorstoßinformation.\n'zeigt erweiterte vorstoßinformation' mus aktiviert sein um zu funktionieren. manche optionen funktionieren nicht bei clients.",
 
     "bai_show_time_left" : "Zeigt 'übrige zeit'",
-    "bai_show_time_left_desc" : "zeigt 'übrige zeit' im vorstoßfeld",
+    "bai_show_time_left_desc" : "zeigt 'übrige zeit' im vorstoßfeld\ndiese option ist nicht genau wenn der host dies nicht aktiviert hat.",
 
     "bai_time_format" : "Zeit Format",
     "bai_time_format_desc" : "ändert zeit Format: angezeigt mit 'übrige zeit' information",
@@ -105,7 +115,7 @@
     "bai_time_format_6" : "xx:yy",
 
     "bai_show_spawns_left" : "zeigt 'übrige Spawns'",
-    "bai_show_spawns_left_desc" : "zeigt 'übrige Spawns' im vorstoßfeld",
+    "bai_show_spawns_left_desc" : "zeigt 'übrige Spawns' im vorstoßfeld (Nur Host)",
     
     "hud_assault_endless" : "Endloser Polizeivorstoß im Gange",
     "hud_assault_survived_endless" : "Endlose Welle überlebt",
@@ -120,5 +130,11 @@
     "hud_time_left" : "Verbleibende Zeit: ",
     "hud_spawns_left" : "Verbleibende Spawns: ",
     "hud_min" : "min",
-    "hud_s" : "s"
+    "hud_s" : "s",
+
+    "hud_assault" : "VORSTOß",
+    "hud_endless" : "ENDLOS",
+    "hud_captain" : "CAPTAIN",
+    "hud_captain_active" : "KOMPLETT AUFGESTELLT",
+    "hud_survived" : "ÜBERLEBT"
 }
