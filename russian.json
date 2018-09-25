@@ -18,6 +18,11 @@
     "bai_show_wave_survived" : "Показывать статус 'Осада Отбита' ",
     "bai_show_wave_survived_desc" : "Показывать статус 'Осада Отбита' (из Защиты убежища) каждый раз, когда вы и ваша команда выживаете полицескую осаду",
     
+    "bai_pdth_hud_reborn" : "Настройки PD:TH HUD Reborn",
+    "bai_pdth_hud_reborn_desc" : "Применить настройки BAI к PD:TH HUD Reborn",
+    "bai_pdth_hud_reborn_custom_text_color" : "Использовать кастомный цвет текста",
+    "bai_pdth_hud_reborn_custom_text_color_desc" : "Когда выключено, игра будет использовать цвет текста как цвет иконки осады.",
+
     "bai_hide_hostage_panel" : "Скрыть панель заложников",
     "bai_hide_hostage_panel_assault_desc" : "Скрыть панель заложников во время обычной осады",
     "bai_hide_hostage_panel_captain_desc" : "Скрыть панель заложников во время обычной осады, когда появляется Капитан",
@@ -123,5 +128,5 @@
     "hud_time_left" : "Времени осталось: ",
     "hud_spawns_left" : "Спаунов осталось: ",
     "hud_min" : "мин",
-    "hud_s" : "с"
+    "hud_s" : "с",
 }
