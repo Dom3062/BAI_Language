@@ -129,4 +129,11 @@
     "hud_spawns_left" : "Спаунов осталось: ",
     "hud_min" : "мин",
     "hud_s" : "с",
+
+    "hud_assault" : "ОСАДА",
+    "hud_endless" : "БЕСКОНЕЧНАЯ",
+    "hud_captain" : "КАПИТАН",
+    "hud_captain_active" : "КАПИТАН ПРИБЫЛ",
+    "hud_survived" : "ОТБИТА",
+
 }
