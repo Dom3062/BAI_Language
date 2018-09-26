@@ -135,5 +135,6 @@
     "hud_assault" : "ASSAULT",
     "hud_endless" : "ENDLESS",
     "hud_captain" : "CAPTAIN",
+    "hud_captain_active" : "FULLY ASSEMBLED",
     "hud_survived" : "SURVIVED"
 }
