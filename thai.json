@@ -126,14 +126,15 @@
     "hud_sustain" : "จู่โจมต่อเนื่อง",
     "hud_fade" : "ถอนกำลัง",
 	
-    "hud_overdue" : "เวลาที่เกินจากปรกติ",
-    "hud_time_left" : "เวลาจู่โจมที่เหลือ: ",
-    "hud_spawns_left" : "จำนวนตำรวจที่เสริมกำลังได้: ",
+    "hud_overdue" : "เกินเวลา",
+    "hud_time_left" : "เหลือเวลา: ",
+    "hud_spawns_left" : "ศัตรูที่เหลือ: ",
     "hud_min" : "นาที",
     "hud_s" : "วินาที",
 	
     "hud_assault" : "จู่โจม",
     "hud_endless" : "ไม่มีที่สิ้นสุด",
     "hud_captain" : "กับตัน",
+	"hud_captain_active" : "รวมพลพร้อมสู้",
     "hud_survived" : "รอดชีวิต"
 }
