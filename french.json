@@ -130,7 +130,7 @@
     "hud_time_left" : "Temps restant: ",
     "hud_spawns_left" : "Spawns restants: ",
     "hud_min" : "min",
-    "hud_s" : "s"
+    "hud_s" : "s",
     
     "hud_assault" : "ASSAUT",
     "hud_endless" : "SANS-FIN",
