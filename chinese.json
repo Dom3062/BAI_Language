@@ -9,6 +9,8 @@
     "bai_compatibility_3" : "Void UI",
     "bai_compatibility_4" : "Nepgearsy HUD '重生'版",
     "bai_compatibility_5" : "HoloUI",
+    "bai_compatibility_6" : "SydneyHUD",
+    "bai_compatibility_7" : "PD:TH HUD Reborn",
 
     "bai_holoui" : "适用于 HoloUI 的设定",
     "bai_holoui_desc" : "这些是为 HoloUI 而生的功能",
@@ -17,6 +19,11 @@
 
     "bai_show_wave_survived" : "在突击横幅中显示'波数存活'",
     "bai_show_wave_survived_desc" : "当你和你的队友在安全屋突袭中从一波突击中存活下来将会显示.",
+
+    "bai_pdth_hud_reborn" : "PD:TH HUD Reborn Options",
+    "bai_pdth_hud_reborn_desc" : "Apply BAI specific settings to PD:TH HUD Reborn",
+    "bai_pdth_hud_reborn_custom_text_color" : "Use Custom Text Color",
+    "bai_pdth_hud_reborn_custom_text_color_desc" : "When disabled the game will apply assault icon color to text",
     
     "bai_hide_hostage_panel" : "在什么时候隐藏人质面板?",
     "bai_hide_hostage_panel_assault_desc" : "普通突击时隐藏",
@@ -123,5 +130,11 @@
     "hud_time_left" : "剩余时间: ",
     "hud_spawns_left" : "剩余敌人: ",
     "hud_min" : "分钟",
-    "hud_s" : "秒"
+    "hud_s" : "秒",
+
+    "hud_assault" : "ASSAULT",
+    "hud_endless" : "ENDLESS",
+    "hud_captain" : "CAPTAIN",
+    "hud_captain_active" : "FULLY ASSEMBLED",
+    "hud_survived" : "SURVIVED"
 }
