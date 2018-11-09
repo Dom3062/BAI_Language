@@ -9,11 +9,18 @@
     "bai_compatibility_3" : "Void UI",
     "bai_compatibility_4" : "Nepgearsy HUD Reborn",
     "bai_compatibility_5" : "HoloUI",
+    "bai_compatibility_6" : "SydneyHUD",
+    "bai_compatibility_7" : "PD:TH HUD Reborn",
 
     "bai_holoui" : "Opzioni HoloUI",
     "bai_holoui_desc" : "Applica le impostazioni specifiche di BAI a HoloUI",
     "bai_holoui_update_text_color" : "Aggiorna colore testo",
     "bai_holoui_update_text_color_desc" : "Aggiorna anche il colore del testo quando viene aggiornato il colore della barra d'assalto",
+
+    "bai_pdth_hud_reborn" : "Opzioni PD:TH HUD Reborn",
+    "bai_pdth_hud_reborn_desc" : "Modifica delle impostazioni specifiche della mod PD:TH HUD Reborn",
+    "bai_pdth_hud_reborn_custom_text_color" : "Usa colore del testo personalizzato",
+    "bai_pdth_hud_reborn_custom_text_color_desc" : "Se disabilitato, il gioco userà il colore dell'icona per colorare il testo",
  
     "bai_show_wave_survived" : "Mostra banner 'Ondata superata'",
     "bai_show_wave_survived_desc" : "Mostra il banner 'Ondata superata' ogni volta che sopravvivi ad un assalto\n(viene normalmente mostrato solo nell'irruzione al rifugio)",
@@ -118,10 +125,16 @@
     "hud_build" : "Preparazione",
     "hud_sustain" : "Assalto",
     "hud_fade" : "Ritirata",
-    
+
     "hud_overdue" : "Ritardo",
     "hud_time_left" : "Tempo rimasto: ",
     "hud_spawns_left" : "Rinforzi rimasti: ",
     "hud_min" : "min",
-    "hud_s" : "s"
+    "hud_s" : "s",
+
+    "hud_assault" : "ASSALTO",
+    "hud_endless" : "INFINITO",
+    "hud_captain" : "CAPITANO",
+    "hud_captain_active" : "COMPLETAMENTE ASSEMBLATO",
+    "hud_survived" : "SOPRAVVISSUTO"
 }

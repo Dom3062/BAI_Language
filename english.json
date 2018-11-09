@@ -20,7 +20,7 @@
     "bai_pdth_hud_reborn" : "PD:TH HUD Reborn Options",
     "bai_pdth_hud_reborn_desc" : "Apply BAI specific settings to PD:TH HUD Reborn",
     "bai_pdth_hud_reborn_custom_text_color" : "Use Custom Text Color",
-    "bai_pdth_hud_reborn_custom_text_color_desc" : "When disabled the game will apply assault icon color to text",
+    "bai_pdth_hud_reborn_custom_text_color_desc" : "When disabled the game will apply assault icon's color to text",
 
     "bai_show_wave_survived" : "Show Wave Survived Banner",
     "bai_show_wave_survived_desc" : "Show Wave Survived banner (from Safehouse Raid) every time you and your crew survives police assault",
@@ -83,8 +83,10 @@
     "bai_escape_box" : "Point Of No Return Box",
     "bai_escape_box_desc": "Changes Point Of No Return Box Color",
 
-    "bai_color_reset" : "Reset Colors",
-    "bai_color_reset_desc" : "Reset colors to default value",
+    "bai_color_reset" : "Reset Color",
+    "bai_color_reset_desc" : "Reset color to default value",
+    "bai_colors_reset" : "Reset Colors",
+    "bai_colors_reset_desc" : "Reset colors to default values",
 
     "bai_show_assault_states" : "Show assault states",
     "bai_show_assault_states_desc" : "Show assault state (control, anticipation, build, sustain and fade) in the assault box\nThis option will not work on endless assault and when captain is present",
