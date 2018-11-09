@@ -83,8 +83,10 @@
     "bai_escape_box" : "Punk ohne Wiederkehr feld",
     "bai_escape_box_desc": "Ändert Punk ohne Wiederkehr feldfarbe",
 
-    "bai_color_reset" : "Farben zurücksetzen",
-    "bai_color_reset_desc" : "Setzt die Farben zurück zum Spielestandart",
+    "bai_color_reset" : "Farbe zurücksetzen",
+    "bai_color_reset_desc" : "Setzt die Farbe zurück zum Spielestandart",
+    "bai_colors_reset" : "Farben zurücksetzen",
+    "bai_colors_reset_desc" : "Setzt die Farben zurück zum Spielestandart",
 
     "bai_show_assault_states" : "Zeige Stand des Vorstoßes",
     "bai_show_assault_states_desc" : "Zeigt Stand des Vorstoßes (Ruhephase, Vorbereitung zum Vorstoß, Vorstoß, Vorstoß aufrechterhalten und Abklingphase) im Vorstoßfeld an\nDiese Option funktioniert nicht bei einem Endlosem Vorstoß oder bei anwesenheit vom Captain",
@@ -132,7 +134,7 @@
     "hud_min" : "min",
     "hud_s" : "s",
 
-    "hud_assault" : "VORSTOß",
+    "hud_assault" : "VORSTOẞ",
     "hud_endless" : "ENDLOS",
     "hud_captain" : "CAPTAIN",
     "hud_captain_active" : "KOMPLETT AUFGESTELLT",
