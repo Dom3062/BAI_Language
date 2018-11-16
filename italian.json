@@ -83,8 +83,10 @@
     "bai_escape_box" : "Punto di non ritorno",
     "bai_escape_box_desc": "Cambia il colore dell'indicatore del punto di non ritorno (Missione fallita tra...)",
  
-    "bai_color_reset" : "Reimposta colori",
-    "bai_color_reset_desc" : "Reimposta i colori con i valori di default del gioco",
+    "bai_color_reset" : "Reimposta colore",
+    "bai_color_reset_desc" : "Reimposta il colore al suo valore di default",
+    "bai_colors_reset" : "Reimposta colori",
+    "bai_colors_reset_desc" : "Reimposta i colori con i valori di default del gioco",
  
     "bai_show_assault_states" : "Mostra stati dell'assalto",
     "bai_show_assault_states_desc" : "Mostra gli stati dell'assalto (controllo, anticipazione, preparazione, attacco e ritirata)\nQuesta opzione non funzionerà con gli assalti infiniti oppure se il Capitano è presente nel livello",

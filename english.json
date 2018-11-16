@@ -11,6 +11,7 @@
     "bai_compatibility_5" : "HoloUI",
     "bai_compatibility_6" : "SydneyHUD",
     "bai_compatibility_7" : "PD:TH HUD Reborn",
+    "bai_compatibility_8" : "Restoration Mod",
 
     "bai_holoui" : "HoloUI Options",
     "bai_holoui_desc" : "Apply BAI specific settings to HoloUI",
@@ -21,6 +22,31 @@
     "bai_pdth_hud_reborn_desc" : "Apply BAI specific settings to PD:TH HUD Reborn",
     "bai_pdth_hud_reborn_custom_text_color" : "Use Custom Text Color",
     "bai_pdth_hud_reborn_custom_text_color_desc" : "When disabled the game will apply assault icon's color to text",
+
+    "bai_restoration_mod" : "Restoration Mod Options",
+    "bai_restoration_mod_desc" : "Apply BAI specific settings to Restoration Mod",
+    "bai_restoration_mod_alpha_tape_only" : "Alpha Tape only",
+    "bai_restoration_mod_alpha_tape_only_desc" : "These choices only affects 'Alpha Tape' in Restoration mod",
+    "bai_restoration_mod_include_cover_text" : "Include Cover Text",
+    "bai_restoration_mod_include_cover_text_desc" : "Includes 'STAY IN THE COVER' string in the Assault Box",
+    "bai_restoration_mod_use_alpha_assault_text" : "Use Alpha Assault Text",
+    "bai_restoration_mod_use_alpha_assault_text_desc" : "Uses shorter version of 'POLICE ASSAULT IN PROGRESS' text",
+    "bai_restoration_mod_use_alpha_endless_text" : "Use Alpha Endless Assault Text",
+    "bai_restoration_mod_use_alpha_endless_text_desc" : "Uses shorter version of 'ENDLESS POLICE ASSAULT IN PROGRESS' text",
+    "bai_restoration_mod_early_alpha_corner_only" : "Early Alpha Corner only",
+    "bai_restoration_mod_early_alpha_corner_only_desc" : "These choices only affects 'Early Alpha Corner' in Restoration mod",
+    "bai_c1" : "C1",
+    "bai_c2" : "C2",
+
+    "bai_button_ok" : "OK",
+    "bai_detected_wolfhud" : "Detected incompatibility with WolfHUD",
+    "bai_detected_wolfhud_desc" : "WolfHUD's 'Advanced Assault Info' option is not compatible with BAI and has been disabled. That option has been enabled in BAI under names of 'Advanced Assault Info' and 'Assault States'.",
+    "bai_detected_assault_states" : "Detected incompatibility with 'Assault States mod'",
+    "bai_detected_assault_states_desc" : "'Assault States mod' is incompatible with BAI. BAI has built-in support for assault states. It is recommended to disable or remove 'Assault States mod'.",
+    "bai_detected_wave_survived" : "Detected incompatibility with 'Wave Survived mod'",
+    "bai_detected_wave_survived_desc" : "'Wave Survived mod' is incompatible with BAI. BAI has built-in support for showing banner with wave survived text. It is recommended to disable or remove 'Wave Survived mod'.",
+    "bai_detected_sydneyhud" : "Detected incompatibility with SydneyHUD",
+    "bai_detected_sydneyhud_desc" : "SydneyHUD's 'Enhanced Assault Banner' option is not compatible with BAI and has been disabled. That option has been enabled in BAI under names of 'Advanced Assault Info' and 'Assault States'.",
 
     "bai_show_wave_survived" : "Show Wave Survived Banner",
     "bai_show_wave_survived_desc" : "Show Wave Survived banner (from Safehouse Raid) every time you and your crew survives police assault",
@@ -84,7 +110,7 @@
     "bai_escape_box_desc": "Changes Point Of No Return Box Color",
 
     "bai_color_reset" : "Reset Color",
-    "bai_color_reset_desc" : "Reset color to default value",
+    "bai_color_reset_desc" : "Reset color to the default value",
     "bai_colors_reset" : "Reset Colors",
     "bai_colors_reset_desc" : "Reset colors to default values",
 
@@ -119,8 +145,11 @@
     "bai_show_spawns_left" : "Show 'Spawns Left'",
     "bai_show_spawns_left_desc" : "Shows 'Spawns Left' in the Assault Box (Host only)",
     
+    "hud_assault_alpha" : "POLICE ASSAULT",
     "hud_assault_endless" : "ENDLESS POLICE ASSAULT IN PROGRESS",
+    "hud_assault_endless_alpha" : "ENDLESS POLICE ASSAULT",
     "hud_assault_survived_endless" : "ENDLESS WAVE SURVIVED",
+    "hud_cover" : "STAY IN THE COVER",
 
     "hud_control" : "Control",
     "hud_anticipation" : "Anticipation",

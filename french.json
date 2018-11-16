@@ -83,8 +83,10 @@
     "bai_escape_box" : "Boîte de non-retour",
     "bai_escape_box_desc": "Change la couleur de la boîte de non-retour",
 
-    "bai_color_reset" : "Réinitialiser les couleurs",
-    "bai_color_reset_desc" : "Réinitialise les couleurs à leurs couleurs par défaut",
+    "bai_color_reset" : "Réinitialiser la couleur",
+    "bai_color_reset_desc" : "Réinitialise la couleur à sa valeur par défaut",
+    "bai_colors_reset" : "Réinitialiser les couleurs",
+    "bai_colors_reset_desc" : "Réinitialise les couleurs à leurs valeurs par défaut",
 
     "bai_show_assault_states" : "Montrer les États d'assaut",
     "bai_show_assault_states_desc" : "Montre les États d'assaut (Contrôle, Anticipation, Développement, Support et Retrait) dans la boîte d'assaut\nCette option n'est pas disponible en cas d'assaut sans fin et quand le capitaine est présent",
