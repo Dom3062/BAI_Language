@@ -12,6 +12,7 @@
     "bai_compatibility_6" : "SydneyHUD",
     "bai_compatibility_7" : "PD:TH HUD Reborn",
     "bai_compatibility_8" : "Restoration Mod",
+    "bai_compatibility_9" : "MUI",
 
     "bai_holoui" : "Options d'HoloUI", 
     "bai_holoui_desc" : "Applique les options spécifiques de BAI à HoloUI", 
@@ -37,6 +38,7 @@
     "bai_restoration_mod_early_alpha_corner_only_desc" : "Ces choix affectent seulement le 'Coin Alpha anticipée' dans Restoration mod",
     "bai_c1" : "C1",
     "bai_c2" : "C2",
+    
     "bai_button_ok" : "OK",
     "bai_detected_wolfhud" : "Incompatibilité détectée avec WolfHUD",
     "bai_detected_wolfhud_desc" : "L'option 'Informations d'assaut avancé' de WolfHUD n'est pas compatible avec BAI et a étée désactivée ; cette option a été activée dans BAI sous les noms 'Informations d'assaut avancés' et 'États d'assauts'.",
@@ -167,4 +169,4 @@
     "hud_captain" : "CAPITAINE",
     "hud_captain_active" : "COMPLÊTEMENT RASSEMBLÉ",
     "hud_survived" : "SURVÉCU"
-}    
+}

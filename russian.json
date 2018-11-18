@@ -12,11 +12,17 @@
     "bai_compatibility_6" : "SydneyHUD",
     "bai_compatibility_7" : "PD:TH HUD Reborn",
     "bai_compatibility_8" : "Restoration Mod",
+    "bai_compatibility_9" : "MUI",
     
     "bai_holoui" : "Настройки HoloUI",
     "bai_holoui_desc" : "Применить настройки Мода для HoloUI",
     "bai_holoui_update_text_color" : "Обновить цвет текста",
     "bai_holoui_update_text_color_desc" : "Обновлять цвет текста при обновлении панели осады",
+
+    "bai_pdth_hud_reborn" : "Настройки PD:TH HUD Reborn",
+    "bai_pdth_hud_reborn_desc" : "Применить настройки BAI к PD:TH HUD Reborn",
+    "bai_pdth_hud_reborn_custom_text_color" : "Использовать кастомный цвет текста",
+    "bai_pdth_hud_reborn_custom_text_color_desc" : "Когда выключено, игра будет использовать цвет текста как цвет иконки осады.",
     
     "bai_restoration_mod" : "Настройки Restoration Mod",
     "bai_restoration_mod_desc" : "Применить настройки Мода для Restoration Mod",
@@ -30,9 +36,10 @@
     "bai_restoration_mod_use_alpha_endless_text_desc" : "Использует более короткую версию текста 'БЕСКОНЕЧНАЯ ОСАДА В ПРОЦЕССЕ'",
     "bai_restoration_mod_early_alpha_corner_only" : "Только для Alpha Corner ",
     "bai_restoration_mod_early_alpha_corner_only_desc" : "Эти настройки только повлияют на 'Early Alpha Corner' в Restoration mod",
-    "bai_c1" : "C1",
-    "bai_c2" : "C2",
-     "bai_button_ok" : "OK",
+    "bai_c1" : "Ц1",
+    "bai_c2" : "Ц2",
+
+    "bai_button_ok" : "OK",
     "bai_detected_wolfhud" : "Обнаружена несовместимость с WolfHUD",
     "bai_detected_wolfhud_desc" : "Опция WolfHUD'а 'Подробная информация об осаде'  несовместима BAI и была отключена. Эта опция включена в BAI под названием 'Подробная информация об осаде' and 'Фазы Осады.",
     "bai_detected_assault_states" : "Обнаружена несовместимость с 'Assault States mod'",
@@ -44,11 +51,6 @@
 
     "bai_show_wave_survived" : "Показывать статус 'Осада Отбита' ",
     "bai_show_wave_survived_desc" : "Показывать статус 'Осада Отбита' (из Защиты убежища) каждый раз, когда вы и ваша команда выживаете полицескую осаду",
-    
-    "bai_pdth_hud_reborn" : "Настройки PD:TH HUD Reborn",
-    "bai_pdth_hud_reborn_desc" : "Применить настройки BAI к PD:TH HUD Reborn",
-    "bai_pdth_hud_reborn_custom_text_color" : "Использовать кастомный цвет текста",
-    "bai_pdth_hud_reborn_custom_text_color_desc" : "Когда выключено, игра будет использовать цвет текста как цвет иконки осады.",
 
     "bai_hide_hostage_panel" : "Скрыть панель заложников",
     "bai_hide_hostage_panel_assault_desc" : "Скрыть панель заложников во время обычной осады",
@@ -110,7 +112,6 @@
 
     "bai_color_reset" : "Сбросить цвет",
     "bai_color_reset_desc" : "Сбрасывает цвет на стандартное значение",
-
     "bai_colors_reset" : "Сбросить цвета",
     "bai_colors_reset_desc" : "Сбрасывает цвета на стандартные значения",
     
@@ -150,7 +151,6 @@
     "hud_assault_endless_alpha" : "БЕСКОНЕЧНАЯ ОСАДА",
     "hud_assault_survived_endless" : "БЕСКОНЕЧНАЯ ОСАДА ОТБИТА",
     "hud_cover" : "ОСТАВАЙТЕСЬ В УКРЫТИИ",
-    
 
     "hud_control" : "Контроль",
     "hud_anticipation" : "Ожидание",
@@ -168,6 +168,5 @@
     "hud_endless" : "БЕСКОНЕЧНАЯ",
     "hud_captain" : "КАПИТАН",
     "hud_captain_active" : "КАПИТАН ПРИБЫЛ",
-    "hud_survived" : "ОТБИТА",
-
+    "hud_survived" : "ОТБИТА"
 }
