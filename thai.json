@@ -11,7 +11,8 @@
 	"bai_compatibility_5" : "HoloUI",
     "bai_compatibility_6" : "SydneyHUD",
     "bai_compatibility_7" : "PD:TH HUD Reborn",
-
+    "bai_compatibility_8" : "Restoration Mod",
+	
     "bai_holoui" : "ตัวเลือก HoloUI",
     "bai_holoui_desc" : "ใช้การตั้งค่าเฉพาะของ BAI กับ HoloUI",
     "bai_holoui_update_text_color" : "อัปเดตสีของข้อความ",
@@ -21,6 +22,31 @@
     "bai_pdth_hud_reborn_desc" : "ใช้การตั้งค่าเฉพาะของ BAI กับ PD:TH HUD Reborn",
     "bai_pdth_hud_reborn_custom_text_color" : "เลือกสีข้อความแบบกำหนดเอง",
     "bai_pdth_hud_reborn_custom_text_color_desc" : "เมื่อปิดตัวเลือกนี้ เกมจะทำการใช้สีข้อความจากไอคอนแสดงการจู่โจม",
+
+    "bai_restoration_mod" : "ตัวเลือก Restoration Mod",
+    "bai_restoration_mod_desc" : "ใช้การตั้งค่าเฉพาะของ BAI กับ Restoration Mod",
+    "bai_restoration_mod_alpha_tape_only" : "ตัวเลือกเฉพาะของ Alpha Tape",
+    "bai_restoration_mod_alpha_tape_only_desc" : "ตัวเลือกเหล่านี้จะส่งผลลัพธ์กับ 'Alpha Tape' ใน Restoration Mod",
+    "bai_restoration_mod_include_cover_text" : "รวมข้อความ 'เข้าที่กำบัง'",
+    "bai_restoration_mod_include_cover_text_desc" : "รวมข้อความ 'เข้าที่กำบัง' หรือ 'STAY IN THE COVER' ในหน้าต่างการจู่โจม",
+    "bai_restoration_mod_use_alpha_assault_text" : "ใช้ข้อความการจู่โจมแบบ Alpha",
+    "bai_restoration_mod_use_alpha_assault_text_desc" : "แสดงข้อความเวอร์ชันย่อข้อความให้สั้นลงของ 'อยู่ระหว่างการจู่โจมของตำรวจ'",
+    "bai_restoration_mod_use_alpha_endless_text" : "ใช้ข้อความการจู่โจมแบบไม่มีที่สิ้นสุดแบบ Alpha",
+    "bai_restoration_mod_use_alpha_endless_text_desc" : "แสดงข้อความเวอร์ชันย่อข้อความให้สั้นลงของ 'อยู่ระหว่างการจู่โจมไม่มีที่สิ้นสุดของตำรวจ'",
+    "bai_restoration_mod_early_alpha_corner_only" : "ตัวเลือกเฉพาะของ Early Alpha Corner",
+    "bai_restoration_mod_early_alpha_corner_only_desc" : "ตัวเลือกเหล่านี้จะส่งผลลัพธ์กับ 'Early Alpha Corner' ใน Restoration Mod",
+    "bai_c1" : "สีที่ 1",
+    "bai_c2" : "สีที่ 2",
+
+    "bai_button_ok" : "โอเค",
+    "bai_detected_wolfhud" : "ตรวจพบความเข้ากันไม่ได้กับ WolfHUD",
+    "bai_detected_wolfhud_desc" : "ตัวเลือก 'Advanced Assault Info' ของ WolfHUD ไม่สามารถใช้งานร่วมกับ BAI และได้ถูกปิดการใช้งานอัตโนมัติ. ตัวเลือกดังกล่าวได้ถูกเปิดใช้งานใน BAI โดยใช้ชื่อว่า 'ข้อมูลการจู่โจมขั้นสูง' และ 'สถานะการจู่โจม'",
+    "bai_detected_assault_states" : "ตรวจพบความเข้ากันไม่ได้กับ 'Assault States mod'",
+    "bai_detected_assault_states_desc" : "'Assault States mod' ไม่สามารถใช้งานร่วมกับ BAI. BAI มีตัวเลือกแสดงสถานะการจู่โจมรวมอยู่แล้ว. มันจะเป็นเรื่องที่ดีกว่าหาก 'Assault States mod' ถูกปิดการใช้งานหรือถูกลบออกจากโฟลเดอร์ mods",
+    "bai_detected_wave_survived" : "ตรวจพบความเข้ากันไม่ได้กับ 'Wave Survived mod'",
+    "bai_detected_wave_survived_desc" : "'Wave Survived mod' ไม่สามารถใช้งานร่วมกับ BAI. BAI มีตัวเลือกแสดงข้อความ 'คุณรอดชีวิตในรอบนี้!' ในหน้าต่างการจู่โจมรวมอยู่แล้ว. มันจะเป็นเรื่องที่ดีกว่าหาก 'Wave Survived mod' ถูกปิดการใช้งานหรือถูกลบออกจากโฟลเดอร์ mods",
+    "bai_detected_sydneyhud" : "ตรวจพบความเข้ากันไม่ได้กับ SydneyHUD",
+    "bai_detected_sydneyhud_desc" : "ตัวเลือก 'Enhanced Assault Banner' ของ SydneyHUD ไม่สามารถใช้งานร่วมกับ BAI และได้ถูกปิดการใช้งานอัตโนมัติ. ตัวเลือกดังกล่าวได้ถูกเปิดใช้งานใน BAI โดยใช้ชื่อว่า 'ข้อมูลการจู่โจมขั้นสูง' และ 'สถานะการจู่โจม'",	
 	
     "bai_show_wave_survived": "แสดงแบนเนอร์ 'คุณรอดชีวิตในรอบนี้!'",
     "bai_show_wave_survived_desc": "Show Wave Survived Banner: แสดงแบนเนอร์ 'คุณรอดชีวิตในรอบนี้!'(เหมือนกับในด่าน Safehouse Raid) ทุกครั้งหลังจากที่คุณและเพื่อนร่วมทีมรอดชีวิตจากช่วงการจู่โจมของตำรวจในแต่ละรอบ",
@@ -119,9 +145,12 @@
     "bai_show_spawns_left" : "แสดง 'จำนวนตำรวจที่เสริมกำลังได้'",
     "bai_show_spawns_left_desc" : "Show 'Spawns Left': แสดง 'จำนวนตำรวจที่เสริมกำลังได้' ในหน้าต่างการจู่โจม (เฉพาะโฮสต์เท่านั้น)",
 	
+    "hud_assault_alpha" : "การจู่โจมของตำรวจ",
     "hud_assault_endless" : "อยู่ระหว่างการจู่โจมไม่มีที่สิ้นสุดของตำรวจ",
+	"hud_assault_endless_alpha" : "การจู่โจมไม่มีที่สิ้นสุดของตำรวจ",
     "hud_assault_survived_endless" : "คุณรอดชีวิตในรอบนี้!",  
-
+    "hud_cover" : "เข้าที่กำบัง",
+	
     "hud_control" : "ควบคุม",
     "hud_anticipation" : "เตรียมจู่โจม",
     "hud_build" : "เข้าจู่โจม",
