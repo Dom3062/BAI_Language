@@ -12,6 +12,7 @@
     "bai_compatibility_6" : "SydneyHUD",
     "bai_compatibility_7" : "PD:TH HUD Reborn",
     "bai_compatibility_8" : "Restoration Mod",
+    "bai_compatibility_9" : "MUI",
 
     "bai_holoui" : "HoloUI Options",
     "bai_holoui_desc" : "Apply BAI specific settings to HoloUI",
@@ -149,7 +150,7 @@
     "hud_assault_endless" : "ENDLESS POLICE ASSAULT IN PROGRESS",
     "hud_assault_endless_alpha" : "ENDLESS POLICE ASSAULT",
     "hud_assault_survived_endless" : "ENDLESS WAVE SURVIVED",
-    "hud_cover" : "STAY IN THE COVER",
+    "hud_cover" : "STAY IN COVER",
 
     "hud_control" : "Control",
     "hud_anticipation" : "Anticipation",
