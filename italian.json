@@ -39,6 +39,11 @@
     "bai_c1" : "C1",
     "bai_c2" : "C2",
 
+    "bai_mui" : "Impostazioni MUI",
+    "bai_mui_desc" : "Applica delle impostazioni specifiche di BAI a MUI",
+    "bai_mui_assault_text" : "Mostra 'ASSALTO' invece che il nome della difficoltà",
+    "bai_mui_assault_text_desc" : "Quando attivato, verrà mostrato 'ASSALTO' invece che il nome della difficoltà nel pannello dell'assalto",
+
     "bai_button_ok" : "OK",
     "bai_detected_wolfhud" : "Rilevata incompatibilità con WolfHUD",
     "bai_detected_wolfhud_desc" : "L'opzione di WolfHUD 'Indicatore assalto avanzato' non è compatibile con BAI ed è stata disabilitata automaticamente.\nSarà possibile modificare l'indicatore tramite le opzioni 'Indicatore avanzato assalto' e 'Stati dell'assalto' di BAI.",
