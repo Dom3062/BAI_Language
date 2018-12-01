@@ -38,6 +38,11 @@
     "bai_restoration_mod_early_alpha_corner_only_desc" : "Ces choix affectent seulement le 'Coin Alpha anticipée' dans Restoration mod",
     "bai_c1" : "C1",
     "bai_c2" : "C2",
+
+    "bai_mui" : "Options de MUI",
+    "bai_mui_desc" : "Applique les options spécifiques de BAI à MUI",
+    "bai_mui_assault_text" : "Affiche le texte d' 'ASSAUT' au lieu du nom de la difficulté",
+    "bai_mui_assault_text_desc" : "Quand activé, cela affichera le texte d' 'ASSAUT'",
     
     "bai_button_ok" : "OK",
     "bai_detected_wolfhud" : "Incompatibilité détectée avec WolfHUD",
