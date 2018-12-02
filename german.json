@@ -22,6 +22,36 @@
     "bai_pdth_hud_reborn_custom_text_color" : "wende benutzerdefiniert Text farbe an",
     "bai_pdth_hud_reborn_custom_text_color_desc" : "Wenn deaktiviert, wird das Spiel die Farbe des vorstoßsymbols auf den Text anwenden",
 
+    "bai_restoration_mod" : "Restoration Mod Optionen",
+    "bai_restoration_mod_desc" : "füge bai-einstellungen zum restoration mod hinzu",
+    "bai_restoration_mod_alpha_tape_only" : "Alpha Tape only",
+    "bai_restoration_mod_alpha_tape_only_desc" : "diese auswahl beeinflusst nur 'Alpha Tape' im Restoration Mod",
+    "bai_restoration_mod_include_cover_text" : "schließt Cover Text mit ein",
+    "bai_restoration_mod_include_cover_text_desc" : "schließt 'bleibe in deckung' string in der Assault Box mit ein",
+    "bai_restoration_mod_use_alpha_assault_text" : "benutze Alpha vorstoß Text",
+    "bai_restoration_mod_use_alpha_assault_text_desc" : "benutze kürzere version von 'polizeivorstoß im gange' text",
+    "bai_restoration_mod_use_alpha_endless_text" : "benutze Alpha Endloser vorstoß Text",
+    "bai_restoration_mod_use_alpha_endless_text_desc" : "benutze kürzere version von 'ENDLoser Polizeivorstoß im gange' text",
+    "bai_restoration_mod_early_alpha_corner_only" : "Early Alpha Corner only",
+    "bai_restoration_mod_early_alpha_corner_only_desc" : "diese auswahl beeinflusst nur 'Early Alpha Corner' im Restoration Mod",
+    "bai_c1" : "F1",
+    "bai_c2" : "F2",
+
+    "bai_mui" : "MUI Optionen",
+    "bai_mui_desc" : "fügt bestimmte BAI einstellungen zu MUI hinzu",
+    "bai_mui_assault_text" : "zeige 'VORSTOß' text statt schwierigkeitsnamen",
+    "bai_mui_assault_text_desc" : "Wenn aktiviert, wird 'vorstoß' text statt dem schwierigkeitsname angezeigt",
+
+    "bai_button_ok" : "OK",
+    "bai_detected_wolfhud" : "stellt Inkompatibilität mit WolfHUD fest",
+    "bai_detected_wolfhud_desc" : "WolfHUD's 'erweiterte vorstoß info' option ist Inkompatibel mit BAI und wird automatisch deaktiviert. diese option wurde aktiviert in BAI unter den namen 'erweiterte vorstoß Info' und 'vorstoß Statistik'.",
+    "bai_detected_assault_states" : "stellt Inkompatibilität mit 'vorstoß statistik mod' fest",
+    "bai_detected_assault_states_desc" : "'assault states mod' ist Inkompatibel mit BAI. BAI hat eine eingebaute unterstützung für assault states. es wird vorgeschlagen 'Assault States mod'zu deaktivieren oder zu entfernen.",
+    "bai_detected_wave_survived" : "stellt Inkompatibilität mit 'Wave Survived mod' fest",
+    "bai_detected_wave_survived_desc" : "'Wave Survived mod' ist Inkompatibel mit BAI. BAI hat eine eingebaute unterstützung zum anzeigen vom welle überlebt text. es wird vorgeschlagen 'Wave Survived mod' zu deaktivieren oder zu entfernen.",
+    "bai_detected_sydneyhud" : "stellt Inkompatibilität mit SydneyHUD fest",
+    "bai_detected_sydneyhud_desc" : "SydneyHUD's 'Enhanced Assault Banner' option ist Inkompatibel mit BAI und wird automatisch abgestellt. diese option wurde aktiviert in BAI uunter den namen 'erweiterte vorstoß Info' and 'vorstoß statistik'.",
+
     "bai_show_wave_survived" : "Zeige Welle überlebt Banner",
     "bai_show_wave_survived_desc" : "Zeigt Welle überlebt Banner an(von Versteck-Razzia) jedesmal wenn du und deine Crew einen Polizeivorstoß überleben",
     
@@ -119,8 +149,11 @@
     "bai_show_spawns_left" : "zeigt 'übrige Spawns'",
     "bai_show_spawns_left_desc" : "zeigt 'übrige Spawns' im vorstoßfeld (Nur Host)",
     
+    "hud_assault_alpha" : "POLIzeivorstoß",
     "hud_assault_endless" : "Endloser Polizeivorstoß im Gange",
+    "hud_assault_endless_alpha" : "ENDLoser polizeivorstoß",
     "hud_assault_survived_endless" : "Endlose Welle überlebt",
+    "hud_cover" : "bleibe in deckung",
     
     "hud_control" : "Ruhephase",
     "hud_anticipation" : "Vorbereitung zum Vorstoß",

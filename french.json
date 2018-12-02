@@ -11,6 +11,8 @@
     "bai_compatibility_5" : "HoloUI", 
     "bai_compatibility_6" : "SydneyHUD",
     "bai_compatibility_7" : "PD:TH HUD Reborn",
+    "bai_compatibility_8" : "Restoration Mod",
+    "bai_compatibility_9" : "MUI",
 
     "bai_holoui" : "Options d'HoloUI", 
     "bai_holoui_desc" : "Applique les options spécifiques de BAI à HoloUI", 
@@ -21,6 +23,36 @@
     "bai_pdth_hud_reborn_desc" : "Applique les options spécifiques de BAI à PD:TH HUD Reborn",
     "bai_pdth_hud_reborn_custom_text_color" : "Utilise les couleurs customisées du texte",
     "bai_pdth_hud_reborn_custom_text_color_desc" : "Quand désactivé le jeu appliquera la couleur de l'îcone d'assaut au texte",
+    
+    "bai_restoration_mod" : "Options de Restoration Mod",
+    "bai_restoration_mod_desc" : "Applique les options spécifiques de BAI à Restoration Mod",
+    "bai_restoration_mod_alpha_tape_only" : "Ruban alpha seulement",
+    "bai_restoration_mod_alpha_tape_only_desc" : "Ces choix n’affectent seulement le 'bandeau Alpha' dans Restoration mod",
+    "bai_restoration_mod_include_cover_text" : "Inclure le texte de couverture",
+    "bai_restoration_mod_include_cover_text_desc" : "Inclus le texte 'RESTEZ EN COUVERTURE' dans la boite d'assaut",
+    "bai_restoration_mod_use_alpha_assault_text" : "Utiliser le texte d'assaut alpha",
+    "bai_restoration_mod_use_alpha_assault_text_desc" : "Utilise une version plus courte du texte 'ASSAUT POLICIER EN COURS'",
+    "bai_restoration_mod_use_alpha_endless_text" : "Utiliser le texte d'assaut sans fin alpha",
+    "bai_restoration_mod_use_alpha_endless_text_desc" : "Utilise une version plus courte du texte 'ASSAUT POLICIER SANS FIN EN COURS'",
+    "bai_restoration_mod_early_alpha_corner_only" : "Coin Alpha anticipée seulement",
+    "bai_restoration_mod_early_alpha_corner_only_desc" : "Ces choix affectent seulement le 'Coin Alpha anticipée' dans Restoration mod",
+    "bai_c1" : "C1",
+    "bai_c2" : "C2",
+
+    "bai_mui" : "Options de MUI",
+    "bai_mui_desc" : "Applique les options spécifiques de BAI à MUI",
+    "bai_mui_assault_text" : "Affiche le texte d' 'ASSAUT' au lieu du nom de la difficulté",
+    "bai_mui_assault_text_desc" : "Quand activé, cela affichera le texte d' 'ASSAUT'",
+    
+    "bai_button_ok" : "OK",
+    "bai_detected_wolfhud" : "Incompatibilité détectée avec WolfHUD",
+    "bai_detected_wolfhud_desc" : "L'option 'Informations d'assaut avancé' de WolfHUD n'est pas compatible avec BAI et a étée désactivée ; cette option a été activée dans BAI sous les noms 'Informations d'assaut avancés' et 'États d'assauts'.",
+    "bai_detected_assault_states" : "Incompatibilité détectée avec 'Assault States mod'",
+    "bai_detected_assault_states_desc" : "Il est recommandé de désactiver ou de supprimer 'Assault States mod', qui est incompatible avec BAI car il supporte déja les états d'assaut",
+    "bai_detected_wave_survived" : "Incompatibilité détectée avec 'Wave Survived mod'",
+    "bai_detected_wave_survived_desc" : "Il est recommandé de désactiver ou de supprimer 'Wave Survived mod', qui est incompatible avec BAI car il supporte déja les vagues survécues dans la bannière d'assaut.",
+    "bai_detected_sydneyhud" : "Incompatibilité détectée avec SydneyHUD",
+    "bai_detected_sydneyhud_desc" : "L'option 'Bannière d'assaut améliorée' de SydneyHUD n'est pas compatible avec BAI et a étée désactivée ; cette option a été activée dans BAI sous les noms 'Informations d'assaut avancés' et 'États d'assauts'.",
     
     "bai_show_wave_survived" : "Montrer les vagues survécues",
     "bai_show_wave_survived_desc" : "Montrer les vagues survécues (du Raid de la Planque) à chaque fois que vous et votre crew survivez à un assaut de police",
@@ -119,8 +151,11 @@
     "bai_show_spawns_left" : "Montre les 'Spawns restants'",
     "bai_show_spawns_left_desc" : "Montre les 'Spawns restants' dans la boite d'assaut (Hôte uniquement)",
     
+    "hud_assault_alpha" : "ASSAUT POLICIER",
     "hud_assault_endless" : "ASSAUT SANS FIN EN COURS",
+    "hud_assault_endless_alpha" : "ASSAUT POLICIER SANS FIN",
     "hud_assault_survived_endless" : "ASSAUT SANS FIN SURVÉCUE",
+    "hud_cover" : "RESTEZ EN COUVERTURE",
 
     "hud_control" : "Contrôle",
     "hud_anticipation" : "Anticipation",
@@ -139,4 +174,4 @@
     "hud_captain" : "CAPITAINE",
     "hud_captain_active" : "COMPLÊTEMENT RASSEMBLÉ",
     "hud_survived" : "SURVÉCU"
-}    
+}
