@@ -27,17 +27,22 @@
     "bai_restoration_mod" : "适用于 Restoration Mod 的选项",
     "bai_restoration_mod_desc" : "这些是为 Restoration Mod 而生的功能",
     "bai_restoration_mod_alpha_tape_only" : "仅影响右上角 Alpha 版横幅的选项",
-    "bai_restoration_mod_alpha_tape_only_desc" : " 这些选项仅影响右上角的 'Alpha Tape',
+    "bai_restoration_mod_alpha_tape_only_desc" : " 这些选项仅影响右上角的 'Alpha Tape'",
     "bai_restoration_mod_include_cover_text" : "在横幅中包含 'STAY IN THE COVER'",
     "bai_restoration_mod_include_cover_text_desc" : "在突击横幅中加上 'STAY IN THE COVER'",
     "bai_restoration_mod_use_alpha_assault_text" : "使用 Alpha 版的突击提示",
-    "bai_restoration_mod_use_alpha_assault_text_desc" : "更简短的 '警方突击进行中'"
+    "bai_restoration_mod_use_alpha_assault_text_desc" : "更简短的 '警方突击进行中'",
     "bai_restoration_mod_use_alpha_endless_text" : "使用 Alpha 版的无尽突击提示",
     "bai_restoration_mod_use_alpha_endless_text_desc" : "更简短的 '警方无尽无锡中'",
     "bai_restoration_mod_early_alpha_corner_only" : "仅影响 '早期 Alpha 边角' 的选项",
     "bai_restoration_mod_early_alpha_corner_only_desc" : "这些选项仅影响 Restoration Mod 的 '早期 Alpha 边角' ",
     "bai_c1" : "C1",
     "bai_c2" : "C2",
+
+    "bai_mui" : "MUI Options",
+    "bai_mui_desc" : "Apply BAI specific settings to MUI",
+    "bai_mui_assault_text" : "Show 'ASSAULT' text instead of difficulty name",
+    "bai_mui_assault_text_desc" : "When enabled, it will show 'ASSAULT' text instead of difficulty name on the assault panel",
 
     "bai_button_ok" : "OK",
     "bai_detected_wolfhud" : "侦测到已启用的 WolfHUD",
@@ -145,6 +150,11 @@
 	
     "bai_show_spawns_left" : "显示 '剩余敌人数量'",
     "bai_show_spawns_left_desc" : "在突击横幅中显示 '剩余敌人数量'(仅作为主机时可用)",
+
+    "bai_use_custom_text" : "Use Custom Text",
+    "bai_use_custom_text_desc" : "If enabled, HUD will use your text below instead of default one provided by game or BAI",
+    "bai_custom_text" : "Custom Text Here",
+    "bai_custom_text_desc" : "Write your custom text here",
 
     "hud_assault_alpha" : "警方突击进行中",
     "hud_assault_endless" : "警方无尽突击进行中",
