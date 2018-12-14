@@ -151,6 +151,11 @@
     "bai_show_spawns_left" : "Montre les 'Spawns restants'",
     "bai_show_spawns_left_desc" : "Montre les 'Spawns restants' dans la boite d'assaut (Hôte uniquement)",
     
+    "bai_use_custom_text" : "Utilise le texte personnalisé",
+    "bai_use_custom_text_desc" : "Si activé, l'HUD utilisera votre texte ci-dessous au lieu de celui par défaut du jeu ou de BAI",
+    "bai_custom_text" : "Texte personalisé ici",
+    "bai_custom_text_desc" : "Écrivez votre texte personnalisé ici",
+    
     "hud_assault_alpha" : "ASSAUT POLICIER",
     "hud_assault_endless" : "ASSAUT SANS FIN EN COURS",
     "hud_assault_endless_alpha" : "ASSAUT POLICIER SANS FIN",
