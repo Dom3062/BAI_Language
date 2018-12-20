@@ -27,17 +27,22 @@
     "bai_restoration_mod" : "适用于 Restoration Mod 的选项",
     "bai_restoration_mod_desc" : "这些是为 Restoration Mod 而生的功能",
     "bai_restoration_mod_alpha_tape_only" : "仅影响右上角 Alpha 版横幅的选项",
-    "bai_restoration_mod_alpha_tape_only_desc" : " 这些选项仅影响右上角的 'Alpha Tape',
+    "bai_restoration_mod_alpha_tape_only_desc" : " 这些选项仅影响右上角的 'Alpha Tape'",
     "bai_restoration_mod_include_cover_text" : "在横幅中包含 'STAY IN THE COVER'",
     "bai_restoration_mod_include_cover_text_desc" : "在突击横幅中加上 'STAY IN THE COVER'",
     "bai_restoration_mod_use_alpha_assault_text" : "使用 Alpha 版的突击提示",
-    "bai_restoration_mod_use_alpha_assault_text_desc" : "更简短的 '警方突击进行中'"
+    "bai_restoration_mod_use_alpha_assault_text_desc" : "更简短的 '警方突击进行中'",
     "bai_restoration_mod_use_alpha_endless_text" : "使用 Alpha 版的无尽突击提示",
     "bai_restoration_mod_use_alpha_endless_text_desc" : "更简短的 '警方无尽无锡中'",
     "bai_restoration_mod_early_alpha_corner_only" : "仅影响 '早期 Alpha 边角' 的选项",
     "bai_restoration_mod_early_alpha_corner_only_desc" : "这些选项仅影响 Restoration Mod 的 '早期 Alpha 边角' ",
     "bai_c1" : "C1",
     "bai_c2" : "C2",
+
+    "bai_mui" : "适用于 MUI 的选项",
+    "bai_mui_desc" : "这些是为 MUI 而生的功能",
+    "bai_mui_assault_text" : "将横幅中的难度名称替换为 '突击进行中' ",
+    "bai_mui_assault_text_desc" : "启用该选项时, 横幅中的难度名称将被替换为 '突击进行中' ",
 
     "bai_button_ok" : "OK",
     "bai_detected_wolfhud" : "侦测到已启用的 WolfHUD",
@@ -60,8 +65,8 @@
     "bai_completely_hide_hostage_panel" : "完全隐藏人质面板",
     "bai_completely_hide_hostage_panel_desc" : "当你进入一个劫案时,不显示人质面板.\n当打钩时,分时候隐藏人质面板的选项无效",
 
-    "bai_show_difficulty_name_instead_of_skulls" : "显示难度名而不显示骷髅数",
-    "bai_show_difficulty_name_instead_of_skulls_desc" : "在突击横幅中显示当前难度名称而不显示难度等级\n挑战模式下无效",
+    "bai_show_difficulty_name_instead_of_skulls" : "将横幅中难度显示替换为难度名称",
+    "bai_show_difficulty_name_instead_of_skulls_desc" : "在突击横幅中显示当前难度名称而不显示难度等级（X 个骷髅头）\n挑战模式下无效",
 
     "bai_host_only" : "当你作为主机时...",
     "bai_client_only" : "当你作为一名玩家时...",
@@ -145,6 +150,15 @@
 	
     "bai_show_spawns_left" : "显示 '剩余敌人数量'",
     "bai_show_spawns_left_desc" : "在突击横幅中显示 '剩余敌人数量'(仅作为主机时可用)",
+
+    "bai_use_custom_text" : "使用自定义文本",
+    "bai_use_custom_text_desc" : "启用该功能时, HUD 将把你输入的内容替换掉游戏原本就有的或 BAI修改的文字. 如: CText///Overkill. ",
+    "bai_text" : "Text",
+    "bai_text_desc" : "Write your custom text as long as you want",
+    "bai_text_short" : "Text (Short)",
+    "bai_text_short_desc" : "Some HUDs have small Assault Box and uses shorter text instead. Write your custom text as short as possible",
+    "bai_custom_text" : "输入你需要的内容",
+    "bai_custom_text_desc" : "在这里输入你想在突击横幅中看到的内容",
 
     "hud_assault_alpha" : "警方突击进行中",
     "hud_assault_endless" : "警方无尽突击进行中",

@@ -150,6 +150,15 @@
 
     "bai_show_spawns_left" : "Show 'Spawns Left'",
     "bai_show_spawns_left_desc" : "Shows 'Spawns Left' in the Assault Box (Host only)",
+
+    "bai_use_custom_text" : "Use Custom Text",
+    "bai_use_custom_text_desc" : "If enabled, HUD will use your text below instead of default one provided by game or BAI",
+    "bai_text" : "Text",
+    "bai_text_desc" : "Write your custom text as long as you want",
+    "bai_text_short" : "Text (Short)",
+    "bai_text_short_desc" : "Some HUDs have small Assault Box and uses shorter text instead. Write your custom text as short as possible",
+    "bai_custom_text" : "Custom Text Here",
+    "bai_custom_text_desc" : "Write your custom text here",
     
     "hud_assault_alpha" : "POLICE ASSAULT",
     "hud_assault_endless" : "ENDLESS POLICE ASSAULT IN PROGRESS",
