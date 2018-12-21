@@ -153,10 +153,10 @@
 
     "bai_use_custom_text" : "使用自定义文本",
     "bai_use_custom_text_desc" : "启用该功能时, HUD 将把你输入的内容替换掉游戏原本就有的或 BAI修改的文字. 如: CText///Overkill. ",
-    "bai_text" : "Text",
-    "bai_text_desc" : "Write your custom text as long as you want",
-    "bai_text_short" : "Text (Short)",
-    "bai_text_short_desc" : "Some HUDs have small Assault Box and uses shorter text instead. Write your custom text as short as possible",
+    "bai_text" : "自定义文本",
+    "bai_text_desc" : "随便写点你想要的东西，多长都可以.",
+    "bai_text_short" : "自定义文本 (简短)",
+    "bai_text_short_desc" : "有些 HUD 会使用小一点都横幅. 尽可能写的简短一些.",
     "bai_custom_text" : "输入你需要的内容",
     "bai_custom_text_desc" : "在这里输入你想在突击横幅中看到的内容",
 
