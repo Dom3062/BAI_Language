@@ -11,6 +11,8 @@
     "bai_compatibility_5" : "HoloUI",
     "bai_compatibility_6" : "SydneyHUD",
     "bai_compatibility_7" : "PD:TH HUD Reborn",
+    "bai_compatibility_8" : "Restoration Mod",
+    "bai_compatibility_9" : "MUI",
 
     "bai_holoui" : "HoloUI einstellungen",
     "bai_holoui_desc" : "wende spezielle Bai einstellungen bei HoloUI an",
@@ -148,6 +150,15 @@
 
     "bai_show_spawns_left" : "zeigt 'übrige Spawns'",
     "bai_show_spawns_left_desc" : "zeigt 'übrige Spawns' im vorstoßfeld (Nur Host)",
+
+    "bai_use_custom_text" : "benutzerdefinierter Text",
+    "bai_use_custom_text_desc" : "wenn aktiviert, wird der untere text für das HUD verwendet",
+    "bai_text" : "Text",
+    "bai_text_desc" : "trage hier deinen persönlichen text ein der so lang sein kann wie du willst",
+    "bai_text_short" : "Text (kurz)",
+    "bai_text_short_desc" : "manche huds haben eine kleines vorstoßfeld und benutzen kürzere texte deswegen. schreibe deinen persönlichen text der so kurz wie möglich sein sollte ",
+    "bai_custom_text" : "persönlicher text hier",
+    "bai_custom_text_desc" : "trage hier deinen persönlichen text ein",
     
     "hud_assault_alpha" : "POLIzeivorstoß",
     "hud_assault_endless" : "Endloser Polizeivorstoß im Gange",
