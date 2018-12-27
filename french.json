@@ -153,6 +153,10 @@
     
     "bai_use_custom_text" : "Utilise le texte personnalisé",
     "bai_use_custom_text_desc" : "Si activé, l'HUD utilisera votre texte ci-dessous au lieu de celui par défaut du jeu ou de BAI",
+    "bai_text" : "Texte",
+    "bai_text_desc" : "Écrivez votre texte de la longueur souhaitée",
+    "bai_text_short" : "Texte (Court)",
+    "bai_text_short_desc" : "Certains HUDs ont des petites boites d'assaut et utilise des textes plus courts à la place. Écrivez votre texte personnalisé le plus court possible",
     "bai_custom_text" : "Texte personalisé ici",
     "bai_custom_text_desc" : "Écrivez votre texte personnalisé ici",
     
