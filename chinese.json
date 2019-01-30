@@ -70,9 +70,6 @@
 
     "bai_host_only" : "当你作为主机时...",
     "bai_client_only" : "当你作为一名玩家时...",
-
-    "bai_trigger_endless_assault_client" : "在支持的关卡下显示'无尽突击'",
-    "bai_trigger_endless_assault_client_desc" : "当你作为玩家时且在支持的关卡下在突击横幅显示'无尽突击'. 当你作为主机/主机有这个MOD时此选项将被无视. 此选项启用时游戏性能可能会受小许影响.",
     
     "bai_r" : "红色数值",
     "bai_r_desc" : "设置红色的数值 (仅限使用整数; 例: 28.55 -> 将使用 28)",

@@ -71,9 +71,6 @@
     "bai_host_only" : "Nur Host",
     "bai_client_only" : "Nur Client",
 
-    "bai_trigger_endless_assault_client" : "Zeige endlose Vorstoße",
-    "bai_trigger_endless_assault_client_desc" : "Zeigt endlosen Vorstoß bei unterstützten Raube an wenn du Client bist. Diese Einstellung wird ignoriert wenn du hostest oder Host diesen Mod hat. du wirst vieleicht kleine Leistungseinbußen haben wenn diese Option eingeschalted ist.",
-    
     "bai_r" : "Rot",
     "bai_r_desc" : "Roten Wert einstellen (Nur ganze zahlen werden benutzt(abgerundet); bsp.: 28.55 -> 28)",
     "bai_g" : "Grün",

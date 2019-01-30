@@ -71,9 +71,6 @@
     "bai_host_only" : "Seulement pour l'hôte",
     "bai_client_only" : "Seulement pour le client",
 
-    "bai_trigger_endless_assault_client" : "Montrer l'assaut sans fin",
-    "bai_trigger_endless_assault_client_desc" : "Montrer l'assaut sans fin sur les braquages supportés quand vous êtes client mais cela risquera d'occasionner des ralentissements. Cette option est ignorée si vous hébergez ou si l'hôte à ce mod",
-
     "bai_padlock_end_line" : "Afficher l'image du cadenas à la place de ///",
     "bai_padlock_end_line_endless_assault_desc" : "Afficher l'image du cadenas à la place de /// pendant l'assaut sans fin.\nNote: Certains huds (comme Void UI) ont cette option activée par défaut et ne peut être désactivé",
     "bai_padlock_end_line_endless_wave_survived_desc" : "fficher l'image du cadenas à la place de /// dans 'ASSAUT SANS FIN SURVÉCUE'.\nNote: Certains huds (comme Void UI) ont cette option activée par défaut et ne peut être désactivé",

@@ -70,9 +70,6 @@
 
     "bai_host_only" : "Host only",
     "bai_client_only" : "Client only",
-
-    "bai_trigger_endless_assault_client" : "Show Endless Assault on Supported Heists",
-    "bai_trigger_endless_assault_client_desc" : "Show Endless Assault on Supported Heists when you are client. This setting is ignored when you are hosting or host have this mod. You may experience little performance penalty when this setting is enabled.",
     
     "bai_r" : "Red",
     "bai_r_desc" : "Sets red value (only the whole number is used; eg: 28.55 -> used 28)",
@@ -131,13 +128,13 @@
     "bai_enabled_assault_desc" : "If checked, it will show in the Assault Box. If not, the Assault Box will show normal assault instead",
 
     "bai_show_advanced_assault_info" : "Show Advanced Assault Info",
-    "bai_show_advanced_assault_info_desc" : "Shows 'Spawns Left' and 'Time Left' information in the Assault Box\nThis info is not available on endless assault and when captain is present",
+    "bai_show_advanced_assault_info_desc" : "Shows 'Spawns Left' and 'Time Left' information in the Assault Box\nThe info is not available on endless assault and when captain is present",
 
     "bai_advanced_assault_info" : "Advanced Assault Info",
     "bai_advanced_assault_info_desc" : "Changes Advanced Assault Info.\n'Show Advanced Assault Info' must be enabled in order to work. Some options will not work on client.",
 
     "bai_show_time_left" : "Show 'Time Left'",
-    "bai_show_time_left_desc" : "Shows 'Time Left' in the Assault Box\nThis option is not accurate on client when host does not have this option enabled.",
+    "bai_show_time_left_desc" : "Shows 'Time Left' in the Assault Box\nThis option is not accurate on client when host does not have BAI running.",
     
     "bai_time_format" : "Time Format",
     "bai_time_format_desc" : "Changes Time Format showed with 'Time Left' info",
