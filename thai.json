@@ -23,6 +23,8 @@
     "bai_pdth_hud_reborn_desc" : "ใช้การตั้งค่าเฉพาะของ BAI กับ PD:TH HUD Reborn",
     "bai_pdth_hud_reborn_custom_text_color" : "เลือกสีข้อความแบบกำหนดเอง",
     "bai_pdth_hud_reborn_custom_text_color_desc" : "เมื่อปิดตัวเลือกนี้ เกมจะทำการใช้สีข้อความจากไอคอนแสดงการจู่โจม",
+    "bai_pdth_hud_reborn_aai_only_text" : "เลือกสีให้กับ 'แสดงข้อมูลการจู่โจมขั้นสูง' เท่านั้น",
+    "bai_pdth_hud_reborn_aai_only_text_desc" : "ใช้ตัวเลือกสีด้านล่างให้กับ 'เวลาจู่โจมที่เหลือ' และ 'ศัตรูที่เหลือ'.\nตัวเลือก 'เลือกสีข้อความแบบกำหนดเอง' ต้องถูกเปิดใช้งาน",
 
     "bai_restoration_mod" : "ตัวเลือก Restoration Mod",
     "bai_restoration_mod_desc" : "ใช้การตั้งค่าเฉพาะของ BAI กับ Restoration Mod",
@@ -171,7 +173,9 @@
 	
     "hud_overdue" : "เกินเวลา",
     "hud_time_left" : "เหลือเวลา: ",
+	"hud_time_left_short" : "เวลา: ",
     "hud_spawns_left" : "ศัตรูที่เหลือ: ",
+    "hud_spawns_left_short" : "ศัตรู: ",
     "hud_min" : "นาที",
     "hud_s" : "วินาที",
 	
