@@ -23,6 +23,8 @@
     "bai_pdth_hud_reborn_desc" : "Apply BAI specific settings to PD:TH HUD Reborn",
     "bai_pdth_hud_reborn_custom_text_color" : "Use Custom Text Color",
     "bai_pdth_hud_reborn_custom_text_color_desc" : "When disabled the game will apply assault icon's color to text",
+    "bai_pdth_hud_reborn_aai_only_text" : "Apply color to Advanced Assault Info only",
+    "bai_pdth_hud_reborn_aai_only_text_desc" : "Only apply the color below to 'Time Left' and 'Spawns Left'.\n'Use Custom Text Color' must be enabled in order to work",
 
     "bai_restoration_mod" : "Restoration Mod Options",
     "bai_restoration_mod_desc" : "Apply BAI specific settings to Restoration Mod",
@@ -70,9 +72,6 @@
 
     "bai_host_only" : "Host only",
     "bai_client_only" : "Client only",
-
-    "bai_trigger_endless_assault_client" : "Show Endless Assault on Supported Heists",
-    "bai_trigger_endless_assault_client_desc" : "Show Endless Assault on Supported Heists when you are client. This setting is ignored when you are hosting or host have this mod. You may experience little performance penalty when this setting is enabled.",
     
     "bai_r" : "Red",
     "bai_r_desc" : "Sets red value (only the whole number is used; eg: 28.55 -> used 28)",
@@ -131,13 +130,13 @@
     "bai_enabled_assault_desc" : "If checked, it will show in the Assault Box. If not, the Assault Box will show normal assault instead",
 
     "bai_show_advanced_assault_info" : "Show Advanced Assault Info",
-    "bai_show_advanced_assault_info_desc" : "Shows 'Spawns Left' and 'Time Left' information in the Assault Box\nThis info is not available on endless assault and when captain is present",
+    "bai_show_advanced_assault_info_desc" : "Shows 'Spawns Left' and 'Time Left' information in the Assault Box\nThe info is not available on endless assault and when captain is present",
 
     "bai_advanced_assault_info" : "Advanced Assault Info",
     "bai_advanced_assault_info_desc" : "Changes Advanced Assault Info.\n'Show Advanced Assault Info' must be enabled in order to work. Some options will not work on client.",
 
     "bai_show_time_left" : "Show 'Time Left'",
-    "bai_show_time_left_desc" : "Shows 'Time Left' in the Assault Box\nThis option is not accurate on client when host does not have this option enabled.",
+    "bai_show_time_left_desc" : "Shows 'Time Left' in the Assault Box\nThis option is not accurate on client when host does not have BAI running",
     
     "bai_time_format" : "Time Format",
     "bai_time_format_desc" : "Changes Time Format showed with 'Time Left' info",
@@ -149,7 +148,7 @@
     "bai_time_format_6" : "xx:yy",
 
     "bai_show_spawns_left" : "Show 'Spawns Left'",
-    "bai_show_spawns_left_desc" : "Shows 'Spawns Left' in the Assault Box (Host only)",
+    "bai_show_spawns_left_desc" : "Shows 'Spawns Left' in the Assault Box",
 
     "bai_use_custom_text" : "Use Custom Text",
     "bai_use_custom_text_desc" : "If enabled, HUD will use your text below instead of default one provided by game or BAI",
@@ -174,7 +173,9 @@
 
     "hud_overdue" : "Overdue",
     "hud_time_left" : "Time Left: ",
+    "hud_time_left_short" : "Time: ",
     "hud_spawns_left" : "Spawns Left: ",
+    "hud_spawns_left_short" : "Spawns: ",
     "hud_min" : "min",
     "hud_s" : "s",
 

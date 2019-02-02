@@ -70,9 +70,6 @@
 
     "bai_host_only" : "当你作为主机时...",
     "bai_client_only" : "当你作为一名玩家时...",
-
-    "bai_trigger_endless_assault_client" : "在支持的关卡下显示'无尽突击'",
-    "bai_trigger_endless_assault_client_desc" : "当你作为玩家时且在支持的关卡下在突击横幅显示'无尽突击'. 当你作为主机/主机有这个MOD时此选项将被无视. 此选项启用时游戏性能可能会受小许影响.",
     
     "bai_r" : "红色数值",
     "bai_r_desc" : "设置红色的数值 (仅限使用整数; 例: 28.55 -> 将使用 28)",
@@ -153,10 +150,10 @@
 
     "bai_use_custom_text" : "使用自定义文本",
     "bai_use_custom_text_desc" : "启用该功能时, HUD 将把你输入的内容替换掉游戏原本就有的或 BAI修改的文字. 如: CText///Overkill. ",
-    "bai_text" : "Text",
-    "bai_text_desc" : "Write your custom text as long as you want",
-    "bai_text_short" : "Text (Short)",
-    "bai_text_short_desc" : "Some HUDs have small Assault Box and uses shorter text instead. Write your custom text as short as possible",
+    "bai_text" : "自定义文本",
+    "bai_text_desc" : "随便写点你想要的东西，多长都可以.",
+    "bai_text_short" : "自定义文本 (简短)",
+    "bai_text_short_desc" : "有些 HUD 会使用小一点都横幅. 尽可能写的简短一些.",
     "bai_custom_text" : "输入你需要的内容",
     "bai_custom_text_desc" : "在这里输入你想在突击横幅中看到的内容",
 

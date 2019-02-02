@@ -71,9 +71,6 @@
     "bai_host_only" : "Solo Host",
     "bai_client_only" : "Solo Client",
  
-    "bai_trigger_endless_assault_client" : "Mostra Assalto Infinito quando supportato",
-    "bai_trigger_endless_assault_client_desc" : "Mostra l'Assalto Infinito nelle missioni supportate quando sei un client\nQuesta impostazione è ignorata quando sei l'host o se anche l'host possiede questa mod",
-   
     "bai_r" : "Rosso",
     "bai_r_desc" : "Imposta il valore rosso del colore (verranno usati solo numeri interi; es: 28.55 -> 28)",
     "bai_g" : "Verde",
@@ -149,7 +146,16 @@
     "bai_time_format_6" : "xx:yy",
 
     "bai_show_spawns_left" : "Mostra 'Rinforzi rimanenti'",
-    "bai_show_spawns_left_desc" : "Mostra l'informazione 'Rinforzi rimanenti' nella barra dell'assalto (Solo Host)",    
+    "bai_show_spawns_left_desc" : "Mostra l'informazione 'Rinforzi rimanenti' nella barra dell'assalto (Solo Host)",
+
+    "bai_use_custom_text" : "Usa testo personalizzato",
+    "bai_use_custom_text_desc" : "Se attivo, l'HUD utilizzerà questo testo invece di quello di default",
+    "bai_text" : "Testo",
+    "bai_text_desc" : "Scrivi il tuo testo personalizzato (Nessuna restrizione sulla lunghezza)",
+    "bai_text_short" : "Testo (corto)",
+    "bai_text_short_desc" : "Alcuni HUD hanno un indicatore dell'assalto ridotto e perciò utilizzano stringhe più corte. Scrivi il tuo testo personalizzato (Più corto possibile)",
+    "bai_custom_text" : "Testo personalizzato",
+    "bai_custom_text_desc" : "Scrivi qui il tuo testo personalizzato",
 
     "hud_assault_alpha" : "ASSALTO DELLA POLIZIA",
     "hud_assault_endless" : "ASSALTO DELLA POLIZIA INFINITO IN CORSO",
