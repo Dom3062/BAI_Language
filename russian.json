@@ -23,7 +23,9 @@
     "bai_pdth_hud_reborn_desc" : "Применить настройки BAI к PD:TH HUD Reborn",
     "bai_pdth_hud_reborn_custom_text_color" : "Использовать кастомный цвет текста",
     "bai_pdth_hud_reborn_custom_text_color_desc" : "Когда выключено, игра будет использовать цвет текста как цвет иконки осады.",
-    
+    "bai_pdth_hud_reborn_aai_only_text" : "Применять цвет только к Подробной информации об осаде",
+    "bai_pdth_hud_reborn_aai_only_text_desc" : "Применяется только к 'времени осталось' и 'спаунов осталось'.\n Должна быть включена опция 'кастомный цвет текста'",
+
     "bai_restoration_mod" : "Настройки Restoration Mod",
     "bai_restoration_mod_desc" : "Применить настройки Мода для Restoration Mod",
     "bai_restoration_mod_alpha_tape_only" : "Только для Alpha Tape",
@@ -146,7 +148,7 @@
     "bai_time_format_6" : "xx:yy",
 
     "bai_show_spawns_left" : "Показывать 'Спаунов осталось'",
-    "bai_show_spawns_left_desc" : "Показывать сколько 'Спаунов осталось' на панели осады.(Только для хоста)",
+    "bai_show_spawns_left_desc" : "Показывать сколько 'Спаунов осталось' на панели осады.",
     
     "bai_use_custom_text" : "Использовать Собственный Текст",
     "bai_use_custom_text_desc" : "Когда включено, Интерфейс будет использовать ваш текст вместо стандартного текста мода или игры.",
