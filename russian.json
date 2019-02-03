@@ -173,10 +173,12 @@
 
     "hud_overdue" : "Запоздание",
     "hud_time_left" : "Времени осталось: ",
-    "hud_spawns_left" : "Спаунов осталось: ",
+    "hud_time_left_short" : "Время: ",
+    "hud_spawns_left" : "Врагов осталось: ",
+    "hud_spawns_left_short" : "Враги: ",
     "hud_min" : "мин",
     "hud_s" : "с",
-
+    
     "hud_assault" : "ОСАДА",
     "hud_endless" : "БЕСКОНЕЧНАЯ",
     "hud_captain" : "КАПИТАН",
