@@ -23,6 +23,8 @@
     "bai_pdth_hud_reborn_desc" : "Applique les options spécifiques de BAI à PD:TH HUD Reborn",
     "bai_pdth_hud_reborn_custom_text_color" : "Utilise les couleurs customisées du texte",
     "bai_pdth_hud_reborn_custom_text_color_desc" : "Quand désactivé le jeu appliquera la couleur de l'îcone d'assaut au texte",
+    "bai_pdth_hud_reborn_aai_only_text" : "Applique la couleur à la bannière d'assaut seulement",
+    "bai_pdth_hud_reborn_aai_only_text_desc" : "N'applique la couleur en dessous de 'Temps restant' et de 'spawns restants'.\n 'Utilise les couleurs customisées du texte' doit être activé pour que cela fonctionne",
     
     "bai_restoration_mod" : "Options de Restoration Mod",
     "bai_restoration_mod_desc" : "Applique les options spécifiques de BAI à Restoration Mod",
@@ -146,7 +148,7 @@
     "bai_time_format_6" : "xx:yy",
 
     "bai_show_spawns_left" : "Montre les 'Spawns restants'",
-    "bai_show_spawns_left_desc" : "Montre les 'Spawns restants' dans la boite d'assaut (Hôte uniquement)",
+    "bai_show_spawns_left_desc" : "Montre les 'Spawns restants' dans la boite d'assaut",
     
     "bai_use_custom_text" : "Utilise le texte personnalisé",
     "bai_use_custom_text_desc" : "Si activé, l'HUD utilisera votre texte ci-dessous au lieu de celui par défaut du jeu ou de BAI",
@@ -171,7 +173,9 @@
     
     "hud_overdue" : "Retard",
     "hud_time_left" : "Temps restant: ",
+    "hud_time_left_short" : "Temps: ",
     "hud_spawns_left" : "Spawns restants: ",
+    "hud_spawns_left_short" : "Spawns: ",
     "hud_min" : "min",
     "hud_s" : "s",
     
