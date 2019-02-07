@@ -23,8 +23,8 @@
     "bai_pdth_hud_reborn_desc" : "这些是为 PD:TH HUD 重制版而生的功能",
     "bai_pdth_hud_reborn_custom_text_color" : "使用自定义文字颜色",
     "bai_pdth_hud_reborn_custom_text_color_desc" : "禁用该功能时会将突击图标的颜色应用于显示的文字上",
-    "bai_pdth_hud_reborn_aai_only_text" : "Apply color to Advanced Assault Info only",
-    "bai_pdth_hud_reborn_aai_only_text_desc" : "Only apply the color below to 'Time Left' and 'Spawns Left'.\n'Use Custom Text Color' must be enabled in order to work",
+    "bai_pdth_hud_reborn_aai_only_text" : "仅将自定义颜色应用到突击状态显示",
+    "bai_pdth_hud_reborn_aai_only_text_desc" : "仅将自定义颜色应用于 '剩余时间' 和 '剩余敌人数量' 上。\n'使用自定义文字颜色' 必须为启用状态。
 
     "bai_restoration_mod" : "适用于 Restoration Mod 的选项",
     "bai_restoration_mod_desc" : "这些是为 Restoration Mod 而生的功能",
@@ -136,8 +136,7 @@
     "bai_show_advanced_assault_info_desc" : "在突击横幅中显示剩余的敌人数量和剩余时间\n此功能在无尽突击下或队长到达时不可用。当你作为玩家时有些选项将不可用.",
 	
     "bai_show_time_left" : "显示 '剩余时间'",
-    "bai_show_time_left_desc" : "Shows 'Time Left' in the Assault Box\nThis option is not accurate on client when host does not have BAI running",
-    "bai_show_time_left_desc" : "在突击横幅中显示 '剩余时间'\n当你这边的主机没有开启这个选项时所显示的数值将不准确.",
+    "bai_show_time_left_desc" : "在突击横幅中显示 '剩余时间'\n当你这边的主机没有安装或启用 BAI 时所显示的数值将不准确.",
 
     "bai_time_format" : "时间格式",
     "bai_time_format_desc" : "设定突击横幅中 '剩余时间' 的显示格式",
@@ -174,9 +173,9 @@
 
     "hud_overdue" : "突击延时中",
     "hud_time_left" : "剩余时间: ",
-    "hud_time_left_short" : "Time: ",
+    "hud_time_left_short" : "时间: ",
     "hud_spawns_left" : "剩余敌人: ",
-    "hud_spawns_left_short" : "Spawns: ",
+    "hud_spawns_left_short" : "敌人数: ",
     "hud_min" : "分钟",
     "hud_s" : "秒",
 
