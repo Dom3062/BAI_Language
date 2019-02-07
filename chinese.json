@@ -136,8 +136,7 @@
     "bai_show_advanced_assault_info_desc" : "在突击横幅中显示剩余的敌人数量和剩余时间\n此功能在无尽突击下或队长到达时不可用。当你作为玩家时有些选项将不可用.",
 	
     "bai_show_time_left" : "显示 '剩余时间'",
-    "bai_show_time_left_desc" : "Shows 'Time Left' in the Assault Box\nThis option is not accurate on client when host does not have BAI running",
-    "bai_show_time_left_desc" : "在突击横幅中显示 '剩余时间'\n当你这边的主机没有开启这个选项时所显示的数值将不准确.",
+    "bai_show_time_left_desc" : "在突击横幅中显示 '剩余时间'\n当你这边的主机没装 BAI 时所显示的数值将不准确.",
 
     "bai_time_format" : "时间格式",
     "bai_time_format_desc" : "设定突击横幅中 '剩余时间' 的显示格式",
