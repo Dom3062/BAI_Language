@@ -24,7 +24,7 @@
     "bai_pdth_hud_reborn_custom_text_color" : "使用自定义文字颜色",
     "bai_pdth_hud_reborn_custom_text_color_desc" : "禁用该功能时会将突击图标的颜色应用于显示的文字上",
     "bai_pdth_hud_reborn_aai_only_text" : "仅将自定义颜色应用到突击状态显示",
-    "bai_pdth_hud_reborn_aai_only_text_desc" : "仅将自定义颜色应用于 '剩余时间' 和 '剩余敌人数量' 上。\n'使用自定义文字颜色' 必须为启用状态。
+    "bai_pdth_hud_reborn_aai_only_text_desc" : "仅将自定义颜色应用于 '剩余时间' 和 '剩余敌人数量' 上。\n'使用自定义文字颜色' 必须为启用状态。",
 
     "bai_restoration_mod" : "适用于 Restoration Mod 的选项",
     "bai_restoration_mod_desc" : "这些是为 Restoration Mod 而生的功能",
