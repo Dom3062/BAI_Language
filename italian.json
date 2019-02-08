@@ -23,6 +23,8 @@
     "bai_pdth_hud_reborn_desc" : "Modifica delle impostazioni specifiche della mod PD:TH HUD Reborn",
     "bai_pdth_hud_reborn_custom_text_color" : "Usa colore del testo personalizzato",
     "bai_pdth_hud_reborn_custom_text_color_desc" : "Se disabilitato, il gioco userà il colore dell'icona per colorare il testo",
+    "bai_pdth_hud_reborn_aai_only_text" : "Applica il colore solo ad 'Advanced Assault Info'",
+    "bai_pdth_hud_reborn_aai_only_text_desc" : "Applica il colore solo alle info 'Tempo rimanente' e 'Spawn rimasti'.\n'Usa colore testo personalizzato' deve essere attivato per funzionare",
 
     "bai_restoration_mod" : "Impostazioni Restoration Mod",
     "bai_restoration_mod_desc" : "Applica delle impostazioni specifiche di BAI a Restoration Mod",
@@ -134,7 +136,7 @@
     "bai_advanced_assault_info_desc" : "Modifica le impostazioni avanzate dell'assalto.\n'Mostra informazioni avanzate assalto' deve essere attivo per funzionare. Alcune impostazioni non funzioneranno quando stai giocando come client.",    
 
     "bai_show_time_left" : "Mostra 'Tempo rimanente'",
-    "bai_show_time_left_desc" : "Mostra l'informazione 'Tempo rimanente' nella barra dell'assalto.\nQuesta informazione non sarà accurata quando stai giocando come client e l'host non ha questa impostazione attiva.",    
+    "bai_show_time_left_desc" : "Mostra l'informazione 'Tempo rimanente' nella barra dell'assalto.\nQuesta informazione non sarà accurata se stai giocando come client e l'host non ha attivo BAI.",  
 
     "bai_time_format" : "Formato tempo",
     "bai_time_format_desc" : "Cambia il formato del tempo mostrato con l'informazione 'Tempo rimasto' dell'assalto",
@@ -146,7 +148,7 @@
     "bai_time_format_6" : "xx:yy",
 
     "bai_show_spawns_left" : "Mostra 'Rinforzi rimanenti'",
-    "bai_show_spawns_left_desc" : "Mostra l'informazione 'Rinforzi rimanenti' nella barra dell'assalto (Solo Host)",
+    "bai_show_spawns_left_desc" : "Mostra l'informazione 'Rinforzi rimanenti' nella barra dell'assalto",
 
     "bai_use_custom_text" : "Usa testo personalizzato",
     "bai_use_custom_text_desc" : "Se attivo, l'HUD utilizzerà questo testo invece di quello di default",
@@ -171,7 +173,9 @@
 
     "hud_overdue" : "Ritardo",
     "hud_time_left" : "Tempo rimasto: ",
+    "hud_time_left_short" : "Tempo: ",
     "hud_spawns_left" : "Rinforzi rimasti: ",
+    "hud_spawns_left_short" : "Rinforzi: ",
     "hud_min" : "min",
     "hud_s" : "s",
 

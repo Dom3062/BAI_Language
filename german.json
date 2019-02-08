@@ -23,6 +23,8 @@
     "bai_pdth_hud_reborn_desc" : "wende spezielle Bai einstellungen bei PD:TH HUD Reborn an",
     "bai_pdth_hud_reborn_custom_text_color" : "wende benutzerdefiniert Text farbe an",
     "bai_pdth_hud_reborn_custom_text_color_desc" : "Wenn deaktiviert, wird das Spiel die Farbe des vorstoßsymbols auf den Text anwenden",
+    "bai_pdth_hud_reborn_aai_only_text" : "füge farbe nur zu erweiterte vorstoßinfo hinzu",
+    "bai_pdth_hud_reborn_aai_only_text_desc" : "fügt farbe nur zu 'zeit übrig' und 'spawns übrig' hinzu.\n'wende benutzerdefiniert Text farbe an' muss aktiviert sein",
 
     "bai_restoration_mod" : "Restoration Mod Optionen",
     "bai_restoration_mod_desc" : "füge bai-einstellungen zum restoration mod hinzu",
@@ -134,7 +136,7 @@
     "bai_advanced_assault_info_desc" : "ändert erweiterte vorstoßinformation.\n'zeigt erweiterte vorstoßinformation' mus aktiviert sein um zu funktionieren. manche optionen funktionieren nicht bei clients.",
 
     "bai_show_time_left" : "Zeigt 'übrige zeit'",
-    "bai_show_time_left_desc" : "zeigt 'übrige zeit' im vorstoßfeld\ndiese option ist nicht genau wenn der host dies nicht aktiviert hat.",
+    "bai_show_time_left_desc" : "zeigt 'übrige zeit' im vorstoßfeld\ndiese option ist nicht genau bei clients wenn der host nicht BAI hat.",
 
     "bai_time_format" : "Zeit Format",
     "bai_time_format_desc" : "ändert zeit Format: angezeigt mit 'übrige zeit' information",
@@ -146,7 +148,7 @@
     "bai_time_format_6" : "xx:yy",
 
     "bai_show_spawns_left" : "zeigt 'übrige Spawns'",
-    "bai_show_spawns_left_desc" : "zeigt 'übrige Spawns' im vorstoßfeld (Nur Host)",
+    "bai_show_spawns_left_desc" : "zeigt 'übrige Spawns' im vorstoßfeld",
 
     "bai_use_custom_text" : "benutzerdefinierter Text",
     "bai_use_custom_text_desc" : "wenn aktiviert, wird der untere text für das HUD verwendet",
@@ -171,7 +173,9 @@
     
     "hud_overdue" : "Überfällig",
     "hud_time_left" : "Verbleibende Zeit: ",
+    "hud_time_left_short" : "Zeit: ",
     "hud_spawns_left" : "Verbleibende Spawns: ",
+    "hud_spawns_left_short" : "Spawns: ",
     "hud_min" : "min",
     "hud_s" : "s",
 
