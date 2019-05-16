@@ -13,6 +13,7 @@
     "bai_compatibility_7" : "PD:TH HUD Reborn",
     "bai_compatibility_8" : "Restoration Mod",
     "bai_compatibility_9" : "MUI",
+    "bai_compatibility_10" : "KineticHUD",
 
     "bai_holoui" : "Opzioni HoloUI",
     "bai_holoui_desc" : "Applica le impostazioni specifiche di BAI a HoloUI",
@@ -53,8 +54,6 @@
     "bai_detected_assault_states_desc" : "'Assault States mod' è incompatibile con BAI. BAI può già mostrare gli stati dell'assalto. È consigliato rimuovere o disabilitare 'Assault States mod'.",
     "bai_detected_wave_survived" : "Rilevata incompatibilità con 'Wave Survived mod'",
     "bai_detected_wave_survived_desc" : "'Wave Survived mod' è incompatibile con BAI. BAI può già mostrare il banner di ondata superata. È consigliato rimuovere o disabilitare 'Wave Survived mod'.",
-    "bai_detected_sydneyhud" : "Rilevata incompatibilità con 'SydneyHUD'",
-    "bai_detected_sydneyhud_desc" : "L'opzione di SydneyHUD 'Indicatore assalto avanzato' non è compatibile con BAI ed è stata disabilitata automaticamente.\nSarà possibile modificare l'indicatore tramite le opzioni 'Indicatore avanzato assalto' e 'Stati dell'assalto' di BAI.",
  
     "bai_show_wave_survived" : "Mostra banner 'Ondata superata'",
     "bai_show_wave_survived_desc" : "Mostra il banner 'Ondata superata' ogni volta che sopravvivi ad un assalto\n(viene normalmente mostrato solo nell'irruzione al rifugio)",
@@ -74,15 +73,11 @@
     "bai_client_only" : "Solo Client",
  
     "bai_r" : "Rosso",
-    "bai_r_desc" : "Imposta il valore rosso del colore (verranno usati solo numeri interi; es: 28.55 -> 28)",
+    "bai_r_desc" : "Imposta il valore rosso del colore",
     "bai_g" : "Verde",
-    "bai_g_desc" : "Imposta il valore verde del colore (verranno usati solo numeri interi; es: 28.55 -> 28)",
+    "bai_g_desc" : "Imposta il valore verde del colore",
     "bai_b" : "Blu",
-    "bai_b_desc" : "Imposta il valore blu del colore (verranno usati solo numeri interi; es: 28.55 -> 28)",
-
-    "bai_padlock_end_line" : "Mostra lucchetto invece di ///",
-    "bai_padlock_end_line_endless_assault_desc" : "Mostra l'icona del lucchetto invece del separatore '///' negli assalti infiniti.\nNota: Alcuni HUD (es. Void UI) hanno questa impostazione già attiva di default e non può essere disattivata",
-    "bai_padlock_end_line_endless_wave_survived_desc" : "Mostra l'icona del lucchetto invece del separatore '///' dopo essere sopravvissuti ad un assalto infinito.\nNota: Alcuni HUD (es. Void UI) hanno questa impostazione già attiva di default e non può essere disattivata",
+    "bai_b_desc" : "Imposta il valore blu del colore",
  
     "bai_color": "Colori",
     "bai_color_desc": "Cambia il colore dell'indicatore",
@@ -161,7 +156,9 @@
 
     "hud_assault_alpha" : "ASSALTO DELLA POLIZIA",
     "hud_assault_endless" : "ASSALTO DELLA POLIZIA INFINITO IN CORSO",
+    "hud_assault_endless_halloween" : "IL LAVORO SENZA GIOIA FA DI WOLF UNA NOIA",
     "hud_assault_endless_alpha" : "ASSALTO DELLA POLIZIA INFINITO",
+    "hud_assault_endless_alpha_halloween" : "IL LAVORO SENZA GIOIA FA DI WOLF UNA NOIA",
     "hud_assault_survived_endless" : "ASSALTO INFINITO SOPRAVVISSUTO",
     "hud_cover" : "STAI AL SICURO",
 

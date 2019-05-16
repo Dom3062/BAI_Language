@@ -13,6 +13,7 @@
     "bai_compatibility_7" : "PD:TH HUD Reborn",
     "bai_compatibility_8" : "Restoration Mod",
     "bai_compatibility_9" : "MUI",
+    "bai_compatibility_10" : "KineticHUD",
 
     "bai_holoui" : "Options d'HoloUI", 
     "bai_holoui_desc" : "Applique les options spécifiques de BAI à HoloUI", 
@@ -53,8 +54,6 @@
     "bai_detected_assault_states_desc" : "Il est recommandé de désactiver ou de supprimer 'Assault States mod', qui est incompatible avec BAI car il supporte déja les états d'assaut",
     "bai_detected_wave_survived" : "Incompatibilité détectée avec 'Wave Survived mod'",
     "bai_detected_wave_survived_desc" : "Il est recommandé de désactiver ou de supprimer 'Wave Survived mod', qui est incompatible avec BAI car il supporte déja les vagues survécues dans la bannière d'assaut.",
-    "bai_detected_sydneyhud" : "Incompatibilité détectée avec SydneyHUD",
-    "bai_detected_sydneyhud_desc" : "L'option 'Bannière d'assaut améliorée' de SydneyHUD n'est pas compatible avec BAI et a étée désactivée ; cette option a été activée dans BAI sous les noms 'Informations d'assaut avancés' et 'États d'assauts'.",
     
     "bai_show_wave_survived" : "Montrer les vagues survécues",
     "bai_show_wave_survived_desc" : "Montrer les vagues survécues (du Raid de la Planque) à chaque fois que vous et votre crew survivez à un assaut de police",
@@ -72,17 +71,13 @@
 
     "bai_host_only" : "Seulement pour l'hôte",
     "bai_client_only" : "Seulement pour le client",
-
-    "bai_padlock_end_line" : "Afficher l'image du cadenas à la place de ///",
-    "bai_padlock_end_line_endless_assault_desc" : "Afficher l'image du cadenas à la place de /// pendant l'assaut sans fin.\nNote: Certains huds (comme Void UI) ont cette option activée par défaut et ne peut être désactivé",
-    "bai_padlock_end_line_endless_wave_survived_desc" : "fficher l'image du cadenas à la place de /// dans 'ASSAUT SANS FIN SURVÉCUE'.\nNote: Certains huds (comme Void UI) ont cette option activée par défaut et ne peut être désactivé",
     
     "bai_r" : "Rouge",
-    "bai_r_desc" : "Rêgle la valeur rouge (seul le nombre entier est utilisé; ex: 28.55 -> utilise 28)",
+    "bai_r_desc" : "Rêgle la valeur rouge",
     "bai_g" : "Vert",
-    "bai_g_desc" : "Rêgle la valeur verte (seul le nombre entier est utilisé; ex: 28.55 -> utilise 28)",
+    "bai_g_desc" : "Rêgle la valeur verte",
     "bai_b" : "Bleu",
-    "bai_b_desc" : "Rêgle la valeur bleue (seul le nombre entier est utilisé; ex: 28.55 -> utilise 28)",
+    "bai_b_desc" : "Rêgle la valeur bleue",
 
     "bai_color": "Couleurs",
     "bai_color_desc": "Change la couleur de la boîte",
@@ -161,7 +156,9 @@
     
     "hud_assault_alpha" : "ASSAUT POLICIER",
     "hud_assault_endless" : "ASSAUT SANS FIN EN COURS",
+    "hud_assault_endless_halloween" : "Trop de travail et pas de plaisir font de Wolf un triste sire",
     "hud_assault_endless_alpha" : "ASSAUT POLICIER SANS FIN",
+    "hud_assault_endless_alpha_halloween" : "Trop de travail et pas de plaisir font de Wolf un triste sire",
     "hud_assault_survived_endless" : "ASSAUT SANS FIN SURVÉCUE",
     "hud_cover" : "RESTEZ EN COUVERTURE",
 

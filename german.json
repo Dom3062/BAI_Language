@@ -13,6 +13,7 @@
     "bai_compatibility_7" : "PD:TH HUD Reborn",
     "bai_compatibility_8" : "Restoration Mod",
     "bai_compatibility_9" : "MUI",
+    "bai_compatibility_10" : "KineticHUD",
 
     "bai_holoui" : "HoloUI einstellungen",
     "bai_holoui_desc" : "wende spezielle Bai einstellungen bei HoloUI an",
@@ -53,8 +54,6 @@
     "bai_detected_assault_states_desc" : "'assault states mod' ist Inkompatibel mit BAI. BAI hat eine eingebaute unterstützung für assault states. es wird vorgeschlagen 'Assault States mod'zu deaktivieren oder zu entfernen.",
     "bai_detected_wave_survived" : "stellt Inkompatibilität mit 'Wave Survived mod' fest",
     "bai_detected_wave_survived_desc" : "'Wave Survived mod' ist Inkompatibel mit BAI. BAI hat eine eingebaute unterstützung zum anzeigen vom welle überlebt text. es wird vorgeschlagen 'Wave Survived mod' zu deaktivieren oder zu entfernen.",
-    "bai_detected_sydneyhud" : "stellt Inkompatibilität mit SydneyHUD fest",
-    "bai_detected_sydneyhud_desc" : "SydneyHUD's 'Enhanced Assault Banner' option ist Inkompatibel mit BAI und wird automatisch abgestellt. diese option wurde aktiviert in BAI uunter den namen 'erweiterte vorstoß Info' and 'vorstoß statistik'.",
 
     "bai_show_wave_survived" : "Zeige Welle überlebt Banner",
     "bai_show_wave_survived_desc" : "Zeigt Welle überlebt Banner an(von Versteck-Razzia) jedesmal wenn du und deine Crew einen Polizeivorstoß überleben",
@@ -74,15 +73,11 @@
     "bai_client_only" : "Nur Client",
 
     "bai_r" : "Rot",
-    "bai_r_desc" : "Roten Wert einstellen (Nur ganze zahlen werden benutzt(abgerundet); bsp.: 28.55 -> 28)",
+    "bai_r_desc" : "Roten Wert einstellen",
     "bai_g" : "Grün",
-    "bai_g_desc" : "Grünen Wert einstellen (Nur ganze zahlen werden benutzt(abgerundet); bsp.: 28.55 -> 28)",
+    "bai_g_desc" : "Grünen Wert einstellen",
     "bai_b" : "Blau",
-    "bai_b_desc" : "Blauen Wert einstellen (Nur ganze zahlen werden benutzt(abgerundet); bsp.: 28.55 -> 28)",
-
-    "bai_padlock_end_line" : "schloss anstatt /// anzeigen",
-    "bai_padlock_end_line_endless_assault_desc" : "zeigt ein schloss an anstatt /// bei einem endlosen vorstoß.\nanmerkung: manche huds (z.b. Void UI) haben diese option automatisch eingeschaltet und ist nicht ausschaltbar bei diesen",
-    "bai_padlock_end_line_endless_wave_survived_desc" : "zeigt ein schloss an anstatt /// bei 'endlose welle überlebt'.\nanmerkung: manche huds (z.b. Void UI) haben diese option automatisch eingeschaltet und ist nicht ausschaltbar bei diesen",
+    "bai_b_desc" : "Blauen Wert einstellen",
 
     "bai_color": "Farben",
     "bai_color_desc": "Ändere die farbe des feldes",
@@ -161,7 +156,9 @@
     
     "hud_assault_alpha" : "POLIzeivorstoß",
     "hud_assault_endless" : "Endloser Polizeivorstoß im Gange",
+    "hud_assault_endless_halloween" : "Arbeit allein macht Wolf nicht glücklich",
     "hud_assault_endless_alpha" : "ENDLoser polizeivorstoß",
+    "hud_assault_endless_alpha_halloween" : "Arbeit allein macht Wolf nicht glücklich",
     "hud_assault_survived_endless" : "Endlose Welle überlebt",
     "hud_cover" : "bleibe in deckung",
     

@@ -8,11 +8,12 @@
     "bai_compatibility_2" : "เกมต้นฉบับ",
     "bai_compatibility_3" : "Void UI",
     "bai_compatibility_4" : "Nepgearsy HUD Reborn",
-	"bai_compatibility_5" : "HoloUI",
+    "bai_compatibility_5" : "HoloUI",
     "bai_compatibility_6" : "SydneyHUD",
     "bai_compatibility_7" : "PD:TH HUD Reborn",
     "bai_compatibility_8" : "Restoration Mod",
     "bai_compatibility_9" : "MUI",
+    "bai_compatibility_10" : "KineticHUD",
 	
     "bai_holoui" : "ตัวเลือก HoloUI",
     "bai_holoui_desc" : "ใช้การตั้งค่าเฉพาะของ BAI กับ HoloUI",
@@ -53,13 +54,11 @@
     "bai_detected_assault_states_desc" : "'Assault States mod' ไม่สามารถใช้งานร่วมกับ BAI. BAI มีตัวเลือกแสดงสถานะการจู่โจมรวมอยู่แล้ว. มันจะเป็นเรื่องที่ดีกว่าหาก 'Assault States mod' ถูกปิดการใช้งานหรือถูกลบออกจากโฟลเดอร์ mods",
     "bai_detected_wave_survived" : "ตรวจพบความเข้ากันไม่ได้กับ 'Wave Survived mod'",
     "bai_detected_wave_survived_desc" : "'Wave Survived mod' ไม่สามารถใช้งานร่วมกับ BAI. BAI มีตัวเลือกแสดงข้อความ 'คุณรอดชีวิตในรอบนี้!' ในหน้าต่างการจู่โจมรวมอยู่แล้ว. มันจะเป็นเรื่องที่ดีกว่าหาก 'Wave Survived mod' ถูกปิดการใช้งานหรือถูกลบออกจากโฟลเดอร์ mods",
-    "bai_detected_sydneyhud" : "ตรวจพบความเข้ากันไม่ได้กับ SydneyHUD",
-    "bai_detected_sydneyhud_desc" : "ตัวเลือก 'Enhanced Assault Banner' ของ SydneyHUD ไม่สามารถใช้งานร่วมกับ BAI และได้ถูกปิดการใช้งานอัตโนมัติ. ตัวเลือกดังกล่าวได้ถูกเปิดใช้งานใน BAI โดยใช้ชื่อว่า 'ข้อมูลการจู่โจมขั้นสูง' และ 'สถานะการจู่โจม'",	
 	
     "bai_show_wave_survived": "แสดงแบนเนอร์ 'คุณรอดชีวิตในรอบนี้!'",
     "bai_show_wave_survived_desc": "Show Wave Survived Banner: แสดงแบนเนอร์ 'คุณรอดชีวิตในรอบนี้!'(เหมือนกับในด่าน Safehouse Raid) ทุกครั้งหลังจากที่คุณและเพื่อนร่วมทีมรอดชีวิตจากช่วงการจู่โจมของตำรวจในแต่ละรอบ",
     
-	"bai_hide_hostage_panel" : "ซ่อนหน้าต่างตัวประกัน",
+    "bai_hide_hostage_panel" : "ซ่อนหน้าต่างตัวประกัน",
     "bai_hide_hostage_panel_assault_desc" : "ซ่อนหน้าต่างแสดงจำนวนตัวประกันระหว่างการจู่โจมปรกติ",
     "bai_hide_hostage_panel_captain_desc" : "ซ่อนหน้าต่างแสดงจำนวนตัวประกันระหว่างช่วงที่กัปตันมาถึง",
     "bai_hide_hostage_panel_endless_desc" : "ซ่อนหน้าต่างแสดงจำนวนตัวประกันระหว่างการจู่โจมไม่มีที่สิ้นสุด",
@@ -70,19 +69,15 @@
     "bai_show_difficulty_name_instead_of_skulls" : "แสดงชื่อระดับความยากแทนรูปหัวกะโหลก",
     "bai_show_difficulty_name_instead_of_skulls_desc" : "แสดงชื่อระดับความยากแทนการแสดงรูปหัวกะโหลกในหน้าต่างการจู่โจม\nตัวเลือกนี้ใช้ไม่ได้กับโหมด Crime Spree",
     
-	"bai_host_only" : "เฉพาะโฮสต์เท่านั้น",
+    "bai_host_only" : "เฉพาะโฮสต์เท่านั้น",
     "bai_client_only": "เฉพาะฝั่งไคลเอ็นต์เท่านั้น",
     
     "bai_r": "แดง",
-    "bai_r_desc" : "ตั้งค่าสีแดง (ค่าที่ถูกใช้จะเป็นค่าตัวเลขที่เป็นจำนวนเต็มเท่านั้น; เช่น: 28.55 -> ใช้ค่า 28)",
+    "bai_r_desc" : "ตั้งค่าสีแดง",
     "bai_g": "เขียว",
-    "bai_g_desc" : "ตั้งค่าสีเขียว (ค่าที่ถูกใช้จะเป็นค่าตัวเลขที่เป็นจำนวนเต็มเท่านั้น; เช่น: 28.55 -> ใช้ค่า 28)",
+    "bai_g_desc" : "ตั้งค่าสีเขียว",
     "bai_b": "น้ำเงิน",
-    "bai_b_desc" : "ตั้งค่าสีน้ำเงิน (ค่าที่ถูกใช้จะเป็นค่าตัวเลขที่เป็นจำนวนเต็มเท่านั้น; เช่น: 28.55 -> ใช้ค่า 28)",
-
-    "bai_padlock_end_line" : "แสดงรูปภาพกุญแจแทนสัญลักษณ์ ///",
-    "bai_padlock_end_line_endless_assault_desc" : "แสดงรูปภาพกุญแจแทนสัญลักษณ์ /// ในการจู่โจมไม่มีที่สิ้นสุด\nหมายเหตุ: Huds บางประเภท (เช่น Void UI) มีตัวเลือกนี้เปิดเอาไว้เป็นค่าเริ่มต้นและไม่สามารถถูกปิดได้",
-    "bai_padlock_end_line_endless_wave_survived_desc" : "แสดงรูปภาพกุญแจแทนสัญลักษณ์ /// ใน 'คุณรอดชีวิตในรอบนี้!'\nหมายเหตุ: Huds บางประเภท (เช่น Void UI) มีตัวเลือกนี้เปิดเอาไว้เป็นค่าเริ่มต้นและไม่สามารถถูกปิดได้",	
+    "bai_b_desc" : "ตั้งค่าสีน้ำเงิน",
     
     "bai_color": "สี",
     "bai_color_desc": "เปลี่ยนสีหน้าต่างแสดงสถานะการจู่โจมของตำรวจ",
@@ -92,8 +87,8 @@
     
     "bai_assault_box_mutated" : "หน้าต่างการจู่โจม (เมื่อเปิดโหมด Mutators)",
     "bai_assault_box_mutated_desc" : "Assault Box (Mutators On): เปลี่ยนสีหน้าต่างแสดงสถานะการจู่โจมของตำรวจ (เมื่อเปิดโหมด Mutators)",
-	
-	"bai_holdout_box" : "หน้าต่างการจู่โจม (Holdout)",
+   
+    "bai_holdout_box" : "หน้าต่างการจู่โจม (Holdout)",
     "bai_holdout_box_desc" : "Assault Box (Holdout): เปลี่ยนสีหน้าต่างแสดงสถานะการจู่โจมของตำรวจ (โหมด Holdout)",
 
     "bai_captain_box" : "หน้าต่างการจู่โจม (กัปตัน)",
@@ -161,7 +156,7 @@
 	
     "hud_assault_alpha" : "การจู่โจมของตำรวจ",
     "hud_assault_endless" : "อยู่ระหว่างการจู่โจมไม่มีที่สิ้นสุดของตำรวจ",
-	"hud_assault_endless_alpha" : "การจู่โจมไม่มีที่สิ้นสุดของตำรวจ",
+    "hud_assault_endless_alpha" : "การจู่โจมไม่มีที่สิ้นสุดของตำรวจ",
     "hud_assault_survived_endless" : "คุณรอดชีวิตในรอบนี้!",  
     "hud_cover" : "เข้าที่กำบัง",
 	
@@ -173,7 +168,7 @@
 	
     "hud_overdue" : "เกินเวลา",
     "hud_time_left" : "เหลือเวลา: ",
-	"hud_time_left_short" : "เวลา: ",
+    "hud_time_left_short" : "เวลา: ",
     "hud_spawns_left" : "ศัตรูที่เหลือ: ",
     "hud_spawns_left_short" : "ศัตรู: ",
     "hud_min" : "นาที",
@@ -182,6 +177,6 @@
     "hud_assault" : "จู่โจม",
     "hud_endless" : "ไม่มีที่สิ้นสุด",
     "hud_captain" : "กับตัน",
-	"hud_captain_active" : "รวมพลพร้อมสู้",
+    "hud_captain_active" : "รวมพลพร้อมสู้",
     "hud_survived" : "รอดชีวิต"
 }
