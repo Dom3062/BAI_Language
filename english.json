@@ -3,7 +3,7 @@
     "bai_mod_desc" : "Change mod options",
 
     "bai_compatibility" : "HUD Compatibility",
-    "bai_compatibility_desc" : "Here you can select a compatibility with certain HUD you are using.\nApplying wrong HUD compatibility may cause your game to crash.",
+    "bai_compatibility_desc" : "Here you can select a compatibility with certain HUD you are using\nApplying wrong HUD compatibility may cause your game to crash",
     "bai_compatibility_1" : "Autodetect",
     "bai_compatibility_2" : "Vanilla",
     "bai_compatibility_3" : "Void UI",
@@ -13,6 +13,7 @@
     "bai_compatibility_7" : "PD:TH HUD Reborn",
     "bai_compatibility_8" : "Restoration Mod",
     "bai_compatibility_9" : "MUI",
+    "bai_compatibility_10" : "KineticHUD",
 
     "bai_holoui" : "HoloUI Options",
     "bai_holoui_desc" : "Apply BAI specific settings to HoloUI",
@@ -24,7 +25,7 @@
     "bai_pdth_hud_reborn_custom_text_color" : "Use Custom Text Color",
     "bai_pdth_hud_reborn_custom_text_color_desc" : "When disabled the game will apply assault icon's color to text",
     "bai_pdth_hud_reborn_aai_only_text" : "Apply color to Advanced Assault Info only",
-    "bai_pdth_hud_reborn_aai_only_text_desc" : "Only apply the color below to 'Time Left' and 'Spawns Left'.\n'Use Custom Text Color' must be enabled in order to work",
+    "bai_pdth_hud_reborn_aai_only_text_desc" : "Only apply the color below to 'Time Left' and 'Spawns Left'\n'Use Custom Text Color' must be enabled in order to work",
 
     "bai_restoration_mod" : "Restoration Mod Options",
     "bai_restoration_mod_desc" : "Apply BAI specific settings to Restoration Mod",
@@ -53,11 +54,12 @@
     "bai_detected_assault_states_desc" : "'Assault States mod' is incompatible with BAI. BAI has built-in support for assault states. It is recommended to disable or remove 'Assault States mod'.",
     "bai_detected_wave_survived" : "Detected incompatibility with 'Wave Survived mod'",
     "bai_detected_wave_survived_desc" : "'Wave Survived mod' is incompatible with BAI. BAI has built-in support for showing banner with wave survived text. It is recommended to disable or remove 'Wave Survived mod'.",
-    "bai_detected_sydneyhud" : "Detected incompatibility with SydneyHUD",
-    "bai_detected_sydneyhud_desc" : "SydneyHUD's 'Enhanced Assault Banner' option is not compatible with BAI and has been disabled. That option has been enabled in BAI under names of 'Advanced Assault Info' and 'Assault States'.",
 
+    "bai_savedata_not_compatible" : "Savedata not compatible with this BAI version",
+    "bai_savedata_not_compatible_desc" : "Looks like the inner workings of BAI has changed and made your BAI's saved settings incompatible with this new version of BAI. It's a shame I can't load your savedata, but atleast I loaded default values, so you don't crash.\n\nSorry for the inconvenience.",
+    
     "bai_show_wave_survived" : "Show Wave Survived Banner",
-    "bai_show_wave_survived_desc" : "Show Wave Survived banner (from Safehouse Raid) every time you and your crew survives police assault",
+    "bai_show_wave_survived_desc" : "Shows Wave Survived banner (from Safehouse Raid) every time you and your crew survives police assault",
     
     "bai_hide_hostage_panel" : "Hide hostage panel",
     "bai_hide_hostage_panel_assault_desc" : "Hides hostage panel during normal assault",
@@ -68,21 +70,17 @@
     "bai_completely_hide_hostage_panel_desc" : "Hostage Panel will not be visible when you spawn into a mission\nThis setting ignores 'Hide hostage panel' option in Assault, Captain and Endless box when enabled",
 
     "bai_show_difficulty_name_instead_of_skulls" : "Show difficulty name instead of skulls",
-    "bai_show_difficulty_name_instead_of_skulls_desc" : "Show difficulty name instead of skulls in assault box\nNot applicable in Crime Spree",
+    "bai_show_difficulty_name_instead_of_skulls_desc" : "Shows difficulty name instead of skulls in assault box\nNot applicable in Crime Spree",
 
     "bai_host_only" : "Host only",
     "bai_client_only" : "Client only",
     
     "bai_r" : "Red",
-    "bai_r_desc" : "Sets red value (only the whole number is used; eg: 28.55 -> used 28)",
+    "bai_r_desc" : "Sets red value",
     "bai_g" : "Green",
-    "bai_g_desc" : "Sets green value (only the whole number is used; eg: 28.55 -> used 28)",
+    "bai_g_desc" : "Sets green value",
     "bai_b" : "Blue",
-    "bai_b_desc" : "Sets blue value (only the whole number is used; eg: 28.55 -> used 28)",
-
-    "bai_padlock_end_line" : "Show padlock image instead of ///",
-    "bai_padlock_end_line_endless_assault_desc" : "Shows padlock image instead of /// in endless assault.\nNote: Some huds (e.g. Void UI) have this option turned on by default and cannot be turned off",
-    "bai_padlock_end_line_endless_wave_survived_desc" : "Shows padlock image instead of /// in 'ENDLESS WAVE SURVIVED'.\nNote: Some huds (e.g. Void UI) have this option turned on by default and cannot be turned off",
+    "bai_b_desc" : "Sets blue value",
 
     "bai_color": "Colors",
     "bai_color_desc": "Changes Box Color",
@@ -119,11 +117,11 @@
     "bai_colors_reset" : "Reset Colors",
     "bai_colors_reset_desc" : "Reset colors to default values",
 
-    "bai_show_assault_states" : "Show assault states",
-    "bai_show_assault_states_desc" : "Show assault state (control, anticipation, build, sustain and fade) in the assault box\nThis option will not work on endless assault and when captain is present",
+    "bai_show_assault_states" : "Show Assault States",
+    "bai_show_assault_states_desc" : "Shows assault state (control, anticipation, build, sustain and fade) in the Assault Box\nThis option will not work on endless assault and when captain is present",
 
     "bai_assault_states" : "Assault States",
-    "bai_assault_states_desc" : "Changes Assault States color and state visibility in the Assault Box.\n'Show Assault State' must be enabled in order to work",
+    "bai_assault_states_desc" : "Changes state's color and state's visibility in the Assault Box\n'Show Assault State' must be enabled in order to work",
 
     "bai_enabled" : "Enabled",
     "bai_enabled_not_assault_desc" : "If checked, it will show in the Assault Box. If not, that state will not be visible in the Assault Box",
@@ -133,7 +131,7 @@
     "bai_show_advanced_assault_info_desc" : "Shows 'Spawns Left' and 'Time Left' information in the Assault Box\nThe info is not available on endless assault and when captain is present",
 
     "bai_advanced_assault_info" : "Advanced Assault Info",
-    "bai_advanced_assault_info_desc" : "Changes Advanced Assault Info.\n'Show Advanced Assault Info' must be enabled in order to work. Some options will not work on client.",
+    "bai_advanced_assault_info_desc" : "Changes Advanced Assault Info\n'Show Advanced Assault Info' must be enabled in order to work. Some options will not work on client",
 
     "bai_show_time_left" : "Show 'Time Left'",
     "bai_show_time_left_desc" : "Shows 'Time Left' in the Assault Box\nThis option is not accurate on client when host does not have BAI running",
@@ -158,11 +156,56 @@
     "bai_text_short_desc" : "Some HUDs have small Assault Box and uses shorter text instead. Write your custom text as short as possible",
     "bai_custom_text" : "Custom Text Here",
     "bai_custom_text_desc" : "Write your custom text here",
+
+    "bai_faction_assault_text" : "Show Faction Name in the Assault Box",
+    "bai_faction_assault_text_desc" : "Shows Faction Name during an assault in the Assault Box\n'Custom Text' overrides this feature",
+
+    "bai_host_warning" : "Looks like the host does not have BAI running. Some features may not work correctly.",
     
+    "hud_assault_alpha_ffs_mod_1" : "SUICIDE",
+    "hud_assault_alpha_ffs_mod_2" : "MASOCHISM",
+    "hud_assault_alpha_ffs_mod_3" : "MASOCHIST?",
     "hud_assault_alpha" : "POLICE ASSAULT",
+    "hud_assault_alpha_gensec" : "GENSEC SWAT ASSAULT",
+    "hud_assault_alpha_zeal" : "ZEAL SWAT ASSAULT",
+    "hud_assault_alpha_fbi" : "FBI SWAT ASSAULT",
+    "hud_assault_alpha_murkywater" : "MURKYWATER OPERATION",
+    "hud_assault_alpha_russian" : "RUSSIAN ASSAULT",
+    "hud_assault_assault_ffs_mod_1" : "SUICIDE IN PROGRESS",
+    "hud_assault_assault_ffs_mod_2" : "MASOCHISM IN PROGRESS",
+    "hud_assault_assault_ffs_mod_3" : "ARE YOU A MASOCHIST?",
+    "hud_assault_assault_gensec" : "GENSEC SWAT ASSAULT IN PROGRESS",
+    "hud_assault_assault_zeal" : "ZEAL SWAT ASSAULT IN PROGRESS",
+    "hud_assault_assault_fbi" : "FBI SWAT ASSAULT IN PROGRESS",
+    "hud_assault_assault_murkywater" : "MURKYWATER OPERATION IN PROGRESS",
+    "hud_assault_assault_russian" : "RUSSIAN ASSAULT IN PROGRESS",
+    "hud_assault_survived_ffs_mod_1" : "SUICIDE SURVIVED",
+    "hud_assault_survived_ffs_mod_2" : "MASOCHISM SURVIVED",
+    "hud_assault_survived_ffs_mod_3" : "MASOCHIST CONFIRMED",
     "hud_assault_endless" : "ENDLESS POLICE ASSAULT IN PROGRESS",
+    "hud_assault_endless_ffs_mod_1" : "ENDLESS SUICIDE IN PROGRESS",
+    "hud_assault_endless_ffs_mod_2" : "ENDLESS MASOCHISM IN PROGRESS",
+    "hud_assault_endless_ffs_mod_3" : "YOU REALLY ARE A MASOCHIST",
+    "hud_assault_endless_gensec": "ENDLESS GENSEC SWAT ASSAULT IN PROGRESS",
+    "hud_assault_endless_zeal" : "ENDLESS ZEAL SWAT ASSAULT IN PROGRESS",
+    "hud_assault_endless_fbi" : "ENDLESS FBI ASSAULT IN PROGRESS",
+    "hud_assault_endless_halloween" : "ALL MAKES WOLF A DUMB BOY",
+    "hud_assault_endless_murkywater" : "ENDLESS MURKYWATER OPERATION IN PROGRESS",
+    "hud_assault_endless_russian" : "ENDLESS RUSSIAN ASSAULT IN PROGRESS",
     "hud_assault_endless_alpha" : "ENDLESS POLICE ASSAULT",
+    "hud_assault_endless_alpha_ffs_mod_1" : "ENDLESS SUICIDE",
+    "hud_assault_endless_alpha_ffs_mod_2" : "ENDLESS MASOCHISM",
+    "hud_assault_endless_alpha_ffs_mod_3" : "REALLY A MASOCHIST",
+    "hud_assault_endless_alpha_gensec" : "ENDLESS GENSEC SWAT ASSAULT",
+    "hud_assault_endless_alpha_zeal" : "ENDLESS ZEAL SWAT ASSAULT",
+    "hud_assault_endless_alpha_fbi" : "ENDLESS FBI SWAT ASSAULT",
+    "hud_assault_endless_alpha_murkywater" : "ENDLESS MURKYWATER OPERATION",
+    "hud_assault_endless_alpha_halloween" : "ALL MAKES WOLF A DUMB BOY",
+    "hud_assault_endless_alpha_russian" : "ENDLESS RUSSIAN ASSAULT",
     "hud_assault_survived_endless" : "ENDLESS WAVE SURVIVED",
+    "hud_assault_survived_endless_ffs_mod_1" : "ENDLESS SUICIDE SURVIVED",
+    "hud_assault_survived_endless_ffs_mod_2" : "ENDLESS MASOCHISM SURVIVED",
+    "hud_assault_survived_endless_ffs_mod_3" : "ENDLESS MASOCHIST CONFIRMED",
     "hud_cover" : "STAY IN COVER",
 
     "hud_control" : "Control",
@@ -183,5 +226,8 @@
     "hud_endless" : "ENDLESS",
     "hud_captain" : "CAPTAIN",
     "hud_captain_active" : "FULLY ASSEMBLED",
-    "hud_survived" : "SURVIVED"
+    "hud_survived" : "SURVIVED",
+    "hud_ffs_mod_1" : "SUICIDE",
+    "hud_ffs_mod_2" : "MASOCHISM",
+    "hud_ffs_mod_3" : "MASOCHIST?"
 }

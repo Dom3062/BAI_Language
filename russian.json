@@ -13,6 +13,7 @@
     "bai_compatibility_7" : "PD:TH HUD Reborn",
     "bai_compatibility_8" : "Restoration Mod",
     "bai_compatibility_9" : "MUI",
+    "bai_compatibility_10" : "KineticHUD",
 
     "bai_holoui" : "Настройки HoloUI",
     "bai_holoui_desc" : "Применить настройки Мода для HoloUI",
@@ -53,8 +54,6 @@
     "bai_detected_assault_states_desc" : "'Assault States mod' несовместим c BAI. BAI имеет встроенную опцию для фаз осад. Рекомендуется отключить или удалить 'Assault States mod'.",
     "bai_detected_wave_survived" : "Обнаружена несовместимость с 'Wave Survived mod'",
     "bai_detected_wave_survived_desc" : "'Wave Survived mod' несовместим c BAI. BAI имеет встроенную опцию для показа банера с текстом 'Осада отбита'. Рекомендуется отключить или удалить 'Wave Survived mod'.",
-    "bai_detected_sydneyhud" : "Обнаружена несовместимость с SydneyHUD",
-    "bai_detected_sydneyhud_desc" : "Опция SydneyHUD'а 'Enhanced Assault Banner' несовместима с BAI и была отключена. Эта опция доступна в BAI под названием 'Подробная информация об осаде' and 'Фазы осады'.",
 
     "bai_show_wave_survived" : "Показывать статус 'Осада Отбита' ",
     "bai_show_wave_survived_desc" : "Показывать статус 'Осада Отбита' (из Защиты убежища) каждый раз, когда вы и ваша команда выживаете полицескую осаду",
@@ -74,15 +73,11 @@
     "bai_client_only" : "Только клиент",
     
     "bai_r" : "Красный",
-    "bai_r_desc" : "Значение (Только целые числа; пример: 28.55 будет округлено -> 28)",
+    "bai_r_desc" : "Значение",
     "bai_g" : "Зеленый",
-    "bai_g_desc" : "Значение (Только целые числа; пример: 28.55 будет округлено -> 28)",
+    "bai_g_desc" : "Значение",
     "bai_b" : "Синий",
-    "bai_b_desc" : "Значение (Только целые числа; пример: 28.55 будет округлено -> 28)",
-
-    "bai_padlock_end_line" : "Показывать значок замка вместо ///",
-    "bai_padlock_end_line_endless_assault_desc" : "Показывать значок замка вместо /// во время бесконечной осады.\nПримечание: Некоторые моды на интерфейс (Пример - Void UI) Имеют эту опцию включенной по умолчанию и её нельзя выключить.",
-    "bai_padlock_end_line_endless_wave_survived_desc" : "Показывать значок замка вместо /// для статуса 'БЕСКОНЕЧНАЯ ОСАДА ОТБИТА'.\nПримечание: Некоторые моды на интерфейс (Пример - Void UI) Имеют эту опцию включенной по умолчанию и её нельзя выключить.",
+    "bai_b_desc" : "Значение",
 
     "bai_color": "Цвет",
     "bai_color_desc": "Изменить цвет панели",
@@ -162,6 +157,8 @@
     "hud_assault_alpha" : "Полицейская Осада",
     "hud_assault_endless" : "БЕСКОНЕЧНАЯ ОСАДА",
     "hud_assault_endless_alpha" : "БЕСКОНЕЧНАЯ ОСАДА",
+    "hud_assault_endless_halloween" : "Работа без игрушек надоела Вулфу",
+    "hud_assault_endless_alpha_halloween" : "Работа без игрушек надоела Вулфу",
     "hud_assault_survived_endless" : "БЕСКОНЕЧНАЯ ОСАДА ОТБИТА",
     "hud_cover" : "ОСТАВАЙТЕСЬ В УКРЫТИИ",
 
