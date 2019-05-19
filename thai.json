@@ -226,7 +226,7 @@
     "hud_endless" : "ไม่มีที่สิ้นสุด",
     "hud_captain" : "กับตัน",
     "hud_captain_active" : "รวมพลพร้อมสู้",
-    "hud_survived" : "รอดชีวิต"
+    "hud_survived" : "รอดชีวิต",
     "hud_ffs_mod_1" : "การฆ่าตัวตาย",
     "hud_ffs_mod_2" : "ซาดิสม์",
     "hud_ffs_mod_3" : "มาโซคิสม์?"
