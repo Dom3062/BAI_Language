@@ -4,7 +4,7 @@
 
     "bai_compatibility" : "Compatibilité HUD",
     "bai_compatibility_desc" : "Ici, vous pouvez sélectionner une compatibilité avec certains HUD que vous utilisez. L'application d'une mauvaise compatibilité HUD peut provoquer le plantage de votre jeu.",
-    "bai_compatibility_1" : "Detecte automatiquement",
+    "bai_compatibility_1" : "Détecte automatiquement",
     "bai_compatibility_2" : "Vanilla",
     "bai_compatibility_3" : "Void UI",
     "bai_compatibility_4" : "Nepgearsy HUD Reborn",
