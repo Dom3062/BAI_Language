@@ -199,9 +199,9 @@
     "hud_assault_endless_alpha_gensec" : "ASSAUT GENSEC SWAT SANS FIN",
     "hud_assault_endless_alpha_zeal" : "ASSAUT ZEAL SWAT SANS FIN",
     "hud_assault_endless_alpha_fbi" : "ASSAUT FBI SWAT SANS FIN",
-    "hud_assault_endless_alpha_murkywater" : "OPERATION MURKYWATER SANS FIN",
-    "hud_assault_endless_alpha_halloween" : "ALL MAKES WOLF A DUMB BOY",
-    "hud_assault_endless_alpha_russian" : "ENDLESS RUSSIAN ASSAULT",
+    "hud_assault_endless_alpha_murkywater" : "OPÉRATION MURKYWATER SANS FIN",
+    "hud_assault_endless_alpha_halloween" : "TOUT CECI REND WOLF TRISTE",
+    "hud_assault_endless_alpha_russian" : "ASSAUT RUSSE SANS FIN",
     "hud_assault_endless_alpha_halloween" : "PAUVRE WOLF",
     "hud_assault_survived_endless" : "ASSAUT SANS FIN SURVÉCU",
     "hud_assault_survived_endless_ffs_mod_1" : "SUICIDE SANS FIN SURVÉCU",
@@ -227,8 +227,8 @@
     "hud_endless" : "SANS-FIN",
     "hud_captain" : "CAPITAINE",
     "hud_captain_active" : "COMPLÈTEMENT RASSEMBLÉ",
-    "hud_survived" : "SURVÉCU"
+    "hud_survived" : "SURVÉCU",
     "hud_ffs_mod_1" : "SUICIDE",
     "hud_ffs_mod_2" : "MASOCHISME",
-    "hud_ffs_mod_3" : "MASOCHISTE ?"
+    "hud_ffs_mod_3" : "MASOCHISTE ?",
 }
