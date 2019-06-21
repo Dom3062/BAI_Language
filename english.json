@@ -129,7 +129,7 @@
     "bai_advanced_assault_info_desc" : "Changes Advanced Assault Info\n'Show Advanced Assault Info' must be enabled in order to work. Some options will not work on client",
 
     "bai_show_time_left" : "Show 'Time Left'",
-    "bai_show_time_left_desc" : "Shows 'Time Left' in the Assault Box\nThis option is not accurate on client when host does not have BAI running",
+    "bai_show_time_left_desc" : "Shows 'Time Left' in the Assault Box\nThis option is not accurate when you jump in to a game in progress. But it will get accurate later on",
     
     "bai_time_format" : "Time Format",
     "bai_time_format_desc" : "Changes Time Format showed with 'Time Left' info",
@@ -155,7 +155,7 @@
     "bai_faction_assault_text" : "Show Faction Name in the Assault Box",
     "bai_faction_assault_text_desc" : "Shows Faction Name during an assault in the Assault Box\n'Custom Text' overrides this feature. Not applicable in Crime Spree",
 
-    "bai_host_warning" : "Looks like the host does not have BAI running. Some features may not work correctly.",
+    "bai_host_warning" : "Looks like the host does not have BAI running. Some features may not work correctly. This message will show again when you connect to a different host.",
     
     "hud_assault_alpha_fss_mod_1" : "SUICIDE",
     "hud_assault_alpha_fss_mod_2" : "MASOCHISM",
