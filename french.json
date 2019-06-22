@@ -129,7 +129,7 @@
     "bai_advanced_assault_info_desc" : "Change les informations d'assaut avancées.\n'Montrer les infos d'Assaut avancées' doit être activé pour fonctionner. Certaines options ne fonctionneront pas en tant que client.",
 
     "bai_show_time_left" : "Montre 'Temps Restant'",
-    "bai_show_time_left_desc" : "Montre le 'Temps Restant' dans la boite d'assaut\nCette option n'est pas précise en tant que client lorsque l'hôte n'a pas BAI activé",
+    "bai_show_time_left_desc" : "Montre le 'Temps Restant' dans la boite d'assaut\nCette option n'est pas précise quand vous vous connectez dans un partie en cours. Mais cela deviendra plus précis au fur et à mesure.",
      
     "bai_time_format" : "Format de Temps",
     "bai_time_format_desc" : "Change le format de temps utilisé par 'Temps Restant'",
@@ -155,7 +155,7 @@
     "bai_faction_assault_text" : "Montre le nom de la faction dans la boite d´assaut",
     "bai_faction_assault_text_desc" : "Montre le nom de la faction durant un assaut dans la boite d´assaut\n'Texte personnalisé' est utilisé en priorité. Non applicable en mode Crime Spree",
 
-    "bai_host_warning" : "Il semble que l´hôte n´a installé BAI. Certaines fonctions risquent de ne pas fonctionner correctement.",
+    "bai_host_warning" : "Il semble que l´hôte n´a installé BAI. Certaines fonctions risquent de ne pas fonctionner correctement. Ce message apparaitra à nouveau si vous vous connectez à un autre hôte.",
 
     "hud_assault_alpha_fss_mod_1" : "SUICIDE",
     "hud_assault_alpha_fss_mod_2" : "MASOCHISTE",
@@ -189,7 +189,7 @@
     "hud_assault_endless_russian" : "ASSAUT RUSSE SANS FIN EN COURS",
     "hud_assault_endless_alpha" : "ASSAUT POLICIER SANS FIN",
     "hud_assault_endless_alpha_fss_mod_1" : "SUICIDE SANS FIN",
-    "hud_assault_endless_alpha_fss_mod_2" : "MASOCHISM SANS FIN",
+    "hud_assault_endless_alpha_fss_mod_2" : "MASOCHISME SANS FIN",
     "hud_assault_endless_alpha_fss_mod_3" : "VRAIMENT UN MASOCHISTE",
     "hud_assault_endless_alpha_gensec" : "ASSAUT GENSEC SWAT SANS FIN",
     "hud_assault_endless_alpha_zeal" : "ASSAUT ZEAL SWAT SANS FIN",
@@ -199,7 +199,7 @@
     "hud_assault_endless_alpha_russian" : "ASSAUT RUSSE SANS FIN",
     "hud_assault_survived_endless" : "ASSAUT SANS FIN SURVÉCU",
     "hud_assault_survived_endless_fss_mod_1" : "SUICIDE SANS FIN SURVÉCU",
-    "hud_assault_survived_endless_fss_mod_2" : "MASOCHISM SANS FIN SURVÉCU",
+    "hud_assault_survived_endless_fss_mod_2" : "MASOCHISME SANS FIN SURVÉCU",
     "hud_assault_survived_endless_fss_mod_3" : "MASOCHISTE SANS FIN SURVÉCU",
     "hud_cover" : "RESTEZ EN COUVERTURE",
 
