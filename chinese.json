@@ -129,7 +129,7 @@
     "bai_show_advanced_assault_info_desc" : "在突击横幅中显示剩余的敌人数量和剩余时间\n此功能在无尽突击下或队长到达时不可用。当你作为玩家时有些选项将不可用.",
 	
     "bai_show_time_left" : "显示 '剩余时间'",
-    "bai_show_time_left_desc" : "在突击横幅中显示 '剩余时间'\n当你这边的主机没有安装或启用 BAI 时所显示的数值将不准确.",
+    "bai_show_time_left_desc" : "在突击横幅中显示 '剩余时间'\n在刚刚加入一个进行中的游戏时数值显示可能不准，一小会后将会纠正。",
 
     "bai_time_format" : "时间格式",
     "bai_time_format_desc" : "设定突击横幅中 '剩余时间' 的显示格式",
@@ -155,7 +155,7 @@
     "bai_faction_assault_text" : "在突击横幅中显示敌人阵营",
     "bai_faction_assault_text_desc" : "在突击横幅中显示敌人的阵营\n'自定义文本' 无法与此功能同时使用. 挑战模式下无效",
 
-    "bai_host_warning" : "看来房主没在使用 BAI ，有些功能可能无法正常运作。",
+    "bai_host_warning" : "当前房主没有启用 BAI ，有些功能可能无法正常运作；加入其它房间时若房主没有启用 BAI，此消息会再次出现",
     
     "hud_assault_alpha_fss_mod_1" : "尝试自杀中",
     "hud_assault_alpha_fss_mod_2" : "持续受虐中",
