@@ -129,7 +129,7 @@
     "bai_advanced_assault_info_desc" : "ändert erweiterte vorstoßinformation.\n'zeigt erweiterte vorstoßinformation' mus aktiviert sein um zu funktionieren. manche optionen funktionieren nicht bei clients.",
 
     "bai_show_time_left" : "Zeigt 'übrige zeit'",
-    "bai_show_time_left_desc" : "zeigt 'übrige zeit' im vorstoßfeld\ndiese option ist nicht genau bei clients wenn der host nicht BAI hat.",
+    "bai_show_time_left_desc" : "zeigt 'übrige zeit' im vorstoßfeld\ndiese option ist nicht genau wenn du einem laufenden spiel beitrittst. aber später wird sie korrekt angezeigt",
 
     "bai_time_format" : "Zeit Format",
     "bai_time_format_desc" : "ändert zeit Format: angezeigt mit 'übrige zeit' information",
@@ -155,7 +155,7 @@
     "bai_faction_assault_text" : "zeige fraktionsname im vorstoßfeld an",
     "bai_faction_assault_text_desc" : "zeigt den name der fraktion währden eines vorstoßes im vorstoßfeld an\n'persönlicher text' überschreibt diese einstellung. Nicht anwendbar in der Crime_Spree",
 
-    "bai_host_warning" : "der host hat anscheinend kein bai. manche einstellungen funktionieren womöglich nicht.",
+    "bai_host_warning" : "der host hat anscheinend kein bai. manche einstellungen funktionieren womöglich nicht. diese nachricht wird wieder angezeigt wenn du einem anderen host beitrittst",
     
     "hud_assault_alpha_fss_mod_1" : "selbstmord",
     "hud_assault_alpha_fss_mod_2" : "Masochismus",
