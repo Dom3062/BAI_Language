@@ -126,7 +126,7 @@
     "bai_show_advanced_assault_info_desc" : "Mostra 'Spawns restantes' e 'Tempo restante' na Caixa de Assault\nNão irá aparecer enquanto tiver o Assault endless ou quando o Captain chegar",
 
     "bai_advanced_assault_info" : "Informações avançadas do Assault",
-    "bai_advanced_assault_info_desc" : "Muda as informações na caixa do Assault\n'Mostra as informações avançadas do Assault'must be enabled in order to work. Some options will not work on client",
+    "bai_advanced_assault_info_desc" : "Muda as informações na caixa do Assault\n'Mostra as informações avançadas do Assault' deve ser ativado. algumas coisas podem não funcionar no cliente.",
 
     "bai_show_time_left" : "Mostra o 'Tempo restante'",
     "bai_show_time_left_desc" : "Mostra o quanto 'tempo resta' na Caixa do Assault\nTalvez não seja preciso quando você entra em um jogo em progresso, mas depois  fica preciso",
