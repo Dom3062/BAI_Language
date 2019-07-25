@@ -2,12 +2,16 @@
     "bai_mod_title" : "Better Assault Indicator",
     "bai_mod_desc" : "Change mod options",
 
+    "bai_language" : "Language",
+    "bai_language_desc" : "Changes mod language",
+    "bai_language_1" : "Autodetect",
+
     "bai_compatibility" : "HUD Compatibility",
     "bai_compatibility_desc" : "Here you can select a compatibility with certain HUD you are using\nApplying wrong HUD compatibility may cause your game to crash",
     "bai_compatibility_1" : "Autodetect",
     "bai_compatibility_2" : "Vanilla",
     "bai_compatibility_3" : "Void UI",
-    "bai_compatibility_4" : "Nepgearsy HUD Reborn",
+    "bai_compatibility_4" : "Sora's HUD Reborn",
     "bai_compatibility_5" : "HoloUI",
     "bai_compatibility_6" : "SydneyHUD",
     "bai_compatibility_7" : "PD:TH HUD Reborn",

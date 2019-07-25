@@ -7,7 +7,7 @@
     "bai_compatibility_1" : "Rileva",
     "bai_compatibility_2" : "Vanilla",
     "bai_compatibility_3" : "Void UI",
-    "bai_compatibility_4" : "Nepgearsy HUD Reborn",
+    "bai_compatibility_4" : "Sora's HUD Reborn",
     "bai_compatibility_5" : "HoloUI",
     "bai_compatibility_6" : "SydneyHUD",
     "bai_compatibility_7" : "PD:TH HUD Reborn",
@@ -129,7 +129,7 @@
     "bai_advanced_assault_info_desc" : "Modifica le impostazioni avanzate dell'assalto.\n'Mostra informazioni avanzate assalto' deve essere attivo per funzionare. Alcune impostazioni non funzioneranno quando stai giocando come client.",    
 
     "bai_show_time_left" : "Mostra 'Tempo rimanente'",
-    "bai_show_time_left_desc" : "Mostra l'informazione 'Tempo rimanente' nella barra dell'assalto.\nQuesta informazione non sarà accurata se stai giocando come client e l'host non ha attivo BAI.",  
+    "bai_show_time_left_desc" : "Mostra l'informazione 'Tempo rimanente' nella barra dell'assalto.\nQuesta informazione non sarà accurata appena entrato in una partita, ma lo diventerà nel corso della partita.",
 
     "bai_time_format" : "Formato tempo",
     "bai_time_format_desc" : "Cambia il formato del tempo mostrato con l'informazione 'Tempo rimasto' dell'assalto",
@@ -155,7 +155,7 @@
     "bai_faction_assault_text" : "Mostra nome fazione nella barra d'assalto",
     "bai_faction_assault_text_desc" : "Mostra il nome della fazione durante un assalto nella barra d'assalto\n'Testo personalizzato' sovrascrive questa impostazione. Non applicabile nelle Serie Criminali",
 
-    "bai_host_warning" : "Sembra che l'host non stia giocando con BAI attivo. Alcune opzioni potrebbero non funzionare correttamente.",
+    "bai_host_warning" : "Sembra che l'host non stia giocando con BAI attivo. Alcune opzioni potrebbero non funzionare correttamente. Questo messaggio verrà mostrato nuovamente quando ti connetterai ad un altro host.",
     
     "hud_assault_alpha_fss_mod_1" : "SUICIDA",
     "hud_assault_alpha_fss_mod_2" : "MASOCHISMO",
