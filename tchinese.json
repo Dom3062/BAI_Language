@@ -2,6 +2,10 @@
     "bai_mod_title" : "更好的突襲橫幅(設定)",
     "bai_mod_desc" : "在這裡更改BAI的設定",
 	
+	"bai_language" : "語言",
+    "bai_language_desc" : "改變MOD語言",
+    "bai_language_1" : "自動檢測",
+	
     "bai_compatibility" : "HUD 兼容選項",
     "bai_compatibility_desc" : "可根據你所使用的 HUD 選擇所需要的兼容選項.\n若選錯可能會導致遊戲崩潰.\n默認自動識別當前使用的HUD",
     "bai_compatibility_1" : "自動識別",
@@ -116,7 +120,7 @@
     "bai_show_assault_states_desc" : "顯示突襲進行中的攻擊狀態(控制,偵查,組織,維持和撤退) 需要啟用顯示突襲狀態\此選項不適用於無盡攻擊和隊長存在時",
 
     "bai_assault_states" : "突襲狀態",
-    "bai_assault_states_desc" : "改變狀態顏色和狀態能見度 \突襲狀態顯示必須啟動才能使用",
+    "bai_assault_states_desc" : "改變狀態顏色和狀態能見度 \n突襲狀態顯示必須啟動才能使用",
 
     "bai_enabled" : "啟用該狀態顯示",
     "bai_enabled_not_assault_desc" : "若打勾, 這個狀態將顯示在突襲横幅中. 若不打勾,該狀態不會顯示在横幅中.",
@@ -129,7 +133,7 @@
     "bai_advanced_assault_info_desc" : "必須啟用更改進階突擊信息 \顯示進階突擊信息才能工作,此功能在無盡突襲下或隊長到達時不可用 某些選項於客戶端時不可用",
 
     "bai_show_time_left" : "顯示剩餘時間'",
-    "bai_show_time_left_desc" : "在突襲顯示 '剩餘時間' \當您跳轉到正在進行的遊戲時,此選項不會準確 需要一點時間讀取才會顯示正確剩餘時間",
+    "bai_show_time_left_desc" : "在突襲顯示 '剩餘時間' \n當您跳轉到正在進行的遊戲時,此選項不會準確 需要一點時間讀取才會顯示正確剩餘時間",
     
     "bai_time_format" : "時間格式",
     "bai_time_format_desc" : "設定突變突襲横幅中 '剩餘時間' 的顯示格式",
@@ -155,7 +159,7 @@
     "bai_faction_assault_text" : "在突襲横幅中顯示敵人陣營",
     "bai_faction_assault_text_desc" : "在突襲横幅中顯示敵人的陣營\n'自定義文本' 無法與此功能同時使用. 犯罪狂歡模式下無效",
 
-    "bai_host_warning" : "當前房主没有啟用 BAI ，有些功能可能無法正常運作；加入其它房間時若房主没有啟用 BAI，此消息會再次出現",
+    "bai_host_warning" : "當前房主没有啟用 BAI 有些功能可能無法正常運作:加入其它房間時若房主没有啟用 BAI，此消息會再次出現",
     
     "hud_assault_alpha_fss_mod_1" : "自殺",
     "hud_assault_alpha_fss_mod_2" : "受虐狂",
