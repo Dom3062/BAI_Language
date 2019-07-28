@@ -2,6 +2,10 @@
     "bai_mod_title": "ตัวบ่งชี้การจู่โจมที่เจ๋งยิ่งกว่าเดิม",
     "bai_mod_desc": "Better Assault Indicator: เปลี่ยนแปลงตัวเลือกของ Mod นี้",
 
+    "bai_language" : "ภาษา",
+    "bai_language_desc" : "เปลี่ยนภาษาของม็อด",
+    "bai_language_1" : "ค้นพบภาษาอัตโนมัติ",
+
     "bai_compatibility" : "ความเข้ากันได้ของ HUD",
     "bai_compatibility_desc" : "HUD Compatibility: คุณสามารถปรับแต่งความเข้ากันได้กับ HUD ที่คุณกำลังใช้อยู่\nเกมสามารถเด้งหลุดได้หากคุณเลือกความเข้ากันได้กับ HUD ผิดประเภท",
     "bai_compatibility_1" : "ตรวจสอบอัตโนมัติ",
