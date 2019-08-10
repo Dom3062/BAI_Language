@@ -3,7 +3,7 @@
     "bai_mod_desc" : "Change mod options",
 
     "bai_language" : "Language",
-    "bai_language_desc" : "Changes mod language",
+    "bai_language_desc" : "Changes mod language. To take effect, a level restart is required.",
     "bai_language_1" : "Autodetect",
 
     "bai_compatibility" : "HUD Compatibility",

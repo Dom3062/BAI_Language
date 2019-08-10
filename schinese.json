@@ -2,7 +2,7 @@
     "bai_mod_title" : "更好的突击横幅(设定)",
     "bai_mod_desc" : "在这里更改BAI的设定",
     "bai_language" : "语言(Language)",
-    "bai_language_desc" : "修改 BAI 的显示语言；如果你使用 PDLG 汉化的话请手动设置为简体中文。",
+    "bai_language_desc" : "修改 BAI 的显示语言。To take effect, a level restart is required.",
     "bai_language_1" : "自动侦测",
 
     "bai_compatibility" : "HUD 兼容选项",
