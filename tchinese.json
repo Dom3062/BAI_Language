@@ -3,7 +3,7 @@
     "bai_mod_desc" : "在這裡更改BAI的設定",
 	
     "bai_language" : "語言",
-    "bai_language_desc" : "改變MOD語言",
+    "bai_language_desc" : "更改mod使用語言,要使這個選項生效,需要重啟遊戲",
     "bai_language_1" : "自動檢測",
 	
     "bai_compatibility" : "HUD 兼容選項",
