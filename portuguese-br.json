@@ -1,7 +1,12 @@
 {
     "bai_mod_title" : "Better Assault Indicator",
     "bai_mod_desc" : "Mude as opções do mod",
-
+    
+    "bai_language" : "Linguagem",
+    "bai_language_desc" : "Para mudar a língua do mod. Para ter efeito, precisa carregar ou reiniciar um mapa.",
+    "bai_language_1" : "Detectar sozinho",
+    
+    
     "bai_compatibility" : "Compatibilidade das HUD",
     "bai_compatibility_desc" : "Você pode mudar a compatibilidade com um certo HUD que você tá usando\nAplicando em uma HUD errada pode fazer o seu jogo crashar.",
     "bai_compatibility_1" : "Detectar sozinho",
