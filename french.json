@@ -3,8 +3,8 @@
     "bai_mod_desc" : "Changer les options du mod",
 
     "bai_language" : "Language",
-    "bai_language_desc" : "Changes mod language. To take effect, a level restart is required.",
-    "bai_language_1" : "Autodetect",
+    "bai_language_desc" : "Change le language du mod. Pour que cela prend effet, un redémarrage du niveau est nécessaire.",
+    "bai_language_1" : "Détecte automatiquement",
 
     "bai_compatibility" : "Compatibilité HUD",
     "bai_compatibility_desc" : "Ici, vous pouvez sélectionner une compatibilité avec certains HUD que vous utilisez. L'application d'une mauvaise compatibilité HUD peut provoquer le plantage de votre jeu.",
