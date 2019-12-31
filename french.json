@@ -3,8 +3,8 @@
     "bai_mod_desc" : "Changer les options du mod",
 
     "bai_language" : "Language",
-    "bai_language_desc" : "Changes mod language. To take effect, a level restart is required.",
-    "bai_language_1" : "Autodetect",
+    "bai_language_desc" : "Change le language du mod. Pour que cela prend effet, un redémarrage du niveau est nécessaire.",
+    "bai_language_1" : "Détecte automatiquement",
 
     "bai_compatibility" : "Compatibilité HUD",
     "bai_compatibility_desc" : "Ici, vous pouvez sélectionner une compatibilité avec certains HUD que vous utilisez. L'application d'une mauvaise compatibilité HUD peut provoquer le plantage de votre jeu.",
@@ -47,10 +47,10 @@
     "bai_c1" : "C1",
     "bai_c2" : "C2",
 
-    "bai_halo_reach_hud" : "Halo: Reach HUD Options",
-    "bai_halo_reach_hud_desc" : "Apply BAI specific settings to Halo: Reach HUD",
-    "bai_halo_reach_hud_use_bai_color" : "Use Colors from BAI",
-    "bai_halo_reach_hud_use_bai_color_desc" : "When enabled, assault panel will use colors from BAI\nOtherwise default color will be used",
+    "bai_halo_reach_hud" : "Options de Halo: Reach HUD",
+    "bai_halo_reach_hud_desc" : "Applique les options spécifiques de BAI à Halo: Reach HUD",
+    "bai_halo_reach_hud_use_bai_color" : "Utilise les couleurs de BAI",
+    "bai_halo_reach_hud_use_bai_color_desc" : "Quand activé, la bannière d’assaut utilisera les couleurs de BAI\n Sinon, il utilisera les couleurs par défaut",
     
     "bai_button_ok" : "OK",
     "bai_detected_wolfhud" : "Incompatibilité détectée avec WolfHUD",
@@ -61,7 +61,7 @@
     "bai_detected_wave_survived_desc" : "Il est recommandé de désactiver ou de supprimer 'Wave Survived mod', qui est incompatible avec BAI car il supporte déja les vagues survécus dans la bannière d'assaut.",
     
     "bai_savedata_not_compatible" : "Sauvegarde non compatible avec cette version de BAI",
-    "bai_savedata_not_compatible_desc" : "Il semble que que le fonctionnement interne de BAI à changé et a rendu votre sauvegarde de BAI incompatible avec cette version. Malheuresement, je ne peux pas charger votre sauvegarde, donc j´ai préféré charger les options par défauts pour éviter un plantage du mod.\n\nDésolé du dérangement.",
+    "bai_savedata_not_compatible_desc" : "Il semble que le fonctionnement interne de BAI a changé et a rendu votre sauvegarde de BAI incompatible avec cette version. Malheureusement, je ne peux pas charger votre sauvegarde, donc j’ai préféré charger les options par défauts pour éviter un plantage du mod.\n\nDésolé du dérangement.",
     
     "bai_show_wave_survived" : "Montrer les vagues survécus",
     "bai_show_wave_survived_desc" : "Montrer les vagues survécus (du Raid de la Planque) à chaque fois que vous et votre crew survivez à un assaut de police",
@@ -162,17 +162,33 @@
     "bai_custom_text" : "Texte personnalisé ici",
     "bai_custom_text_desc" : "Écrivez votre texte personnalisé ici",
     
-    "bai_faction_assault_text" : "Montre le nom de la faction dans la boite d´assaut",
-    "bai_faction_assault_text_desc" : "Montre le nom de la faction durant un assaut dans la boite d´assaut\n'Texte personnalisé' est utilisé en priorité. Non applicable en mode Crime Spree",
+    "bai_faction_assault_text" : "Montre le nom de la faction dans la boite d’assaut",
+    "bai_faction_assault_text_desc" : "Montre le nom de la faction durant un assaut dans la boite d’assaut\n'Texte personnalisé' est utilisé en priorité. Non applicable en mode Crime Spree",
 
     "bai_modules" : "Modules",
-    "bai_modules_desc" : "Modules improve or extend BAI's features\nIf the module has additional options, they will be listed here",
+    "bai_modules_desc" : "Les modules améliore ou étend les fonctionnalités de BAI\nSi un module a des paramètres additionnels, ils seront listés ici",
 
-    "bai_assault_panel_position" : "Assault Panel Position",
-    "bai_assault_panel_position_desc" : "Sets Assault Panel Position on the screen",
-    "bai_assault_panel_position_1" : "Right",
-    "bai_assault_panel_position_2" : "Center",
-    "bai_assault_panel_position_3" : "Left",
+    "bai_assault_panel_position" : "Position de la bannière d’assaut",
+    "bai_assault_panel_position_desc" : "Ajuste la position de la bannière d’assaut sur l’écran",
+    "bai_assault_panel_position_1" : "Droite",
+    "bai_assault_panel_position_2" : "Centre",
+    "bai_assault_panel_position_3" : "Gauche",
+    
+    "bai_other_options" : "Autres options",
+    "bai_other_options_desc" : "",
+    
+    "bai_hudlist" : "HUDList",
+    "bai_hudlist_move_hostage_panel" : "",
+    "bai_hudlist_move_hostage_panel_desc" : "",
+
+    "bai_animations" : "Options d’animation",
+    "bai_animations_desc" : "Change comment les animations doivent fonctionner en jeu",
+
+    "bai_enable_animations" : "Activer les animations",
+    "bai_enable_animations_desc" : "Quand désactivé, toutes les animations seront instantanées (comportement par défaut du jeu)",
+
+    "bai_animation_speed" : "Vitesse d’animation",
+    "bai_animation_speed_desc" : "Augmenter cette valeur fera changer l’animation de couleur plus lentement. La réduire la rendra plus rapide.",
 
     "hud_assault_alpha_fss_mod_1" : "SUICIDE",
     "hud_assault_alpha_fss_mod_2" : "MASOCHISTE",
@@ -242,5 +258,5 @@
     "hud_fss_mod_1" : "Suicide",
     "hud_fss_mod_2" : "Masochisme",
     "hud_fss_mod_3" : "Masochiste ?",
-    "hud_no_return" : "No Return"
+    "hud_no_return" : "Sans retour"
 }
