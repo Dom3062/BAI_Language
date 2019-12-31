@@ -18,6 +18,7 @@
     "bai_compatibility_8" : "Restoration Mod",
     "bai_compatibility_9" : "MUI",
     "bai_compatibility_10" : "KineticHUD",
+    "bai_compatibility_11" : "Halo: Reach HUD",
 
     "bai_holoui" : "HoloUI Options",
     "bai_holoui_desc" : "Apply BAI specific settings to HoloUI",
@@ -27,7 +28,7 @@
     "bai_pdth_hud_reborn" : "PD:TH HUD Reborn Options",
     "bai_pdth_hud_reborn_desc" : "Apply BAI specific settings to PD:TH HUD Reborn",
     "bai_pdth_hud_reborn_custom_text_color" : "Use Custom Text Color",
-    "bai_pdth_hud_reborn_custom_text_color_desc" : "When disabled the game will apply assault icon's color to text",
+    "bai_pdth_hud_reborn_custom_text_color_desc" : "When disabled, the game will apply assault icon's color to text",
     "bai_pdth_hud_reborn_aai_only_text" : "Apply color to Advanced Assault Info only",
     "bai_pdth_hud_reborn_aai_only_text_desc" : "Only apply the color below to 'Time Left' and 'Spawns Left'\n'Use Custom Text Color' must be enabled in order to work",
 
@@ -45,6 +46,11 @@
     "bai_restoration_mod_early_alpha_corner_only_desc" : "These choices only affects 'Early Alpha Corner' in Restoration Mod",
     "bai_c1" : "C1",
     "bai_c2" : "C2",
+
+    "bai_halo_reach_hud" : "Halo: Reach HUD Options",
+    "bai_halo_reach_hud_desc" : "Apply BAI specific settings to Halo: Reach HUD",
+    "bai_halo_reach_hud_use_bai_color" : "Use Colors from BAI",
+    "bai_halo_reach_hud_use_bai_color_desc" : "When enabled, assault panel will use colors from BAI\nOtherwise default color will be used",
 
     "bai_button_ok" : "OK",
     "bai_detected_wolfhud" : "Detected incompatibility with WolfHUD",
@@ -148,7 +154,7 @@
     "bai_show_spawns_left_desc" : "Shows 'Spawns Left' in the Assault Box",
 
     "bai_use_custom_text" : "Use Custom Text",
-    "bai_use_custom_text_desc" : "If enabled, HUD will use your text below instead of default one provided by game or BAI",
+    "bai_use_custom_text_desc" : "If enabled, the HUD will use your text below instead of default one provided by game or BAI",
     "bai_text" : "Text",
     "bai_text_desc" : "Write your custom text as long as you want",
     "bai_text_short" : "Text (Short)",
@@ -159,7 +165,30 @@
     "bai_faction_assault_text" : "Show Faction Name in the Assault Box",
     "bai_faction_assault_text_desc" : "Shows Faction Name during an assault in the Assault Box\n'Custom Text' overrides this feature. Not applicable in Crime Spree",
 
-    "bai_host_warning" : "Looks like the host does not have BAI running. Some features may not work correctly. This message will show again when you connect to a different host.",
+    "bai_modules" : "Modules",
+    "bai_modules_desc" : "Modules improve or extend BAI's features\nIf the module has additional options, they will be listed here",
+
+    "bai_assault_panel_position" : "Assault Panel Position",
+    "bai_assault_panel_position_desc" : "Sets Assault Panel Position on the screen",
+    "bai_assault_panel_position_1" : "Right",
+    "bai_assault_panel_position_2" : "Center",
+    "bai_assault_panel_position_3" : "Left",
+
+    "bai_other_options" : "Other Options",
+    "bai_other_options_desc" : "",
+
+    "bai_hudlist" : "HUDList",
+    "bai_hudlist_move_hostage_panel" : "",
+    "bai_hudlist_move_hostage_panel_desc" : "",
+
+    "bai_animations" : "Animation Options",
+    "bai_animations_desc" : "Changes how animations should behave in the game",
+
+    "bai_enable_animations" : "Enable Animations",
+    "bai_enable_animations_desc" : "When disabled, every animation will be instant (default game behavior)",
+
+    "bai_animation_speed" : "Animation Speed",
+    "bai_animation_speed_desc" : "Increasing this value will make the color animation go slower. Decreasing will make it go faster.",
     
     "hud_assault_alpha_fss_mod_1" : "SUICIDE",
     "hud_assault_alpha_fss_mod_2" : "MASOCHISM",
@@ -221,12 +250,13 @@
     "hud_min" : "min",
     "hud_s" : "s",
 
-    "hud_assault" : "ASSAULT",
-    "hud_endless" : "ENDLESS",
-    "hud_captain" : "CAPTAIN",
-    "hud_captain_active" : "FULLY ASSEMBLED",
-    "hud_survived" : "SURVIVED",
-    "hud_fss_mod_1" : "SUICIDE",
-    "hud_fss_mod_2" : "MASOCHISM",
-    "hud_fss_mod_3" : "MASOCHIST?"
+    "hud_assault" : "Assault",
+    "hud_endless" : "Endless",
+    "hud_captain" : "Captain",
+    "hud_captain_active" : "Fully Assembled",
+    "hud_survived" : "Survived",
+    "hud_fss_mod_1" : "Suicide",
+    "hud_fss_mod_2" : "Masochism",
+    "hud_fss_mod_3" : "Masochist?",
+    "hud_no_return" : "Escape"
 }

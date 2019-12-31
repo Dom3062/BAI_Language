@@ -2,6 +2,10 @@
     "bai_mod_title" : "Better Assault Indicator",
     "bai_mod_desc" : "Ändere mod optionen",
 
+    "bai_language" : "sprache",
+    "bai_language_desc" : "ändert mod-sprache. levelneustart wird benötigt.",
+    "bai_language_1" : "Automatisch erkennen",
+
     "bai_compatibility" : "HUD Kompatibilität",
     "bai_compatibility_desc" : "hier kanst du die Kompatibilität mit einem bestimmten hud das du benuzt auswählen.\nauswahl des falschen huds kann zu einem crash führen.",
     "bai_compatibility_1" : "erkennen",
@@ -14,6 +18,7 @@
     "bai_compatibility_8" : "Restoration Mod",
     "bai_compatibility_9" : "MUI",
     "bai_compatibility_10" : "KineticHUD",
+    "bai_compatibility_11" : "Halo: Reach HUD",
 
     "bai_holoui" : "HoloUI einstellungen",
     "bai_holoui_desc" : "wende spezielle Bai einstellungen bei HoloUI an",
@@ -154,8 +159,6 @@
 
     "bai_faction_assault_text" : "zeige fraktionsname im vorstoßfeld an",
     "bai_faction_assault_text_desc" : "zeigt den name der fraktion währden eines vorstoßes im vorstoßfeld an\n'persönlicher text' überschreibt diese einstellung. Nicht anwendbar in der Crime_Spree",
-
-    "bai_host_warning" : "der host hat anscheinend kein bai. manche einstellungen funktionieren womöglich nicht. diese nachricht wird wieder angezeigt wenn du einem anderen host beitrittst",
     
     "hud_assault_alpha_fss_mod_1" : "selbstmord",
     "hud_assault_alpha_fss_mod_2" : "Masochismus",
@@ -217,12 +220,12 @@
     "hud_min" : "min",
     "hud_s" : "s",
 
-    "hud_assault" : "VORSTOẞ",
-    "hud_endless" : "ENDLOS",
-    "hud_captain" : "CAPTAIN",
-    "hud_captain_active" : "KOMPLETT AUFGESTELLT",
-    "hud_survived" : "ÜBERLEBT",
-    "hud_fss_mod_1" : "selbstmord",
-    "hud_fss_mod_2" : "MASOCHISM",
-    "hud_fss_mod_3" : "MASOCHIST?"
+    "hud_assault" : "Vorstoß",
+    "hud_endless" : "Endlos",
+    "hud_captain" : "Captain",
+    "hud_captain_active" : "Komplett aufgestellt",
+    "hud_survived" : "Überlebt",
+    "hud_fss_mod_1" : "Selbstmord",
+    "hud_fss_mod_2" : "Masochism",
+    "hud_fss_mod_3" : "Masochist?"
 }

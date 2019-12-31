@@ -2,6 +2,10 @@
     "bai_mod_title" : "Meilleur Indicateur d'Assaut",
     "bai_mod_desc" : "Changer les options du mod",
 
+    "bai_language" : "Language",
+    "bai_language_desc" : "Changes mod language. To take effect, a level restart is required.",
+    "bai_language_1" : "Autodetect",
+
     "bai_compatibility" : "Compatibilité HUD",
     "bai_compatibility_desc" : "Ici, vous pouvez sélectionner une compatibilité avec certains HUD que vous utilisez. L'application d'une mauvaise compatibilité HUD peut provoquer le plantage de votre jeu.",
     "bai_compatibility_1" : "Détecte automatiquement",
@@ -14,6 +18,7 @@
     "bai_compatibility_8" : "Restoration Mod",
     "bai_compatibility_9" : "MUI",
     "bai_compatibility_10" : "KineticHUD",
+    "bai_compatibility_11" : "Halo: Reach HUD",
 
     "bai_holoui" : "Options d'HoloUI", 
     "bai_holoui_desc" : "Applique les options spécifiques de BAI à HoloUI", 
@@ -41,6 +46,11 @@
     "bai_restoration_mod_early_alpha_corner_only_desc" : "Ces choix affectent seulement le 'Coin Alpha anticipée' dans Restoration mod",
     "bai_c1" : "C1",
     "bai_c2" : "C2",
+
+    "bai_halo_reach_hud" : "Halo: Reach HUD Options",
+    "bai_halo_reach_hud_desc" : "Apply BAI specific settings to Halo: Reach HUD",
+    "bai_halo_reach_hud_use_bai_color" : "Use Colors from BAI",
+    "bai_halo_reach_hud_use_bai_color_desc" : "When enabled, assault panel will use colors from BAI\nOtherwise default color will be used",
     
     "bai_button_ok" : "OK",
     "bai_detected_wolfhud" : "Incompatibilité détectée avec WolfHUD",
@@ -155,7 +165,14 @@
     "bai_faction_assault_text" : "Montre le nom de la faction dans la boite d´assaut",
     "bai_faction_assault_text_desc" : "Montre le nom de la faction durant un assaut dans la boite d´assaut\n'Texte personnalisé' est utilisé en priorité. Non applicable en mode Crime Spree",
 
-    "bai_host_warning" : "Il semble que l´hôte n´a installé BAI. Certaines fonctions risquent de ne pas fonctionner correctement. Ce message apparaitra à nouveau si vous vous connectez à un autre hôte.",
+    "bai_modules" : "Modules",
+    "bai_modules_desc" : "Modules improve or extend BAI's features\nIf the module has additional options, they will be listed here",
+
+    "bai_assault_panel_position" : "Assault Panel Position",
+    "bai_assault_panel_position_desc" : "Sets Assault Panel Position on the screen",
+    "bai_assault_panel_position_1" : "Right",
+    "bai_assault_panel_position_2" : "Center",
+    "bai_assault_panel_position_3" : "Left",
 
     "hud_assault_alpha_fss_mod_1" : "SUICIDE",
     "hud_assault_alpha_fss_mod_2" : "MASOCHISTE",
@@ -217,12 +234,13 @@
     "hud_min" : "min",
     "hud_s" : "s",
     
-    "hud_assault" : "ASSAUT",
-    "hud_endless" : "SANS-FIN",
-    "hud_captain" : "CAPITAINE",
-    "hud_captain_active" : "COMPLÈTEMENT RASSEMBLÉ",
-    "hud_survived" : "SURVÉCU",
-    "hud_fss_mod_1" : "SUICIDE",
-    "hud_fss_mod_2" : "MASOCHISME",
-    "hud_fss_mod_3" : "MASOCHISTE ?"
+    "hud_assault" : "Assaut",
+    "hud_endless" : "Sans-fin",
+    "hud_captain" : "Capitaine",
+    "hud_captain_active" : "Complètement rassemblé",
+    "hud_survived" : "Survécu",
+    "hud_fss_mod_1" : "Suicide",
+    "hud_fss_mod_2" : "Masochisme",
+    "hud_fss_mod_3" : "Masochiste ?",
+    "hud_no_return" : "Escape"
 }

@@ -2,6 +2,10 @@
     "bai_mod_title" : "Better Assault Indicator",
     "bai_mod_desc" : "Impostazioni della mod",
 
+    "bai_language" : "Lingua",
+    "bai_language_desc" : "Cambia la lingua della mod. È necessario un caricamento per rendere effettive le modifiche.",
+    "bai_language_1" : "Rileva automaticamente",
+
     "bai_compatibility" : "Compatibilità HUD",
     "bai_compatibility_desc" : "Seleziona un altro HUD che stai utilizzando per renderlo compatibile con BAI.\nIl gioco potrebbe crashare se selezioni un HUD che non hai installato!",
     "bai_compatibility_1" : "Rileva",
@@ -14,6 +18,7 @@
     "bai_compatibility_8" : "Restoration Mod",
     "bai_compatibility_9" : "MUI",
     "bai_compatibility_10" : "KineticHUD",
+    "bai_compatibility_11" : "Halo: Reach HUD",
 
     "bai_holoui" : "Opzioni HoloUI",
     "bai_holoui_desc" : "Applica le impostazioni specifiche di BAI a HoloUI",
@@ -154,8 +159,6 @@
 
     "bai_faction_assault_text" : "Mostra nome fazione nella barra d'assalto",
     "bai_faction_assault_text_desc" : "Mostra il nome della fazione durante un assalto nella barra d'assalto\n'Testo personalizzato' sovrascrive questa impostazione. Non applicabile nelle Serie Criminali",
-
-    "bai_host_warning" : "Sembra che l'host non stia giocando con BAI attivo. Alcune opzioni potrebbero non funzionare correttamente. Questo messaggio verrà mostrato nuovamente quando ti connetterai ad un altro host.",
     
     "hud_assault_alpha_fss_mod_1" : "SUICIDA",
     "hud_assault_alpha_fss_mod_2" : "MASOCHISMO",
@@ -217,12 +220,12 @@
     "hud_min" : "min",
     "hud_s" : "s",
 
-    "hud_assault" : "ASSALTO",
-    "hud_endless" : "INFINITO",
-    "hud_captain" : "CAPITANO",
-    "hud_captain_active" : "COMPLETAMENTE ASSEMBLATO",
-    "hud_survived" : "SOPRAVVISSUTO",
-    "hud_fss_mod_1" : "SUICIDA",
-    "hud_fss_mod_2" : "MASOCHISMO",
-    "hud_fss_mod_3" : "MASOCHISTA?"
+    "hud_assault" : "Assalto",
+    "hud_endless" : "Infinito",
+    "hud_captain" : "Capitano",
+    "hud_captain_active" : "Completamente Assemblato",
+    "hud_survived" : "Sopravvissuto",
+    "hud_fss_mod_1" : "Suicida",
+    "hud_fss_mod_2" : "Masochismo",
+    "hud_fss_mod_3" : "Masochista?"
 }

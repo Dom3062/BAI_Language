@@ -1,6 +1,7 @@
 {
     "bai_mod_title" : "更好的突击横幅(设定)",
     "bai_mod_desc" : "在这里更改BAI的设定",
+
     "bai_language" : "语言(Language)",
     "bai_language_desc" : "修改 BAI 的显示语言。To take effect, a level restart is required.",
     "bai_language_1" : "自动侦测",
@@ -17,6 +18,7 @@
     "bai_compatibility_8" : "Restoration Mod",
     "bai_compatibility_9" : "MUI",
     "bai_compatibility_10" : "KineticHUD",
+    "bai_compatibility_11" : "Halo: Reach HUD",
 
     "bai_holoui" : "适用于 HoloUI 的设定",
     "bai_holoui_desc" : "这些是为 HoloUI 而生的功能",
@@ -44,6 +46,11 @@
     "bai_restoration_mod_early_alpha_corner_only_desc" : "这些选项仅影响 Restoration Mod 的 '早期 Alpha 边角' ",
     "bai_c1" : "C1",
     "bai_c2" : "C2",
+
+    "bai_halo_reach_hud" : "Halo: Reach HUD Options",
+    "bai_halo_reach_hud_desc" : "Apply BAI specific settings to Halo: Reach HUD",
+    "bai_halo_reach_hud_use_bai_color" : "Use Colors from BAI",
+    "bai_halo_reach_hud_use_bai_color_desc" : "When enabled, assault panel will use colors from BAI\nOtherwise default color will be used",
 
     "bai_button_ok" : "OK",
     "bai_detected_wolfhud" : "侦测到已启用的 WolfHUD",
@@ -158,7 +165,8 @@
     "bai_faction_assault_text" : "在突击横幅中显示敌人阵营",
     "bai_faction_assault_text_desc" : "在突击横幅中显示敌人的阵营\n'自定义文本' 无法与此功能同时使用. 挑战模式下无效",
 
-    "bai_host_warning" : "当前房主没有启用 BAI ，有些功能可能无法正常运作；加入其它房间时若房主没有启用 BAI，此消息会再次出现",
+    "bai_modules" : "Modules",
+    "bai_modules_desc" : "Modules improve or extend BAI's features. If the module has additional options, they will be listed here.",
     
     "hud_assault_alpha_fss_mod_1" : "尝试自杀中",
     "hud_assault_alpha_fss_mod_2" : "持续受虐中",
@@ -227,5 +235,6 @@
     "hud_survived" : "波数存活",
     "hud_fss_mod_1" : "尝试自杀中",
     "hud_fss_mod_2" : "持续受虐中",
-    "hud_fss_mod_3" : "抖M认证中"
+    "hud_fss_mod_3" : "抖M认证中",
+    "hud_no_return" : "Escape"
 }

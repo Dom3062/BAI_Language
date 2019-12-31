@@ -1,12 +1,11 @@
 {
     "bai_mod_title" : "Better Assault Indicator",
     "bai_mod_desc" : "Mude as opções do mod",
-    
+
     "bai_language" : "Linguagem",
     "bai_language_desc" : "Para mudar a língua do mod. Para ter efeito, precisa carregar ou reiniciar um mapa.",
     "bai_language_1" : "Detectar sozinho",
-    
-    
+
     "bai_compatibility" : "Compatibilidade das HUD",
     "bai_compatibility_desc" : "Você pode mudar a compatibilidade com um certo HUD que você tá usando\nAplicando em uma HUD errada pode fazer o seu jogo crashar.",
     "bai_compatibility_1" : "Detectar sozinho",
@@ -19,6 +18,7 @@
     "bai_compatibility_8" : "Restoration Mod",
     "bai_compatibility_9" : "MUI",
     "bai_compatibility_10" : "KineticHUD",
+    "bai_compatibility_11" : "Halo: Reach HUD",
 
     "bai_holoui" : "Opções de HoloUI",
     "bai_holoui_desc" : "Aplicar as configurações de BAI para HoloUI",
@@ -159,8 +159,6 @@
 
     "bai_faction_assault_text" : "Mostra os nomes das Facções na Caixa do Assault",
     "bai_faction_assault_text_desc" : "Mostra o nome da Facção que estiver lutando na Caixa do Assault\n'Texto personalizado' atrapalha um pouco, então, desativa se querer os nomes das Facções. Não funciona em Crime Spree",
-
-    "bai_host_warning" : "Parece que o Host não tem o BAI. Algumas coisa podem dá uma merda grande. Essa mensagem só vai aparecer de novo quando você entra com um Host diferente.",
     
     "hud_assault_alpha_fss_mod_1" : "SUÍCIDIO",
     "hud_assault_alpha_fss_mod_2" : "MACHISMO",
@@ -219,15 +217,15 @@
     "hud_time_left_short" : "Tempo: ",
     "hud_spawns_left" : "Spawns restando: ",
     "hud_spawns_left_short" : "Spawns: ",
-    "hud_min" : "minutos",
-    "hud_s" : "segundos",
+    "hud_min" : "min",
+    "hud_s" : "s",
 
-    "hud_assault" : "ASSALTO",
-    "hud_endless" : "SEM FIM",
-    "hud_captain" : "CAPTAIN",
-    "hud_captain_active" : "CHEGOU O CAPTAIN",
-    "hud_survived" : "SOBREVIVEU",
-    "hud_fss_mod_1" : "SUÍCIDIO",
-    "hud_fss_mod_2" : "MACHISMO",
-    "hud_fss_mod_3" : "MACHISTA?"
+    "hud_assault" : "Assalto",
+    "hud_endless" : "Sem fim",
+    "hud_captain" : "Captain",
+    "hud_captain_active" : "Chegou o captain",
+    "hud_survived" : "Sobreviveu",
+    "hud_fss_mod_1" : "Suícidio",
+    "hud_fss_mod_2" : "Machismo",
+    "hud_fss_mod_3" : "Machista?"
 }

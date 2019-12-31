@@ -18,6 +18,7 @@
     "bai_compatibility_8" : "Restoration Mod",
     "bai_compatibility_9" : "MUI",
     "bai_compatibility_10" : "KineticHUD",
+    "bai_compatibility_11" : "Halo: Reach HUD",
 
     "bai_holoui" : "Настройки HoloUI",
     "bai_holoui_desc" : "Применить настройки Мода для HoloUI",
@@ -164,8 +165,6 @@
     "bai_faction_assault_text" : "Показывает название отряда в панели осады",
     "bai_faction_assault_text_desc" : "Показывает какой именно отряд наступает во время осады.\nВключенный 'Собственный текст' будет в проритете. Неприменимо для режима 'Серия ограблений'",
 
-    "bai_host_warning" : "Похоже у хоста не установлен BAI. Некоторые функции могут работать неправильно. Это сообщение появится снова при подключение к другому хосту.",
-
     "hud_assault_alpha_fss_mod_1" : "САМОУБЙИСТВО",
     "hud_assault_alpha_fss_mod_2" : "МАЗОХИЗМ",
     "hud_assault_alpha_fss_mod_3" : "МАЗОХИСТ?",
@@ -226,12 +225,12 @@
     "hud_min" : "мин",
     "hud_s" : "с",
     
-    "hud_assault" : "ОСАДА",
-    "hud_endless" : "БЕСКОНЕЧНАЯ",
-    "hud_captain" : "КАПИТАН",
-    "hud_captain_active" : "КАПИТАН ПРИБЫЛ",
-    "hud_survived" : "ОТБИТА",
-    "hud_fss_mod_1" : "САМОУБИЙСТВО",
-    "hud_fss_mod_2" : "МАЗОХИЗМ",
-    "hud_fss_mod_3" : "МАЗОХИСТ?"
+    "hud_assault" : "Осада",
+    "hud_endless" : "Бесконечная",
+    "hud_captain" : "Капитан",
+    "hud_captain_active" : "Капитан Прибыл",
+    "hud_survived" : "Отбита",
+    "hud_fss_mod_1" : "Самоубийство",
+    "hud_fss_mod_2" : "Мазохизм",
+    "hud_fss_mod_3" : "Мазохист?"
 }

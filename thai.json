@@ -3,7 +3,7 @@
     "bai_mod_desc": "Better Assault Indicator: เปลี่ยนแปลงตัวเลือกของ Mod นี้",
 
     "bai_language" : "ภาษา",
-    "bai_language_desc" : "เปลี่ยนภาษาของม็อด",
+    "bai_language_desc" : "เปลี่ยนภาษาของม็อด.\nจำเป็นต้องมีการรีสตาร์ทด่านเพื่อให้การเปลี่ยนแปลงนี้ส่งผลลัพธ์",
     "bai_language_1" : "ค้นพบภาษาอัตโนมัติ",
 
     "bai_compatibility" : "ความเข้ากันได้ของ HUD",
@@ -18,6 +18,7 @@
     "bai_compatibility_8" : "Restoration Mod",
     "bai_compatibility_9" : "MUI",
     "bai_compatibility_10" : "KineticHUD",
+    "bai_compatibility_11" : "Halo: Reach HUD",
 	
     "bai_holoui" : "ตัวเลือก HoloUI",
     "bai_holoui_desc" : "ใช้การตั้งค่าเฉพาะของ BAI กับ HoloUI",
@@ -158,8 +159,6 @@
 
     "bai_faction_assault_text" : "แสดงชื่อเฉพาะในหน้าต่างแสดงการจู่โจม",
     "bai_faction_assault_text_desc" : "แสดงชื่อเฉพาะ (Faction Name) ในช่วงการจู่โจมที่แสดงจากหน้าต่างการจู่โจม\n'เขียนข้อความตามใจคุณ' จะถูกเรียกใช้งานแทนตัวเลือกนี้. ตัวเลือกนี้ใช้ไม่ได้กับโหมด Crime Spree",
-
-    "bai_host_warning" : "ดูเหมือนว่าโฮสต์จะไม่มี BAI ติดตั้งเอาไว้. คุณสมบัติบางประการอาจทำงานได้ไม่ถูกต้อง. ข้อความนี้จะปรากฏอีกครั้งเมื่อคุณเชื่อมต่อกับโฮสต์คนอื่น",
 
     "hud_assault_alpha_fss_mod_1" : "การฆ่าตัวตาย",
     "hud_assault_alpha_fss_mod_2" : "ซาดิสม์",
