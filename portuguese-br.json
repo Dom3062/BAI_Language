@@ -151,7 +151,7 @@
     "bai_use_custom_text" : "Usar texto personalizado",
     "bai_use_custom_text_desc" : "Se ligado, a HUD irá usar o texto que você colocar, invés do BAI ou jogo oferecer",
     "bai_text" : "Texto",
-    "bai_text_desc" : "Escreve o que você quise",
+    "bai_text_desc" : "Escreve o que você quiser",
     "bai_text_short" : "Texto (Curto)",
     "bai_text_short_desc" : "algumas HUDs tem uma caixa de Assault pequena e usam um texto pequeno invés a da grande. Escreve o que você quiser, mas não exagera",
     "bai_custom_text" : "Texto customizado aqui",
