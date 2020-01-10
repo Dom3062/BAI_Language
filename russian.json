@@ -264,6 +264,6 @@
     "hud_survived" : "Отбита",
     "hud_fss_mod_1" : "Самоубийство",
     "hud_fss_mod_2" : "Мазохизм",
-    "hud_fss_mod_3" : "Мазохист?"
+    "hud_fss_mod_3" : "Мазохист?",
     "hud_no_escape" : "Сбегите"
 }
