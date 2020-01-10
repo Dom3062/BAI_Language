@@ -20,6 +20,11 @@
     "bai_compatibility_10" : "KineticHUD",
     "bai_compatibility_11" : "Halo: Reach HUD",
 
+    "bai_halo_reach_hud" : "Opções da Halo: Reach HUD",
+    "bai_halo_reach_hud_desc" : "Aplica as configurações específicas para a Halo: Reach HUD",
+    "bai_halo_reach_hud_use_bai_color" : "Usar as cores da BAI",
+    "bai_halo_reach_hud_use_bai_color_desc" : "Quando ativado o painel do assalto vai usar as cores da BAI\nSe não, a cor padrão será usada.",
+    
     "bai_holoui" : "Opções de HoloUI",
     "bai_holoui_desc" : "Aplicar as configurações de BAI para HoloUI",
     "bai_holoui_update_text_color" : "Aplicar a cor do texto",
@@ -246,11 +251,12 @@
     "hud_s" : "s",
 
     "hud_assault" : "Assalto",
-    "hud_endless" : "Sem fim",
-    "hud_captain" : "Captain",
-    "hud_captain_active" : "Chegou o captain",
+    "hud_endless" : "Sem Fim",
+    "hud_captain" : "Capitão",
+    "hud_captain_active" : "Chegou o Capitão",
     "hud_survived" : "Sobreviveu",
-    "hud_fss_mod_1" : "Suícidio",
+    "hud_fss_mod_1" : "Suicídio",
     "hud_fss_mod_2" : "Machismo",
-    "hud_fss_mod_3" : "Machista?"
+    "hud_fss_mod_3" : "Machista?",
+    "hud_no_return" : "Sem Retorno"
 }
