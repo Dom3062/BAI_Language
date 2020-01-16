@@ -11,13 +11,14 @@
     "bai_compatibility_1" : "自動識別",
     "bai_compatibility_2" : "不使用兼容選項",
     "bai_compatibility_3" : "Void UI",
-    "bai_compatibility_4" : "Nepgearsy HUD '重生版",
+    "bai_compatibility_4" : "Sora's HUD '重生版",
     "bai_compatibility_5" : "HoloUI",
     "bai_compatibility_6" : "SydneyHUD",
     "bai_compatibility_7" : "PD:TH HUD 重製版",
     "bai_compatibility_8" : "Restoration Mod",
     "bai_compatibility_9" : "MUI",
     "bai_compatibility_10" : "KineticHUD",
+    "bai_compatibility_11" : "Halo: Reach HUD",
 
     "bai_holoui" : "適用於 HoloUI 的設定突變",
     "bai_holoui_desc" : "這些是為 HoloUI 而生的功能",
@@ -45,6 +46,11 @@
     "bai_restoration_mod_early_alpha_corner_only_desc" : "這些選項僅影響 Restoration Mod 的 '早期 Alpha 邊角' ",
     "bai_c1" : "C1",
     "bai_c2" : "C2",
+
+    "bai_halo_reach_hud" : "Halo: Reach HUD Options",
+    "bai_halo_reach_hud_desc" : "Apply BAI specific settings to Halo: Reach HUD",
+    "bai_halo_reach_hud_use_bai_color" : "Use Colors from BAI",
+    "bai_halo_reach_hud_use_bai_color_desc" : "When enabled, assault panel will use colors from BAI\nOtherwise default color will be used",
 
     "bai_button_ok" : "OK",
     "bai_detected_wolfhud" : "偵測到已啟用的 WolfHUD",
@@ -88,7 +94,7 @@
     "bai_assault_box_desc" : "更改突襲横幅的顏色",
 
     "bai_assault_box_mutated" : "突襲横幅顏色 (啟用規則突變)",
-    "bai_assault_box_mutated_desc" : "更改突襲横幅的顏色(啟用規則突變)"
+    "bai_assault_box_mutated_desc" : "更改突襲横幅的顏色(啟用規則突變)",
 
     "bai_holdout_box" : "突襲横幅顏色 (Holdout模式)",
     "bai_holdout_box_desc" : "更改 Holdout 模式下的突襲横幅的顏色",
@@ -117,23 +123,23 @@
     "bai_colors_reset_desc" : "將所有顏色設置恢復為默認",
 
     "bai_show_assault_states" : "顯示突擊狀態",
-    "bai_show_assault_states_desc" : "顯示突襲進行中的攻擊狀態(控制,偵查,組織,維持和撤退) 需要啟用顯示突襲狀態\此選項不適用於無盡攻擊和隊長存在時",
+    "bai_show_assault_states_desc" : "顯示突襲進行中的攻擊狀態(控制,偵查,組織,維持和撤退) 需要啟用顯示突襲狀態\n此選項不適用於無盡攻擊和隊長存在時",
 
     "bai_assault_states" : "突襲狀態",
-    "bai_assault_states_desc" : "改變狀態顏色和狀態能見度 \n突襲狀態顯示必須啟動才能使用",
+    "bai_assault_states_desc" : "改變狀態顏色和狀態能見度\n突襲狀態顯示必須啟動才能使用",
 
     "bai_enabled" : "啟用該狀態顯示",
     "bai_enabled_not_assault_desc" : "若打勾, 這個狀態將顯示在突襲横幅中. 若不打勾,該狀態不會顯示在横幅中.",
     "bai_enabled_assault_desc" : "若打勾, 這個狀態將顯示在突襲横幅中. 若不打勾,該狀態不會顯示在横幅中.",
-	
-    "bai_show_assault_states" : "顯示突襲狀態",
-    "bai_show_assault_states_desc" : "在突襲横幅中顯示以下狀態 (控制, 偵查, 組織, 持續, 撤退) 需要啟用顯示突襲狀態\n當冬日隊長到達或者無盡突襲進行時此選項無效.",
 
+    "bai_show_advanced_assault_info" : "顯示更详细的突襲信息",	
+    "bai_show_advanced_assault_info_desc" : "在突襲横幅中顯示剩餘的敵人數量和剩餘時間\n此功能在無盡突襲下或隊長到達時不可用。當你作為玩家時有些選項將不可用",
+    
     "bai_advanced_assault_info" : "進階突襲信息",
-    "bai_advanced_assault_info_desc" : "必須啟用更改進階突擊信息 \顯示進階突擊信息才能工作,此功能在無盡突襲下或隊長到達時不可用 某些選項於客戶端時不可用",
+    "bai_advanced_assault_info_desc" : "必須啟用更改進階突擊信息\n顯示進階突擊信息才能工作,此功能在無盡突襲下或隊長到達時不可用 某些選項於客戶端時不可用",
 
     "bai_show_time_left" : "顯示剩餘時間'",
-    "bai_show_time_left_desc" : "在突襲顯示 '剩餘時間' \n當您跳轉到正在進行的遊戲時,此選項不會準確 需要一點時間讀取才會顯示正確剩餘時間",
+    "bai_show_time_left_desc" : "在突襲顯示 '剩餘時間'\n當您跳轉到正在進行的遊戲時,此選項不會準確 需要一點時間讀取才會顯示正確剩餘時間",
     
     "bai_time_format" : "時間格式",
     "bai_time_format_desc" : "設定突變突襲横幅中 '剩餘時間' 的顯示格式",
@@ -159,7 +165,14 @@
     "bai_faction_assault_text" : "在突襲横幅中顯示敵人陣營",
     "bai_faction_assault_text_desc" : "在突襲横幅中顯示敵人的陣營\n'自定義文本' 無法與此功能同時使用. 犯罪狂歡模式下無效",
 
-    "bai_host_warning" : "當前房主没有啟用 BAI 有些功能可能無法正常運作:加入其它房間時若房主没有啟用 BAI，此消息會再次出現",
+    "bai_modules" : "Modules",
+    "bai_modules_desc" : "Modules improve or extend BAI's features. If the module has additional options, they will be listed here.",
+
+    "bai_assault_panel_position" : "Assault Panel Position",
+    "bai_assault_panel_position_desc" : "Sets Assault Panel Position on the screen",
+    "bai_assault_panel_position_1" : "Right",
+    "bai_assault_panel_position_2" : "Center",
+    "bai_assault_panel_position_3" : "Left",
     
     "hud_assault_alpha_fss_mod_1" : "自殺",
     "hud_assault_alpha_fss_mod_2" : "受虐狂",
@@ -228,5 +241,6 @@
     "hud_survived" : "波數存活",
     "hud_fss_mod_1" : "嘗試自殺中",
     "hud_fss_mod_2" : "持續受虐中",
-    "hud_fss_mod_3" : "抖M認證中"
+    "hud_fss_mod_3" : "抖M認證中",
+    "hud_no_return" : "No Return"
 }
