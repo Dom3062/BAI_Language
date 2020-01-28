@@ -3,7 +3,7 @@
     "bai_mod_desc" : "在这里更改BAI的设定",
 
     "bai_language" : "语言(Language)",
-    "bai_language_desc" : "修改 BAI 的显示语言。To take effect, a level restart is required.",
+    "bai_language_desc" : "修改 BAI 的显示语言。需重新载入一次地图生效。",
     "bai_language_1" : "自动侦测",
 
     "bai_compatibility" : "HUD 兼容选项",
@@ -18,22 +18,22 @@
     "bai_compatibility_8" : "Restoration Mod",
     "bai_compatibility_9" : "MUI",
     "bai_compatibility_10" : "KineticHUD",
-    "bai_compatibility_11" : "Halo: Reach HUD",
+    "bai_compatibility_11" : "光环：致远星 HUD",
 
     "bai_holoui" : "适用于 HoloUI 的设定",
-    "bai_holoui_desc" : "这些是为 HoloUI 而生的功能",
+    "bai_holoui_desc" : "将 BAI 相关的设定应用于此 HUD。",
     "bai_holoui_update_text_color" : "横幅字体颜色更新",
     "bai_holoui_update_text_color_desc" : "当BAI 更新横幅框的颜色时也更新框内字的颜色.",
 
     "bai_pdth_hud_reborn" : "适用于 PD:TH HUD 重制版的选项",
-    "bai_pdth_hud_reborn_desc" : "这些是为 PD:TH HUD 重制版而生的功能",
+    "bai_pdth_hud_reborn_desc" : "将 BAI 相关的设定应用于此 HUD。",
     "bai_pdth_hud_reborn_custom_text_color" : "使用自定义文字颜色",
     "bai_pdth_hud_reborn_custom_text_color_desc" : "禁用该功能时会将突击图标的颜色应用于显示的文字上",
     "bai_pdth_hud_reborn_aai_only_text" : "仅将自定义颜色应用到突击状态显示",
     "bai_pdth_hud_reborn_aai_only_text_desc" : "仅将自定义颜色应用于 '剩余时间' 和 '剩余敌人数量' 上。\n'使用自定义文字颜色' 必须为启用状态。",
 
     "bai_restoration_mod" : "适用于 Restoration Mod 的选项",
-    "bai_restoration_mod_desc" : "这些是为 Restoration Mod 而生的功能",
+    "bai_restoration_mod_desc" : "将 BAI 相关的设定应用于此 HUD。",
     "bai_restoration_mod_alpha_tape_only" : "仅影响右上角 Alpha 版横幅的选项",
     "bai_restoration_mod_alpha_tape_only_desc" : " 这些选项仅影响右上角的 'Alpha Tape'",
     "bai_restoration_mod_include_cover_text" : "在横幅中包含 'STAY IN THE COVER'",
@@ -41,16 +41,16 @@
     "bai_restoration_mod_use_alpha_assault_text" : "使用 Alpha 版的突击提示",
     "bai_restoration_mod_use_alpha_assault_text_desc" : "更简短的 '警方突击进行中'",
     "bai_restoration_mod_use_alpha_endless_text" : "使用 Alpha 版的无尽突击提示",
-    "bai_restoration_mod_use_alpha_endless_text_desc" : "更简短的 '警方无尽无锡中'",
+    "bai_restoration_mod_use_alpha_endless_text_desc" : "更简短的 '警方无尽突击中'",
     "bai_restoration_mod_early_alpha_corner_only" : "仅影响 '早期 Alpha 边角' 的选项",
     "bai_restoration_mod_early_alpha_corner_only_desc" : "这些选项仅影响 Restoration Mod 的 '早期 Alpha 边角' ",
     "bai_c1" : "C1",
     "bai_c2" : "C2",
 
-    "bai_halo_reach_hud" : "Halo: Reach HUD Options",
-    "bai_halo_reach_hud_desc" : "Apply BAI specific settings to Halo: Reach HUD",
-    "bai_halo_reach_hud_use_bai_color" : "Use Colors from BAI",
-    "bai_halo_reach_hud_use_bai_color_desc" : "When enabled, assault panel will use colors from BAI\nOtherwise default color will be used",
+    "bai_halo_reach_hud" : "适用于光环：致远星 HUD 的选项",
+    "bai_halo_reach_hud_desc" : "将 BAI 相关的设定应用于此 HUD。",
+    "bai_halo_reach_hud_use_bai_color" : "使用 BAI 的自定义颜色",
+    "bai_halo_reach_hud_use_bai_color_desc" : "启用后，横幅颜色将改为 BAI 所用的自定义颜色。\n否则将使用默认颜色。",
 
     "bai_button_ok" : "OK",
     "bai_detected_wolfhud" : "侦测到已启用的 WolfHUD",
@@ -165,8 +165,8 @@
     "bai_faction_assault_text" : "在突击横幅中显示敌人阵营",
     "bai_faction_assault_text_desc" : "在突击横幅中显示敌人的阵营\n'自定义文本' 无法与此功能同时使用. 挑战模式下无效",
 
-    "bai_modules" : "Modules",
-    "bai_modules_desc" : "Modules improve or extend BAI's features. If the module has additional options, they will be listed here.",
+    "bai_modules" : "模块",
+    "bai_modules_desc" : "模块将增强或拓展 BAI 的功能。如果模块有额外选项，将在此列出。",
     
     "hud_assault_alpha_fss_mod_1" : "尝试自杀中",
     "hud_assault_alpha_fss_mod_2" : "持续受虐中",
@@ -236,5 +236,5 @@
     "hud_fss_mod_1" : "尝试自杀中",
     "hud_fss_mod_2" : "持续受虐中",
     "hud_fss_mod_3" : "抖M认证中",
-    "hud_no_return" : "No Return"
+    "hud_no_return" : "无法回头了"
 }
