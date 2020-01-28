@@ -50,7 +50,7 @@
     "bai_halo_reach_hud" : "Halo: Reach HUD選項",
     "bai_halo_reach_hud_desc" : "將BAI特定設置應用於 Halo: Reach HUD",
     "bai_halo_reach_hud_use_bai_color" : "使用BAI中的顏色",
-    "bai_halo_reach_hud_use_bai_color_desc" : "啟用後，攻擊面板將使用BAI中的顏色\ n否則將使用默認顏色",
+    "bai_halo_reach_hud_use_bai_color_desc" : "啟用後，攻擊面板將使用BAI中的顏色\n否則將使用默認顏色",
 
     "bai_button_ok" : "OK",
     "bai_detected_wolfhud" : "偵測到已啟用的 WolfHUD",
