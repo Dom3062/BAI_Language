@@ -46,9 +46,10 @@
     "bai_restoration_mod_early_alpha_corner_only_desc" : "這些選項僅影響 Restoration Mod 的 '早期 Alpha 邊角' ",
     "bai_c1" : "C1",
     "bai_c2" : "C2",
+
     "bai_halo_reach_hud" : "Halo: Reach HUD選項",
     "bai_halo_reach_hud_desc" : "將BAI特定設置應用於 Halo: Reach HUD",
-    "bai_halo_reach_hud_use_bai_color" : "使用來自BAI的顏色,
+    "bai_halo_reach_hud_use_bai_color" : "使用BAI中的顏色",
     "bai_halo_reach_hud_use_bai_color_desc" : "啟用後，攻擊面板將使用BAI中的顏色\ n否則將使用默認顏色",
 
     "bai_button_ok" : "OK",
@@ -73,7 +74,7 @@
     "bai_completely_hide_hostage_panel" : "完全隱藏人質面板",
     "bai_completely_hide_hostage_panel_desc" : "當你進入一个劫案時,不顯示人質面板.\n當打勾時,分時候隱藏人質面板的選項無效",
 
-    "bai_show_difficulty_name_instead_of_skulls" : "將横幅中难度顯示替换為難度名稱",
+    "bai_show_difficulty_name_instead_of_skulls" : "將横幅中難度顯示替换為難度名稱",
     "bai_show_difficulty_name_instead_of_skulls_desc" : "在突襲横幅中顯示當前難度名稱而不顯示難度等級（X 个骷髏頭）\n犯罪狂歡模式下無效",
 
     "bai_host_only" : "當你作為主機時...",
@@ -165,10 +166,10 @@
     "bai_faction_assault_text_desc" : "在突襲横幅中顯示敵人的陣營\n'自定義文本' 無法與此功能同時使用. 犯罪狂歡模式下無效",
 
     "bai_modules" : "模塊",
-    "bai_modules_desc" : "模塊改善或擴展了BAI的功能。 如果模塊具有其他選項，則將在此處列出。",
+    "bai_modules_desc" : "模塊改善或擴展了BAI的功能。 如果模塊有其他選項，則將在此處列出.",
 
-    "bai_assault_panel_position" : "突擊面板位置",
-    "bai_assault_panel_position_desc" : "在螢幕上設置“突擊面板”位置",
+    "bai_assault_panel_position" : "突襲面板位置",
+    "bai_assault_panel_position_desc" : "在螢幕上設置突擊面板位置",
     "bai_assault_panel_position_1" : "右",
     "bai_assault_panel_position_2" : "中央",
     "bai_assault_panel_position_3" : "左",
