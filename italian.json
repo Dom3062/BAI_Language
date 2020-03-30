@@ -10,15 +10,6 @@
     "bai_compatibility_desc" : "Seleziona un altro HUD che stai utilizzando per renderlo compatibile con BAI.\nIl gioco potrebbe crashare se selezioni un HUD che non hai installato!",
     "bai_compatibility_1" : "Rileva",
     "bai_compatibility_2" : "Vanilla",
-    "bai_compatibility_3" : "Void UI",
-    "bai_compatibility_4" : "Sora's HUD Reborn",
-    "bai_compatibility_5" : "HoloUI",
-    "bai_compatibility_6" : "SydneyHUD",
-    "bai_compatibility_7" : "PD:TH HUD Reborn",
-    "bai_compatibility_8" : "Restoration Mod",
-    "bai_compatibility_9" : "MUI",
-    "bai_compatibility_10" : "KineticHUD",
-    "bai_compatibility_11" : "Halo: Reach HUD",
 
     "bai_holoui" : "Opzioni HoloUI",
     "bai_holoui_desc" : "Applica le impostazioni specifiche di BAI a HoloUI",
@@ -29,8 +20,6 @@
     "bai_pdth_hud_reborn_desc" : "Modifica delle impostazioni specifiche della mod PD:TH HUD Reborn",
     "bai_pdth_hud_reborn_custom_text_color" : "Usa colore del testo personalizzato",
     "bai_pdth_hud_reborn_custom_text_color_desc" : "Se disabilitato, il gioco userà il colore dell'icona per colorare il testo",
-    "bai_pdth_hud_reborn_aai_only_text" : "Applica il colore solo ad 'Advanced Assault Info'",
-    "bai_pdth_hud_reborn_aai_only_text_desc" : "Applica il colore solo alle info 'Tempo rimanente' e 'Spawn rimasti'.\n'Usa colore testo personalizzato' deve essere attivato per funzionare",
 
     "bai_restoration_mod" : "Impostazioni Restoration Mod",
     "bai_restoration_mod_desc" : "Applica delle impostazioni specifiche di BAI a Restoration Mod",
@@ -46,6 +35,11 @@
     "bai_restoration_mod_early_alpha_corner_only_desc" : "Queste impostazioni modificano solo gli angoli alpha di Restoration Mod",
     "bai_c1" : "C1",
     "bai_c2" : "C2",
+
+    "bai_halo_reach_hud" : "Opzioni Halo: Reach HUD",
+    "bai_halo_reach_hud_desc" : "Modifica delle impostazioni specifiche della mod Halo: Reach HUD",
+    "bai_halo_reach_hud_use_bai_color" : "Usa colori di BAI",
+    "bai_halo_reach_hud_use_bai_color_desc" : "Se attivo, l'indicatore dell'assalto userà i colori di BAI invece che quelli di default",
 
     "bai_button_ok" : "OK",
     "bai_detected_wolfhud" : "Rilevata incompatibilità con WolfHUD",
@@ -121,7 +115,7 @@
     "bai_show_assault_states_desc" : "Mostra gli stati dell'assalto (controllo, anticipazione, preparazione, attacco e ritirata)\nQuesta opzione non funzionerà con gli assalti infiniti oppure se il Capitano è presente nel livello",
  
     "bai_assault_states" : "Stati dell'assalto",
-    "bai_assault_states_desc" : "Cambia il colore e la visibilità di ogni singolo stato dell'assalto\n'Mostra stati dell'assalto' deve essere attivato",
+    "bai_assault_states_desc" : "Cambia il colore e la visibilità di ogni singolo stato dell'assalto",
 
     "bai_enabled" : "Attivo",
     "bai_enabled_not_assault_desc" : "Se attivo, verranno mostrati gli stati dell'assalto quando un assalto non è in corso\nAltrimenti l'indicatore verrà nascosto",
@@ -131,13 +125,13 @@
     "bai_show_advanced_assault_info_desc" : "Mostra i rinforzi rimasti e il tempo rimasto nella barra dell'assalto\nQueste informazioni non sono visibili durante gli assalti infiniti e quando il capitano è presente",
 
     "bai_advanced_assault_info" : "Informazioni assalto avanzate",
-    "bai_advanced_assault_info_desc" : "Modifica le impostazioni avanzate dell'assalto.\n'Mostra informazioni avanzate assalto' deve essere attivo per funzionare. Alcune impostazioni non funzioneranno quando stai giocando come client.",    
+    "bai_advanced_assault_info_desc" : "Modifica le impostazioni avanzate dell'assalto.",    
 
     "bai_show_time_left" : "Mostra 'Tempo rimanente'",
     "bai_show_time_left_desc" : "Mostra l'informazione 'Tempo rimanente' nella barra dell'assalto.\nQuesta informazione non sarà accurata appena entrato in una partita, ma lo diventerà nel corso della partita.",
 
     "bai_time_format" : "Formato tempo",
-    "bai_time_format_desc" : "Cambia il formato del tempo mostrato con l'informazione 'Tempo rimasto' dell'assalto",
+    "bai_time_format_desc" : "Cambia il formato del tempo mostrato con l'informazione 'Tempo rimasto' dell'assalto\n\nExample:\n[xx.xx (in s) - 88.64]\n['xx.xx' s - 88.64 s]\n[xx (in s) - 88]\n['xx' s - 88 s]\n['xx' min 'yy' s] - 1 min 28 s]\n[xx:yy - 01:28]",
     "bai_time_format_1" : "xx.xx (in s)",
     "bai_time_format_2" : "'xx.xx' s",
     "bai_time_format_3" : "xx (in s)",
@@ -146,7 +140,7 @@
     "bai_time_format_6" : "xx:yy",
 
     "bai_show_spawns_left" : "Mostra 'Rinforzi rimanenti'",
-    "bai_show_spawns_left_desc" : "Mostra l'informazione 'Rinforzi rimanenti' nella barra dell'assalto",
+    "bai_show_spawns_left_desc" : "Mostra l'informazione 'Rinforzi rimanenti' nella barra dell'assalto.\nQuesta informazione non sarà accurata appena entrato in una partita, ma lo diventerà nel corso della partita.",
 
     "bai_use_custom_text" : "Usa testo personalizzato",
     "bai_use_custom_text_desc" : "Se attivo, l'HUD utilizzerà questo testo invece di quello di default",
@@ -159,6 +153,15 @@
 
     "bai_faction_assault_text" : "Mostra nome fazione nella barra d'assalto",
     "bai_faction_assault_text_desc" : "Mostra il nome della fazione durante un assalto nella barra d'assalto\n'Testo personalizzato' sovrascrive questa impostazione. Non applicabile nelle Serie Criminali",
+
+    "bai_modules" : "Moduli",
+    "bai_modules_desc" : "I moduli migliorano o estendono le funzionalità di BAI\nSe un modulo ha altre opzioni configurabili, saranno mostrate qui",
+
+    "bai_assault_panel_position" : "Posizione indicatore assalto",
+    "bai_assault_panel_position_desc" : "Imposta la posizione dell'indicatore dell'assalto sullo schermo",
+    "bai_assault_panel_position_1" : "Destra",
+    "bai_assault_panel_position_2" : "Centro",
+    "bai_assault_panel_position_3" : "Sinistra",
     
     "hud_assault_alpha_fss_mod_1" : "SUICIDA",
     "hud_assault_alpha_fss_mod_2" : "MASOCHISMO",
@@ -180,7 +183,7 @@
     "hud_assault_survived_fss_mod_1" : "SOPRAVISSUTO AL SUICIDIO",
     "hud_assault_survived_fss_mod_2" : "SOPRAVISSUTO AL MASOCHISMO",
     "hud_assault_survived_fss_mod_3" : "MASOCHISTA CONFERMATO",
-    "hud_assault_endless" : "ASSALTO DELLA POLIZIA INFINITO IN CORSO",
+    "hud_assault_endless_default" : "ASSALTO DELLA POLIZIA INFINITO IN CORSO",
     "hud_assault_endless_fss_mod_1" : "SUICIDIO INFINITO IN CORSO",
     "hud_assault_endless_fss_mod_2" : "MASOCHISMO INFINITO IN CORSO",
     "hud_assault_endless_fss_mod_3" : "SEI VERAMENTE UN MASOCHISTA",
@@ -206,11 +209,11 @@
     "hud_assault_survived_endless" : "ASSALTO INFINITO SOPRAVVISSUTO",
     "hud_cover" : "STAI AL SICURO",
 
-    "hud_control" : "Controllo",
-    "hud_anticipation" : "Anticipazione",
-    "hud_build" : "Preparazione",
-    "hud_sustain" : "Assalto",
-    "hud_fade" : "Ritirata",
+    "hud_control_default" : "Controllo",
+    "hud_anticipation_default" : "Anticipazione",
+    "hud_build_default" : "Preparazione",
+    "hud_sustain_default" : "Assalto",
+    "hud_fade_default" : "Ritirata",
 
     "hud_overdue" : "Ritardo",
     "hud_time_left" : "Tempo rimasto: ",
@@ -227,5 +230,6 @@
     "hud_survived" : "Sopravvissuto",
     "hud_fss_mod_1" : "Suicida",
     "hud_fss_mod_2" : "Masochismo",
-    "hud_fss_mod_3" : "Masochista?"
+    "hud_fss_mod_3" : "Masochista?",
+    "hud_no_return" : "Punto di non ritorno"
 }

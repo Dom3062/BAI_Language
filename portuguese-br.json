@@ -10,21 +10,7 @@
     "bai_compatibility_desc" : "Você pode mudar a compatibilidade com um certo HUD que você tá usando\nAplicando em uma HUD errada pode fazer o seu jogo crashar.",
     "bai_compatibility_1" : "Detectar sozinho",
     "bai_compatibility_2" : "Vanilla",
-    "bai_compatibility_3" : "Void UI",
-    "bai_compatibility_4" : "Sora's HUD Reborn",
-    "bai_compatibility_5" : "HoloUI",
-    "bai_compatibility_6" : "SydneyHUD",
-    "bai_compatibility_7" : "PD:TH HUD Reborn",
-    "bai_compatibility_8" : "Restoration Mod",
-    "bai_compatibility_9" : "MUI",
-    "bai_compatibility_10" : "KineticHUD",
-    "bai_compatibility_11" : "Halo: Reach HUD",
 
-    "bai_halo_reach_hud" : "Opções da Halo: Reach HUD",
-    "bai_halo_reach_hud_desc" : "Aplica as configurações específicas para a Halo: Reach HUD",
-    "bai_halo_reach_hud_use_bai_color" : "Usar as cores da BAI",
-    "bai_halo_reach_hud_use_bai_color_desc" : "Quando ativado o painel do assalto vai usar as cores da BAI\nSe não, a cor padrão será usada.",
-    
     "bai_holoui" : "Opções de HoloUI",
     "bai_holoui_desc" : "Aplicar as configurações de BAI para HoloUI",
     "bai_holoui_update_text_color" : "Aplicar a cor do texto",
@@ -34,8 +20,6 @@
     "bai_pdth_hud_reborn_desc" : "Aplicar as configurações de BAI para PD:TH HUD Reborn",
     "bai_pdth_hud_reborn_custom_text_color" : "Usar cor customizada do texto",
     "bai_pdth_hud_reborn_custom_text_color_desc" : "Quando desligado o jogo irá aplicar a cor do ícone do Assault para a cor do texto",
-    "bai_pdth_hud_reborn_aai_only_text" : "Aplicar a cor para apenas informações do Assault Avançado",
-    "bai_pdth_hud_reborn_aai_only_text_desc" : "A cor abaixo só irá aplicar para 'Tempo restante' e 'Spawns restante'\n'Usar a cor do texto customizada' deve ser ativado pra poder funcionar",
 
     "bai_restoration_mod" : "Opções do Restoration Mod",
     "bai_restoration_mod_desc" : "Aplicar as configurações de BAI para Restoration Mod",
@@ -61,7 +45,7 @@
     "bai_detected_wave_survived_desc" : "O mod 'Wave Survived' é incompátivel com BAI. BAI foi feito pra mostra o banner o texto de onda sobrevivida. É compátivel com o mod 'Wave Survived'.",
 
     "bai_savedata_not_compatible" : "Os dados salvos não é compátivel com essa versão do BAI",
-    "bai_savedata_not_compatible_desc" : "Parece que mudou o jeito do BAI funcionar e fez o seu save do BAI ficar incompátivel com essa nova versão. Desculpa se não pude carregar o seu save, pelo menos as configurações voltaram ao seu estágio padrão, pra não ter risco de crashar.\n\nDesculpa por isso.",
+    "bai_savedata_not_compatible_desc" : "Parece que mudou o jeito do BAI funcionar e fez o seu save do BAI ficar compátivel com essa nova versão. Desculpa se não pude carregar o seu save, pelo menos as configurações voltaram ao seu estágio padrão, pra não ter risco de crashar.\n\nDesculpa por isso.",
     
     "bai_show_wave_survived" : "Mostra o texto de 'Wave Survived'",
     "bai_show_wave_survived_desc" : "Mostra o texto de onda sobrevivida (do Safehouse Raid) toda vez quando você e o seu time sobreviva um assault da polícia",
@@ -126,7 +110,7 @@
     "bai_show_assault_states_desc" : "Mostra todos os estágios do Assault (control, anticipation, build, sustain e fade) na caixa do Assault\nEssa opção não irá funcionar quando tiver o Assault sem fim e o Captain presente",
 
     "bai_assault_states" : "Estágios do Assault",
-    "bai_assault_states_desc" : "Mude as cores dos estágios e os estágios aparecendo na Caixa de Assault\n'Mostra os estágios do Assault' deve ser ligado pra poder funcionar",
+    "bai_assault_states_desc" : "Mude as cores dos estágios e os estágios aparecendo na Caixa de Assault\n",
 
     "bai_enabled" : "Ligado",
     "bai_enabled_not_assault_desc" : "Se ligado, irá mostra na Caixa de Assault. Se não, Esse estágio não irá aparecer na caixa",
@@ -136,59 +120,34 @@
     "bai_show_advanced_assault_info_desc" : "Mostra 'Spawns restantes' e 'Tempo restante' na Caixa de Assault\nNão irá aparecer enquanto tiver o Assault endless ou quando o Captain chegar",
 
     "bai_advanced_assault_info" : "Informações avançadas do Assault",
-    "bai_advanced_assault_info_desc" : "Muda as informações na caixa do Assault\n'Mostra as informações avançadas do Assault' deve ser ativado. algumas coisas podem não funcionar no cliente.",
+    "bai_advanced_assault_info_desc" : "Muda as informações na caixa do Assault",
 
     "bai_show_time_left" : "Mostra o 'Tempo restante'",
-    "bai_show_time_left_desc" : "Mostra o quanto 'tempo resta' na Caixa do Assault\nTalvez não seja preciso quando você entra em um jogo em progresso, mas depois  fica preciso",
+    "bai_show_time_left_desc" : "Mostra o quanto 'tempo resta' na Caixa do Assault\nTalvez não seja preciso quando você entra em um jogo em progresso, mas depois fica preciso",
     
     "bai_time_format" : "Formato do tempo",
-    "bai_time_format_desc" : "Muda o Formato do tempo restante na caixa do Assault",
+    "bai_time_format_desc" : "Muda o Formato do tempo restante na caixa do Assault\n\nExample:\n[xx.xx (in s) - 88.64]\n['xx.xx' s - 88.64 s]\n[xx (in s) - 88]\n['xx' s - 88 s]\n['xx' min 'yy' s] - 1 min 28 s]\n[xx:yy - 01:28]",
     "bai_time_format_1" : "xx.xx (em segundos)",
-    "bai_time_format_2" : "'xx.xx' segundos",
+    "bai_time_format_2" : "'xx.xx' s",
     "bai_time_format_3" : "xx (em segundos)",
-    "bai_time_format_4" : "'xx' segundos",
-    "bai_time_format_5" : "'xx' minutos 'yy' segundos",
+    "bai_time_format_4" : "'xx' s",
+    "bai_time_format_5" : "'xx' min 'yy' s",
     "bai_time_format_6" : "xx:yy",
 
     "bai_show_spawns_left" : "Mostra 'Spawns restantes'",
-    "bai_show_spawns_left_desc" : "Mostra quantos 'Spawns restam' na caixa do Assault",
+    "bai_show_spawns_left_desc" : "Mostra quantos 'Spawns restam' na caixa do Assault\nTalvez não seja preciso quando você entra em um jogo em progresso, mas depois fica preciso",
 
     "bai_use_custom_text" : "Usar texto personalizado",
     "bai_use_custom_text_desc" : "Se ligado, a HUD irá usar o texto que você colocar, invés do BAI ou jogo oferecer",
     "bai_text" : "Texto",
-    "bai_text_desc" : "Escreve o que você quiser",
+    "bai_text_desc" : "Escreve o que você quiser, eu não ligo, VAI ANDA LOGO, ESCREVE ALGO",
     "bai_text_short" : "Texto (Curto)",
     "bai_text_short_desc" : "algumas HUDs tem uma caixa de Assault pequena e usam um texto pequeno invés a da grande. Escreve o que você quiser, mas não exagera",
     "bai_custom_text" : "Texto customizado aqui",
-    "bai_custom_text_desc" : "Coloque um texto customizao aí",
+    "bai_custom_text_desc" : "MANO, O QUE VOCÊ TÁ ESPERANDO? UM CLOAKER? ANDO LOGO, ESCREVE",
 
     "bai_faction_assault_text" : "Mostra os nomes das Facções na Caixa do Assault",
     "bai_faction_assault_text_desc" : "Mostra o nome da Facção que estiver lutando na Caixa do Assault\n'Texto personalizado' atrapalha um pouco, então, desativa se querer os nomes das Facções. Não funciona em Crime Spree",
-    
-    "bai_modules" : "Módulos",
-    "bai_modules_desc" : "Módulos que melhoram o BAI\nSe um módulo tiver opções, eles vão ser listados aqui",
-
-    "bai_assault_panel_position" : "Posição do Banner do Assault",
-    "bai_assault_panel_position_desc" : "Edite a posição do Banner do Assault",
-    "bai_assault_panel_position_1" : "Direito",
-    "bai_assault_panel_position_2" : "Meio",
-    "bai_assault_panel_position_3" : "Esquerda",
-
-    "bai_other_options" : "Outras Opções",
-    "bai_other_options_desc" : "",
-
-    "bai_hudlist" : "HUDList",
-    "bai_hudlist_move_hostage_panel" : "",
-    "bai_hudlist_move_hostage_panel_desc" : "",
-
-    "bai_animations" : "Opções de Animações",
-    "bai_animations_desc" : "Mude como as animações do jogo se comportem",
-
-    "bai_enable_animations" : "Habilitar as animações",
-    "bai_enable_animations_desc" : "Quando desabilitado, o jogo vai usar as animações padrões",
-
-    "bai_animation_speed" : "Velocidade das animações",
-    "bai_animation_speed_desc" : "Aumentando esse valor vai fazer a animação da cor devager. Abaixando vai fazer mais rápido.",
     
     "hud_assault_alpha_fss_mod_1" : "SUÍCIDIO",
     "hud_assault_alpha_fss_mod_2" : "MACHISMO",
@@ -210,7 +169,7 @@
     "hud_assault_survived_fss_mod_1" : "SUÍCIDIO SOBREVIVIDA",
     "hud_assault_survived_fss_mod_2" : "MACHISMO SOBREVIVIDO",
     "hud_assault_survived_fss_mod_3" : "SEU MACHISTA!",
-    "hud_assault_endless" : "ASSAULT SEM FIM EM PROGRESSO",
+    "hud_assault_endless_default" : "ASSAULT SEM FIM EM PROGRESSO",
     "hud_assault_endless_fss_mod_1" : "SUÍCIDIO SEM FIM EM PROGRESSO",
     "hud_assault_endless_fss_mod_2" : "MACHISMO SEM FIM EM PROGRESSO",
     "hud_assault_endless_fss_mod_3" : "PUTA QUE PARIU, UM MACHISTA LOGO ALI!",
@@ -236,11 +195,11 @@
     "hud_assault_survived_endless_fss_mod_3" : "FOI CONFIRMADO QUE VOCÊ É UM MACHISTA!",
     "hud_cover" : "VAI PRA COBERTURA",
 
-    "hud_control" : "Controle",
-    "hud_anticipation" : "Anticipação",
-    "hud_build" : "Meio",
-    "hud_sustain" : "Sustentação",
-    "hud_fade" : "Fim",
+    "hud_control_default" : "Control",
+    "hud_anticipation_default" : "Anticipation",
+    "hud_build_default" : "Build",
+    "hud_sustain_default" : "Sustain",
+    "hud_fade_default" : "Fade",
 
     "hud_overdue" : "Tempo Extra",
     "hud_time_left" : "Tempo restando: ",
@@ -251,12 +210,11 @@
     "hud_s" : "s",
 
     "hud_assault" : "Assalto",
-    "hud_endless" : "Sem Fim",
-    "hud_captain" : "Capitão",
-    "hud_captain_active" : "Chegou o Capitão",
+    "hud_endless" : "Sem fim",
+    "hud_captain" : "Captain",
+    "hud_captain_active" : "Chegou o captain",
     "hud_survived" : "Sobreviveu",
-    "hud_fss_mod_1" : "Suicídio",
+    "hud_fss_mod_1" : "Suícidio",
     "hud_fss_mod_2" : "Machismo",
-    "hud_fss_mod_3" : "Machista?",
-    "hud_no_return" : "Sem Retorno"
+    "hud_fss_mod_3" : "Machista?"
 }

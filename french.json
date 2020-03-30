@@ -10,15 +10,6 @@
     "bai_compatibility_desc" : "Ici, vous pouvez sélectionner une compatibilité avec certains HUD que vous utilisez. L'application d'une mauvaise compatibilité HUD peut provoquer le plantage de votre jeu.",
     "bai_compatibility_1" : "Détecte automatiquement",
     "bai_compatibility_2" : "Vanilla",
-    "bai_compatibility_3" : "Void UI",
-    "bai_compatibility_4" : "Sora's HUD Reborn",
-    "bai_compatibility_5" : "HoloUI", 
-    "bai_compatibility_6" : "SydneyHUD",
-    "bai_compatibility_7" : "PD:TH HUD Reborn",
-    "bai_compatibility_8" : "Restoration Mod",
-    "bai_compatibility_9" : "MUI",
-    "bai_compatibility_10" : "KineticHUD",
-    "bai_compatibility_11" : "Halo: Reach HUD",
 
     "bai_holoui" : "Options d'HoloUI", 
     "bai_holoui_desc" : "Applique les options spécifiques de BAI à HoloUI", 
@@ -29,8 +20,6 @@
     "bai_pdth_hud_reborn_desc" : "Applique les options spécifiques de BAI à PD:TH HUD Reborn",
     "bai_pdth_hud_reborn_custom_text_color" : "Utilise les couleurs customisées du texte",
     "bai_pdth_hud_reborn_custom_text_color_desc" : "Quand désactivé, le jeu appliquera la couleur de l'îcone d'assaut au texte",
-    "bai_pdth_hud_reborn_aai_only_text" : "Applique la couleur à la bannière d'assaut seulement",
-    "bai_pdth_hud_reborn_aai_only_text_desc" : "N'applique la couleur en dessous de 'Temps restant' et de 'spawns restants'.\n 'Utilise les couleurs customisées du texte' doit être activé pour que cela fonctionne",
     
     "bai_restoration_mod" : "Options de Restoration Mod",
     "bai_restoration_mod_desc" : "Applique les options spécifiques de BAI à Restoration Mod",
@@ -126,7 +115,7 @@
     "bai_show_assault_states_desc" : "Montre les États d'assaut (Contrôle, Anticipation, Développement, Support et Retrait) dans la boîte d'assaut\nCette option n'est pas disponible en cas d'assaut sans fin et quand le capitaine est présent",
 
     "bai_assault_states" : "États d'assaut",
-    "bai_assault_states_desc" : "Change la couleur des États d'assaut et la visibilité de l'état dans la boîte d'assaut.\nMontre les 'États d'assaut' doit être activé pour pouvoir fonctionner",
+    "bai_assault_states_desc" : "Change la couleur des États d'assaut et la visibilité de l'état dans la boîte d'assaut.",
 
     "bai_enabled" : "Activé",
     "bai_enabled_not_assault_desc" : "Si coché, cela apparaîtra dans la boîte d'assaut. Si non, l'état ne sera pas visible dans la boîte d'assaut",
@@ -136,13 +125,13 @@
     "bai_show_advanced_assault_info_desc" : "Affiche les informations 'Spawns restant' et 'Temps restant' dans la boîte d'Assaut\nCette option n'est pas disponible en cas d'assaut sans fin et quand le capitaine est présent",
 
     "bai_advanced_assault_info" : "informations d'Assaut avancées",
-    "bai_advanced_assault_info_desc" : "Change les informations d'assaut avancées.\n'Montrer les infos d'Assaut avancées' doit être activé pour fonctionner. Certaines options ne fonctionneront pas en tant que client.",
+    "bai_advanced_assault_info_desc" : "Change les informations d'assaut avancées.",
 
     "bai_show_time_left" : "Montre 'Temps Restant'",
     "bai_show_time_left_desc" : "Montre le 'Temps Restant' dans la boite d'assaut\nCette option n'est pas précise quand vous vous connectez dans un partie en cours. Mais cela deviendra plus précis au fur et à mesure.",
      
     "bai_time_format" : "Format de Temps",
-    "bai_time_format_desc" : "Change le format de temps utilisé par 'Temps Restant'",
+    "bai_time_format_desc" : "Change le format de temps utilisé par 'Temps Restant'\n\nExample:\n[xx.xx (in s) - 88.64]\n['xx.xx' s - 88.64 s]\n[xx (in s) - 88]\n['xx' s - 88 s]\n['xx' min 'yy' s] - 1 min 28 s]\n[xx:yy - 01:28]",
     "bai_time_format_1" : "xx.xx (en s)",
     "bai_time_format_2" : "'xx.xx' s",
     "bai_time_format_3" : "xx (en s)",
@@ -151,7 +140,7 @@
     "bai_time_format_6" : "xx:yy",
 
     "bai_show_spawns_left" : "Montre les 'Spawns restants'",
-    "bai_show_spawns_left_desc" : "Montre les 'Spawns restants' dans la boite d'assaut",
+    "bai_show_spawns_left_desc" : "Montre les 'Spawns restants' dans la boite d'assaut\nCette option n'est pas précise quand vous vous connectez dans un partie en cours. Mais cela deviendra plus précis au fur et à mesure.",
     
     "bai_use_custom_text" : "Utilise le texte personnalisé",
     "bai_use_custom_text_desc" : "Si activé, l'HUD utilisera votre texte ci-dessous au lieu de celui par défaut du jeu ou de BAI",
@@ -210,7 +199,7 @@
     "hud_assault_survived_fss_mod_1" : "SUICIDE SURVÉCU",
     "hud_assault_survived_fss_mod_2" : "MASOCHISME SURVÉCU",
     "hud_assault_survived_fss_mod_3" : "MASOCHISTE CONFIRMÉ",
-    "hud_assault_endless" : "ASSAUT SANS FIN EN COURS",
+    "hud_assault_endless_default" : "ASSAUT SANS FIN EN COURS",
     "hud_assault_endless_fss_mod_1" : "SUICIDE SANS FIN EN COURS",
     "hud_assault_endless_fss_mod_2" : "MASOCHISME SANS FIN EN COURS",
     "hud_assault_endless_fss_mod_3" : "VOUS ÊTES VRAIMENT UN MASOCHISTE",
@@ -236,11 +225,11 @@
     "hud_assault_survived_endless_fss_mod_3" : "MASOCHISTE SANS FIN SURVÉCU",
     "hud_cover" : "RESTEZ EN COUVERTURE",
 
-    "hud_control" : "Contrôle",
-    "hud_anticipation" : "Anticipation",
-    "hud_build" : "Développement",
-    "hud_sustain" : "Support",
-    "hud_fade" : "Retrait",
+    "hud_control_default" : "Contrôle",
+    "hud_anticipation_default" : "Anticipation",
+    "hud_build_default" : "Développement",
+    "hud_sustain_default" : "Support",
+    "hud_fade_default" : "Retrait",
     
     "hud_overdue" : "Retard",
     "hud_time_left" : "Temps restant: ",
