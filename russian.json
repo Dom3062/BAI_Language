@@ -214,11 +214,11 @@
     "hud_min" : "мин",
     "hud_s" : "с",
     
-    "hud_assault" : "Осада",
-    "hud_endless" : "Бесконечная",
-    "hud_captain" : "Капитан",
+    "hud_assault_default" : "Осада",
+    "hud_endless_default" : "Бесконечная",
+    "hud_captain_default" : "Капитан",
     "hud_captain_active" : "Капитан Прибыл",
-    "hud_survived" : "Отбита",
+    "hud_survived_default" : "Отбита",
     "hud_fss_mod_1" : "Самоубийство",
     "hud_fss_mod_2" : "Мазохизм",
     "hud_fss_mod_3" : "Мазохист?"

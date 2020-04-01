@@ -9,7 +9,9 @@
     "bai_disabled" : "Disabled:",
 
     "bai_compatible_huds" : "The value '$VALUE' is compatible with:\n",
+    "bai_compatible_huds_option" : "This option is compatible with:\n",
     "bai_incompatible_huds" : "The value '$VALUE' is not compatible with:\n",
+    "bai_incompatible_huds_option" : "This option is not compatible with:\n",
     "bai_default_option" : "If you have different HUD installed, this option will default to:\n'$VALUE'",
 
     "bai_language" : "Language",
@@ -152,8 +154,9 @@
     "bai_aai_panel_1" : "In The Assault Box",
     "bai_aai_panel_2" : "Custom Panel",
 
-    "bai_use_custom_text" : "Use Custom Text",
-    "bai_use_custom_text_desc" : "If enabled, the HUD will use your text below instead of default one provided by game or BAI",
+    "bai_show_captain_panel" : "Show Damage Reduction Buff Panel",
+    "bai_show_captain_panel_desc" : "Shows Damage Reduction Buff Panel when Captain is present",
+
     "bai_text" : "Text",
     "bai_text_desc" : "Write your custom text as long as you want",
     "bai_text_short" : "Text (Short)",

@@ -209,11 +209,11 @@
     "hud_min" : "min",
     "hud_s" : "s",
 
-    "hud_assault" : "Vorstoß",
-    "hud_endless" : "Endlos",
-    "hud_captain" : "Captain",
+    "hud_assault_default" : "Vorstoß",
+    "hud_endless_default" : "Endlos",
+    "hud_captain_default" : "Captain",
     "hud_captain_active" : "Komplett aufgestellt",
-    "hud_survived" : "Überlebt",
+    "hud_survived_default" : "Überlebt",
     "hud_fss_mod_1" : "Selbstmord",
     "hud_fss_mod_2" : "Masochism",
     "hud_fss_mod_3" : "Masochist?"

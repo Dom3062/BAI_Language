@@ -209,11 +209,11 @@
     "hud_min" : "min",
     "hud_s" : "s",
 
-    "hud_assault" : "Assalto",
-    "hud_endless" : "Sem fim",
-    "hud_captain" : "Captain",
+    "hud_assault_default" : "Assalto",
+    "hud_endless_default" : "Sem fim",
+    "hud_captain_default" : "Captain",
     "hud_captain_active" : "Chegou o captain",
-    "hud_survived" : "Sobreviveu",
+    "hud_survived_default" : "Sobreviveu",
     "hud_fss_mod_1" : "Suícidio",
     "hud_fss_mod_2" : "Machismo",
     "hud_fss_mod_3" : "Machista?"
