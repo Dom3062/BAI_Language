@@ -1,7 +1,19 @@
 {
-    "bai_mod_title" : "Улучшенные индикаторы осады",
+    "bai_mod_title" : "Улучшенные индикаторы штурма",
     "bai_mod_desc" : "Настройки мода",
 
+    "bai_menu_next_page" : "След. Страница",
+    "bai_menu_previous_page" : "Пред. Страница",
+    
+    "bai_enabled" : "Включен",
+    "bai_disabled" : "Выключен:",
+    
+    "bai_compatible_huds" : "'$VALUE' совместим с\n",
+    "bai_compatible_huds_option" : "Данный hud совместим с:\n",
+    "bai_incompatible_huds" : "'$VALUE' не совместим с:\n",
+    "bai_incompatible_huds_option" : "Данный hud не совместим с:\n",
+    "bai_default_option" : "Если у вас установлен другой HUD, это опция изменится на:\n'$VALUE'",
+    
     "bai_language" : "Язык",
     "bai_language_desc" : "Изменяет язык мода. Чтобы изменение применилось, необходимо перезапустить игру.",
     "bai_language_1" : "Автоопределние",
@@ -33,8 +45,12 @@
     "bai_restoration_mod_use_alpha_endless_text_desc" : "Использует более короткую версию текста 'БЕСКОНЕЧНАЯ ОСАДА В ПРОЦЕССЕ'",
     "bai_restoration_mod_early_alpha_corner_only" : "Только для Alpha Corner ",
     "bai_restoration_mod_early_alpha_corner_only_desc" : "Эти настройки только повлияют на 'Early Alpha Corner' в Restoration mod",
-    "bai_c1" : "Ц1",
-    "bai_c2" : "Ц2",
+    "bai_c1" : "С1",
+    "bai_c2" : "С2",
+    
+    "bai_halo_reach_hud_desc" : "Применить настройки мода для Halo: Reach HUD",
+    "bai_halo_reach_hud_use_bai_color" : "Использовать цвета из мода",
+    "bai_halo_reach_hud_use_bai_color_desc" : "Если включено, панель осады будет использовать цвета из настроек мода\nИначе - будут использованы цвета по умолчанию.",
 
     "bai_mui" : "Настройки MUI",
     "bai_mui_desc" : "Применить настройки BAI для MUI",
