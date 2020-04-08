@@ -1,0 +1,271 @@
+{
+    "bai_mod_title": "Better Assault Indicator",
+    "bai_mod_desc": "모드 설정 변경",
+
+    "bai_menu_next_page": "다음 페이지",
+    "bai_menu_previous_page": "이전 페이지",
+
+    "bai_enabled": "활성",
+    "bai_disabled": "비활성:",
+
+    "bai_compatible_huds": "이 값 '$VALUE' 는 :\n과 호환됩니다",
+    "bai_compatible_huds_option": "이 옵션은 :\n과 호환됩니다",
+    "bai_incompatible_huds": "이 값 '$VALUE' 는 :\n과 호환되지 않습니다",
+    "bai_incompatible_huds_option": "이 옵션은 :\n과 호환되지 않습니다",
+
+    "bai_default_option": "다른 HUD가 설치된경우, 이 옵션은:\n'$VALUE' 를 기본으로 설정할것입니다.",
+
+    "bai_language": "언어",
+    "bai_language_desc": "모드 언어를 전환합니다. 래밸 재시작을 해야 적용됩니다.",
+    "bai_language_1": "자동 감지",
+
+    "bai_compatibility": "HUD 호환성",
+    "bai_compatibility_desc": "여기서 사용중인 특정 HUD의 호환성 설정을 할 수 있습니다.\n잘못된 HUD 호환성 설정은 게임의 충돌을 야기할수 있습니다. \n\n[자동감지: BAI가 자동으로 설치된 HUD를 감지합니다]\n[이외 옵션: BAI가 강제적으로 그 HUD에 호환코드를 로드시킵니다.]",
+    "bai_compatibility_1": "자동 감지",
+    "bai_compatibility_2": "Vanilla",
+
+    "bai_holoui_desc": "HoloUI에 BAI의 특정 설정을 적용합니다.",
+    "bai_holoui_update_text_color": "택스트 색 업데이트",
+    "bai_holoui_update_text_color_desc": "어설트 배너 색깔 업데이트는 글자 색 업데이트에도 적용됩니다",
+
+    "bai_pdth_hud_reborn_desc": "PD:TH HUD Reborn에 BAI의 특정 설정을 적용합니다",
+    "bai_pdth_hud_reborn_custom_text_color": "사용자 지정 글자 색상 사용",
+    "bai_pdth_hud_reborn_custom_text_color_desc": "비활성화시, 어설트 아이콘의 색상을 글자에 적용합니다",
+
+    "bai_restoration_mod_desc": "Restoration Mod에 BAI의 특정 설정을 적용합니다",
+    "bai_restoration_mod_alpha_tape_only": "알파 테이프만",
+    "bai_restoration_mod_alpha_tape_only_desc": "이 설정은 오직 Restoration Mod의 '알파 테이프'에만 영향을 끼칩니다.",
+    "bai_restoration_mod_include_cover_text": "엄페 문자 포함",
+    "bai_restoration_mod_include_cover_text_desc": "어설트 박스에 '엄페해 계세요' 줄을 포함합니다",
+    "bai_restoration_mod_use_alpha_assault_text": "알파 어설트 글자 사용",
+    "bai_restoration_mod_use_alpha_assault_text_desc": "'경찰 습격 진행중' 글자의 단축된 버전을 사용합니다",
+    "bai_restoration_mod_use_alpha_endless_text": "알파 끝없는 어설트 글자 사용",
+    "bai_restoration_mod_use_alpha_endless_text_desc": "'끝없는 경찰 습격 진행중' 글자의 단축된 버전을 사용합니다",
+    "bai_restoration_mod_early_alpha_corner_only": "얼리 알파 구석만",
+    "bai_restoration_mod_early_alpha_corner_only_desc": "이 선택은 오직 Restoration Mod의 '얼리 알파 구석'에만 영향을 끼칩니다",
+    "bai_c1": "C1",
+    "bai_c2": "C2",
+
+    "bai_halo_reach_hud_desc": "Halo: Reach HUD에 BAI의 특정 설정을 적용합니다.",
+    "bai_halo_reach_hud_use_bai_color": "BAI로 부터 색상 사용",
+    "bai_halo_reach_hud_use_bai_color_desc": "활성 시, BAI로부터 어설트 배너의 색을 사용하며, \n그렇지 않은경우 기본 색상이 사용됩니다",
+
+    "bai_button_ok": "확인",
+    "bai_detected_wolfhud": "WolfHUD와 호환성 충돌이 확인됐습니다.",
+    "bai_detected_wolfhud_desc": "WolfHUD의 '자세한 어설트 배너' 옵션은 BAI와 호환되지 않으며 비활성화 됐습니다. 이 옵션은 BAI 에서 '자세한 어설트 배너' 와 '어설트 현제 상태'로 활성화됩니다.",
+    "bai_detected_assault_states": "'Assault States mod' 와 호환성 충돌이 확인됐습니다.",
+    "bai_detected_assault_states_desc": "'Assault States mod' 는 BAI와 호환되지 않습니다. BAI 에는 이미 어설트 상황 기능이 내장되있습니다. 'Assault States mod'를 비활성화 하거나 제거하는걸 권장합니다.",
+    "bai_detected_wave_survived": "'Wave Survived mod' 와 호환성 충돌이 확인됐습니다.",
+    "bai_detected_wave_survived_desc": "'Wave Survived mod' 는 BAI와 호환되지 않습니다. BAI 에는 이미 웨이브 생존시 웨이브 생존 배너 표시 기능이 내장되있습니다. 'Wave Survived mod'를 비활성화 하거나 제거하는걸 권장합니다.",
+
+    "bai_savedata_not_compatible": "저장 데이터가 이 BAI 버전이랑 호환되지 않습니다.",
+    "bai_savedata_not_compatible_desc": "아마도 BAI의 내부 구조가 바뀌어서 예전 BAI 설정이 이 새로운 BAI에 호환되지 않는것 같습니다. 비록 저장데이터를 불러오지 못해서 유감이지만, 그래도 초기 설정은 이미 로드해놨으니 충돌은 없을겁니다.\n\n불편을 끼쳐서 죄송합니다.",
+
+    "bai_show_wave_survived": "웨이브 생존 배너 표시",
+    "bai_show_wave_survived_desc": "당신과 당신 인원이 경찰 습격에 생존 할때마다 웨이브 생존 배너를 표시합니다 (안전가옥 습격에서)",
+
+    "bai_hide_hostage_panel": "인질 패널 숨기기",
+    "bai_hide_hostage_panel_assault_desc": "보통 습격중에 인질 패널을 숨깁니다",
+    "bai_hide_hostage_panel_captain_desc": "캡틴 등장시 인질 패널을 숨깁니다",
+    "bai_hide_hostage_panel_endless_desc": "끝이 없는 습격중에 인질 패널을 숨깁니다",
+
+    "bai_completely_hide_hostage_panel": "인질 패널 완전 숨기기",
+    "bai_completely_hide_hostage_panel_desc": "인질 패널은 미션 시작시에도 표시되지 않습니다.\n이 설정은 활성시 어설트 도중,캡틴 그리고 끝없는 습격에 '인질 패널 숨기기' 설정을 무시합니다",
+
+    "bai_show_difficulty_name_instead_of_skulls": "해골 수 대신 난이도 이름을 표기",
+    "bai_show_difficulty_name_instead_of_skulls_desc": "어설트 박스에 해골 수 대신 난이도 이름을 표기합니다\n크라임 스프리에선 작동하지 않습니다",
+
+    "bai_host_only": "방장 전용",
+    "bai_client_only": "클라이언트 전용",
+
+    "bai_r": "Red",
+    "bai_r_desc": "Sets red value",
+    "bai_g": "Green",
+    "bai_g_desc": "Sets green value",
+    "bai_b": "Blue",
+    "bai_b_desc": "Sets blue value",
+
+    "bai_color": "색상",
+    "bai_color_desc": "박스 색상을 변경",
+
+    "bai_assault_box": "어설트 박스",
+    "bai_assault_box_desc": "어설트 박스 색상을 변경합니다.",
+
+    "bai_assault_box_mutated": "어설트 박스 (뮤테이터 활성)",
+    "bai_assault_box_mutated_desc": "어설트 박스 색상을 변경합니다 (뮤테이터 활성)",
+
+    "bai_holdout_box": "어설트 박스 (홀드아웃)",
+    "bai_holdout_box_desc": "어설트 박스 색상을 변경합니다 (홀드아웃)",
+
+    "bai_captain_box": "어설트 박스 (캡틴)",
+    "bai_captain_box_desc": "어설트 박스 색상을 변경합니다 (캡틴 등장시)",
+
+    "bai_captain_box_mutated": "어설트 박스 (캡틴, 뮤테이터 활성)",
+    "bai_captain_box_mutated_desc": "어설트 박스 색상을 변경합니다 (뮤테이터 활성과 동시에 캡틴 등장시)",
+
+    "bai_endless_box": "끝이 없는 어설트 박스",
+    "bai_endless_box_desc": "끝이 없는 어설트 박스 색상을 변경합니다",
+
+    "bai_endless_box_mutated": "끝이 없는 어설트 박스 (뮤테이터 활성)",
+    "bai_endless_box_mutated_desc": "끝이 없는 어설트 박스 색상을 변경합니다 (뮤테이터 활성)",
+
+    "bai_survived_box": "웨이브 생존 박스",
+    "bai_survived_box_desc": "웨이브 생존 박스의 색상을 변경합니다 (안전가옥 습격에 나오는 웨이브 생존 배너에도 적용됩니다)",
+
+    "bai_escape_box": "탈출차량 출발 박스",
+    "bai_escape_box_desc": "탈출차량 출발 박스 색상을 변경합니다",
+
+    "bai_color_reset": "색상 초기화",
+    "bai_color_reset_desc": "색상을 초기 설정으로 바꿉니다",
+    "bai_colors_reset": "색상 초기화",
+    "bai_colors_reset_desc": "색상을 초기 설정으로 바꿉니다",
+
+    "bai_show_assault_states": "어설트 상황 표시",
+    "bai_show_assault_states_desc": "어설트 상황을 어설트 박스에 표시합니다 (컨트롤, 준비 단계, 빌드, 지속 and 페이드) \n이 옵션은 끝없는 어설트나 캡틴 등장시 동작하지 않습니다",
+
+    "bai_assault_states": "어설트 상황",
+    "bai_assault_states_desc": "어설트 박스에 표기되는 어설트 상황의 색과 투명도를 설정합니다",
+
+    "bai_enabled_not_assault_desc": "체크 시, 어설트 박스에 표기되며. 그렇지 않은경우, 어설트 박스에 표기되지 않습니다",
+    "bai_enabled_assault_desc": "체크 시, 어설트 박스에 표기되며. 그렇지 않은경우, 어설트 박스가 기본 어설트만 보여줍니다",
+
+    "bai_show_advanced_assault_info": "자세한 어설트 배너 내용 표기",
+    "bai_show_advanced_assault_info_desc": "'남은 스폰량' 과 '남은 시간을' 어설트 박스에 표기합니다\n캡틴 등장 시 또는 끝없는 어설트 중에는 표기되지 않습니다.",
+
+    "bai_advanced_assault_info": "자세한 어설트 내용",
+    "bai_advanced_assault_info_desc": "자세한 어설트 내용을 변경합니다",
+
+    "bai_show_time_left": "'남은 시간' 표기",
+    "bai_show_time_left_desc": "어설트 박스에 '남은 시간' 을 표시합니다\n이 옵션은 게임에 중도 참가시 정확하지 않을수 있습니다. 하지만 시간이 지나면 정확해집니다",
+
+    "bai_time_format": "시간 표기",
+    "bai_time_format_desc": " '남은 시간'을 표기할 시간 표기를 변경합니다 info\n\n예시:",
+    "bai_time_format_1": "xx.xx (초 단위)",
+    "bai_time_format_2": "'xx.xx' 초",
+    "bai_time_format_3": "xx (초 단위)",
+    "bai_time_format_4": "'xx' 초",
+    "bai_time_format_5": "'xx' 분 'yy' 초",
+    "bai_time_format_6": "xx:yy",
+
+    "bai_show_spawns_left": "'남은 스폰량' 표시",
+    "bai_show_spawns_left_desc": "어설트 박스에 '남은 스폰량'을 표시합니다\n이 옵션은 게임에 중도 참가시 정확하지 않을 수 있읍니다. 하지만 시간이 지나면 정확해집니다",
+
+    "bai_aai_panel": "패널 스타일",
+    "bai_aai_panel_desc": "AAI 패널 스타일을 변경합니다",
+    "bai_aai_panel_1": "어설트 박스 안에",
+    "bai_aai_panel_2": "사용자 지정 패널",
+
+    "bai_show_captain_panel": "피해 감소 버프 패널 표시",
+    "bai_show_captain_panel_desc": "캡틴이 맵에 존재해 있는 경우 피해 감소 버프 패널을 표시합니다",
+
+    "bai_use_custom_text": "사용자 지정 글자 사용",
+    "bai_use_custom_text_desc": "만약 활성시, 당신이 아레에 써둔 글자를 게임이나 BAI가 기본 제공한 글자 대신 사용합니다",
+    "bai_text": "글자",
+    "bai_text_desc": "사용자 지정 글자를 원하는 만큼 쓰세요",
+    "bai_text_short": "글자 (짦음)",
+    "bai_text_short_desc": "어떤 HUD는 짦은 어설트 박스와 짦은 글자를 대신 사용하기도 해요. 사용자 지정 글자를 가능 한 짦게 써주세요",
+    "bai_custom_text": "여기에 사용자 지정 글자를 쓰세요",
+    "bai_custom_text_desc": "여기에다 사용자 지정 글자를 써주세요",
+
+    "bai_faction_assault_text": "어설트 박스에 팩션 이름 표기",
+    "bai_faction_assault_text_desc": "어설트 중에 어설트 박스에 팩션 이름을 표기합니다\n'커스텀 글자' 는 이 기능을 덮어씁니다. 크라임 스프리에 사용할수 없습니다",
+
+    "bai_modules": "모듈",
+    "bai_modules_desc": "모듈은 BAI를 개선하거나 BAI의 기능들을 추가합니다\n만약에 모듈에 추가 설정이 있는경우, 여기에 표기됩니다",
+
+    "bai_assault_panel_position": "어설트 패널 위치",
+    "bai_assault_panel_position_desc": "스크린에 표기될 어설트 패널의 위치를 설정합니다",
+    "bai_assault_panel_position_1": "오른쪽",
+    "bai_assault_panel_position_2": "중앙",
+    "bai_assault_panel_position_3": "왼쪽",
+
+    "bai_other_options": "기타 설정",
+    "bai_other_options_desc": "",
+
+    "bai_hudlist": "HUDList",
+    "bai_hudlist_move_hostage_panel": "",
+    "bai_hudlist_move_hostage_panel_desc": "",
+
+    "bai_animations": "애니메이션 설정",
+    "bai_animations_desc": "애니메이션이 게임에 어떻게 행동할지 설정합니다",
+
+    "bai_enable_animations": "애니메이션 활성",
+    "bai_enable_animations_desc": "비활성시 애니메이션은 즉시 이루어집니다 (default game/hud behavior)",
+
+    "bai_animation_speed": "애니메이션 속도",
+    "bai_animation_speed_desc": "이 값을 올리면 색상 애니메이션의 속도가 느려집니다. 이 값을 내리면 빨라집니다.",
+
+    "hud_assault_alpha_fss_mod_1": "자살",
+    "hud_assault_alpha_fss_mod_2": "마조히즘",
+    "hud_assault_alpha_fss_mod_3": "마조히스트?",
+    "hud_assault_alpha": "경찰 습격",
+    "hud_assault_alpha_gensec": "젠섹 스왓 습격",
+    "hud_assault_alpha_zeal": "ZEAL 스왓 습격",
+    "hud_assault_alpha_fbi": "FBI 스왓 습격",
+    "hud_assault_alpha_murkywater": "머키워터 작전",
+    "hud_assault_alpha_russian": "러시안 습격",
+    "hud_assault_alpha_federales": "연방 습격",
+    "hud_assault_assault_fss_mod_1": "자살 진행중",
+    "hud_assault_assault_fss_mod_2": "마조히즘 진행중",
+    "hud_assault_assault_fss_mod_3": "너 마조히스트니?",
+    "hud_assault_assault_gensec": "젠섹 스왓 습격 진행중",
+    "hud_assault_assault_zeal": "ZEAL 스왓 습격 진행중",
+    "hud_assault_assault_fbi": "FBI 스왓 습격 진행중",
+    "hud_assault_assault_murkywater": "머키워터 작전 진행중",
+    "hud_assault_assault_russian": "러시안 습격 진행중",
+    "hud_assault_assault_federales": "연방 습격 진행중",
+    "hud_assault_survived_fss_mod_1": "자살 생존",
+    "hud_assault_survived_fss_mod_2": "마조히즘 생존",
+    "hud_assault_survived_fss_mod_3": "마조히스트 확인됨",
+    "hud_assault_endless_default": "끝이 없는 경찰 습격 진행중",
+    "hud_assault_endless_fss_mod_1": "끝이 없는 자살 진행중",
+    "hud_assault_endless_fss_mod_2": "끝이 없는 마조히즘 진행중",
+    "hud_assault_endless_fss_mod_3": "넌 완전히 마조히스트구나",
+    "hud_assault_endless_gensec": "끝이 없는 젠섹 스왓 습격 진행중",
+    "hud_assault_endless_zeal": "끝이 없는 ZEAL 스왓 습격 진행중",
+    "hud_assault_endless_fbi": "끝이 없는 FBI 습격 진행중",
+    "hud_assault_endless_halloween": "모두 다 울프를 바보로 만든다",
+    "hud_assault_endless_murkywater": "끝이 없는 머키워터 작전 진행중",
+    "hud_assault_endless_russian": "끝이 없는 러시안 습격 진행중",
+    "hud_assault_endless_federales": "끝이 없는 연방 습격 진행중",
+    "hud_assault_endless_alpha": "끝이 없는 경찰 습격",
+    "hud_assault_endless_alpha_fss_mod_1": "끝없는 자살",
+    "hud_assault_endless_alpha_fss_mod_2": "끝없는 마조히즘",
+    "hud_assault_endless_alpha_fss_mod_3": "진짜로 마조히스트",
+    "hud_assault_endless_alpha_gensec": "끝이 없는 젠섹 스왓 습격",
+    "hud_assault_endless_alpha_zeal": "끝이 없는 ZEAL 스왓 습격",
+    "hud_assault_endless_alpha_fbi": "끝이 없는 FBI 스왓 습격",
+    "hud_assault_endless_alpha_murkywater": "끝이 없는 머키워터 작전",
+    "hud_assault_endless_alpha_halloween": "모두 다 울프를 바보로 만든다",
+    "hud_assault_endless_alpha_russian": "끝이 없는 러시안 습격",
+    "hud_assault_endless_alpha_federales": "끝이 없는 연방 습격",
+    "hud_assault_survived_endless": "끝이 없는 웨이브 생존",
+    "hud_assault_survived_endless_fss_mod_1": "끝없는 자살 생존",
+    "hud_assault_survived_endless_fss_mod_2": "끝없는 마조히즘 생존 ",
+    "hud_assault_survived_endless_fss_mod_3": "끝없는 마조히스틈 확인됨",
+    "hud_cover": "엄페해 계세요",
+
+    "hud_control_default": "컨트롤",
+    "hud_anticipation_default": "습격 준비",
+    "hud_build_default": "빌드",
+    "hud_sustain_default": "지속",
+    "hud_fade_default": "페이드",
+
+    "hud_overdue": "초과",
+    "hud_time_left": "남은 시간: ",
+    "hud_time_left_short": "시간: ",
+    "hud_spawns_left": "남은 스폰량: ",
+    "hud_spawns_left_short": "스폰량: ",
+    "hud_min": "분",
+    "hud_s": "초",
+
+    "hud_assault_default": "습격",
+    "hud_endless_default": "끝이 없는",
+    "hud_captain_default": "캡틴",
+    "hud_captain_active": "캡틴 대열 완전함",
+    "hud_survived_default": "생존",
+    "hud_fss_mod_1": "자살",
+    "hud_fss_mod_2": "마조히즘",
+    "hud_fss_mod_3": "마조히스트?",
+    "hud_no_return": "탈출차량 출발"
+}

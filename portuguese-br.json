@@ -42,6 +42,7 @@
     "bai_restoration_mod_use_alpha_endless_text_desc" : "Usa uma versão mais curta do 'ENDLESS POLICE ASSAULT PROGRESS'",
     "bai_restoration_mod_early_alpha_corner_only" : "Apenas o Canto do Alpha",
     "bai_restoration_mod_early_alpha_corner_only_desc" : "Essas escolhas apenas afetam o 'Early Alpha Corner' em 'Restoration Mod'",
+
     "bai_c1" : "C1",
     "bai_c2" : "C2",
 
@@ -123,7 +124,7 @@
     "bai_show_assault_states_desc" : "Mostra todos os estágios do Assault (control, anticipation, build, sustain e fade) na caixa do Assault\nEssa opção não irá funcionar quando tiver o Assault sem fim e o Captain presente",
 
     "bai_assault_states" : "Estágios do Assault",
-    "bai_assault_states_desc" : "Mude as cores dos estágios e os estágios aparecendo na Caixa de Assault\n'Mostra os estágios do Assault' deve ser ligado pra poder funcionar",
+    "bai_assault_states_desc" : "Mude as cores dos estágios e os estágios aparecendo na Caixa de Assault\n",
 
     "bai_enabled" : "Ligado",
     "bai_enabled_not_assault_desc" : "Se ligado, irá mostra na Caixa de Assault. Se não, Esse estágio não irá aparecer na caixa",
@@ -133,22 +134,22 @@
     "bai_show_advanced_assault_info_desc" : "Mostra 'Spawns restantes' e 'Tempo restante' na Caixa de Assault\nNão irá aparecer enquanto tiver o Assault endless ou quando o Captain chegar",
 
     "bai_advanced_assault_info" : "Informações avançadas do Assault",
-    "bai_advanced_assault_info_desc" : "Muda as informações na caixa do Assault\n'Mostra as informações avançadas do Assault' deve ser ativado. algumas coisas podem não funcionar no cliente.",
+    "bai_advanced_assault_info_desc" : "Muda as informações na caixa do Assault",
 
     "bai_show_time_left" : "Mostra o 'Tempo restante'",
-    "bai_show_time_left_desc" : "Mostra o quanto 'tempo resta' na Caixa do Assault\nTalvez não seja preciso quando você entra em um jogo em progresso, mas depois  fica preciso",
+    "bai_show_time_left_desc" : "Mostra o quanto 'tempo resta' na Caixa do Assault\nTalvez não seja preciso quando você entra em um jogo em progresso, mas depois fica preciso",
     
     "bai_time_format" : "Formato do tempo",
-    "bai_time_format_desc" : "Muda o Formato do tempo restante na caixa do Assault",
+    "bai_time_format_desc" : "Muda o Formato do tempo restante na caixa do Assault\n\nExample:\n",
     "bai_time_format_1" : "xx.xx (em segundos)",
-    "bai_time_format_2" : "'xx.xx' segundos",
+    "bai_time_format_2" : "'xx.xx' s",
     "bai_time_format_3" : "xx (em segundos)",
-    "bai_time_format_4" : "'xx' segundos",
-    "bai_time_format_5" : "'xx' minutos 'yy' segundos",
+    "bai_time_format_4" : "'xx' s",
+    "bai_time_format_5" : "'xx' min 'yy' s",
     "bai_time_format_6" : "xx:yy",
 
     "bai_show_spawns_left" : "Mostra 'Spawns restantes'",
-    "bai_show_spawns_left_desc" : "Mostra quantos 'Spawns restam' na caixa do Assault",
+    "bai_show_spawns_left_desc" : "Mostra quantos 'Spawns restam' na caixa do Assault\nTalvez não seja preciso quando você entra em um jogo em progresso, mas depois fica preciso",
 	
     "bai_aai_panel" : "Estilo do Painel",
     "bai_aai_panel_desc" : "Escolhe o estilo do painel AAI",
@@ -156,7 +157,6 @@
     "bai_aai_panel_2" : "Painel personalizado",
 
     "bai_show_captain_panel" : "Mostrar o painel de redução de dano",
-    "bai_show_captain_panel_desc" : "Motre a redução de dano quando o capitão está presente",
 
     "bai_use_custom_text" : "Usar texto personalizado",
     "bai_use_custom_text_desc" : "Se ligado, a HUD irá usar o texto que você colocar, invés do BAI ou jogo oferecer",
@@ -215,7 +215,7 @@
     "hud_assault_survived_fss_mod_1" : "SUÍCIDIO SOBREVIVIDA",
     "hud_assault_survived_fss_mod_2" : "MACHISMO SOBREVIVIDO",
     "hud_assault_survived_fss_mod_3" : "SEU MACHISTA!",
-    "hud_assault_endless" : "ASSAULT SEM FIM EM PROGRESSO",
+    "hud_assault_endless_default" : "ASSAULT SEM FIM EM PROGRESSO",
     "hud_assault_endless_fss_mod_1" : "SUÍCIDIO SEM FIM EM PROGRESSO",
     "hud_assault_endless_fss_mod_2" : "MACHISMO SEM FIM EM PROGRESSO",
     "hud_assault_endless_fss_mod_3" : "PUTA QUE PARIU, UM MACHISTA LOGO ALI!",
@@ -241,19 +241,20 @@
     "hud_assault_survived_endless_fss_mod_3" : "FOI CONFIRMADO QUE VOCÊ É UM MACHISTA!",
     "hud_cover" : "VAI PRA COBERTURA",
 
-    "hud_control" : "Control",
-    "hud_anticipation" : "Anticipation",
-    "hud_build" : "Build",
-    "hud_sustain" : "Sustain",
-    "hud_fade" : "Fade",
+    "hud_control_default" : "Control",
+    "hud_anticipation_default" : "Anticipation",
+    "hud_build_default" : "Build",
+    "hud_sustain_default" : "Sustain",
+    "hud_fade_default" : "Fade",
 
     "hud_overdue" : "Tempo Extra",
     "hud_time_left" : "Tempo restando: ",
     "hud_time_left_short" : "Tempo: ",
     "hud_spawns_left" : "Spawns restando: ",
     "hud_spawns_left_short" : "Spawns: ",
-    "hud_min" : "minutos",
-    "hud_s" : "segundos",
+
+    "hud_min" : "min",
+    "hud_s" : "s",
 
     "hud_assault_default" : "Assault",
     "hud_endless_default" : "Sem fim",

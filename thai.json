@@ -2,22 +2,16 @@
     "bai_mod_title": "ตัวบ่งชี้การจู่โจมที่เจ๋งยิ่งกว่าเดิม",
     "bai_mod_desc": "Better Assault Indicator: เปลี่ยนแปลงตัวเลือกของ Mod นี้",
 
+    "bai_enabled" : "เปิดใช้งาน",
+
     "bai_language" : "ภาษา",
-    "bai_language_desc" : "เปลี่ยนภาษาของม็อด",
+    "bai_language_desc" : "เปลี่ยนภาษาของม็อด.\nจำเป็นต้องมีการรีสตาร์ทด่านเพื่อให้การเปลี่ยนแปลงนี้ส่งผลลัพธ์",
     "bai_language_1" : "ค้นพบภาษาอัตโนมัติ",
 
     "bai_compatibility" : "ความเข้ากันได้ของ HUD",
     "bai_compatibility_desc" : "HUD Compatibility: คุณสามารถปรับแต่งความเข้ากันได้กับ HUD ที่คุณกำลังใช้อยู่\nเกมสามารถเด้งหลุดได้หากคุณเลือกความเข้ากันได้กับ HUD ผิดประเภท",
     "bai_compatibility_1" : "ตรวจสอบอัตโนมัติ",
     "bai_compatibility_2" : "เกมต้นฉบับ",
-    "bai_compatibility_3" : "Void UI",
-    "bai_compatibility_4" : "Sora's HUD Reborn",
-    "bai_compatibility_5" : "HoloUI",
-    "bai_compatibility_6" : "SydneyHUD",
-    "bai_compatibility_7" : "PD:TH HUD Reborn",
-    "bai_compatibility_8" : "Restoration Mod",
-    "bai_compatibility_9" : "MUI",
-    "bai_compatibility_10" : "KineticHUD",
 	
     "bai_holoui" : "ตัวเลือก HoloUI",
     "bai_holoui_desc" : "ใช้การตั้งค่าเฉพาะของ BAI กับ HoloUI",
@@ -28,8 +22,6 @@
     "bai_pdth_hud_reborn_desc" : "ใช้การตั้งค่าเฉพาะของ BAI กับ PD:TH HUD Reborn",
     "bai_pdth_hud_reborn_custom_text_color" : "เลือกสีข้อความแบบกำหนดเอง",
     "bai_pdth_hud_reborn_custom_text_color_desc" : "เมื่อปิดตัวเลือกนี้ เกมจะทำการใช้สีข้อความจากไอคอนแสดงการจู่โจม",
-    "bai_pdth_hud_reborn_aai_only_text" : "เลือกสีให้กับ 'แสดงข้อมูลการจู่โจมขั้นสูง' เท่านั้น",
-    "bai_pdth_hud_reborn_aai_only_text_desc" : "ใช้ตัวเลือกสีด้านล่างให้กับ 'เวลาจู่โจมที่เหลือ' และ 'ศัตรูที่เหลือ'.\nตัวเลือก 'เลือกสีข้อความแบบกำหนดเอง' ต้องถูกเปิดใช้งาน",
 
     "bai_restoration_mod" : "ตัวเลือก Restoration Mod",
     "bai_restoration_mod_desc" : "ใช้การตั้งค่าเฉพาะของ BAI กับ Restoration Mod",
@@ -45,6 +37,11 @@
     "bai_restoration_mod_early_alpha_corner_only_desc" : "ตัวเลือกเหล่านี้จะส่งผลลัพธ์กับ 'Early Alpha Corner' ใน Restoration Mod",
     "bai_c1" : "สีที่ 1",
     "bai_c2" : "สีที่ 2",
+
+    "bai_halo_reach_hud" : "ตัวเลือก Halo: Reach HUD",
+    "bai_halo_reach_hud_desc" : "ใช้การตั้งค่าเฉพาะของ BAI กับ Halo: Reach HUD",
+    "bai_halo_reach_hud_use_bai_color" : "ใช้สีจาก BAI",
+    "bai_halo_reach_hud_use_bai_color_desc" : "เมื่อปิดตัวเลือกนี้ เกมจะทำการใช้สีจาก BAI ให้กับหน้าต่างแสดงการจู่โจม\nหากไม่เลือก สีรูปแบบดั้งเดิมจะถูกใช้งานแทน",
 	
     "bai_button_ok" : "โอเค",
     "bai_detected_wolfhud" : "ตรวจพบความเข้ากันไม่ได้กับ WolfHUD",
@@ -120,9 +117,8 @@
     "bai_show_assault_states_desc" : "แสดงสถานะการจู่โจม (ควบคุม, เตรียมจู่โจม, เข้าจู่โจม, จู่โจมต่อเนื่อง และ ถอนกำลัง) ในหน้าต่างการจู่โจม\nตัวเลือกนี้ไม่สามารถใช้ได้กับการจู่โจมไม่มีที่สิ้นสุดของตำรวจและเมื่อกัปตันปรากฏตัวในด่าน",
 	
     "bai_assault_states" : "สถานะการจู่โจม",
-    "bai_assault_states_desc" : "Assault States: เปลี่ยนสีสถานะการจู่โจมและแสดงชื่อสถานะการจู่โจมในหน้าต่างการจู่โจม\nตัวเลือกแสดงสถานะการจู่โจมจำเป็นต้องถูกเปิดใช้งานเพื่อทำให้ส่งผลลัพธ์",
+    "bai_assault_states_desc" : "Assault States: เปลี่ยนสีสถานะการจู่โจมและแสดงชื่อสถานะการจู่โจมในหน้าต่างการจู่โจม",
 	
-    "bai_enabled" : "เปิดใช้งาน",
     "bai_enabled_not_assault_desc" : "หากถูกเลือก, จะมีการแสดงผลลัพธ์ในหน้าต่างการจู่โจม\nหากไม่ถูกเลือก, หน้าต่างการจู่โจมจะถูกปิดการแสดงผลลัพธ์",
     "bai_enabled_assault_desc" : "หากถูกเลือก, จะมีการแสดงผลลัพธ์ในหน้าต่างการจู่โจม\nหากไม่ถูกเลือก, หน้าต่างการจู่โจมจะแสดงสถานะการจู่โจมแบบปรกติแทน",
 
@@ -130,13 +126,13 @@
     "bai_show_advanced_assault_info_desc" : "Show Advanced Assault Info: แสดงข้อมูล 'จำนวนตำรวจที่เสริมกำลังได้' และ 'เวลาจู่โจมที่เหลือ' ในหน้าต่างการจู่โจม\nตัวเลือกนี้ไม่สามารถใช้ได้กับการจู่โจมไม่มีที่สิ้นสุดของตำรวจและเมื่อกัปตันปรากฏตัวในด่าน",
 
     "bai_advanced_assault_info" : "ข้อมูลการจู่โจมขั้นสูง",
-    "bai_advanced_assault_info_desc" : "Advanced Assault Info: เปลี่ยนแปลงข้อมูลการจู่โจมขั้นสูง.\n'แสดงข้อมูลการจู่โจมขั้นสูง' จำเป็นต้องถูกเปิดใช้งานเพื่อทำให้ส่งผลลัพธ์. มีเพียงบางตัวเลือกที่ส่งผลกับฝั่งไคลเอ็นต์",
+    "bai_advanced_assault_info_desc" : "Advanced Assault Info: เปลี่ยนแปลงข้อมูลการจู่โจมขั้นสูง.",
 
     "bai_show_time_left" : "แสดง 'เวลาจู่โจมที่เหลือ'",
-    "bai_show_time_left_desc" : "Show 'Time Left': แสดง 'เวลาจู่โจมที่เหลือ' ในหน้าต่างการจู่โจม\n ตัวเลือกนี้ไม่แสดงผลที่เที่ยงตรงถ้าคุณเข้าร่วมเกมที่กำลังดำเนินการอยู่, แต่มันจะแสดงผลได้เที่ยงตรงในอัพเดทครั้งหน้า",
+    "bai_show_time_left_desc" : "Show 'Time Left': แสดง 'เวลาจู่โจมที่เหลือ' ในหน้าต่างการจู่โจม\nตัวเลือกนี้ไม่แสดงผลที่เที่ยงตรงถ้าคุณเข้าร่วมเกมที่กำลังดำเนินการอยู่, แต่มันจะแสดงผลได้เที่ยงตรงในอัพเดทครั้งหน้า",
     
     "bai_time_format" : "รูปแบบเวลา",
-    "bai_time_format_desc" : "Time Format: เปลี่ยนแปลงรูปแบบเวลาที่แสดงในตัวเลือก 'เวลาจู่โจมที่เหลือ'",
+    "bai_time_format_desc" : "Time Format: เปลี่ยนแปลงรูปแบบเวลาที่แสดงในตัวเลือก 'เวลาจู่โจมที่เหลือ'\n\nExample:",
     "bai_time_format_1" : "xx.xx (ในหน่วยวินาที)",
     "bai_time_format_2" : "'xx.xx' วินาที",
     "bai_time_format_3" : "xx (ในหน่วยวินาที)",
@@ -145,10 +141,8 @@
     "bai_time_format_6" : "xx:yy",
 
     "bai_show_spawns_left" : "แสดง 'จำนวนตำรวจที่เสริมกำลังได้'",
-    "bai_show_spawns_left_desc" : "Show 'Spawns Left': แสดง 'จำนวนตำรวจที่เสริมกำลังได้' ในหน้าต่างการจู่โจม",
+    "bai_show_spawns_left_desc" : "Show 'Spawns Left': แสดง 'จำนวนตำรวจที่เสริมกำลังได้' ในหน้าต่างการจู่โจม\nตัวเลือกนี้ไม่แสดงผลที่เที่ยงตรงถ้าคุณเข้าร่วมเกมที่กำลังดำเนินการอยู่, แต่มันจะแสดงผลได้เที่ยงตรงในอัพเดทครั้งหน้า",
 
-    "bai_use_custom_text" : "ใช้ข้อความที่กำหนดเอง",
-    "bai_use_custom_text_desc" : "หากถูกเปิดใช้งาน, หน้าจอแสดงผลหรือ HUD จะใช้ข้อความที่คุณกำหนดเองแทนที่จะใช้ข้อความจากเกมหรือจาก BAI",
     "bai_text" : "ข้อความ",
     "bai_text_desc" : "เขียนข้อความตามใจคุณ",
     "bai_text_short" : "ข้อความ (แบบย่อ)",
@@ -159,7 +153,14 @@
     "bai_faction_assault_text" : "แสดงชื่อเฉพาะในหน้าต่างแสดงการจู่โจม",
     "bai_faction_assault_text_desc" : "แสดงชื่อเฉพาะ (Faction Name) ในช่วงการจู่โจมที่แสดงจากหน้าต่างการจู่โจม\n'เขียนข้อความตามใจคุณ' จะถูกเรียกใช้งานแทนตัวเลือกนี้. ตัวเลือกนี้ใช้ไม่ได้กับโหมด Crime Spree",
 
-    "bai_host_warning" : "ดูเหมือนว่าโฮสต์จะไม่มี BAI ติดตั้งเอาไว้. คุณสมบัติบางประการอาจทำงานได้ไม่ถูกต้อง. ข้อความนี้จะปรากฏอีกครั้งเมื่อคุณเชื่อมต่อกับโฮสต์คนอื่น",
+    "bai_modules" : "โมดูล (Modules)",
+    "bai_modules_desc" : "โมดูลช่วยเพิ่มส่วนเสริมบางประการให้กับ BAI\nหากโมดูลมีตัวเลือกต่างๆ เพิ่มเติม มันจะถูกแสดงผลที่นี่ค่ะ",
+
+    "bai_assault_panel_position" : "ตำแหน่งหน้าต่างแสดงการจู่โจม",
+    "bai_assault_panel_position_desc" : "กำหนดตำแหน่งหน้าต่างแสดงการจู่โจมบนหน้าจอ",
+    "bai_assault_panel_position_1" : "ขวา",
+    "bai_assault_panel_position_2" : "ตรงกลาง",
+    "bai_assault_panel_position_3" : "ซ้าย",
 
     "hud_assault_alpha_fss_mod_1" : "การฆ่าตัวตาย",
     "hud_assault_alpha_fss_mod_2" : "ซาดิสม์",
@@ -181,7 +182,7 @@
     "hud_assault_survived_fss_mod_1" : "รอดชีวิตจากการฆ่าตัวตาย",
     "hud_assault_survived_fss_mod_2" : "รอดชีวิตจากความซาดิสม์",
     "hud_assault_survived_fss_mod_3" : "เป็นมาโซคิสม์ชัวส์ๆ",
-    "hud_assault_endless" : "อยู่ระหว่างการจู่โจมไม่มีที่สิ้นสุดของตำรวจ",
+    "hud_assault_endless_default" : "อยู่ระหว่างการจู่โจมไม่มีที่สิ้นสุดของตำรวจ",
     "hud_assault_endless_fss_mod_1" : "อยู่ระหว่างการฆ่าตัวตายไม่มีที่สิ้นสุด",
     "hud_assault_endless_fss_mod_2" : "อยู่ระหว่างความซาดิสม์ไม่มีที่สิ้นสุด",
     "hud_assault_endless_fss_mod_3" : "มาโซคิสม์ใช่แน่ๆ เลย",
@@ -207,11 +208,11 @@
     "hud_assault_survived_endless_fss_mod_3" : "รอดชีวิตจากการเป็นมาโซคิสม์อย่างต่อเนื่อง",
     "hud_cover" : "เข้าที่กำบัง",
 	
-    "hud_control" : "ควบคุม",
-    "hud_anticipation" : "เตรียมจู่โจม",
-    "hud_build" : "เข้าจู่โจม",
-    "hud_sustain" : "จู่โจมต่อเนื่อง",
-    "hud_fade" : "ถอนกำลัง",
+    "hud_control_default" : "ควบคุม",
+    "hud_anticipation_default" : "เตรียมจู่โจม",
+    "hud_build_default" : "เข้าจู่โจม",
+    "hud_sustain_default" : "จู่โจมต่อเนื่อง",
+    "hud_fade_default" : "ถอนกำลัง",
 	
     "hud_overdue" : "เกินเวลา",
     "hud_time_left" : "เหลือเวลา: ",
@@ -221,12 +222,13 @@
     "hud_min" : "นาที",
     "hud_s" : "วินาที",
 	
-    "hud_assault" : "จู่โจม",
-    "hud_endless" : "ไม่มีที่สิ้นสุด",
-    "hud_captain" : "กับตัน",
+    "hud_assault_default" : "จู่โจม",
+    "hud_endless_default" : "ไม่มีที่สิ้นสุด",
+    "hud_captain_default" : "กับตัน",
     "hud_captain_active" : "รวมพลพร้อมสู้",
-    "hud_survived" : "รอดชีวิต",
+    "hud_survived_default" : "รอดชีวิต",
     "hud_fss_mod_1" : "การฆ่าตัวตาย",
     "hud_fss_mod_2" : "ซาดิสม์",
-    "hud_fss_mod_3" : "มาโซคิสม์?"
+    "hud_fss_mod_3" : "มาโซคิสม์?",
+    "hud_no_return" : "หนทางไม่มีวันย้อนกลับ"
 }

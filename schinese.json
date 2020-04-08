@@ -1,6 +1,7 @@
 {
     "bai_mod_title" : "更好的突击横幅(设定)",
     "bai_mod_desc" : "在这里更改BAI的设定",
+
     "bai_language" : "语言(Language)",
     "bai_language_desc" : "修改 BAI 的显示语言。To take effect, a level restart is required.",
     "bai_language_1" : "自动侦测",
@@ -9,14 +10,8 @@
     "bai_compatibility_desc" : "可根据你所使用的 HUD 选择所需要的兼容选项.\n若选错可能会导致游戏崩溃.\n默认自动识别当前使用的HUD",
     "bai_compatibility_1" : "自动识别",
     "bai_compatibility_2" : "不使用兼容选项",
-    "bai_compatibility_3" : "Void UI",
     "bai_compatibility_4" : "Sora's HUD '重生'版",
-    "bai_compatibility_5" : "HoloUI",
-    "bai_compatibility_6" : "SydneyHUD",
     "bai_compatibility_7" : "PD:TH HUD 重制版",
-    "bai_compatibility_8" : "Restoration Mod",
-    "bai_compatibility_9" : "MUI",
-    "bai_compatibility_10" : "KineticHUD",
 
     "bai_holoui" : "适用于 HoloUI 的设定",
     "bai_holoui_desc" : "这些是为 HoloUI 而生的功能",
@@ -27,8 +22,6 @@
     "bai_pdth_hud_reborn_desc" : "这些是为 PD:TH HUD 重制版而生的功能",
     "bai_pdth_hud_reborn_custom_text_color" : "使用自定义文字颜色",
     "bai_pdth_hud_reborn_custom_text_color_desc" : "禁用该功能时会将突击图标的颜色应用于显示的文字上",
-    "bai_pdth_hud_reborn_aai_only_text" : "仅将自定义颜色应用到突击状态显示",
-    "bai_pdth_hud_reborn_aai_only_text_desc" : "仅将自定义颜色应用于 '剩余时间' 和 '剩余敌人数量' 上。\n'使用自定义文字颜色' 必须为启用状态。",
 
     "bai_restoration_mod" : "适用于 Restoration Mod 的选项",
     "bai_restoration_mod_desc" : "这些是为 Restoration Mod 而生的功能",
@@ -44,6 +37,11 @@
     "bai_restoration_mod_early_alpha_corner_only_desc" : "这些选项仅影响 Restoration Mod 的 '早期 Alpha 边角' ",
     "bai_c1" : "C1",
     "bai_c2" : "C2",
+
+    "bai_halo_reach_hud" : "Halo: Reach HUD Options",
+    "bai_halo_reach_hud_desc" : "Apply BAI specific settings to Halo: Reach HUD",
+    "bai_halo_reach_hud_use_bai_color" : "Use Colors from BAI",
+    "bai_halo_reach_hud_use_bai_color_desc" : "When enabled, assault panel will use colors from BAI\nOtherwise default color will be used",
 
     "bai_button_ok" : "OK",
     "bai_detected_wolfhud" : "侦测到已启用的 WolfHUD",
@@ -123,10 +121,10 @@
     "bai_show_assault_states_desc" : "在突击横幅中显示以下状态 (控制, 试探, 构建, 持续, 撤退)\n当冬日队长到达或者无尽突袭进行时此选项无效.",
 
     "bai_advanced_assault_info" : "'突击状态显示'选项",
-    "bai_advanced_assault_info_desc" : "在这里选择你需要显示的信息.\n需要开启'显示突击状态'",
+    "bai_advanced_assault_info_desc" : "在这里选择你需要显示的信息.",
 
     "bai_assault_states" : "突击状态视觉更改界面",
-    "bai_assault_states_desc" : "更改突击状态的颜色以及决定是否在横幅中显示一些状态.\n需要开启'显示突击状态'",
+    "bai_assault_states_desc" : "更改突击状态的颜色以及决定是否在横幅中显示一些状态.",
 
     "bai_show_advanced_assault_info" : "显示更详细的突击信息",
     "bai_show_advanced_assault_info_desc" : "在突击横幅中显示剩余的敌人数量和剩余时间\n此功能在无尽突击下或队长到达时不可用。当你作为玩家时有些选项将不可用.",
@@ -135,7 +133,7 @@
     "bai_show_time_left_desc" : "在突击横幅中显示 '剩余时间'\n在刚刚加入一个进行中的游戏时数值显示可能不准，一小会后将会纠正。",
 
     "bai_time_format" : "时间格式",
-    "bai_time_format_desc" : "设定突击横幅中 '剩余时间' 的显示格式",
+    "bai_time_format_desc" : "设定突击横幅中 '剩余时间' 的显示格式\n\nExample:\n[xx.xx (in s) - 88.64]\n['xx.xx' s - 88.64 s]\n[xx (in s) - 88]\n['xx' s - 88 s]\n['xx' min 'yy' s] - 1 min 28 s]\n[xx:yy - 01:28]",
     "bai_time_format_1" : "xx.xx(单位为秒)",
     "bai_time_format_2" : "'xx.xx' 秒",
     "bai_time_format_3" : "xx(单位为秒)",
@@ -144,7 +142,7 @@
     "bai_time_format_6" : "xx:yy",
 	
     "bai_show_spawns_left" : "显示 '剩余敌人数量'",
-    "bai_show_spawns_left_desc" : "在突击横幅中显示 '剩余敌人数量'",
+    "bai_show_spawns_left_desc" : "在突击横幅中显示 '剩余敌人数量'\n在刚刚加入一个进行中的游戏时数值显示可能不准，一小会后将会纠正。",
 
     "bai_use_custom_text" : "使用自定义文本",
     "bai_use_custom_text_desc" : "启用该功能时, HUD 将把你输入的内容替换掉游戏原本就有的或 BAI修改的文字. 如: CText///Overkill. ",
@@ -158,7 +156,8 @@
     "bai_faction_assault_text" : "在突击横幅中显示敌人阵营",
     "bai_faction_assault_text_desc" : "在突击横幅中显示敌人的阵营\n'自定义文本' 无法与此功能同时使用. 挑战模式下无效",
 
-    "bai_host_warning" : "当前房主没有启用 BAI ，有些功能可能无法正常运作；加入其它房间时若房主没有启用 BAI，此消息会再次出现",
+    "bai_modules" : "Modules",
+    "bai_modules_desc" : "Modules improve or extend BAI's features. If the module has additional options, they will be listed here.",
     
     "hud_assault_alpha_fss_mod_1" : "尝试自杀中",
     "hud_assault_alpha_fss_mod_2" : "持续受虐中",
@@ -180,7 +179,7 @@
     "hud_assault_survived_fss_mod_1" : "自杀失败",
     "hud_assault_survived_fss_mod_2" : "施虐再猛一些吧",
     "hud_assault_survived_fss_mod_3" : "抖M认证完毕",
-    "hud_assault_endless" : "警方无尽突击进行中",
+    "hud_assault_endless_default" : "警方无尽突击进行中",
     "hud_assault_endless_fss_mod_1" : "无限次尝试自杀中",
     "hud_assault_endless_fss_mod_2" : "无尽的施虐者正在接近",
     "hud_assault_endless_fss_mod_3" : "抖M认证执行中",
@@ -206,11 +205,11 @@
     "hud_assault_survived_endless_fss_mod_3" : "你是抖M中的抖M",
     "hud_cover" : "待在掩体附近!",
 	
-    "hud_control" : "控制阶段",
-    "hud_anticipation" : "侦查阶段",
-    "hud_build" : "构建阶段",
-    "hud_sustain" : "持续阶段",
-    "hud_fade" : "撤退阶段",
+    "hud_control_default" : "控制阶段",
+    "hud_anticipation_default" : "侦查阶段",
+    "hud_build_default" : "构建阶段",
+    "hud_sustain_default" : "持续阶段",
+    "hud_fade_default" : "撤退阶段",
 
     "hud_overdue" : "突击延时中",
     "hud_time_left" : "剩余时间: ",
@@ -220,12 +219,13 @@
     "hud_min" : "分钟",
     "hud_s" : "秒",
 
-    "hud_assault" : "突击进行中",
-    "hud_endless" : "无尽突击中",
-    "hud_captain" : "队长已到达",
+    "hud_assault_default" : "突击进行中",
+    "hud_endless_default" : "无尽突击中",
+    "hud_captain_default" : "队长已到达",
     "hud_captain_active" : "冬日队长小队已部署",
-    "hud_survived" : "波数存活",
+    "hud_survived_default" : "波数存活",
     "hud_fss_mod_1" : "尝试自杀中",
     "hud_fss_mod_2" : "持续受虐中",
-    "hud_fss_mod_3" : "抖M认证中"
+    "hud_fss_mod_3" : "抖M认证中",
+    "hud_no_return" : "No Return"
 }

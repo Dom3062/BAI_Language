@@ -2,18 +2,14 @@
     "bai_mod_title" : "Better Assault Indicator",
     "bai_mod_desc" : "Ändere mod optionen",
 
+    "bai_language" : "sprache",
+    "bai_language_desc" : "ändert mod-sprache. levelneustart wird benötigt.",
+    "bai_language_1" : "Automatisch erkennen",
+
     "bai_compatibility" : "HUD Kompatibilität",
     "bai_compatibility_desc" : "hier kanst du die Kompatibilität mit einem bestimmten hud das du benuzt auswählen.\nauswahl des falschen huds kann zu einem crash führen.",
     "bai_compatibility_1" : "erkennen",
     "bai_compatibility_2" : "Vanilla",
-    "bai_compatibility_3" : "Void UI",
-    "bai_compatibility_4" : "Sora's HUD Reborn",
-    "bai_compatibility_5" : "HoloUI",
-    "bai_compatibility_6" : "SydneyHUD",
-    "bai_compatibility_7" : "PD:TH HUD Reborn",
-    "bai_compatibility_8" : "Restoration Mod",
-    "bai_compatibility_9" : "MUI",
-    "bai_compatibility_10" : "KineticHUD",
 
     "bai_holoui" : "HoloUI einstellungen",
     "bai_holoui_desc" : "wende spezielle Bai einstellungen bei HoloUI an",
@@ -24,8 +20,6 @@
     "bai_pdth_hud_reborn_desc" : "wende spezielle Bai einstellungen bei PD:TH HUD Reborn an",
     "bai_pdth_hud_reborn_custom_text_color" : "wende benutzerdefiniert Text farbe an",
     "bai_pdth_hud_reborn_custom_text_color_desc" : "Wenn deaktiviert, wird das Spiel die Farbe des vorstoßsymbols auf den Text anwenden",
-    "bai_pdth_hud_reborn_aai_only_text" : "füge farbe nur zu erweiterte vorstoßinfo hinzu",
-    "bai_pdth_hud_reborn_aai_only_text_desc" : "fügt farbe nur zu 'zeit übrig' und 'spawns übrig' hinzu.\n'wende benutzerdefiniert Text farbe an' muss aktiviert sein",
 
     "bai_restoration_mod" : "Restoration Mod Optionen",
     "bai_restoration_mod_desc" : "füge bai-einstellungen zum restoration mod hinzu",
@@ -116,7 +110,7 @@
     "bai_show_assault_states_desc" : "Zeigt Stand des Vorstoßes (Ruhephase, Vorbereitung zum Vorstoß, Vorstoß, Vorstoß aufrechterhalten und Abklingphase) im Vorstoßfeld an\nDiese Option funktioniert nicht bei einem Endlosem Vorstoß oder bei anwesenheit vom Captain",
 
     "bai_assault_states" : "Stand des Vorstoßes",
-    "bai_assault_states_desc" : "Ändert die Vorstoßstatusfarbe und die sichtbarkeit im vorstoßfeld.\nAnzeige des Vorstoßstandes muß aktiv sein um zu funktionieren",
+    "bai_assault_states_desc" : "Ändert die Vorstoßstatusfarbe und die sichtbarkeit im vorstoßfeld.",
 
     "bai_enabled" : "Enabled",
     "bai_enabled_not_assault_desc" : "Wenn ausgewählt dann wird es in dem vorstoßfeld angezeigt. Wenn nicht dann wird der status nicht in dem vorstoßfeld angezeigt.",
@@ -126,13 +120,13 @@
     "bai_show_advanced_assault_info_desc" : "Zeigt 'Verbleibende Zeit' und 'Verbleibender Spawn' Informationen in dem Vorstoßfeld\nDiese Informationen sind nicht verfügbar bei endlosen Angriffen und wenn der Captain anwesend ist.",
     
     "bai_advanced_assault_info" : "erweiterte vorstoßinformation",
-    "bai_advanced_assault_info_desc" : "ändert erweiterte vorstoßinformation.\n'zeigt erweiterte vorstoßinformation' mus aktiviert sein um zu funktionieren. manche optionen funktionieren nicht bei clients.",
+    "bai_advanced_assault_info_desc" : "ändert erweiterte vorstoßinformation.",
 
     "bai_show_time_left" : "Zeigt 'übrige zeit'",
     "bai_show_time_left_desc" : "zeigt 'übrige zeit' im vorstoßfeld\ndiese option ist nicht genau wenn du einem laufenden spiel beitrittst. aber später wird sie korrekt angezeigt",
 
     "bai_time_format" : "Zeit Format",
-    "bai_time_format_desc" : "ändert zeit Format: angezeigt mit 'übrige zeit' information",
+    "bai_time_format_desc" : "ändert zeit Format: angezeigt mit 'übrige zeit' information\n\nExample:\n[xx.xx (in s) - 88.64]\n['xx.xx' s - 88.64 s]\n[xx (in s) - 88]\n['xx' s - 88 s]\n['xx' min 'yy' s] - 1 min 28 s]\n[xx:yy - 01:28]",
     "bai_time_format_1" : "xx.xx (in s)",
     "bai_time_format_2" : "'xx.xx' s",
     "bai_time_format_3" : "xx (in s)",
@@ -141,7 +135,7 @@
     "bai_time_format_6" : "xx:yy",
 
     "bai_show_spawns_left" : "zeigt 'übrige Spawns'",
-    "bai_show_spawns_left_desc" : "zeigt 'übrige Spawns' im vorstoßfeld",
+    "bai_show_spawns_left_desc" : "zeigt 'übrige Spawns' im vorstoßfeld\ndiese option ist nicht genau wenn du einem laufenden spiel beitrittst. aber später wird sie korrekt angezeigt",
 
     "bai_use_custom_text" : "benutzerdefinierter Text",
     "bai_use_custom_text_desc" : "wenn aktiviert, wird der untere text für das HUD verwendet",
@@ -154,8 +148,6 @@
 
     "bai_faction_assault_text" : "zeige fraktionsname im vorstoßfeld an",
     "bai_faction_assault_text_desc" : "zeigt den name der fraktion währden eines vorstoßes im vorstoßfeld an\n'persönlicher text' überschreibt diese einstellung. Nicht anwendbar in der Crime_Spree",
-
-    "bai_host_warning" : "der host hat anscheinend kein bai. manche einstellungen funktionieren womöglich nicht. diese nachricht wird wieder angezeigt wenn du einem anderen host beitrittst",
     
     "hud_assault_alpha_fss_mod_1" : "selbstmord",
     "hud_assault_alpha_fss_mod_2" : "Masochismus",
@@ -177,7 +169,7 @@
     "hud_assault_survived_fss_mod_1" : "selbstmord überlebt",
     "hud_assault_survived_fss_mod_2" : "Masochismus überlebt",
     "hud_assault_survived_fss_mod_3" : "Masochismus bestätigt",
-    "hud_assault_endless" : "Endloser Polizeivorstoß im Gange",
+    "hud_assault_endless_default" : "Endloser Polizeivorstoß im Gange",
     "hud_assault_endless_halloween" : "Arbeit allein macht Wolf nicht glücklich",
     "hud_assault_endless_alpha" : "ENDLoser polizeivorstoß",
     "hud_assault_endless_alpha_halloween" : "Arbeit allein macht Wolf nicht glücklich",
@@ -203,11 +195,11 @@
     "hud_assault_survived_endless" : "Endlose Welle überlebt",
     "hud_cover" : "bleibe in deckung",
     
-    "hud_control" : "Ruhephase",
-    "hud_anticipation" : "Vorbereitung zum Vorstoß",
-    "hud_build" : "Vorstoß",
-    "hud_sustain" : "Vorstoß aufrechterhalten",
-    "hud_fade" : "Abklingen",
+    "hud_control_default" : "Ruhephase",
+    "hud_anticipation_default" : "Vorbereitung zum Vorstoß",
+    "hud_build_default" : "Vorstoß",
+    "hud_sustain_default" : "Vorstoß aufrechterhalten",
+    "hud_fade_default" : "Abklingen",
     
     "hud_overdue" : "Überfällig",
     "hud_time_left" : "Verbleibende Zeit: ",
@@ -217,12 +209,12 @@
     "hud_min" : "min",
     "hud_s" : "s",
 
-    "hud_assault" : "VORSTOẞ",
-    "hud_endless" : "ENDLOS",
-    "hud_captain" : "CAPTAIN",
-    "hud_captain_active" : "KOMPLETT AUFGESTELLT",
-    "hud_survived" : "ÜBERLEBT",
-    "hud_fss_mod_1" : "selbstmord",
-    "hud_fss_mod_2" : "MASOCHISM",
-    "hud_fss_mod_3" : "MASOCHIST?"
+    "hud_assault_default" : "Vorstoß",
+    "hud_endless_default" : "Endlos",
+    "hud_captain_default" : "Captain",
+    "hud_captain_active" : "Komplett aufgestellt",
+    "hud_survived_default" : "Überlebt",
+    "hud_fss_mod_1" : "Selbstmord",
+    "hud_fss_mod_2" : "Masochism",
+    "hud_fss_mod_3" : "Masochist?"
 }
