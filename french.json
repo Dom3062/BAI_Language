@@ -19,7 +19,7 @@
     "bai_language_1" : "Détecte automatiquement",
 
     "bai_compatibility" : "Compatibilité HUD",
-    "bai_compatibility_desc" : "Ici, vous pouvez sélectionner une compatibilité avec certains HUD que vous utilisez. L'application d'une mauvaise compatibilité HUD peut provoquer le plantage de votre jeu\n\n[Détection automatique: BAI essayera de détecter automatiquement votre HUD installé.]\n[N´importe quelle autre option : Force BAI d´appliquer le code de compatibilité pour ce HUD.]",",
+    "bai_compatibility_desc" : "Ici, vous pouvez sélectionner une compatibilité avec certains HUD que vous utilisez. L'application d'une mauvaise compatibilité HUD peut provoquer le plantage de votre jeu\n\n[Détection automatique: BAI essayera de détecter automatiquement votre HUD installé.]\n[N´importe quelle autre option : Force BAI d´appliquer le code de compatibilité pour ce HUD.]",
     "bai_compatibility_1" : "Détecte automatiquement",
     "bai_compatibility_2" : "Vanilla",
 
@@ -143,7 +143,7 @@
     "bai_show_time_left_desc" : "Montre le 'Temps Restant' dans la boite d'assaut\nCette option n'est pas précise quand vous vous connectez dans un partie en cours. Mais cela deviendra plus précis au fur et à mesure.",
      
     "bai_time_format" : "Format de Temps",
-    "bai_time_format_desc" : "Change le format de temps utilisé par 'Temps Restant'\n\nExample:\n[xx.xx (in s) - 88.64]\n['xx.xx' s - 88.64 s]\n[xx (in s) - 88]\n['xx' s - 88 s]\n['xx' min 'yy' s] - 1 min 28 s]\n[xx:yy - 01:28]",
+    "bai_time_format_desc" : "Change le format de temps utilisé par 'Temps Restant'\n\nExemple:\n[xx.xx (en s) - 88.64]\n['xx.xx' s - 88.64 s]\n[xx (en s) - 88]\n['xx' s - 88 s]\n['xx' min 'yy' s] - 1 min 28 s]\n[xx:yy - 01:28]",
     "bai_time_format_1" : "xx.xx (en s)",
     "bai_time_format_2" : "'xx.xx' s",
     "bai_time_format_3" : "xx (en s)",
@@ -159,8 +159,8 @@
     "bai_aai_panel_1" : "Dans la boîte d´assaut",
     "bai_aai_panel_2" : "Panneau personnalisé",
 
-    "bai_show_captain_panel" : "Show Damage Reduction Buff Panel",
-    "bai_show_captain_panel_desc" : "Shows Damage Reduction Buff Panel when Captain is present",
+    "bai_show_captain_panel" : "Montrer le panneau de bonus de dégât",
+    "bai_show_captain_panel_desc" : "Montrer le panneau de bonus de dégât quand le capitaine est présent",
     "bai_use_custom_text" : "Utilise le texte personnalisé",
     "bai_use_custom_text_desc" : "Si activé, l'HUD utilisera votre texte ci-dessous au lieu de celui par défaut du jeu ou de BAI",
     "bai_text" : "Texte",
