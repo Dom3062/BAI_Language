@@ -129,7 +129,6 @@
     "bai_assault_states" : "États d'assaut",
     "bai_assault_states_desc" : "Change la couleur des États d'assaut et la visibilité de l'état dans la boîte d'assaut.",
 
-    "bai_enabled" : "Activé",
     "bai_enabled_not_assault_desc" : "Si coché, cela apparaîtra dans la boîte d'assaut. Si non, l'état ne sera pas visible dans la boîte d'assaut",
     "bai_enabled_assault_desc" : "Si coché, cela apparaîtra dans la boîte d'assaut. Si non, la boîte d'assaut montrera l'assaut normal à la place.",
 
@@ -193,7 +192,7 @@
     "bai_animations_desc" : "Change comment les animations doivent fonctionner en jeu",
 
     "bai_enable_animations" : "Activer les animations",
-    "bai_enable_animations_desc" : "Quand désactivé, toutes les animations seront instantanées (comportement par défaut du jeu)",
+    "bai_enable_animations_desc" : "Quand désactivé, toutes les animations seront instantanées (comportement par défaut du jeu/HUD)",
 
     "bai_animation_speed" : "Vitesse d’animation",
     "bai_animation_speed_desc" : "Augmenter cette valeur fera changer l’animation de couleur plus lentement. La réduire la rendra plus rapide.",
@@ -241,7 +240,7 @@
     "hud_assault_endless_alpha_murkywater" : "OPÉRATION MURKYWATER SANS FIN",
     "hud_assault_endless_alpha_halloween" : "TOUT CECI REND WOLF TRISTE",
     "hud_assault_endless_alpha_russian" : "ASSAUT RUSSE SANS FIN",
-    "hud_assault_endless_alpha_federales" : "ASSAUT FÉDÉRAL SANS FIN"
+    "hud_assault_endless_alpha_federales" : "ASSAUT FÉDÉRAL SANS FIN",
     "hud_assault_survived_endless" : "ASSAUT SANS FIN SURVÉCU",
     "hud_assault_survived_endless_fss_mod_1" : "SUICIDE SANS FIN SURVÉCU",
     "hud_assault_survived_endless_fss_mod_2" : "MASOCHISME SANS FIN SURVÉCU",
