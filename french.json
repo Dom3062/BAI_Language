@@ -2,12 +2,24 @@
     "bai_mod_title" : "Meilleur Indicateur d'Assaut",
     "bai_mod_desc" : "Changer les options du mod",
 
+    "bai_menu_next_page" : "Page suivante",
+    "bai_menu_previous_page" : "Page précédente",
+
+    "bai_enabled" : "Activé",
+    "bai_disabled" : "Désactivé :",
+
+    "bai_compatible_huds" : "La valeur '$VALUE' est compatible avec :\n",
+    "bai_compatible_huds_option" : "La valeur '$VALUE' est compatible avec :\n",
+    "bai_incompatible_huds" : "La valeur '$VALUE' est incompatible avec :\n",
+    "bai_incompatible_huds_option" : "La valeur '$VALUE' est incompatible avec :\n",
+    "bai_default_option" : "Si vous avez un HUD différent d´installé, cette option se définira par défaut :\n'$VALUE'",
+    
     "bai_language" : "Language",
     "bai_language_desc" : "Change le language du mod. Pour que cela prend effet, un redémarrage du niveau est nécessaire.",
     "bai_language_1" : "Détecte automatiquement",
 
     "bai_compatibility" : "Compatibilité HUD",
-    "bai_compatibility_desc" : "Ici, vous pouvez sélectionner une compatibilité avec certains HUD que vous utilisez. L'application d'une mauvaise compatibilité HUD peut provoquer le plantage de votre jeu.",
+    "bai_compatibility_desc" : "Ici, vous pouvez sélectionner une compatibilité avec certains HUD que vous utilisez. L'application d'une mauvaise compatibilité HUD peut provoquer le plantage de votre jeu\n\n[Détection automatique: BAI essayera de détecter automatiquement votre HUD installé.]\n[N´importe quelle autre option : Force BAI d´appliquer le code de compatibilité pour ce HUD.]",
     "bai_compatibility_1" : "Détecte automatiquement",
     "bai_compatibility_2" : "Vanilla",
 
@@ -24,7 +36,7 @@
     "bai_restoration_mod" : "Options de Restoration Mod",
     "bai_restoration_mod_desc" : "Applique les options spécifiques de BAI à Restoration Mod",
     "bai_restoration_mod_alpha_tape_only" : "Ruban alpha seulement",
-    "bai_restoration_mod_alpha_tape_only_desc" : "Ces choix n’affectent seulement le 'bandeau Alpha' dans Restoration mod",
+    "bai_restoration_mod_alpha_tape_only_desc" : "Ces choix n´affectent seulement le 'bandeau Alpha' dans Restoration mod",
     "bai_restoration_mod_include_cover_text" : "Inclure le texte de couverture",
     "bai_restoration_mod_include_cover_text_desc" : "Inclus le texte 'RESTEZ EN COUVERTURE' dans la boite d'assaut",
     "bai_restoration_mod_use_alpha_assault_text" : "Utiliser le texte d'assaut alpha",
@@ -39,7 +51,7 @@
     "bai_halo_reach_hud" : "Options de Halo: Reach HUD",
     "bai_halo_reach_hud_desc" : "Applique les options spécifiques de BAI à Halo: Reach HUD",
     "bai_halo_reach_hud_use_bai_color" : "Utilise les couleurs de BAI",
-    "bai_halo_reach_hud_use_bai_color_desc" : "Quand activé, la bannière d’assaut utilisera les couleurs de BAI\n Sinon, il utilisera les couleurs par défaut",
+    "bai_halo_reach_hud_use_bai_color_desc" : "Quand activé, la bannière d´assaut utilisera les couleurs de BAI\n Sinon, il utilisera les couleurs par défaut",
     
     "bai_button_ok" : "OK",
     "bai_detected_wolfhud" : "Incompatibilité détectée avec WolfHUD",
@@ -117,21 +129,20 @@
     "bai_assault_states" : "États d'assaut",
     "bai_assault_states_desc" : "Change la couleur des États d'assaut et la visibilité de l'état dans la boîte d'assaut.",
 
-    "bai_enabled" : "Activé",
     "bai_enabled_not_assault_desc" : "Si coché, cela apparaîtra dans la boîte d'assaut. Si non, l'état ne sera pas visible dans la boîte d'assaut",
     "bai_enabled_assault_desc" : "Si coché, cela apparaîtra dans la boîte d'assaut. Si non, la boîte d'assaut montrera l'assaut normal à la place.",
 
     "bai_show_advanced_assault_info" : "Montrer les infos d'Assaut avancées",
     "bai_show_advanced_assault_info_desc" : "Affiche les informations 'Spawns restant' et 'Temps restant' dans la boîte d'Assaut\nCette option n'est pas disponible en cas d'assaut sans fin et quand le capitaine est présent",
 
-    "bai_advanced_assault_info" : "informations d'Assaut avancées",
+    "bai_advanced_assault_info" : "Informations d'Assaut avancées",
     "bai_advanced_assault_info_desc" : "Change les informations d'assaut avancées.",
 
     "bai_show_time_left" : "Montre 'Temps Restant'",
     "bai_show_time_left_desc" : "Montre le 'Temps Restant' dans la boite d'assaut\nCette option n'est pas précise quand vous vous connectez dans un partie en cours. Mais cela deviendra plus précis au fur et à mesure.",
      
     "bai_time_format" : "Format de Temps",
-    "bai_time_format_desc" : "Change le format de temps utilisé par 'Temps Restant'\n\nExample:\n[xx.xx (in s) - 88.64]\n['xx.xx' s - 88.64 s]\n[xx (in s) - 88]\n['xx' s - 88 s]\n['xx' min 'yy' s] - 1 min 28 s]\n[xx:yy - 01:28]",
+    "bai_time_format_desc" : "Change le format de temps utilisé par 'Temps Restant'\n\nExemple:\n[xx.xx (en s) - 88.64]\n['xx.xx' s - 88.64 s]\n[xx (en s) - 88]\n['xx' s - 88 s]\n['xx' min 'yy' s] - 1 min 28 s]\n[xx:yy - 01:28]",
     "bai_time_format_1" : "xx.xx (en s)",
     "bai_time_format_2" : "'xx.xx' s",
     "bai_time_format_3" : "xx (en s)",
@@ -142,6 +153,13 @@
     "bai_show_spawns_left" : "Montre les 'Spawns restants'",
     "bai_show_spawns_left_desc" : "Montre les 'Spawns restants' dans la boite d'assaut\nCette option n'est pas précise quand vous vous connectez dans un partie en cours. Mais cela deviendra plus précis au fur et à mesure.",
     
+    "bai_aai_panel" : "Style de panneau",
+    "bai_aai_panel_desc" : "Modifie le style de panneau AAI",
+    "bai_aai_panel_1" : "Dans la boîte d´assaut",
+    "bai_aai_panel_2" : "Panneau personnalisé",
+
+    "bai_show_captain_panel" : "Montrer le panneau de bonus de dégât",
+    "bai_show_captain_panel_desc" : "Montrer le panneau de bonus de dégât quand le capitaine est présent",
     "bai_use_custom_text" : "Utilise le texte personnalisé",
     "bai_use_custom_text_desc" : "Si activé, l'HUD utilisera votre texte ci-dessous au lieu de celui par défaut du jeu ou de BAI",
     "bai_text" : "Texte",
@@ -151,14 +169,14 @@
     "bai_custom_text" : "Texte personnalisé ici",
     "bai_custom_text_desc" : "Écrivez votre texte personnalisé ici",
     
-    "bai_faction_assault_text" : "Montre le nom de la faction dans la boite d’assaut",
-    "bai_faction_assault_text_desc" : "Montre le nom de la faction durant un assaut dans la boite d’assaut\n'Texte personnalisé' est utilisé en priorité. Non applicable en mode Crime Spree",
+    "bai_faction_assault_text" : "Montre le nom de la faction dans la boite d´assaut",
+    "bai_faction_assault_text_desc" : "Montre le nom de la faction durant un assaut dans la boite d´assaut\n'Texte personnalisé' est utilisé en priorité. Non applicable en mode Crime Spree",
 
     "bai_modules" : "Modules",
     "bai_modules_desc" : "Les modules améliore ou étend les fonctionnalités de BAI\nSi un module a des paramètres additionnels, ils seront listés ici",
 
-    "bai_assault_panel_position" : "Position de la bannière d’assaut",
-    "bai_assault_panel_position_desc" : "Ajuste la position de la bannière d’assaut sur l’écran",
+    "bai_assault_panel_position" : "Position de la bannière d´assaut",
+    "bai_assault_panel_position_desc" : "Ajuste la position de la bannière d´assaut sur l´écran",
     "bai_assault_panel_position_1" : "Droite",
     "bai_assault_panel_position_2" : "Centre",
     "bai_assault_panel_position_3" : "Gauche",
@@ -170,14 +188,14 @@
     "bai_hudlist_move_hostage_panel" : "",
     "bai_hudlist_move_hostage_panel_desc" : "",
 
-    "bai_animations" : "Options d’animation",
+    "bai_animations" : "Options d´animation",
     "bai_animations_desc" : "Change comment les animations doivent fonctionner en jeu",
 
     "bai_enable_animations" : "Activer les animations",
-    "bai_enable_animations_desc" : "Quand désactivé, toutes les animations seront instantanées (comportement par défaut du jeu)",
+    "bai_enable_animations_desc" : "Quand désactivé, toutes les animations seront instantanées (comportement par défaut du jeu/HUD)",
 
-    "bai_animation_speed" : "Vitesse d’animation",
-    "bai_animation_speed_desc" : "Augmenter cette valeur fera changer l’animation de couleur plus lentement. La réduire la rendra plus rapide.",
+    "bai_animation_speed" : "Vitesse d´animation",
+    "bai_animation_speed_desc" : "Augmenter cette valeur fera changer l´animation de couleur plus lentement. La réduire la rendra plus rapide.",
 
     "hud_assault_alpha_fss_mod_1" : "SUICIDE",
     "hud_assault_alpha_fss_mod_2" : "MASOCHISTE",
@@ -188,6 +206,7 @@
     "hud_assault_alpha_fbi" : "ASSAUT DU FBI SWAT",
     "hud_assault_alpha_murkywater" : "OPÉRATION MURKYWATER",
     "hud_assault_alpha_russian" : "ASSAUT RUSSE",
+    "hud_assault_alpha_federales" : "ASSAUT FÉDÉRAL",
     "hud_assault_assault_fss_mod_1" : "SUICIDE EN COURS",
     "hud_assault_assault_fss_mod_2" : "MASOCHISME EN COURS",
     "hud_assault_assault_fss_mod_3" : "VOUS ÊTES UN MASOCHISTE ?",
@@ -196,6 +215,7 @@
     "hud_assault_assault_fbi" : "ASSAUT DU FBI SWAT EN COURS",
     "hud_assault_assault_murkywater" : "OPÉRATION MURKYWATER EN COURS",
     "hud_assault_assault_russian" : "ASSAUT RUSSE EN COURS",
+    "hud_assault_assault_federales" : "ASSAUT FÉDÉRAL EN COURS",
     "hud_assault_survived_fss_mod_1" : "SUICIDE SURVÉCU",
     "hud_assault_survived_fss_mod_2" : "MASOCHISME SURVÉCU",
     "hud_assault_survived_fss_mod_3" : "MASOCHISTE CONFIRMÉ",
@@ -209,6 +229,7 @@
     "hud_assault_endless_halloween" : "TOUT CECI REND WOLF TRISTE",
     "hud_assault_endless_murkywater" : "OPÉRATION MURKYWATER SANS FIN EN COURS",
     "hud_assault_endless_russian" : "ASSAUT RUSSE SANS FIN EN COURS",
+    "hud_assault_endless_default" : "ASSAUT FÉDÉRAL SANS FIN EN COURS",
     "hud_assault_endless_alpha" : "ASSAUT POLICIER SANS FIN",
     "hud_assault_endless_alpha_fss_mod_1" : "SUICIDE SANS FIN",
     "hud_assault_endless_alpha_fss_mod_2" : "MASOCHISME SANS FIN",
@@ -219,6 +240,7 @@
     "hud_assault_endless_alpha_murkywater" : "OPÉRATION MURKYWATER SANS FIN",
     "hud_assault_endless_alpha_halloween" : "TOUT CECI REND WOLF TRISTE",
     "hud_assault_endless_alpha_russian" : "ASSAUT RUSSE SANS FIN",
+    "hud_assault_endless_alpha_federales" : "ASSAUT FÉDÉRAL SANS FIN",
     "hud_assault_survived_endless" : "ASSAUT SANS FIN SURVÉCU",
     "hud_assault_survived_endless_fss_mod_1" : "SUICIDE SANS FIN SURVÉCU",
     "hud_assault_survived_endless_fss_mod_2" : "MASOCHISME SANS FIN SURVÉCU",
