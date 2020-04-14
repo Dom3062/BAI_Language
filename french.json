@@ -2,12 +2,24 @@
     "bai_mod_title" : "Meilleur Indicateur d'Assaut",
     "bai_mod_desc" : "Changer les options du mod",
 
+    "bai_menu_next_page" : "Page suivante",
+    "bai_menu_previous_page" : "Page précédente",
+
+    "bai_enabled" : "Activé",
+    "bai_disabled" : "Désactivé :",
+
+    "bai_compatible_huds" : "La valeur '$VALUE' est compatible avec :\n",
+    "bai_compatible_huds_option" : "La valeur '$VALUE' est compatible avec :\n",
+    "bai_incompatible_huds" : "La valeur '$VALUE' est incompatible avec :\n",
+    "bai_incompatible_huds_option" : "La valeur '$VALUE' est incompatible avec :\n",
+    "bai_default_option" : "Si vous avez un HUD différent d´installé, cette option se définira par défaut :\n'$VALUE'",
+    
     "bai_language" : "Language",
     "bai_language_desc" : "Change le language du mod. Pour que cela prend effet, un redémarrage du niveau est nécessaire.",
     "bai_language_1" : "Détecte automatiquement",
 
     "bai_compatibility" : "Compatibilité HUD",
-    "bai_compatibility_desc" : "Ici, vous pouvez sélectionner une compatibilité avec certains HUD que vous utilisez. L'application d'une mauvaise compatibilité HUD peut provoquer le plantage de votre jeu.",
+    "bai_compatibility_desc" : "Ici, vous pouvez sélectionner une compatibilité avec certains HUD que vous utilisez. L'application d'une mauvaise compatibilité HUD peut provoquer le plantage de votre jeu\n\n[Détection automatique: BAI essayera de détecter automatiquement votre HUD installé.]\n[N´importe quelle autre option : Force BAI d´appliquer le code de compatibilité pour ce HUD.]",",
     "bai_compatibility_1" : "Détecte automatiquement",
     "bai_compatibility_2" : "Vanilla",
 
@@ -142,6 +154,13 @@
     "bai_show_spawns_left" : "Montre les 'Spawns restants'",
     "bai_show_spawns_left_desc" : "Montre les 'Spawns restants' dans la boite d'assaut\nCette option n'est pas précise quand vous vous connectez dans un partie en cours. Mais cela deviendra plus précis au fur et à mesure.",
     
+    "bai_aai_panel" : "Style de panneau",
+    "bai_aai_panel_desc" : "Modifie le style de panneau AAI",
+    "bai_aai_panel_1" : "Dans la boîte d´assaut",
+    "bai_aai_panel_2" : "Panneau personnalisé",
+
+    "bai_show_captain_panel" : "Show Damage Reduction Buff Panel",
+    "bai_show_captain_panel_desc" : "Shows Damage Reduction Buff Panel when Captain is present",
     "bai_use_custom_text" : "Utilise le texte personnalisé",
     "bai_use_custom_text_desc" : "Si activé, l'HUD utilisera votre texte ci-dessous au lieu de celui par défaut du jeu ou de BAI",
     "bai_text" : "Texte",
@@ -188,6 +207,7 @@
     "hud_assault_alpha_fbi" : "ASSAUT DU FBI SWAT",
     "hud_assault_alpha_murkywater" : "OPÉRATION MURKYWATER",
     "hud_assault_alpha_russian" : "ASSAUT RUSSE",
+    "hud_assault_alpha_federales" : "ASSAUT FÉDÉRAL",
     "hud_assault_assault_fss_mod_1" : "SUICIDE EN COURS",
     "hud_assault_assault_fss_mod_2" : "MASOCHISME EN COURS",
     "hud_assault_assault_fss_mod_3" : "VOUS ÊTES UN MASOCHISTE ?",
@@ -196,6 +216,7 @@
     "hud_assault_assault_fbi" : "ASSAUT DU FBI SWAT EN COURS",
     "hud_assault_assault_murkywater" : "OPÉRATION MURKYWATER EN COURS",
     "hud_assault_assault_russian" : "ASSAUT RUSSE EN COURS",
+    "hud_assault_assault_federales" : "ASSAUT FÉDÉRAL EN COURS",
     "hud_assault_survived_fss_mod_1" : "SUICIDE SURVÉCU",
     "hud_assault_survived_fss_mod_2" : "MASOCHISME SURVÉCU",
     "hud_assault_survived_fss_mod_3" : "MASOCHISTE CONFIRMÉ",
@@ -209,6 +230,7 @@
     "hud_assault_endless_halloween" : "TOUT CECI REND WOLF TRISTE",
     "hud_assault_endless_murkywater" : "OPÉRATION MURKYWATER SANS FIN EN COURS",
     "hud_assault_endless_russian" : "ASSAUT RUSSE SANS FIN EN COURS",
+    "hud_assault_endless_default" : "ASSAUT FÉDÉRAL SANS FIN EN COURS",
     "hud_assault_endless_alpha" : "ASSAUT POLICIER SANS FIN",
     "hud_assault_endless_alpha_fss_mod_1" : "SUICIDE SANS FIN",
     "hud_assault_endless_alpha_fss_mod_2" : "MASOCHISME SANS FIN",
@@ -219,6 +241,7 @@
     "hud_assault_endless_alpha_murkywater" : "OPÉRATION MURKYWATER SANS FIN",
     "hud_assault_endless_alpha_halloween" : "TOUT CECI REND WOLF TRISTE",
     "hud_assault_endless_alpha_russian" : "ASSAUT RUSSE SANS FIN",
+    "hud_assault_endless_alpha_federales" : "ASSAUT FÉDÉRAL SANS FIN"
     "hud_assault_survived_endless" : "ASSAUT SANS FIN SURVÉCU",
     "hud_assault_survived_endless_fss_mod_1" : "SUICIDE SANS FIN SURVÉCU",
     "hud_assault_survived_endless_fss_mod_2" : "MASOCHISME SANS FIN SURVÉCU",
