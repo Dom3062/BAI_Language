@@ -36,7 +36,7 @@
     "bai_restoration_mod" : "Options de Restoration Mod",
     "bai_restoration_mod_desc" : "Applique les options spécifiques de BAI à Restoration Mod",
     "bai_restoration_mod_alpha_tape_only" : "Ruban alpha seulement",
-    "bai_restoration_mod_alpha_tape_only_desc" : "Ces choix n’affectent seulement le 'bandeau Alpha' dans Restoration mod",
+    "bai_restoration_mod_alpha_tape_only_desc" : "Ces choix n´affectent seulement le 'bandeau Alpha' dans Restoration mod",
     "bai_restoration_mod_include_cover_text" : "Inclure le texte de couverture",
     "bai_restoration_mod_include_cover_text_desc" : "Inclus le texte 'RESTEZ EN COUVERTURE' dans la boite d'assaut",
     "bai_restoration_mod_use_alpha_assault_text" : "Utiliser le texte d'assaut alpha",
@@ -51,7 +51,7 @@
     "bai_halo_reach_hud" : "Options de Halo: Reach HUD",
     "bai_halo_reach_hud_desc" : "Applique les options spécifiques de BAI à Halo: Reach HUD",
     "bai_halo_reach_hud_use_bai_color" : "Utilise les couleurs de BAI",
-    "bai_halo_reach_hud_use_bai_color_desc" : "Quand activé, la bannière d’assaut utilisera les couleurs de BAI\n Sinon, il utilisera les couleurs par défaut",
+    "bai_halo_reach_hud_use_bai_color_desc" : "Quand activé, la bannière d´assaut utilisera les couleurs de BAI\n Sinon, il utilisera les couleurs par défaut",
     
     "bai_button_ok" : "OK",
     "bai_detected_wolfhud" : "Incompatibilité détectée avec WolfHUD",
@@ -135,7 +135,7 @@
     "bai_show_advanced_assault_info" : "Montrer les infos d'Assaut avancées",
     "bai_show_advanced_assault_info_desc" : "Affiche les informations 'Spawns restant' et 'Temps restant' dans la boîte d'Assaut\nCette option n'est pas disponible en cas d'assaut sans fin et quand le capitaine est présent",
 
-    "bai_advanced_assault_info" : "informations d'Assaut avancées",
+    "bai_advanced_assault_info" : "Informations d'Assaut avancées",
     "bai_advanced_assault_info_desc" : "Change les informations d'assaut avancées.",
 
     "bai_show_time_left" : "Montre 'Temps Restant'",
@@ -169,14 +169,14 @@
     "bai_custom_text" : "Texte personnalisé ici",
     "bai_custom_text_desc" : "Écrivez votre texte personnalisé ici",
     
-    "bai_faction_assault_text" : "Montre le nom de la faction dans la boite d’assaut",
-    "bai_faction_assault_text_desc" : "Montre le nom de la faction durant un assaut dans la boite d’assaut\n'Texte personnalisé' est utilisé en priorité. Non applicable en mode Crime Spree",
+    "bai_faction_assault_text" : "Montre le nom de la faction dans la boite d´assaut",
+    "bai_faction_assault_text_desc" : "Montre le nom de la faction durant un assaut dans la boite d´assaut\n'Texte personnalisé' est utilisé en priorité. Non applicable en mode Crime Spree",
 
     "bai_modules" : "Modules",
     "bai_modules_desc" : "Les modules améliore ou étend les fonctionnalités de BAI\nSi un module a des paramètres additionnels, ils seront listés ici",
 
-    "bai_assault_panel_position" : "Position de la bannière d’assaut",
-    "bai_assault_panel_position_desc" : "Ajuste la position de la bannière d’assaut sur l’écran",
+    "bai_assault_panel_position" : "Position de la bannière d´assaut",
+    "bai_assault_panel_position_desc" : "Ajuste la position de la bannière d´assaut sur l´écran",
     "bai_assault_panel_position_1" : "Droite",
     "bai_assault_panel_position_2" : "Centre",
     "bai_assault_panel_position_3" : "Gauche",
@@ -188,14 +188,14 @@
     "bai_hudlist_move_hostage_panel" : "",
     "bai_hudlist_move_hostage_panel_desc" : "",
 
-    "bai_animations" : "Options d’animation",
+    "bai_animations" : "Options d´animation",
     "bai_animations_desc" : "Change comment les animations doivent fonctionner en jeu",
 
     "bai_enable_animations" : "Activer les animations",
     "bai_enable_animations_desc" : "Quand désactivé, toutes les animations seront instantanées (comportement par défaut du jeu/HUD)",
 
-    "bai_animation_speed" : "Vitesse d’animation",
-    "bai_animation_speed_desc" : "Augmenter cette valeur fera changer l’animation de couleur plus lentement. La réduire la rendra plus rapide.",
+    "bai_animation_speed" : "Vitesse d´animation",
+    "bai_animation_speed_desc" : "Augmenter cette valeur fera changer l´animation de couleur plus lentement. La réduire la rendra plus rapide.",
 
     "hud_assault_alpha_fss_mod_1" : "SUICIDE",
     "hud_assault_alpha_fss_mod_2" : "MASOCHISTE",
