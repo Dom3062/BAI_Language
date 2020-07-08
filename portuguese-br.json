@@ -28,8 +28,8 @@
     "bai_holoui_update_text_color_desc" : "Quando atualizar a cor do Banner do Assault também atualiza a cor do texto",
 
     "bai_pdth_hud_reborn_desc" : "Aplique as opções específicas ao PD:TH HUD Reborn",
-    "bai_pdth_hud_reborn_custom_text_color" : "Use Custom Text Color",
-    "bai_pdth_hud_reborn_custom_text_color_desc" : "When disabled, the game will apply assault icon's color to text",
+    "bai_pdth_hud_reborn_custom_text_color" : "Usar cor do texto personalizado",
+    "bai_pdth_hud_reborn_custom_text_color_desc" : "Quando desativado, o jogo irá aplicar a cor do ícone no texto",
 
     "bai_restoration_mod_desc" : "Aplique as opções específicas ao Restoration Mod",
     "bai_restoration_mod_alpha_tape_only" : "Apenas Alpha Tape",
@@ -38,7 +38,7 @@
     "bai_restoration_mod_include_cover_text_desc" : "Incluir o texto de 'STAY IN COVER' na Caixa de Assault",",
     "bai_restoration_mod_use_alpha_assault_text" : "Usar o texto alpha do Assault",
     "bai_restoration_mod_use_alpha_assault_text_desc" : "Usa uma versão mais curta do 'POLICE ASSAULT IN PROGRESS'",
-    "bai_restoration_mod_use_alpha_endless_text" : "Usa o texto alpha do Assault sem fim",
+    "bai_restoration_mod_use_alpha_endless_text" : "Usar o texto alpha do Assault sem fim",
     "bai_restoration_mod_use_alpha_endless_text_desc" : "Usa uma versão mais curta do 'ENDLESS POLICE ASSAULT PROGRESS'",
     "bai_restoration_mod_early_alpha_corner_only" : "Apenas o Canto do Alpha",
     "bai_restoration_mod_early_alpha_corner_only_desc" : "Essas escolhas apenas afetam o 'Early Alpha Corner' em 'Restoration Mod'",
@@ -61,7 +61,7 @@
     "bai_savedata_not_compatible" : "Os dados salvos não é compátivel com essa versão do BAI",
     "bai_savedata_not_compatible_desc" : "Parece que mudou o jeito do BAI funcionar e fez o seu save do BAI ficar compátivel com essa nova versão. Desculpa se não pude carregar o seu save, pelo menos as configurações voltaram ao seu estágio padrão, pra não ter risco de crashar.\n\nDesculpa por isso.",
     
-    "bai_show_wave_survived" : "Mostra o texto de 'Wave Survived'",
+    "bai_show_wave_survived" : "Mostrar o texto de 'Wave Survived'",
     "bai_show_wave_survived_desc" : "Mostra o texto de onda sobrevivida (do Safehouse Raid) toda vez quando você e o seu time sobreviva um assault da polícia",
     
     "bai_hide_hostage_panel" : "Esconder o contador de refém",
@@ -69,10 +69,10 @@
     "bai_hide_hostage_panel_captain_desc" : "Esconde o contador de refém quando o Captain chegue",
     "bai_hide_hostage_panel_endless_desc" : "Esconde o contador de refém durante o sem fim Assault",
 
-    "bai_completely_hide_hostage_panel" : "Esconde completamente o contador de refém",
-    "bai_completely_hide_hostage_panel_desc" : "Contador de refém não vai tá vísivel pra você quando spawnar\nIsso ignora completamente a opção de 'Esconder o contador de refém' com o Assault, Captain e o sem fim",
+    "bai_completely_hide_hostage_panel" : "Esconder completamente o contador de refém",
+    "bai_completely_hide_hostage_panel_desc" : "Contador de refém não irá ficar vísivel pra você quando spawnar\nIsso ignora completamente a opção de 'Esconder o contador de refém' com o Assault, Captain e o sem fim",
 
-    "bai_show_difficulty_name_instead_of_skulls" : "Mostra o nome da dificuldade invés das caveiras",
+    "bai_show_difficulty_name_instead_of_skulls" : "Mostrar o nome da dificuldade invés das caveiras",
     "bai_show_difficulty_name_instead_of_skulls_desc" : "Só mostra os nomes das dificuldades, invés de mostra as caveiras\nNão funciona em Crime Spree",
 
     "bai_host_only" : "Apenas o Host",
@@ -115,12 +115,12 @@
     "bai_escape_box" : "Caixa de 'Point of No Return'",
     "bai_escape_box_desc": "Mude a caixa de ponto sem retorno",
 
-    "bai_color_reset" : "Reseta a cor",
-    "bai_color_reset_desc" : "Mude a cor pra sua cor padrão",
-    "bai_colors_reset" : "Reseta as cores",
-    "bai_colors_reset_desc" : "Mude as cores pra suas cores padrões",
+    "bai_color_reset" : "Redefinir a cor",
+    "bai_color_reset_desc" : "Mude a cor para seu estado padrão",
+    "bai_colors_reset" : "Redefinir as cores",
+    "bai_colors_reset_desc" : "Mude as cores para sues estados padrões",
 
-    "bai_show_assault_states" : "Mostra os estágios do Assault",
+    "bai_show_assault_states" : "Mostrar os estágios do Assault",
     "bai_show_assault_states_desc" : "Mostra todos os estágios do Assault (control, anticipation, build, sustain e fade) na caixa do Assault\nEssa opção não irá funcionar quando tiver o Assault sem fim e o Captain presente",
 
     "bai_assault_states" : "Estágios do Assault",
@@ -148,7 +148,7 @@
     "bai_time_format_5" : "'xx' min 'yy' s",
     "bai_time_format_6" : "xx:yy",
 
-    "bai_show_spawns_left" : "Mostra 'Spawns restantes'",
+    "bai_show_spawns_left" : "Mostrar 'Spawns restantes'",
     "bai_show_spawns_left_desc" : "Mostra quantos 'Spawns restam' na caixa do Assault\nTalvez não seja preciso quando você entra em um jogo em progresso, mas depois fica preciso",
 	
     "bai_aai_panel" : "Estilo do Painel",
