@@ -2,12 +2,24 @@
     "bai_mod_title" : "Better Assault Indicator",
     "bai_mod_desc" : "Cambia las opciones del mod",
 
+    "bai_menu_next_page" : "Página Siguiente",
+    "bai_menu_previous_page" : "Página Anterior",
+
+    "bai_enabled" : "Habilitado",
+    "bai_disabled" : "Deshabilitado:",
+
+    "bai_compatible_huds" : "El valor '$VALUE' es compatible con:\n",
+    "bai_compatible_huds_option" : "Esta opción es compatible con:\n",
+    "bai_incompatible_huds" : "El valor '$VALUE' no es compatible con:\n",
+    "bai_incompatible_huds_option" : "Esta opción no es compatible con:\n",
+    "bai_default_option" : "Si tienes instalado un HUD diferente, esta opción tendrá cómo valor predeterminado:\n'$VALUE'",
+
     "bai_language" : "Idioma",
     "bai_language_desc" : "Cambia el idioma del mod. Para que surta efecto, se requiere un reinicio de nivel.",
     "bai_language_1" : "Detectar Automáticamente",
 
     "bai_compatibility" : "Compatibilidad de HUD",
-    "bai_compatibility_desc" : "Aquí puedes seleccionar una compatibilidad con cierto HUD que estés utilizando\nAplicar una compatibilidad de HUD erronea puede hacer que tu juego colapse",
+    "bai_compatibility_desc" : "Aquí puedes seleccionar una compatibilidad con cierto HUD que estés utilizando\nAplicar una compatibilidad de HUD erronea puede hacer que tu juego colapse\n\n[Detectar Automáticamente: BAI intentará detectar el HUD instalado]\n[Cualquier otra opción: Forzará a BAI a cargar el código de compatibilidad para ese HUD]",
     "bai_compatibility_1" : "Detectar Automáticamente",
     "bai_compatibility_2" : "Predeterminado",
     "bai_compatibility_3" : "Void UI",
@@ -32,7 +44,7 @@
 
     "bai_restoration_mod" : "Opciones de Restoration Mod",
     "bai_restoration_mod_desc" : "Aplicará configuraciones específicas de BAI a Restoration Mod",
-    "bai_restoration_mod_alpha_tape_only" : "Cintado de la Alfa únicamente",
+    "bai_restoration_mod_alpha_tape_only" : "Cintado de la Alfa Únicamente",
     "bai_restoration_mod_alpha_tape_only_desc" : "Estas opciones solo afectan al 'Cintado de la Alfa' en Restoration Mod",
     "bai_restoration_mod_include_cover_text" : "Incluir Texto de Cobertura",
     "bai_restoration_mod_include_cover_text_desc" : "Incluye la frase 'MANTENTE EN CUBIERTO' en la Cinta de Asalto",
@@ -50,9 +62,11 @@
     "bai_halo_reach_hud_use_bai_color" : "Usar Colores de BAI",
     "bai_halo_reach_hud_use_bai_color_desc" : "Cuando está habilitado, el Panel de Asalto Enemigo usará los colores de BAI\nDe lo contrario, se usará el color Predeterminado",
 
-    "bai_button_ok" : "ACEPTAR",
+    "bai_button_ok" : "Aceptar",
     "bai_detected_wolfhud" : "Detectada incompatibilidad con WolfHUD",
     "bai_detected_wolfhud_desc" : "La opción 'Información Avanzada de Asalto' de WolfHUD no es compatible con BAI y ha sido desabilitada. Esa opción se ha habilitado en BAI bajo los nombres de 'Información Avanzada de Asalto' y 'Estados de Asalto'.",
+    "bai_detected_vanillahudplus" : "Detectada incompatibilidad con VanillaHUD Plus",
+    "bai_detected_vanillahudplus_desc" : "La opción 'Información Avanzada de Asalto' de VanillaHUD Plus no es compatible con BAI y ha sido desabilitada. Esa opción se ha habilitado en BAI bajo los nombres de 'Información Avanzada de Asalto' y 'Estados de Asalto'.",
     "bai_detected_assault_states" : "Detectada incompatibilidad con Assault States by Sora",
     "bai_detected_assault_states_desc" : "Los 'Estados de Asalto' por Sora son incompatibles con BAI. BAI tiene soporte incorporado para los 'Estados de Asalto'. Se recomienda deshabilitar o eliminar Assault States by Sora.",
     "bai_detected_wave_survived" : "Detectada incompatibilidad con Wave Survived by Sora",
@@ -66,10 +80,10 @@
     
     "bai_hide_hostage_panel" : "Ocultar Indicador de Rehenes",
     "bai_hide_hostage_panel_assault_desc" : "Oculta el Indicador de Rehenes durante el Asalto Enemigo",
-    "bai_hide_hostage_panel_captain_desc" : "Oculta el Indicador de Rehenes durante la llegada del Capitán",
+    "bai_hide_hostage_panel_captain_desc" : "Oculta el Indicador de Rehenes durante el Asalto del Capitán",
     "bai_hide_hostage_panel_endless_desc" : "Oculta el Indicador de Rehenes durante el Asalto Sin Fin",
 
-    "bai_completely_hide_hostage_panel" : "Ocultar el Indicador de Rehenes",
+    "bai_completely_hide_hostage_panel" : "Ocultar Completamente el Indicador de Rehenes",
     "bai_completely_hide_hostage_panel_desc" : "El Indicador de Rehenes no será visible cuando inicies una misión\nEsta configuración ignora la opción 'Ocultar Indicador de Rehenes' de los paneles de Asalto Enemigo, Asalto del Capitán y Asalto Sin Fin cuando está habilitado",
 
     "bai_show_difficulty_name_instead_of_skulls" : "Mostrar Nombre de la Dificultad",
@@ -123,6 +137,9 @@
     "bai_show_assault_states" : "Mostrar Estados del Asalto",
     "bai_show_assault_states_desc" : "Muestra los Estados (Control, Anticipación, Construcción, Sostenerse y Desvanecimiento) en el Indicador de Asalto\nEsta opción no funcionará en Asalto Sin Fin y cuando el Capitán esté presente",
 
+    "bai_hide_assault_text" : "Ocultar Texto de Asalto",
+    "bai_hide_assault_text_desc" : "Oculta el Texto de Asalto, para que puedes obtener la Información de Asalto más rápido\n\nNota:\nSi esta opción está habilitada, el Texto Normal, el Texto de Facción y el Texto Personalizado no se mostrarán\nEsta opción solo funciona en Asaltos Normales",
+
     "bai_assault_states" : "Estados de Asalto",
     "bai_assault_states_desc" : "Cambia el color del estado y la visibilidad del estado en el Indicador de Asalto",
 
@@ -140,25 +157,59 @@
     "bai_show_time_left_desc" : "Muestra el Tiempo Restante en el Indicador de Asalto\nEsta opción no es precisa cuando te unes a un partida que ya ha empezado. Pero se volverá precisa despues",
     
     "bai_time_format" : "Formato de Tiempo",
-    "bai_time_format_desc" : "Cambia el Formato de Tiempo que se muestra con la Información de 'Tiempo Restante'\n\nExample:\n[xx.xx (in s) - 88.64]\n['xx.xx' s - 88.64 s]\n[xx (in s) - 88]\n['xx' s - 88 s]\n['xx' min 'yy' s] - 1 min 28 s]\n[xx:yy - 01:28]",
-    "bai_time_format_1" : "ss.ss (en segundos)",
-    "bai_time_format_2" : "'xx.xx' s",
-    "bai_time_format_3" : "ss (en segundos)",
-    "bai_time_format_4" : "'xx' s",
-    "bai_time_format_5" : "'xx' min 'xx' s",
-    "bai_time_format_6" : "mm:ss",
+    "bai_time_format_desc" : "Cambia el Formato de Tiempo que se muestra con la Información de 'Tiempo Restante'\n\nEjemplo:",
+    "bai_time_format_1" : "XX.XX (En Segundos)",
+    "bai_time_format_2" : "'XX.XX' S",
+    "bai_time_format_3" : "XX (En Segundos)",
+    "bai_time_format_4" : "'XX' S",
+    "bai_time_format_5" : "'XX' MIN 'YY' S",
+    "bai_time_format_6" : "XX:YY",
 
     "bai_show_spawns_left" : "Mostrar Unidades Restantes",
     "bai_show_spawns_left_desc" : "Muestra las Unidades Restantes en el Indicador de Asalto\nEsta opción no es precisa cuando te unes a un partida que ya ha empezado. Pero se volverá precisa despues",
 
+    "bai_spawn_numbers" : "Números de Enemigos",
+    "bai_spawn_numbers_desc" : "Define cómo se deben calcular los enemigos",
+    "bai_spawn_numbers_1" : "Muestra el total de enemigos permitidos para un asalto",
+    "bai_spawn_numbers_2" : "Muestra el número de enemigos en el asalto",
+
+    "bai_aai_panel" : "Estilo del Panel",
+    "bai_aai_panel_desc" : "Establece el Estilo del Panel de la Información Avanzada de Asalto",
+    "bai_aai_panel_1" : "En el Indicador de Asalto",
+    "bai_aai_panel_2" : "Indicador Personalizado",
+
+    "bai_aai_panel_update_rate" : "Frecuencia de Actualización del Panel",
+    "bai_aai_panel_update_rate_desc" : "Define la frecuencia con la que se debe actualizar el Indicador Personalizado de Información Avanzada de Asalto\n\nDisminuir el valor hará que las actualizaciones sean más frecuentes. Pero es más exigente con la CPU\nAumentar el valor hará que las actualizaciones sean menos frecuentes y será menos exigente para la CPU\n\nEl valor predeterminado es 0.50, que son 2 actualizaciones por segundo\n\nPara que surta efecto, se requiere un reinicio de nivel",
+
+    "bai_show_captain_panel" : "Mostrar Indicador de Reducción de Daño",
+    "bai_show_captain_panel_desc" : "Muestra el Indicador de Reducción de Daño cuando el Capitán está presente",
+
+    "bai_show_trade_delay_panel" : "Mostrar Indicador de Retraso de Intercambio",
+    "bai_show_trade_delay_panel_desc" : "Muestra el Indicador de Retraso de Intercambio cuando matas a un civil",
+    "bai_show_trade_delay_panel_when" : "Opciones del Panel",
+    "bai_show_trade_delay_panel_when_desc" : "Define cómo debe comportarse el Panel en el juego",
+    "bai_show_trade_delay_panel_when_1" : "Siempre visible",
+    "bai_show_trade_delay_panel_when_2" : "Visible al matar a un civil",
+
     "bai_use_custom_text" : "Usar Texto Personalizado",
     "bai_use_custom_text_desc" : "Si está habilitado, el HUD usará tu texto en lugar del Predeterminado proporcionado por el juego o BAI",
+
     "bai_text" : "Texto",
-    "bai_text_desc" : "Escribe tu Texto Personalizado tan largo como lo quieras",
+    "bai_text_desc" : "Escribe tu Texto Personalizado tan largo cómo lo quieras",
     "bai_text_short" : "Texto (Corto)",
     "bai_text_short_desc" : "Algunos HUDs tienen un Panel de Asalto Enemigo pequeño y en su lugar utilizan un texto más corto. Escribe tu Texto Personalizado lo más corto posible",
     "bai_custom_text" : "Texto Personalizable",
     "bai_custom_text_desc" : "Escribe tu Texto Personalizado aquí",
+
+    "bai_custom_text" : "Texto Personalizable",
+    "bai_custom_text_difficulty" : "Dificultad",
+    "bai_custom_text_difficulty_desc" : "Cambia el texto basándose en la Dificultad",
+    "bai_custom_text_faction" : "Facción",
+    "bai_custom_text_faction_desc" : "Cambia el texto basándose en la Facción\n\nNota:\nLa opción 'Mostrar Nombre de la Facción' debe estar activada",
+    "bai_custom_text_short" : "Texto Personalizable (Corto)",
+    "bai_custom_text_input" : "Escribe tu Texto Personalizado aquí",
+    "bai_custom_text_input_desc" : "Escribe tu Texto Personalizado tan largo cómo lo quieras",
+    "bai_custom_text_input_short_desc" : "Escribe tu Texto Personalizado lo más corto posible",
 
     "bai_faction_assault_text" : "Mostrar Nombre de la Facción",
     "bai_faction_assault_text_desc" : "Muestra el Nombre de la Facción durante un Asalto Enemigo en el Indicador de Asalto\n'Texto Personalizado' anula esta función. No aplicable en Racha Criminal",
@@ -168,9 +219,6 @@
 
     "bai_assault_panel_position" : "Posición del Indicador de Asalto",
     "bai_assault_panel_position_desc" : "Establece la Posición del Indicador de Asalto en la pantalla",
-    "bai_assault_panel_position_1" : "Derecha",
-    "bai_assault_panel_position_2" : "Centrar",
-    "bai_assault_panel_position_3" : "Izquierda",
 
     "bai_other_options" : "Otras Opciones",
     "bai_other_options_desc" : "Cambia Otras Opciones del mod",
@@ -180,13 +228,30 @@
     "bai_hudlist_move_hostage_panel_desc" : "Establece la Posición del Indicador de Rehenes en la pantalla",
 
     "bai_animations" : "Opciones de Animacion",
-    "bai_animations_desc" : "Cambia como las animaciones se comportarán en el juego",
+    "bai_animations_desc" : "Cambia cómo las animaciones se comportarán en el juego",
 
     "bai_enable_animations" : "Habilitar Animaciones",
     "bai_enable_animations_desc" : "Cuando se deshabilita, cada animación será instantánea (comportamiento Predeterminado del juego)",
 
     "bai_animation_speed" : "Velocidad de Animación",
     "bai_animation_speed_desc" : "Incrementar este valor hará que la animación de color sea más lenta. Disminuir este valor hará que la animación de color sea más rápida.",
+
+    "bai_normal" : "Normal",
+    "bai_hard" : "Hard",
+    "bai_very_hard" : "Very Hard",
+    "bai_overkill" : "OVERKILL",
+    "bai_mayhem" : "Mayhem",
+    "bai_death_wish" : "Death Wish",
+    "bai_death_sentence" : "Death Sentence",
+
+    "bai_swat" : "SWAT",
+    "bai_fbi" : "FBI",
+    "bai_gensec" : "GenSec",
+    "bai_zeal" : "ZEAL",
+    "bai_russia" : "Russia",
+    "bai_zombie" : "Zombie",
+    "bai_murkywater" : "Murkywater",
+    "bai_federales" : "Federales",
     
     "hud_assault_alpha_fss_mod_1" : "SUICIDIO",
     "hud_assault_alpha_fss_mod_2" : "MASOQUISMO",
@@ -197,6 +262,7 @@
     "hud_assault_alpha_fbi" : "ASALTO SWAT DEL FBI",
     "hud_assault_alpha_murkywater" : "OPERACIÓN DE MURKYWATER",
     "hud_assault_alpha_russian" : "ASALTO RUSO",
+    "hud_assault_alpha_federales" : "ASALTO DE FEDERALES",
     "hud_assault_assault_fss_mod_1" : "SUICIDIO EN MARCHA",
     "hud_assault_assault_fss_mod_2" : "MASOQUISMO EN MARCHA",
     "hud_assault_assault_fss_mod_3" : "¿ERES UN MASOQUISTA?",
@@ -205,6 +271,7 @@
     "hud_assault_assault_fbi" : "ASALTO DEL EQUIPO SWAT DEL FBI EN MARCHA",
     "hud_assault_assault_murkywater" : "OPERACIÓN DE DEFENSA DE MURKYWATER EN MARCHA",
     "hud_assault_assault_russian" : "ASALTO DE LOS MERCENARIOS DE AKAN EN MARCHA",
+    "hud_assault_assault_federales" : "ASALTO DE LA POLICÍA FEDERAL EN MARCHA",
     "hud_assault_survived_fss_mod_1" : "SUICIDIO SUPERADO",
     "hud_assault_survived_fss_mod_2" : "MASOQUISMO SUPERADO",
     "hud_assault_survived_fss_mod_3" : "¡MASOQUISTA CONFIRMADO!",
@@ -218,6 +285,7 @@
     "hud_assault_endless_halloween" : "ASALTO SIN FIN DE EVENTO EN MARCHA",
     "hud_assault_endless_murkywater" : "OPERACIÓN DE DEFENSA SIN FIN DE MURKYWATER EN MARCHA",
     "hud_assault_endless_russian" : "ASALTO SIN FIN DE LOS MERCENARIOS DE AKAN EN MARCHA",
+    "hud_assault_endless_federales" : "ASALTO SIN FIN DE LA POLICÍA FEDERAL EN MARCHA",
     "hud_assault_endless_alpha" : "ASALTO POLICIAL SIN FIN",
     "hud_assault_endless_alpha_fss_mod_1" : "SUICIDIO SIN FIN",
     "hud_assault_endless_alpha_fss_mod_2" : "MASOQUISMO SIN FIN",
@@ -228,6 +296,7 @@
     "hud_assault_endless_alpha_murkywater" : "OPERACIÓN DE MURKYWATER SIN FIN",
     "hud_assault_endless_alpha_halloween" : "¡TODO HACE QUE WOLF SEA UN NIÑO TONTO!",
     "hud_assault_endless_alpha_russian" : "ASALTO RUSO SIN FIN",
+    "hud_assault_endless_alpha_federales" : "ASALTO DE FEDERALES SIN FIN",
     "hud_assault_survived_endless" : "OLEADA SIN FIN SUPERADA",
     "hud_assault_survived_endless_fss_mod_1" : "SUICIDIO SIN FIN SUPERADO",
     "hud_assault_survived_endless_fss_mod_2" : "MASOQUISMO SIN FIN SUPERADO",
@@ -240,13 +309,13 @@
     "hud_sustain_default" : "Sostenerse",
     "hud_fade_default" : "Desvanecimiento",
 
-    "hud_overdue" : "Sincronizando",
-    "hud_time_left" : "Tiempo Restante: ",
-    "hud_time_left_short" : "Tiempo: ",
-    "hud_spawns_left" : "Unidades Restantes: ",
-    "hud_spawns_left_short" : "Unidades: ",
-    "hud_min" : "min",
-    "hud_s" : "s",
+    "hud_overdue" : "CARGANDO",
+    "hud_time_left" : "TIEMPO RESTANTE: ",
+    "hud_time_left_short" : "TIEMPO: ",
+    "hud_spawns_left" : "UNIDADES RESTANTES: ",
+    "hud_spawns_left_short" : "ENEMIGOS: ",
+    "hud_min" : "MIN",
+    "hud_s" : "S",
 
     "hud_assault_default" : "Asalto",
     "hud_endless_default" : "Sin Fin",

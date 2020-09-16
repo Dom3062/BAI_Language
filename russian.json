@@ -23,17 +23,14 @@
     "bai_compatibility_1" : "Автообнаружение модов",
     "bai_compatibility_2" : "Стандартный",
 
-    "bai_holoui" : "Настройки HoloUI",
     "bai_holoui_desc" : "Применить настройки Мода для HoloUI",
     "bai_holoui_update_text_color" : "Обновить цвет текста",
     "bai_holoui_update_text_color_desc" : "Обновлять цвет текста при обновлении панели осады",
 
-    "bai_pdth_hud_reborn" : "Настройки PD:TH HUD Reborn",
     "bai_pdth_hud_reborn_desc" : "Применить настройки BAI к PD:TH HUD Reborn",
     "bai_pdth_hud_reborn_custom_text_color" : "Использовать кастомный цвет текста",
     "bai_pdth_hud_reborn_custom_text_color_desc" : "Когда выключено, игра будет использовать цвет текста как цвет иконки осады.",
 
-    "bai_restoration_mod" : "Настройки Restoration Mod",
     "bai_restoration_mod_desc" : "Применить настройки Мода для Restoration Mod",
     "bai_restoration_mod_alpha_tape_only" : "Только для Alpha Tape",
     "bai_restoration_mod_alpha_tape_only_desc" : "Эти настройки только повлияют на 'Alpha Tape' в Restoration mod",
@@ -51,11 +48,6 @@
     "bai_halo_reach_hud_desc" : "Применить настройки мода для Halo: Reach HUD",
     "bai_halo_reach_hud_use_bai_color" : "Использовать цвета из мода",
     "bai_halo_reach_hud_use_bai_color_desc" : "Если включено, панель осады будет использовать цвета из настроек мода\nИначе - будут использованы цвета по умолчанию.",
-
-    "bai_mui" : "Настройки MUI",
-    "bai_mui_desc" : "Применить настройки BAI для MUI",
-    "bai_mui_assault_text" : "Показывать текст 'Осада' вместо сложности",
-    "bai_mui_assault_text_desc" : "Когда включено, будет показывать текст 'Осада' вместо названия сложности на панели осады.",
 
     "bai_button_ok" : "OK",
     "bai_detected_wolfhud" : "Обнаружена несовместимость с WolfHUD",
@@ -133,7 +125,6 @@
     "bai_assault_states" : "Цвет Фаз осады",
     "bai_assault_states_desc" : "Изменяет цвет фаз осады и видимость фаз на панели осады.",
 
-    "bai_enabled" : "Включено",
     "bai_enabled_not_assault_desc" : "Если включено, то данная фаза будет выведена на панель осады. Если нет, то данная фаза не будет выведена на панель осады.",
     "bai_enabled_assault_desc" : "Если включено, то данная опция будет отображаться на панели осады. Если нет, то панель осады будет показывать стандартные панели осады.",
 
@@ -166,12 +157,11 @@
     "bai_show_captain_panel" : "Показывать панель баффов уменьшения урона",
     "bai_show_captain_panel_desc" : "Показывать баффы уменьшения урона, когда есть Капитан",
     
-    "bai_text" : "Текст",
     "bai_text_desc" : "Введите здесь свой текст(любой длины)",
-    "bai_text_short" : "Текст(короткий)",
+    
     "bai_text_short_desc" : "Некоторые HUD'ы имеют маленькую панель осады и использую более короткую версию текста.\nПоэтому постарайтесь сделать ваш текст как можно короче.",
-    "bai_custom_text" : "<Здесь Мог Быть Ваш Текст>",
-    "bai_custom_text_desc" : "Введите свой текст здесь",
+    "bai_custom_text_input" : "<Здесь Мог Быть Ваш Текст>",
+    "bai_custom_text_input_desc" : "Введите свой текст здесь",
     
     "bai_faction_assault_text" : "Показывает название отряда в панели осады",
     "bai_faction_assault_text_desc" : "Показывает какой именно отряд наступает во время осады.\nВключенный 'Собственный текст' будет в проритете. Неприменимо для режима 'Серия ограблений'",
@@ -181,9 +171,6 @@
 
     "bai_assault_panel_position" : "Место панели штурма",
     "bai_assault_panel_position_desc" : "Выбирает место для панели штурма",
-    "bai_assault_panel_position_1" : "Справа",
-    "bai_assault_panel_position_2" : "По центру",
-    "bai_assault_panel_position_3" : "Слева",
 
     "bai_other_options" : "Другие настройки",
     "bai_other_options_desc" : "",
@@ -200,6 +187,14 @@
 
     "bai_animation_speed" : "Скорость анимации",
     "bai_animation_speed_desc" : "Увеличивая данный параметр, анимации будут проигрываться медленее. Уменьшая - быстрее.",
+
+    "bai_normal": "НОРМАЛЬНО",
+    "bai_hard": "СЛОЖНО",
+    "bai_very_hard": "Очень сложно",
+    "bai_overkill": "OVERKILL",
+    "bai_mayhem": "Хаос",
+    "bai_death_wish": "Жажда смерти",
+    "bai_death_sentence": "Смертный приговор",
     
     "hud_assault_alpha_fss_mod_1" : "САМОУБЙИСТВО",
     "hud_assault_alpha_fss_mod_2" : "МАЗОХИЗМ",
@@ -214,12 +209,12 @@
     "hud_assault_assault_fss_mod_1" : "САМОУБИЙСТВО В ПРОЦЕССЕ",
     "hud_assault_assault_fss_mod_2" : "МАЗОХИЗМ В ПРОЦЕССЕ",
     "hud_assault_assault_fss_mod_3" : "ТЫ МАЗОХИСТ?",
-    "hud_assault_assault_gensec" : "ИДЁТ ШТУРМ GENSEC SWAT",
-    "hud_assault_assault_zeal" : "ИДЁТ ШТУРМ ZEAL SWAT",
-    "hud_assault_assault_fbi" : "ИДЁТ ШТУРМ FBI SWAT",
-    "hud_assault_assault_murkywater" : "ИДЁТ ШТУРМ MURKYWATER",
-    "hud_assault_assault_russian" : "ИДЁТ ШТУРМ РУССКИХ НАЁМНИКОВ",
-    "hud_assault_assault_federales" : "ИДЕТ ШТУРМ ФЕДЕРАЛЕС",
+    "hud_assault_assault_gensec_default" : "ИДЁТ ШТУРМ GENSEC SWAT",
+    "hud_assault_assault_zeal_default" : "ИДЁТ ШТУРМ ZEAL SWAT",
+    "hud_assault_assault_fbi_default" : "ИДЁТ ШТУРМ FBI SWAT",
+    "hud_assault_assault_murkywater_default" : "ИДЁТ ШТУРМ MURKYWATER",
+    "hud_assault_assault_russia_default" : "ИДЁТ ШТУРМ РУССКИХ НАЁМНИКОВ",
+    "hud_assault_assault_federales_default" : "ИДЕТ ШТУРМ ФЕДЕРАЛЕС",
     "hud_assault_survived_fss_mod_1" : "САМОУБИЙСТВО ПРЕДОТВРАЩЕНО",
     "hud_assault_survived_fss_mod_2" : "МАЗОХИЗМ ПЕРЕЖИТ",
     "hud_assault_survived_fss_mod_3" : "ИСТИННЫЙ МАЗОХИСТ",
@@ -227,13 +222,13 @@
     "hud_assault_endless_fss_mod_1" : "БЕСКОНЕЧНАЯ ЖАЖДА САМОУБИЙСТВА В ПРОЦЕССЕ",
     "hud_assault_endless_fss_mod_2" : "БЕСКОНЕЧНАЯ ЖАЖДА МАЗОХИЗМА В ПРОЦЕССЕ",
     "hud_assault_endless_fss_mod_3" : "А ТЫ ТОЧНО МАЗОХИСТ?",
-    "hud_assault_endless_gensec": "БЕСКОНЕЧНОЕ НАСТУПЛЕНИЕ ENDLESS GENSEC SWAT  В ПРОЦЕССЕ",
-    "hud_assault_endless_zeal" : "БЕСКОНЕЧНОЕ НАСТУПЛЕНИЕ ZEAL SWAT  В ПРОЦЕССЕ",
-    "hud_assault_endless_fbi" : "БЕСКОНЕЧНОЕ НАСТУПЛЕНИЕ FBI ASSAULT IN PROGRESS",
-    "hud_assault_endless_halloween" : "ВСЕ ЗАСТАВЛЯЮТ ВУЛЬФА ВЫГЛЯДИТЬ ДУРАКОМ",
-    "hud_assault_endless_murkywater" : "БЕСКОНЕЧНАЯ ОПЕРАЦИЯ MURKYWATER",
-    "hud_assault_endless_russian" : "БЕСКОНЕЧНОЕ НАСТУПЛЕНИЕ РУССКИХ НАЁМНИКОВ",
-     "hud_assault_endless_federales" : "БЕСКОНЕЧНЫЙ ШТУРМ ФЕДЕРАЛЕС",
+    "hud_assault_endless_gensec_default": "БЕСКОНЕЧНОЕ НАСТУПЛЕНИЕ ENDLESS GENSEC SWAT  В ПРОЦЕССЕ",
+    "hud_assault_endless_zeal_default" : "БЕСКОНЕЧНОЕ НАСТУПЛЕНИЕ ZEAL SWAT  В ПРОЦЕССЕ",
+    "hud_assault_endless_fbi_default" : "БЕСКОНЕЧНОЕ НАСТУПЛЕНИЕ FBI ASSAULT IN PROGRESS",
+    "hud_assault_endless_zombie_default" : "ВСЕ ЗАСТАВЛЯЮТ ВУЛЬФА ВЫГЛЯДИТЬ ДУРАКОМ",
+    "hud_assault_endless_murkywater_default" : "БЕСКОНЕЧНАЯ ОПЕРАЦИЯ MURKYWATER",
+    "hud_assault_endless_russia_default" : "БЕСКОНЕЧНОЕ НАСТУПЛЕНИЕ РУССКИХ НАЁМНИКОВ",
+    "hud_assault_endless_federales_default" : "БЕСКОНЕЧНЫЙ ШТУРМ ФЕДЕРАЛЕС",
     "hud_assault_endless_alpha" : "БЕСКОНЕЧНЫЙ ПОЛИЦЕЙСКИЙ ШТУРМ",
     "hud_assault_endless_alpha_fss_mod_1" : "НЕСКОНЧАЕМАЯ ЖАЖДА САМОУБИЙСТВА",
     "hud_assault_endless_alpha_fss_mod_2" : "НЕСКОНЧАЕМАЯ ЖАЖДА МАЗОХИЗМА",

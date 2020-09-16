@@ -35,7 +35,7 @@
     "bai_restoration_mod_alpha_tape_only" : "Apenas Alpha Tape",
     "bai_restoration_mod_alpha_tape_only_desc" : "Essas escolhas apenas afetam o 'Alpha Tape' em 'Restoration Mod'",
     "bai_restoration_mod_include_cover_text" : "Incluir o Texto de Cobertura",
-    "bai_restoration_mod_include_cover_text_desc" : "Incluir o texto de 'STAY IN COVER' na Caixa de Assault",",
+    "bai_restoration_mod_include_cover_text_desc" : "Incluir o texto de 'STAY IN COVER' na Caixa de Assault",
     "bai_restoration_mod_use_alpha_assault_text" : "Usar o texto alpha do Assault",
     "bai_restoration_mod_use_alpha_assault_text_desc" : "Usa uma versão mais curta do 'POLICE ASSAULT IN PROGRESS'",
     "bai_restoration_mod_use_alpha_endless_text" : "Usar o texto alpha do Assault sem fim",
@@ -71,7 +71,7 @@
 
     "bai_completely_hide_hostage_panel" : "Esconder completamente o contador de refém",
     "bai_completely_hide_hostage_panel_desc" : "Contador de refém não irá ficar vísivel pra você quando spawnar\nIsso ignora completamente a opção de 'Esconder o contador de refém' com o Assault, Captain e o sem fim",
-
+    
     "bai_show_difficulty_name_instead_of_skulls" : "Mostrar o nome da dificuldade invés das caveiras",
     "bai_show_difficulty_name_instead_of_skulls_desc" : "Só mostra os nomes das dificuldades, invés de mostra as caveiras\nNão funciona em Crime Spree",
 
@@ -126,7 +126,6 @@
     "bai_assault_states" : "Estágios do Assault",
     "bai_assault_states_desc" : "Mude as cores dos estágios e os estágios aparecendo na Caixa de Assault\n",
 
-    "bai_enabled" : "Ligado",
     "bai_enabled_not_assault_desc" : "Se ligado, irá mostra na Caixa de Assault. Se não, Esse estágio não irá aparecer na caixa",
     "bai_enabled_assault_desc" : "Se ligado, vai mostra na Caixa do Assault. Se não, a caixa normal do Assault irá aparecer",
 
@@ -140,7 +139,7 @@
     "bai_show_time_left_desc" : "Mostra o quanto 'tempo resta' na Caixa do Assault\nTalvez não seja preciso quando você entra em um jogo em progresso, mas depois fica preciso",
     
     "bai_time_format" : "Formato do tempo",
-    "bai_time_format_desc" : "Muda o Formato do tempo restante na caixa do Assault\n\nExample:\n",
+    "bai_time_format_desc" : "Muda o Formato do tempo restante na caixa do Assault\n\nExemplo:\n",
     "bai_time_format_1" : "xx.xx (em segundos)",
     "bai_time_format_2" : "'xx.xx' s",
     "bai_time_format_3" : "xx (em segundos)",
@@ -175,9 +174,6 @@
 
     "bai_assault_panel_position" : "Posição do Painel do Assault",
     "bai_assault_panel_position_desc" : "Coloque a Posição do Painel do Assault na tela",
-    "bai_assault_panel_position_1" : "Direita",
-    "bai_assault_panel_position_2" : "Meio",
-    "bai_assault_panel_position_3" : "Esquerda",
 
     "bai_other_options" : "Outras opções",
     "bai_other_options_desc" : "",
@@ -207,11 +203,11 @@
     "hud_assault_assault_fss_mod_1" : "SUÍCUDIO EM PROGRESSO",
     "hud_assault_assault_fss_mod_2" : "MACHISMO EM PROGRESSO",
     "hud_assault_assault_fss_mod_3" : "VOCÊ É UM MACHISTA, CARALHO?",
-    "hud_assault_assault_gensec" : "ASSALTO DA GENSEC EM PROGRESSO",
-    "hud_assault_assault_zeal" : "ASSALTO DA ZEAL EM PROGRESSO",
-    "hud_assault_assault_fbi" : "ASSALTO DA FBI EM PROGRESSO",
-    "hud_assault_assault_murkywater" : "OPERAÇÃO MURKYWATER EM PROGRESSO",
-    "hud_assault_assault_russian" : "ASSALTO RUSSO EM PROGRESSO",
+    "hud_assault_assault_gensec_default" : "ASSALTO DA GENSEC EM PROGRESSO",
+    "hud_assault_assault_zeal_default" : "ASSALTO DA ZEAL EM PROGRESSO",
+    "hud_assault_assault_fbi_default" : "ASSALTO DA FBI EM PROGRESSO",
+    "hud_assault_assault_murkywater_default" : "OPERAÇÃO MURKYWATER EM PROGRESSO",
+    "hud_assault_assault_russia_default" : "ASSALTO RUSSO EM PROGRESSO",
     "hud_assault_survived_fss_mod_1" : "SUÍCIDIO SOBREVIVIDA",
     "hud_assault_survived_fss_mod_2" : "MACHISMO SOBREVIVIDO",
     "hud_assault_survived_fss_mod_3" : "SEU MACHISTA!",
@@ -219,12 +215,12 @@
     "hud_assault_endless_fss_mod_1" : "SUÍCIDIO SEM FIM EM PROGRESSO",
     "hud_assault_endless_fss_mod_2" : "MACHISMO SEM FIM EM PROGRESSO",
     "hud_assault_endless_fss_mod_3" : "PUTA QUE PARIU, UM MACHISTA LOGO ALI!",
-    "hud_assault_endless_gensec": "ASSALTO DA GENSEC SEM FIM EM PROGRESSO",
-    "hud_assault_endless_zeal" : "ASSALTO DA ZEAL SEM FIM EM PROGRESSO",
-    "hud_assault_endless_fbi" : "ASSALTO DA FBI SEM FIM EM PROGRESSO",
-    "hud_assault_endless_halloween" : "VAI FICAR SEM DOCE, MAU MENINO",
-    "hud_assault_endless_murkywater" : "OPERAÇÃO MURKYWATER SEM FIM EM PROGRESSO",
-    "hud_assault_endless_russian" : "ASSALTO RUSSO SEM FIM EM PROGRESSO",
+    "hud_assault_endless_gensec_default": "ASSALTO DA GENSEC SEM FIM EM PROGRESSO",
+    "hud_assault_endless_zeal_default" : "ASSALTO DA ZEAL SEM FIM EM PROGRESSO",
+    "hud_assault_endless_fbi_default" : "ASSALTO DA FBI SEM FIM EM PROGRESSO",
+    "hud_assault_endless_zombie_default" : "VAI FICAR SEM DOCE, MAU MENINO",
+    "hud_assault_endless_murkywater_default" : "OPERAÇÃO MURKYWATER SEM FIM EM PROGRESSO",
+    "hud_assault_endless_russia_default" : "ASSALTO RUSSO SEM FIM EM PROGRESSO",
     "hud_assault_endless_alpha" : "ASSALTO SEM FIM EM PROGRESSO",
     "hud_assault_endless_alpha_fss_mod_1" : "SUÍCIDO SEM FIM",
     "hud_assault_endless_alpha_fss_mod_2" : "MACHISMO SEM FIM",
