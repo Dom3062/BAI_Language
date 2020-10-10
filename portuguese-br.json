@@ -113,7 +113,7 @@
     "bai_survived_box_desc": "Mude a cor da caixa de 'Operação Sobrevivida' e também aplica em Safehouse Raid",
 
     "bai_escape_box" : "Caixa de 'Ponto de Não Retorno'",
-    "bai_escape_box_desc": "Mude a caixa de ponto sem retorno",
+    "bai_escape_box_desc": "Mude a caixa de ponto não retorno",
 
     "bai_color_reset" : "Redefinir a cor",
     "bai_color_reset_desc" : "Mude a cor para seu estado padrão",
