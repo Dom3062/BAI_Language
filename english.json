@@ -20,6 +20,10 @@
 
     "bai_compatibility" : "HUD Compatibility",
     "bai_compatibility_desc" : "Here you can select a compatibility with certain HUD you are using\nApplying wrong HUD compatibility may cause your game to crash\n\n[Autodetect: BAI will try to detect installed HUD]\n[Any other option: Forces BAI to load compatibility code for that HUD]",
+    "bai_compatibility_warning" : "Warning",
+    "bai_compatibility_warning_desc" : "You are about to change the compatibility. This setting SHOULD NOT be changed unless there is a problem in BAI's detection.\nIt is recommended to keep this setting in its default value to prevent crashing. BAI's detection system is smart enough to detect Assault Panel changes (e.g. HUD addition/removal).\nSelecting wrong compatibility option may cause your game to crash.\nDo you want to continue ?",
+    "bai_compatibility_warning_i_know_what_im_doing" : "I understand the consequences.",
+    "bai_compatibility_warning_keep_me_safe" : "I changed my mind. Keep me safe.",
     "bai_compatibility_1" : "Autodetect",
     "bai_compatibility_2" : "Vanilla",
 
@@ -48,6 +52,14 @@
     "bai_halo_reach_hud_desc" : "Apply BAI specific settings to Halo: Reach HUD",
     "bai_halo_reach_hud_use_bai_color" : "Use Colors from BAI",
     "bai_halo_reach_hud_use_bai_color_desc" : "When enabled, assault panel will use colors from BAI\nOtherwise default color will be used",
+
+    "bai_vanillahud_plus_desc" : "Apply BAI specific settings to VanillaHUD Plus",
+    "bai_vanillahud_plus_move_hudlist": "Move HUDList",
+    "bai_vanillahud_plus_move_hudlist_desc": "Moves HUDList's right list to avoid clipping with other panels.\n\nWarning: When enabled, this overrides right list offset.",
+
+    "bai_wolfhud_desc": "Apply BAI specific settings to WolfHUD",
+    "bai_wolfhud_move_hudlist" : "Move HUDList",
+    "bai_wolfhud_move_hudlist_desc" : "Moves HUDList's right list to avoid clipping with other panels.\n\nWarning: When enabled, this overrides right list offset.",
 
     "bai_button_ok" : "OK",
     "bai_detected_wolfhud" : "Detected incompatibility with WolfHUD",
@@ -170,13 +182,6 @@
     "bai_show_captain_panel" : "Show Damage Reduction Buff Panel",
     "bai_show_captain_panel_desc" : "Shows Damage Reduction Buff Panel when Captain is present",
 
-    "bai_show_trade_delay_panel" : "Show Trade Delay Panel",
-    "bai_show_trade_delay_panel_desc" : "Shows Trade Delay Panel when you kill a civilian",
-    "bai_show_trade_delay_panel_when" : "Show Panel when",
-    "bai_show_trade_delay_panel_when_desc" : "Defines how the panel should behave in the game",
-    "bai_show_trade_delay_panel_when_1" : "Always",
-    "bai_show_trade_delay_panel_when_2" : "When you killed a civilian",
-
     "bai_custom_text" : "Custom Text",
     "bai_custom_text_difficulty" : "Difficulty",
     "bai_custom_text_difficulty_desc" : "Changes text based on difficulty",
@@ -224,6 +229,9 @@
 
     "bai_animation_speed" : "Animation Speed",
     "bai_animation_speed_desc" : "Increasing this value will make the color animation go slower. Decreasing will make it go faster.",
+
+    "bai_chat" : "Chat",
+    "bai_chat_desc" : "Defines what info should be send over chat",
 
     "bai_normal" : "Normal",
     "bai_hard" : "Hard",

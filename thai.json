@@ -20,6 +20,10 @@
 
     "bai_compatibility" : "ความเข้ากันได้ของ HUD",
     "bai_compatibility_desc" : "ความเข้ากันได้กับ HUD: คุณสามารถปรับแต่งความเข้ากันได้กับ HUD ที่คุณกำลังใช้อยู่\nเกมสามารถเด้งหลุดได้หากคุณเลือกความเข้ากันได้กับ HUD ผิดประเภท\n\n[ตรวจสอบอัตโนมัติ: BAI จะพยายามตรวจสอบ HUD ที่ติดตั้งไว้]\n[ตัวเลือกอื่นๆ: บังคับให้ BAI เลือกใช้ตัวเลือกที่เข้ากันได้ HUD นั้นๆ]",
+    "bai_compatibility_warning": "คำเตือน",
+    "bai_compatibility_warning_desc": "คุณกำลังเปลี่ยนแปลงตัวเลือกความเข้ากันได้ ตัวเลือกนี้ไม่ควรถูกเปลี่ยนแปลงยกเว้นว่ามีปัญหาบางอย่างกับระบบตรวจสอบอัตโนมัติของ BAI\nขอแนะนำให้ใช้ค่าดั้งเดิมเพื่อป้องกันปัญหาการเด้งหลุดออกจากเกม ระบบตรวจสอบอัตโนมัติของ  BAI นั้นฉลาดมากพอที่จะค้นพบการเปลี่ยนแปลงของหน้าต่างการจู่โจม (ตัวอย่างเช่น การมีอยู่ของ HUD mod)\nการเลือกความเข้ากันได้ผิดประเภทอาจทำให้คุณเด้งออกจากเกม\nคุณต้องการดำเนินการต่อหรือไม่?",
+    "bai_compatibility_warning_i_know_what_im_doing": "อย่ากังวลไป ชั้นเข้าใจผลลัพธ์ที่จะเกิดขึ้น",
+    "bai_compatibility_warning_keep_me_safe": "ชั้นเปลี่ยนใจแล้ว พาชั้นออกไปจากที่นี่ที",
     "bai_compatibility_1" : "ตรวจสอบอัตโนมัติ",
     "bai_compatibility_2" : "เกมต้นฉบับ",
 	
@@ -170,8 +174,13 @@
     "bai_show_captain_panel" : "แสดงหน้าต่างค่าลดความเสียหาย",
     "bai_show_captain_panel_desc" : "แสดงหน้าต่างที่เมื่อกัปตันปรากฏตัว จะเพิ่มค่าลดความเสียหายแก่ยูนิตฝั่งตำรวจ",
     
-    "bai_custom_text" : "เขียนข้อความของคุณที่นี่",
-    "bai_custom_text_desc" : "เขียนข้อความที่คุณกำหนดเองที่นี่",
+    "bai_custom_text": "เขียนข้อความของคุณที่นี่",
+    "bai_custom_text_difficulty": "ระดับความยาก",
+    "bai_custom_text_difficulty_desc": "เปลี่ยนข้อความตามระดับความยาก",
+    "bai_custom_text_faction": "ฝ่าย",
+    "bai_custom_text_faction_desc": "เปลี่ยนข้อความตามชื่อฝ่าย\n\nหมายเหตุ:\nตัวเลือก 'แสดงชื่อฝ่าย' ต้องถูกเปิดใช้งาน",
+    "bai_custom_text_short": "ข้อความกำหนดเอง (แบบสั้น)",
+    "bai_custom_text_input": "กำหนดข้อความของคุณที่นี่",
     "bai_custom_text_input_desc": "เขียนข้อความตามใจคุณ",
     "bai_custom_text_input_short_desc": "พยายามเขียนข้อความของคุณให้สั้นที่สุดเท่าที่เป็นไปได้",
 
@@ -183,6 +192,16 @@
 
     "bai_assault_panel_position" : "ตำแหน่งหน้าต่างแสดงการจู่โจม",
     "bai_assault_panel_position_desc" : "กำหนดตำแหน่งหน้าต่างแสดงการจู่โจมบนหน้าจอ",
+    "bai_assault_panel_position_1": "ซ้ายบนสุด",
+    "bai_assault_panel_position_2": "ตรงกลางข้างบนสุด",
+    "bai_assault_panel_position_3": "ขวาบนสุด",
+    "bai_assault_panel_position_4": "ตรงกลางทางซ้าย",
+    "bai_assault_panel_position_5": "ตรงกลางของหน้าจอ",
+    "bai_assault_panel_position_6": "ตรงกลางทางขวา",
+    "bai_assault_panel_position_7": "ซ้ายล่างสุด",
+    "bai_assault_panel_position_8": "ตรงกลางข้างล่างสุด",
+    "bai_assault_panel_position_9": "ขวาล่างสุด",
+    "bai_assault_panel_position_default_position": "หรืออยู่ที่ตำแหน่งดั้งเดิม",
 
     "bai_animations" : "ตัวเลือกอนิเมชั่น",
     "bai_animations_desc" : "เปลี่ยนรูปแบบอนิเมชั่นที่จะปรากฎในเกม",

@@ -168,13 +168,6 @@
 
     "bai_show_captain_panel" : "Mostrar a Redução de Buff do Capitão",
     "bai_show_captain_panel_desc" : "Mostra a redução de dano quando o capitão estiver presente.",
-	
-    "bai_show_trade_delay_panel" : "Mostrar o Atraso de Troca",
-    "bai_show_trade_delay_panel_desc" : "Mostra o Atraso de Troca quando você matar um civil",
-    "bai_show_trade_delay_panel_when" : "Mostrar o Painel quando",
-    "bai_show_trade_delay_panel_when_desc" : "Define como o painel deve se comportar no jogo",
-    "bai_show_trade_delay_panel_when_1" : "Sempre na Tela",
-    "bai_show_trade_delay_panel_when_2" : "Quando matar um civil",
 
     "bai_custom_text" : "Texto Personalizado",
     "bai_custom_text_difficulty" : "Dificuldade",

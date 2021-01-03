@@ -170,13 +170,6 @@
     "bai_show_captain_panel" : "顯示減少傷害增益面板",
     "bai_show_captain_panel_desc" : "出現隊長時顯示減少傷害增益面板",
 
-    "bai_show_trade_delay_panel" : "顯示交易延遲面板",
-    "bai_show_trade_delay_panel_desc" : "殺死平民時顯示交易延遲",
-    "bai_show_trade_delay_panel_when" : "何時顯示面板",
-    "bai_show_trade_delay_panel_when_desc" : "設置面板在遊戲中的表現",
-    "bai_show_trade_delay_panel_when_1" : "直到任務結束",
-    "bai_show_trade_delay_panel_when_2" : "當你殺死一個平民時",
-
     "bai_custom_text" : "自定義文字",
     "bai_custom_text_difficulty" : "難度",
     "bai_custom_text_difficulty_desc" : "根據難度更改文字",
