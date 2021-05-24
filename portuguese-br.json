@@ -181,9 +181,6 @@
 
     "bai_faction_assault_text" : "Mostrar os Nomes das Facções",
     "bai_faction_assault_text_desc" : "Mostra o nome da facção durante a operação no texto da operação\n'Texto Personalizado' substitui essa opção. Não funciona em Crime Spree.",
-	
-    "bai_modules" : "Módulos",
-    "bai_modules_desc" : "Módulos melhoram ou adicionam mais coisas pro BAI\nSe um módulo adicionar mais opções, será listada aqui",
 
     "bai_assault_panel_position" : "Posição do Painel da Operação",
     "bai_assault_panel_position_desc" : "Mude a posição do Painel da Operação",
@@ -202,8 +199,6 @@
     "bai_other_options_desc" : "",
 
     "bai_hudlist" : "HUDList",
-    "bai_hudlist_move_hostage_panel" : "",
-    "bai_hudlist_move_hostage_panel_desc" : "",
 
     "bai_animations" : "Animações",
     "bai_animations_desc" : "Muda como as animações devem se comportar no jogo",
@@ -242,13 +237,14 @@
     "hud_assault_alpha_zeal" : "OPERAÇÃO DA ZEAL",
     "hud_assault_alpha_fbi" : "OPERAÇÃO DA FBI",
     "hud_assault_alpha_murkywater" : "OPERAÇÃO MURKYWATER",
-    "hud_assault_alpha_russian" : "OPERAÇÃO RUSSA",
+    "hud_assault_alpha_russia" : "OPERAÇÃO RUSSA",
     "hud_assault_assault_fss_mod_1" : "SUÍCUDIO EM PROGRESSO",
     "hud_assault_assault_fss_mod_2" : "MACHISMO EM PROGRESSO",
     "hud_assault_assault_fss_mod_3" : "VOCÊ É UM MACHISTA, CARALHO?",
     "hud_assault_assault_gensec_default" : "OPERAÇÃO DA GENSEC EM PROGRESSO",
     "hud_assault_assault_zeal_default" : "OPERAÇÃO DA ZEAL EM PROGRESSO",
     "hud_assault_assault_fbi_default" : "OPERAÇÃO DA FBI EM PROGRESSO",
+    "hud_assault_assault_zombie_default": "VAI FICAR SEM DOCE, MAU MENINO",
     "hud_assault_assault_murkywater_default" : "OPERAÇÃO MURKYWATER EM PROGRESSO",
     "hud_assault_assault_russia_default" : "OPERAÇÃO RUSSA EM PROGRESSO",
     "hud_assault_survived_fss_mod_1" : "SUÍCIDIO SOBREVIVIDA",
@@ -272,8 +268,8 @@
     "hud_assault_endless_alpha_zeal" : "OPERAÇÃO SEM FIM DA ZEAL",
     "hud_assault_endless_alpha_fbi" : "OPERAÇÃO SEM FIM DA FBI",
     "hud_assault_endless_alpha_murkywater" : "OPERAÇÃO MURKYWATER SEM FIM",
-    "hud_assault_endless_alpha_halloween" : "FELIZ HALLOWEEN!",
-    "hud_assault_endless_alpha_russian" : "OPERAÇÃO RUSSA EM PROGRESSO",
+    "hud_assault_endless_alpha_zombie" : "FELIZ HALLOWEEN!",
+    "hud_assault_endless_alpha_russia" : "OPERAÇÃO RUSSA EM PROGRESSO",
     "hud_assault_survived_endless" : "OPERAÇÃO SEM FIM SOBREVIVIDA",
     "hud_assault_survived_endless_fss_mod_1" : "SUÍCIDIO SEM FIM SOBREVIVIDA",
     "hud_assault_survived_endless_fss_mod_2" : "MACHISMO SEM FIM SOBREVIVIDA",

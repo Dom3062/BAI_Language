@@ -27,6 +27,13 @@
     "bai_compatibility_1" : "Autodetect",
     "bai_compatibility_2" : "Vanilla",
 
+    "bai_hudlist_compatibility" : "HUDList Compatibility",
+    "bai_hudlist_compatibility_desc": "Here you can select a compatibility with HUDList\nApplying wrong HUDlist compatibility may cause your game to crash\n\n[Autodetect: BAI will try to detect HUDList and apply compatibility if necessary]\n[Any other option: Forces BAI to load compatibility code]",
+    "bai_hudlist_compatibility_warning": "Warning",
+    "bai_hudlist_compatibility_warning_desc": "You are about to change the compatibility. This setting SHOULD NOT be changed unless there is a problem in BAI's detection.\nIt is recommended to keep this setting in its default value to prevent crashing. BAI's detection system is smart enough to detect changes in HUDList (e.g. addition/removal).\nSelecting wrong compatibility option may cause your game to crash.\nDo you want to continue ?",
+    "bai_hudlist_compatibility_warning_i_know_what_im_doing": "I understand the consequences.",
+    "bai_hudlist_compatibility_warning_keep_me_safe": "I changed my mind. Keep me safe.",
+
     "bai_holoui_desc" : "Apply BAI specific settings to HoloUI",
     "bai_holoui_update_text_color" : "Update text color",
     "bai_holoui_update_text_color_desc" : "When updating Assault Banner color also update text color",
@@ -52,14 +59,6 @@
     "bai_halo_reach_hud_desc" : "Apply BAI specific settings to Halo: Reach HUD",
     "bai_halo_reach_hud_use_bai_color" : "Use Colors from BAI",
     "bai_halo_reach_hud_use_bai_color_desc" : "When enabled, assault panel will use colors from BAI\nOtherwise default color will be used",
-
-    "bai_vanillahud_plus_desc" : "Apply BAI specific settings to VanillaHUD Plus",
-    "bai_vanillahud_plus_move_hudlist": "Move HUDList",
-    "bai_vanillahud_plus_move_hudlist_desc": "Moves HUDList's right list to avoid clipping with other panels.\n\nWarning: When enabled, this overrides right list offset.",
-
-    "bai_wolfhud_desc": "Apply BAI specific settings to WolfHUD",
-    "bai_wolfhud_move_hudlist" : "Move HUDList",
-    "bai_wolfhud_move_hudlist_desc" : "Moves HUDList's right list to avoid clipping with other panels.\n\nWarning: When enabled, this overrides right list offset.",
 
     "bai_button_ok" : "OK",
     "bai_detected_wolfhud" : "Detected incompatibility with WolfHUD",
@@ -163,6 +162,9 @@
     "bai_time_format_5" : "'xx' min 'yy' s",
     "bai_time_format_6" : "xx:yy",
 
+    "bai_show_break_time_left" : "Show 'Break Time Left'",
+    "bai_show_break_time_left_desc" : "Shows 'Break Time Left' in the Assault Box\n\nNote:\nThis option is not accurate when a map script artifically increased break time between assaults. (client only)\nIf not BAI is not sure about the remaining time, it shows 1 minute remaining. (host only)",
+
     "bai_show_spawns_left" : "Show 'Spawns Left'",
     "bai_show_spawns_left_desc" : "Shows 'Spawns Left' in the Assault Box\nThis option is not accurate when you jump in to a game in progress. But it will get accurate later on",
 
@@ -195,9 +197,6 @@
     "bai_faction_assault_text" : "Show Faction Name",
     "bai_faction_assault_text_desc" : "Shows Faction Name during an assault in the Assault Box\n'Custom Text' overrides this feature. Not applicable in Crime Spree",
 
-    "bai_modules" : "Modules",
-    "bai_modules_desc" : "Modules improve or extend BAI's features\nIf the module has additional options, they will be listed here",
-
     "bai_assault_panel_position" : "Assault Panel Position",
     "bai_assault_panel_position_desc" : "Sets Assault Panel Position on the screen",
     "bai_assault_panel_position_1" : "Top Left",
@@ -215,8 +214,8 @@
     "bai_other_options_desc" : "",
 
     "bai_hudlist" : "HUDList",
-    "bai_hudlist_move_hostage_panel" : "",
-    "bai_hudlist_move_hostage_panel_desc" : "",
+    "bai_hudlist_move_hudlist" : "Move HUDList",
+    "bai_hudlist_move_hudlist_desc" : "Moves HUDList's left and right list to avoid clipping with other panels.\n\nWarning: When enabled, this overrides left and right list offset.",
 
     "bai_animations" : "Animations",
     "bai_animations_desc" : "Changes how animations should behave in the game",
@@ -258,7 +257,7 @@
     "hud_assault_alpha_zeal" : "ZEAL SWAT ASSAULT",
     "hud_assault_alpha_fbi" : "FBI SWAT ASSAULT",
     "hud_assault_alpha_murkywater" : "MURKYWATER OPERATION",
-    "hud_assault_alpha_russian" : "RUSSIAN ASSAULT",
+    "hud_assault_alpha_russia" : "RUSSIAN ASSAULT",
     "hud_assault_alpha_federales" : "FEDERALES ASSAULT",
     "hud_assault_assault_fss_mod_1" : "SUICIDE IN PROGRESS",
     "hud_assault_assault_fss_mod_2" : "MASOCHISM IN PROGRESS",
@@ -267,6 +266,7 @@
     "hud_assault_assault_zeal_default" : "ZEAL SWAT ASSAULT IN PROGRESS",
     "hud_assault_assault_fbi_default" : "FBI SWAT ASSAULT IN PROGRESS",
     "hud_assault_assault_murkywater_default" : "MURKYWATER OPERATION IN PROGRESS",
+    "hud_assault_assault_zombie_default": "ALL MAKES WOLF A DUMB BOY",
     "hud_assault_assault_russia_default" : "RUSSIAN ASSAULT IN PROGRESS",
     "hud_assault_assault_federales_default" : "FEDERALES ASSAULT IN PROGRESS",
     "hud_assault_survived_fss_mod_1" : "SUICIDE SURVIVED",
@@ -291,8 +291,8 @@
     "hud_assault_endless_alpha_zeal" : "ENDLESS ZEAL SWAT ASSAULT",
     "hud_assault_endless_alpha_fbi" : "ENDLESS FBI SWAT ASSAULT",
     "hud_assault_endless_alpha_murkywater" : "ENDLESS MURKYWATER OPERATION",
-    "hud_assault_endless_alpha_halloween" : "ALL MAKES WOLF A DUMB BOY",
-    "hud_assault_endless_alpha_russian" : "ENDLESS RUSSIAN ASSAULT",
+    "hud_assault_endless_alpha_zombie" : "ALL MAKES WOLF A DUMB BOY",
+    "hud_assault_endless_alpha_russia" : "ENDLESS RUSSIAN ASSAULT",
     "hud_assault_endless_alpha_federales" : "ENDLESS FEDERALES ASSAULT",
     "hud_assault_survived_endless" : "ENDLESS WAVE SURVIVED",
     "hud_assault_survived_endless_fss_mod_1" : "ENDLESS SUICIDE SURVIVED",
@@ -311,6 +311,8 @@
     "hud_time_left_short" : "Time: ",
     "hud_spawns_left" : "Spawns Left: ",
     "hud_spawns_left_short" : "Spawns: ",
+    "hud_break_time_left" : "Break Time Left: ",
+    "hud_break_time_left_short" : "Break: ",
     "hud_min" : "min",
     "hud_s" : "s",
 

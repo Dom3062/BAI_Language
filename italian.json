@@ -167,9 +167,6 @@
     "bai_faction_assault_text" : "Mostra nome fazione nella barra d'assalto",
     "bai_faction_assault_text_desc" : "Mostra il nome della fazione durante un assalto nella barra d'assalto\n'Testo personalizzato' sovrascrive questa impostazione. Non applicabile nelle Serie Criminali",
 
-    "bai_modules" : "Moduli",
-    "bai_modules_desc" : "I moduli migliorano o estendono le funzionalità di BAI\nSe un modulo ha altre opzioni configurabili, saranno mostrate qui",
-
     "bai_assault_panel_position" : "Posizione indicatore assalto",
     "bai_assault_panel_position_desc" : "Imposta la posizione dell'indicatore dell'assalto sullo schermo",
 
@@ -187,7 +184,7 @@
     "hud_assault_alpha_zeal" : "ASSALTO SWAT ZEAL",
     "hud_assault_alpha_fbi" : "ASSALTO SWAT FBI",
     "hud_assault_alpha_murkywater" : "MISSIONE MURKYWATER",
-    "hud_assault_alpha_russian" : "ASSALTO RUSSO",
+    "hud_assault_alpha_russia" : "ASSALTO RUSSO",
     "hud_assault_alpha_federales" : "ASSALTO DEI FEDERALI",
     "hud_assault_assault_fss_mod_1" : "SUICIDIO IN CORSO",
     "hud_assault_assault_fss_mod_2" : "MASOCHISMO IN CORSO",
@@ -197,6 +194,7 @@
     "hud_assault_assault_fbi_default" : "ASSALTO SWAT FBI IN CORSO",
     "hud_assault_assault_murkywater_default" : "MISSIONE MURKYWATER IN CORSO",
     "hud_assault_assault_russia_default" : "ASSALTO RUSSO IN CORSO",
+    "hud_assault_assault_zombie_default": "IL LAVORO SENZA GIOIA FA DI WOLF UNA NOIA",
     "hud_assault_assault_federales_default" : "ASSALTO DEI FEDERALI IN CORSO",
     "hud_assault_survived_fss_mod_1" : "SOPRAVISSUTO AL SUICIDIO",
     "hud_assault_survived_fss_mod_2" : "SOPRAVISSUTO AL MASOCHISMO",
@@ -220,8 +218,8 @@
     "hud_assault_endless_alpha_zeal" : "ASSALTO SWAT ZEAL INFINITO",
     "hud_assault_endless_alpha_fbi" : "ASSALTO SWAT FBI INFINITO",
     "hud_assault_endless_alpha_murkywater" : "MISSIONE MURKYWATER INFINITA",
-    "hud_assault_endless_alpha_halloween" : "IL LAVORO SENZA GIOIA FA DI WOLF UNA NOIA",
-    "hud_assault_endless_alpha_russian" : "ASSALTO RUSSO INFINITO",
+    "hud_assault_endless_alpha_zombie" : "IL LAVORO SENZA GIOIA FA DI WOLF UNA NOIA",
+    "hud_assault_endless_alpha_russia" : "ASSALTO RUSSO INFINITO",
     "hud_assault_endless_alpha_federales" : "ASSALTO DEI FEDERALI INFINITO",
     "hud_assault_survived_endless" : "ASSALTO INFINITO SOPRAVVISSUTO",
     "hud_assault_survived_endless_fss_mod_1" : "SOPRAVISSUTO A SUICIDIO INFINITO",

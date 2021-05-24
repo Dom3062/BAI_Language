@@ -183,9 +183,6 @@
     "bai_faction_assault_text" : "顯示敵人陣營",
     "bai_faction_assault_text_desc" : "在突襲横幅中顯示敵人的陣營\n'自定義文本' 無法與此功能同時使用. 犯罪狂歡模式下無效",
 
-    "bai_modules" : "模塊",
-    "bai_modules_desc" : "模塊改善或擴展了BAI的功能。 如果模塊有其他選項，則將在此處列出.",
-
     "bai_assault_panel_position" : "突襲面板位置",
     "bai_assault_panel_position_desc" : "在螢幕上設置突擊面板位置",
     "bai_assault_panel_position_1" : "左上",
@@ -203,8 +200,6 @@
     "bai_other_options_desc" : "",
 
     "bai_hudlist" : "HUD列表",
-    "bai_hudlist_move_hostage_panel" : "",
-    "bai_hudlist_move_hostage_panel_desc" : "",
 
     "bai_animations" : "橫幅動畫",
     "bai_animations_desc" : "更改橫幅動畫在遊戲中的表現",
@@ -243,7 +238,7 @@
     "hud_assault_alpha_zeal" : "ZEAL 突襲中",
     "hud_assault_alpha_fbi" : "FBI 突襲中",
     "hud_assault_alpha_murkywater" : "黑水特種小隊行動中",
-    "hud_assault_alpha_russian" : "俄羅斯特警行動中",
+    "hud_assault_alpha_russia" : "俄羅斯特警行動中",
     "hud_assault_alpha_federales" : "聯邦特警突擊中",	
     "hud_assault_assault_fss_mod_1" : "嘗試自殺",
     "hud_assault_assault_fss_mod_2" : "受虐進行中",
@@ -253,6 +248,7 @@
     "hud_assault_assault_fbi_default" : "FBI 特警突襲中",
     "hud_assault_assault_murkywater_default" : "黑水雇傭兵行動中",
     "hud_assault_assault_russia_default" : "俄羅斯特警突襲中",
+    "hud_assault_assault_zombie_default": "聰明的Wolf也會變傻",
     "hud_assault_assault_federales_default" : "聯邦特警突擊中",
     "hud_assault_survived_fss_mod_1" : "自殺生存",
     "hud_assault_survived_fss_mod_2" : "存在主義",
@@ -276,8 +272,8 @@
     "hud_assault_endless_alpha_zeal" : "ZEAL 無盡突襲中",
     "hud_assault_endless_alpha_fbi" : "FBI 無盡突襲中",
     "hud_assault_endless_alpha_murkywater" : "黑水雇佣兵無盡突襲中",
-    "hud_assault_endless_alpha_halloween" : "聰明的Wolf也會變傻",
-    "hud_assault_endless_alpha_russian" : "俄羅斯人無盡突襲中",
+    "hud_assault_endless_alpha_zombie" : "聰明的Wolf也會變傻",
+    "hud_assault_endless_alpha_russia" : "俄羅斯人無盡突襲中",
     "hud_assault_endless_alpha_federales" : "無限聯邦特警突擊中",
     "hud_assault_survived_endless" : "波數存活(無盡突襲)",
     "hud_assault_survived_endless_fss_mod_1" : "我還不能死",

@@ -170,9 +170,6 @@
     "bai_faction_assault_text" : "Montre le nom de la faction dans la boite d´assaut",
     "bai_faction_assault_text_desc" : "Montre le nom de la faction durant un assaut dans la boite d´assaut\n'Texte personnalisé' est utilisé en priorité. Non applicable en mode Crime Spree",
 
-    "bai_modules" : "Modules",
-    "bai_modules_desc" : "Les modules améliore ou étend les fonctionnalités de BAI\nSi un module a des paramètres additionnels, ils seront listés ici",
-
     "bai_assault_panel_position" : "Position de la bannière d´assaut",
     "bai_assault_panel_position_desc" : "Ajuste la position de la bannière d´assaut sur l´écran",
     
@@ -180,8 +177,6 @@
     "bai_other_options_desc" : "",
     
     "bai_hudlist" : "HUDList",
-    "bai_hudlist_move_hostage_panel" : "",
-    "bai_hudlist_move_hostage_panel_desc" : "",
 
     "bai_animations" : "Options d´animation",
     "bai_animations_desc" : "Change comment les animations doivent fonctionner en jeu",
@@ -200,7 +195,7 @@
     "hud_assault_alpha_zeal" : "ASSAUT DU ZEAL SWAT",
     "hud_assault_alpha_fbi" : "ASSAUT DU FBI SWAT",
     "hud_assault_alpha_murkywater" : "OPÉRATION MURKYWATER",
-    "hud_assault_alpha_russian" : "ASSAUT RUSSE",
+    "hud_assault_alpha_russia" : "ASSAUT RUSSE",
     "hud_assault_alpha_federales" : "ASSAUT FÉDÉRAL",
     "hud_assault_assault_fss_mod_1" : "SUICIDE EN COURS",
     "hud_assault_assault_fss_mod_2" : "MASOCHISME EN COURS",
@@ -209,6 +204,7 @@
     "hud_assault_assault_zeal_default" : "ASSAUT DU ZEAL SWAT EN COURS",
     "hud_assault_assault_fbi_default" : "ASSAUT DU FBI SWAT EN COURS",
     "hud_assault_assault_murkywater_default" : "OPÉRATION MURKYWATER EN COURS",
+    "hud_assault_assault_zombie_default": "TOUT CECI REND WOLF TRISTE",
     "hud_assault_assault_russia_default" : "ASSAUT RUSSE EN COURS",
     "hud_assault_assault_federales_default" : "ASSAUT FÉDÉRAL EN COURS",
     "hud_assault_survived_fss_mod_1" : "SUICIDE SURVÉCU",
@@ -233,8 +229,8 @@
     "hud_assault_endless_alpha_zeal" : "ASSAUT ZEAL SWAT SANS FIN",
     "hud_assault_endless_alpha_fbi" : "ASSAUT FBI SWAT SANS FIN",
     "hud_assault_endless_alpha_murkywater" : "OPÉRATION MURKYWATER SANS FIN",
-    "hud_assault_endless_alpha_halloween" : "TOUT CECI REND WOLF TRISTE",
-    "hud_assault_endless_alpha_russian" : "ASSAUT RUSSE SANS FIN",
+    "hud_assault_endless_alpha_zombie" : "TOUT CECI REND WOLF TRISTE",
+    "hud_assault_endless_alpha_russia" : "ASSAUT RUSSE SANS FIN",
     "hud_assault_endless_alpha_federales" : "ASSAUT FÉDÉRAL SANS FIN",
     "hud_assault_survived_endless" : "ASSAUT SANS FIN SURVÉCU",
     "hud_assault_survived_endless_fss_mod_1" : "SUICIDE SANS FIN SURVÉCU",

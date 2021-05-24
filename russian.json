@@ -166,9 +166,6 @@
     "bai_faction_assault_text" : "Показывает название отряда в панели осады",
     "bai_faction_assault_text_desc" : "Показывает какой именно отряд наступает во время осады.\nВключенный 'Собственный текст' будет в проритете. Неприменимо для режима 'Серия ограблений'",
 
-    "bai_modules" : "Модули",
-    "bai_modules_desc" : "Модули улучшают или расширяют функционал мода.\nЕсли модуль имеет дополнительные опции - они будут отображены здесь",
-
     "bai_assault_panel_position" : "Место панели штурма",
     "bai_assault_panel_position_desc" : "Выбирает место для панели штурма",
 
@@ -176,8 +173,6 @@
     "bai_other_options_desc" : "",
 
     "bai_hudlist" : "Список HUD'а",
-    "bai_hudlist_move_hostage_panel" : "",
-    "bai_hudlist_move_hostage_panel_desc" : "",
 
     "bai_animations" : "Настройки анимации",
     "bai_animations_desc" : "Изменяет поведение анимаций в игре",
@@ -204,7 +199,7 @@
     "hud_assault_alpha_zeal" : "НАСТУПЛЕНИЕ ZEAL SWAT",
     "hud_assault_alpha_fbi" : "НАСТУПЛЕНИЕ FBI SWAT",
     "hud_assault_alpha_murkywater" : "ОПЕРАЦИЯ MURKYWATER",
-    "hud_assault_alpha_russian" : "НАСТУПЛЕНИЕ РУССКИХ НАЁМНИКОВ",
+    "hud_assault_alpha_russia" : "НАСТУПЛЕНИЕ РУССКИХ НАЁМНИКОВ",
     "hud_assault_alpha_federales" : "ШТУРМ ФЕДЕРАЛЕС",
     "hud_assault_assault_fss_mod_1" : "САМОУБИЙСТВО В ПРОЦЕССЕ",
     "hud_assault_assault_fss_mod_2" : "МАЗОХИЗМ В ПРОЦЕССЕ",
@@ -214,6 +209,7 @@
     "hud_assault_assault_fbi_default" : "ИДЁТ ШТУРМ FBI SWAT",
     "hud_assault_assault_murkywater_default" : "ИДЁТ ШТУРМ MURKYWATER",
     "hud_assault_assault_russia_default" : "ИДЁТ ШТУРМ РУССКИХ НАЁМНИКОВ",
+    "hud_assault_assault_zombie_default": "ВСЕ ЗАСТАВЛЯЮТ ВУЛЬФА ВЫГЛЯДИТЬ ДУРАКОМ",
     "hud_assault_assault_federales_default" : "ИДЕТ ШТУРМ ФЕДЕРАЛЕС",
     "hud_assault_survived_fss_mod_1" : "САМОУБИЙСТВО ПРЕДОТВРАЩЕНО",
     "hud_assault_survived_fss_mod_2" : "МАЗОХИЗМ ПЕРЕЖИТ",
@@ -237,8 +233,8 @@
     "hud_assault_endless_alpha_zeal" : "БЕСКОНЕЧНЫЙ ШТУРМ ZEAL SWAT",
     "hud_assault_endless_alpha_fbi" : "БЕСКОНЕЧНЫЙ ШТУРМ FBI SWAT",
     "hud_assault_endless_alpha_murkywater" : "БЕСКОНЕЧНАЯ ОПЕРАЦИЯ MURKYWATER",
-    "hud_assault_endless_alpha_halloween" : "ВСЕ ЗАСТАВЛЯЮТ ВУЛЬФА ВЫГЛЯДИТЬ ДУРАКОМ",
-    "hud_assault_endless_alpha_russian" : "БЕСКОНЕЧНОЕ НАСТУПЛЕНИЕ РУССКИХ",
+    "hud_assault_endless_alpha_zombie" : "ВСЕ ЗАСТАВЛЯЮТ ВУЛЬФА ВЫГЛЯДИТЬ ДУРАКОМ",
+    "hud_assault_endless_alpha_russia" : "БЕСКОНЕЧНОЕ НАСТУПЛЕНИЕ РУССКИХ",
     "hud_assault_endless_alpha_federales" : "БЕСКОНЕЧНЫЙ ШТУРМ ФЕДЕРАЛЕС",
     "hud_assault_survived_endless" : "БЕСКОНЕЧНЫЙ ШТУРМ ПЕРЕЖИТ",
     "hud_assault_survived_endless_fss_mod_1" : "НЕСКОНЧАЕМАЯ ЖАЖДА САМОУБИЙСТВА ПОДАВЛЕНА",

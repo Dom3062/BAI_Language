@@ -167,9 +167,6 @@
     "bai_faction_assault_text": "어설트 박스에 팩션 이름 표기",
     "bai_faction_assault_text_desc": "어설트 중에 어설트 박스에 팩션 이름을 표기합니다\n'커스텀 글자' 는 이 기능을 덮어씁니다. 크라임 스프리에 사용할수 없습니다",
 
-    "bai_modules": "모듈",
-    "bai_modules_desc": "모듈은 BAI를 개선하거나 BAI의 기능들을 추가합니다\n만약에 모듈에 추가 설정이 있는경우, 여기에 표기됩니다",
-
     "bai_assault_panel_position": "어설트 패널 위치",
     "bai_assault_panel_position_desc": "스크린에 표기될 어설트 패널의 위치를 설정합니다",
     "bai_assault_panel_position_1": "오른쪽",
@@ -180,8 +177,6 @@
     "bai_other_options_desc": "",
 
     "bai_hudlist": "HUDList",
-    "bai_hudlist_move_hostage_panel": "",
-    "bai_hudlist_move_hostage_panel_desc": "",
 
     "bai_animations": "애니메이션 설정",
     "bai_animations_desc": "애니메이션이 게임에 어떻게 행동할지 설정합니다",
@@ -200,7 +195,7 @@
     "hud_assault_alpha_zeal": "ZEAL 스왓 습격",
     "hud_assault_alpha_fbi": "FBI 스왓 습격",
     "hud_assault_alpha_murkywater": "머키워터 작전",
-    "hud_assault_alpha_russian": "러시안 습격",
+    "hud_assault_alpha_russia": "러시안 습격",
     "hud_assault_alpha_federales": "연방 습격",
     "hud_assault_assault_fss_mod_1": "자살 진행중",
     "hud_assault_assault_fss_mod_2": "마조히즘 진행중",
@@ -210,6 +205,7 @@
     "hud_assault_assault_fbi_default": "FBI 스왓 습격 진행중",
     "hud_assault_assault_murkywater_default": "머키워터 작전 진행중",
     "hud_assault_assault_russia_default": "러시안 습격 진행중",
+    "hud_assault_assault_zombie_default": "모두 다 울프를 바보로 만든다",
     "hud_assault_assault_federales_default": "연방 습격 진행중",
     "hud_assault_survived_fss_mod_1": "자살 생존",
     "hud_assault_survived_fss_mod_2": "마조히즘 생존",
@@ -233,8 +229,8 @@
     "hud_assault_endless_alpha_zeal": "끝이 없는 ZEAL 스왓 습격",
     "hud_assault_endless_alpha_fbi": "끝이 없는 FBI 스왓 습격",
     "hud_assault_endless_alpha_murkywater": "끝이 없는 머키워터 작전",
-    "hud_assault_endless_alpha_halloween": "모두 다 울프를 바보로 만든다",
-    "hud_assault_endless_alpha_russian": "끝이 없는 러시안 습격",
+    "hud_assault_endless_alpha_zombie": "모두 다 울프를 바보로 만든다",
+    "hud_assault_endless_alpha_russia": "끝이 없는 러시안 습격",
     "hud_assault_endless_alpha_federales": "끝이 없는 연방 습격",
     "hud_assault_survived_endless": "끝이 없는 웨이브 생존",
     "hud_assault_survived_endless_fss_mod_1": "끝없는 자살 생존",
