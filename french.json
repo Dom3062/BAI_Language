@@ -1,5 +1,5 @@
 {
-    "bai_mod_title" : "Meilleur Indicateur d'Assaut",
+    "bai_mod_title" : "Meilleur Indicateur d’Assaut",
     "bai_mod_desc" : "Changer les options du mod",
 
     "bai_menu_next_page" : "Page suivante",
@@ -14,34 +14,45 @@
     "bai_incompatible_huds_option" : "La valeur '$VALUE' est incompatible avec :\n",
     "bai_default_option" : "Si vous avez un HUD différent d´installé, cette option se définira par défaut :\n'$VALUE'",
     
-    "bai_language" : "Language",
-    "bai_language_desc" : "Change le language du mod. Pour que cela prend effet, un redémarrage du niveau est nécessaire.",
+    "bai_language" : "Langage",
+    "bai_language_desc" : "Change le langage du mod. Pour que cela prenne effet, un redémarrage du niveau est nécessaire.",
     "bai_language_1" : "Détecte automatiquement",
 
     "bai_compatibility" : "Compatibilité HUD",
-    "bai_compatibility_desc" : "Ici, vous pouvez sélectionner une compatibilité avec certains HUD que vous utilisez. L'application d'une mauvaise compatibilité HUD peut provoquer le plantage de votre jeu\n\n[Détection automatique: BAI essayera de détecter automatiquement votre HUD installé.]\n[N´importe quelle autre option : Force BAI d´appliquer le code de compatibilité pour ce HUD.]",
+    "bai_compatibility_desc" : "Ici, vous pouvez sélectionner une compatibilité avec certains HUD que vous utilisez. l’application d’une mauvaise compatibilité HUD peut provoquer le plantage de votre jeu\n\n[Détection automatique: BAI essayera de détecter automatiquement votre HUD installé.]\n[N´importe quelle autre option : Force BAI d´appliquer le code de compatibilité pour ce HUD.]",
+    "bai_compatibility_warning" : "Attention",
+    "bai_compatibility_warning_desc" : "Vous êtes en train de changer la compatibilité. Cette option ne dois SURTOUT PAS être changé sauf si il y a un problème avec le système de détection de MIA.\nIl est recommendé de garder cette option par défaut pour empécher les plantages. Le système de détection de MIA est suffisament intelligent pour détecter les changement de panneau d’assaut (e.x. Addition ATH/suppression).\nSélectionner une option de compatibilité incorrecte peut causer votre jeu de planter\n Voulez-vous continuer ?",
+    "bai_compatibility_warning_i_know_what_im_doing" : "Je comprend les conséquences.",
+    "bai_compatibility_warning_keep_me_safe" : "J’ai changé d’avis. Empêche-moi de faire des bétises.",
     "bai_compatibility_1" : "Détecte automatiquement",
-    "bai_compatibility_2" : "Vanilla",
+    "bai_compatibility_2" : "Par défaut",
 
-    "bai_holoui" : "Options d'HoloUI", 
+    "bai_hudlist_compatibility" : "Compatibilité HUDList",
+    "bai_hudlist_compatibility_desc": "Ici, vous pouvez sélectionner une compatibilité avec HUDList\nl’application d’une mauvaise compatibilité HUDList peut provoquer le plantage de votre jeu\n\n[Détection automatique: BAI essayera de détecter automatiquement HUDList et appliquer le code de compatibilité si nécessaire]\n[N´importe quelle autre option : Force BAI d´appliquer le code de compatibilité.]",
+    "bai_hudlist_compatibility_warning": "Attention",
+    "bai_hudlist_compatibility_warning_desc": "Vous êtes en train de changer la compatibilité. Cette option ne dois SURTOUT PAS être changé sauf si il y a un problème avec le système de détection de MIA.\nIl est recommendé de garder cette option par défaut pour empécher les plantages. Le système de détection de MIA est suffisament intelligent pour détecter les changement d’HUDList (e.x. addition/suppression).\nSélectionner une option de compatibilité incorrecte peut causer votre jeu de planter\n Voulez-vous continuer ?",
+    "bai_hudlist_compatibility_warning_i_know_what_im_doing": "Je comprend les conséquences.",
+    "bai_hudlist_compatibility_warning_keep_me_safe": "J’ai changé d’avis. Empêche-moi de faire des bétises.",
+
+    "bai_holoui" : "Options d’HoloUI", 
     "bai_holoui_desc" : "Applique les options spécifiques de BAI à HoloUI", 
     "bai_holoui_update_text_color" : "Mets à jour la couleur du texte", 
-    "bai_holoui_update_text_color_desc" : "En mettant à jour la couleur de la bannière d'assaut, aussi mettre à jour la couleur du texte",
+    "bai_holoui_update_text_color_desc" : "En mettant à jour la couleur de la bannière d’assaut, aussi mettre à jour la couleur du texte",
     
     "bai_pdth_hud_reborn" : " Options de PD:TH HUD Reborn",
     "bai_pdth_hud_reborn_desc" : "Applique les options spécifiques de BAI à PD:TH HUD Reborn",
     "bai_pdth_hud_reborn_custom_text_color" : "Utilise les couleurs customisées du texte",
-    "bai_pdth_hud_reborn_custom_text_color_desc" : "Quand désactivé, le jeu appliquera la couleur de l'îcone d'assaut au texte",
+    "bai_pdth_hud_reborn_custom_text_color_desc" : "Quand désactivé, le jeu appliquera la couleur de l’îcone d’assaut au texte",
     
     "bai_restoration_mod" : "Options de Restoration Mod",
     "bai_restoration_mod_desc" : "Applique les options spécifiques de BAI à Restoration Mod",
     "bai_restoration_mod_alpha_tape_only" : "Ruban alpha seulement",
     "bai_restoration_mod_alpha_tape_only_desc" : "Ces choix n´affectent seulement le 'bandeau Alpha' dans Restoration mod",
     "bai_restoration_mod_include_cover_text" : "Inclure le texte de couverture",
-    "bai_restoration_mod_include_cover_text_desc" : "Inclus le texte 'RESTEZ EN COUVERTURE' dans la boite d'assaut",
-    "bai_restoration_mod_use_alpha_assault_text" : "Utiliser le texte d'assaut alpha",
+    "bai_restoration_mod_include_cover_text_desc" : "Inclus le texte 'RESTEZ EN COUVERTURE' dans la boite d’assaut",
+    "bai_restoration_mod_use_alpha_assault_text" : "Utiliser le texte d’assaut alpha",
     "bai_restoration_mod_use_alpha_assault_text_desc" : "Utilise une version plus courte du texte 'ASSAUT POLICIER EN COURS'",
-    "bai_restoration_mod_use_alpha_endless_text" : "Utiliser le texte d'assaut sans fin alpha",
+    "bai_restoration_mod_use_alpha_endless_text" : "Utiliser le texte d’assaut sans fin alpha",
     "bai_restoration_mod_use_alpha_endless_text_desc" : "Utilise une version plus courte du texte 'ASSAUT POLICIER SANS FIN EN COURS'",
     "bai_restoration_mod_early_alpha_corner_only" : "Coin Alpha anticipée seulement",
     "bai_restoration_mod_early_alpha_corner_only_desc" : "Ces choix affectent seulement le 'Coin Alpha anticipée' dans Restoration mod",
@@ -55,11 +66,11 @@
     
     "bai_button_ok" : "OK",
     "bai_detected_wolfhud" : "Incompatibilité détectée avec WolfHUD",
-    "bai_detected_wolfhud_desc" : "L'option 'Informations d'assaut avancé' de WolfHUD n'est pas compatible avec BAI et a étée désactivée ; cette option a été activée dans BAI sous les noms 'Informations d'assaut avancés' et 'États d'assauts'.",
-    "bai_detected_assault_states" : "Incompatibilité détectée avec 'Assault States mod'",
-    "bai_detected_assault_states_desc" : "Il est recommandé de désactiver ou de supprimer 'Assault States mod', qui est incompatible avec BAI car il supporte déja les états d'assaut",
-    "bai_detected_wave_survived" : "Incompatibilité détectée avec 'Wave Survived mod'",
-    "bai_detected_wave_survived_desc" : "Il est recommandé de désactiver ou de supprimer 'Wave Survived mod', qui est incompatible avec BAI car il supporte déja les vagues survécus dans la bannière d'assaut.",
+    "bai_detected_wolfhud_desc" : "L’option 'Informations d’assaut avancé' de WolfHUD n’est pas compatible avec BAI et a étée désactivée ; cette option a été activée dans BAI sous les noms 'Informations d’assaut avancés' et 'États d’assauts'.",
+    "bai_detected_assault_states" : "Incompatibilité détectée avec 'Assault States mod’",
+    "bai_detected_assault_states_desc" : "Il est recommandé de désactiver ou de supprimer 'Assault States mod’, qui est incompatible avec BAI car il supporte déja les états d’assaut",
+    "bai_detected_wave_survived" : "Incompatibilité détectée avec 'Wave Survived mod’",
+    "bai_detected_wave_survived_desc" : "Il est recommandé de désactiver ou de supprimer 'Wave Survived mod’, qui est incompatible avec BAI car il supporte déja les vagues survécus dans la bannière d’assaut.",
     
     "bai_savedata_not_compatible" : "Sauvegarde non compatible avec cette version de BAI",
     "bai_savedata_not_compatible_desc" : "Il semble que le fonctionnement interne de BAI a changé et a rendu votre sauvegarde de BAI incompatible avec cette version. Malheureusement, je ne peux pas charger votre sauvegarde, donc j’ai préféré charger les options par défauts pour éviter un plantage du mod.\n\nDésolé du dérangement.",
@@ -67,18 +78,18 @@
     "bai_show_wave_survived" : "Montrer les vagues survécus",
     "bai_show_wave_survived_desc" : "Montrer les vagues survécus (du Raid de la Planque) à chaque fois que vous et votre crew survivez à un assaut de police",
 
-    "bai_hide_hostage_panel" : "Cacher le panneau d'otages",
-    "bai_hide_hostage_panel_assault_desc" : "Cache le panneau d'otages pendant l'assaut normal.",
-    "bai_hide_hostage_panel_captain_desc" : "Cache le panneau d'otages quand le Capitaine arrive",
-    "bai_hide_hostage_panel_endless_desc" : "Cache le panneau d'otages pendant un assaut sans fin",
+    "bai_hide_hostage_panel" : "Cacher le panneau d’otages",
+    "bai_hide_hostage_panel_assault_desc" : "Cache le panneau d’otages pendant l’assaut normal.",
+    "bai_hide_hostage_panel_captain_desc" : "Cache le panneau d’otages quand le Capitaine arrive",
+    "bai_hide_hostage_panel_endless_desc" : "Cache le panneau d’otages pendant un assaut sans fin",
 
-    "bai_completely_hide_hostage_panel" : "Cacher complètement le panneau d'otages",
-    "bai_completely_hide_hostage_panel_desc" : "Le panneau d'otages ne sera caché une fois la mission lancée.\nCette option ignore les options 'Cacher le panneau d'otages' précédents lorsqu'elle est activée.",
+    "bai_completely_hide_hostage_panel" : "Cacher complètement le panneau d’otages",
+    "bai_completely_hide_hostage_panel_desc" : "Le panneau d’otages ne sera caché une fois la mission lancée.\nCette option ignore les options 'Cacher le panneau d’otages' précédents lorsqu'elle est activée.",
 
     "bai_show_difficulty_name_instead_of_skulls" : "Montrer le nom de la difficulté",
-    "bai_show_difficulty_name_instead_of_skulls_desc" : "Montrer le nom de la difficulté plutôt que les crânes dans la boîte de l'assaut\nNon applicable en mode Crime Spree",
+    "bai_show_difficulty_name_instead_of_skulls_desc" : "Montrer le nom de la difficulté plutôt que les crânes dans la boîte de l’assaut\nNon applicable en mode Crime Spree",
 
-    "bai_host_only" : "Seulement pour l'hôte",
+    "bai_host_only" : "Seulement pour l’hôte",
     "bai_client_only" : "Seulement pour le client",
     
     "bai_r" : "Rouge",
@@ -91,26 +102,26 @@
     "bai_color": "Couleurs",
     "bai_color_desc": "Change la couleur de la boîte",
 
-    "bai_assault_box" : "Boîte d'assaut",
-    "bai_assault_box_desc" : "Change la couleur de la boîte d'assaut",
+    "bai_assault_box" : "Boîte d’assaut",
+    "bai_assault_box_desc" : "Change la couleur de la boîte d’assaut",
 
-    "bai_assault_box_mutated" : "Boîte d'assaut (Mutateurs activés)",
-    "bai_assault_box_mutated_desc" : "Change la couleur de la boîte d'assaut (Mutateurs activés)",
+    "bai_assault_box_mutated" : "Boîte d’assaut (Mutateurs activés)",
+    "bai_assault_box_mutated_desc" : "Change la couleur de la boîte d’assaut (Mutateurs activés)",
 
-    "bai_holdout_box" : "Boîte d'assaut (Défense)",
-    "bai_holdout_box_desc" : "Change la couleur de la boîte d'assaut (Défense)",
+    "bai_holdout_box" : "Boîte d’assaut (Défense)",
+    "bai_holdout_box_desc" : "Change la couleur de la boîte d’assaut (Défense)",
     
-    "bai_captain_box" : "Boîte d'assaut (Capitaine)",
-    "bai_captain_box_desc" : "Change la couleur de la boîte d'assaut (Quand le capitaine est arrivé)",
+    "bai_captain_box" : "Boîte d’assaut (Capitaine)",
+    "bai_captain_box_desc" : "Change la couleur de la boîte d’assaut (Quand le capitaine est arrivé)",
 
     "bai_captain_box_mutated" : "Assaut Box (Capitaine, Mutateurs activés)",
-    "bai_captain_box_mutated_desc" : "Change la couleur de la boîte d'assaut (Quand le capitaine est arrivé avec les mutateurs activés)",
+    "bai_captain_box_mutated_desc" : "Change la couleur de la boîte d’assaut (Quand le capitaine est arrivé avec les mutateurs activés)",
 
-    "bai_endless_box": "Boîte d'assaut sans fin",
-    "bai_endless_box_desc": "Change la couleur de la boîte d'assaut sans fin",
+    "bai_endless_box": "Boîte d’assaut sans fin",
+    "bai_endless_box_desc": "Change la couleur de la boîte d’assaut sans fin",
 
-    "bai_endless_box_mutated": "Boîte d'assaut sans fin (Mutateurs activés)",
-    "bai_endless_box_mutated_desc": "Change la couleur de la boîte d'assaut sans fin (Mutateurs activés)",
+    "bai_endless_box_mutated": "Boîte d’assaut sans fin (Mutateurs activés)",
+    "bai_endless_box_mutated_desc": "Change la couleur de la boîte d’assaut sans fin (Mutateurs activés)",
 
     "bai_survived_box": "Vague survécu",
     "bai_survived_box_desc": "Change la couleur de la boîte de vague survécu (S'applique aussi à la bannière de vague survécu dans le Raid de la Planque)",
@@ -123,23 +134,23 @@
     "bai_colors_reset" : "Réinitialiser les couleurs",
     "bai_colors_reset_desc" : "Réinitialise les couleurs à leurs valeurs par défaut",
 
-    "bai_show_assault_states" : "Montrer les États d'assaut",
-    "bai_show_assault_states_desc" : "Montre les États d'assaut (Contrôle, Anticipation, Développement, Support et Retrait) dans la boîte d'assaut\nCette option n'est pas disponible en cas d'assaut sans fin et quand le capitaine est présent",
+    "bai_show_assault_states" : "Montrer les États d’assaut",
+    "bai_show_assault_states_desc" : "Montre les États d’assaut (Contrôle, Anticipation, Développement, Support et Retrait) dans la boîte d’assaut\nCette option n’est pas disponible en cas d’assaut sans fin et quand le capitaine est présent",
 
-    "bai_assault_states" : "États d'assaut",
-    "bai_assault_states_desc" : "Change la couleur des États d'assaut et la visibilité de l'état dans la boîte d'assaut.",
+    "bai_assault_states" : "États d’assaut",
+    "bai_assault_states_desc" : "Change la couleur des États d’assaut et la visibilité de l’état dans la boîte d’assaut.",
 
-    "bai_enabled_not_assault_desc" : "Si coché, cela apparaîtra dans la boîte d'assaut. Si non, l'état ne sera pas visible dans la boîte d'assaut",
-    "bai_enabled_assault_desc" : "Si coché, cela apparaîtra dans la boîte d'assaut. Si non, la boîte d'assaut montrera l'assaut normal à la place.",
+    "bai_enabled_not_assault_desc" : "Si coché, cela apparaîtra dans la boîte d’assaut. Si non, l’état ne sera pas visible dans la boîte d’assaut",
+    "bai_enabled_assault_desc" : "Si coché, cela apparaîtra dans la boîte d’assaut. Si non, la boîte d’assaut montrera l’assaut normal à la place.",
 
-    "bai_show_advanced_assault_info" : "Montrer les infos d'Assaut avancées",
-    "bai_show_advanced_assault_info_desc" : "Affiche les informations 'Spawns restant' et 'Temps restant' dans la boîte d'Assaut\nCette option n'est pas disponible en cas d'assaut sans fin et quand le capitaine est présent",
+    "bai_show_advanced_assault_info" : "Montrer les infos d’Assaut avancées",
+    "bai_show_advanced_assault_info_desc" : "Affiche les informations 'Apparitions restant' et 'Temps restant' dans la boîte d’Assaut\nCette option n’est pas disponible en cas d’assaut sans fin et quand le capitaine est présent",
 
-    "bai_advanced_assault_info" : "Informations d'Assaut avancées",
-    "bai_advanced_assault_info_desc" : "Change les informations d'assaut avancées.",
+    "bai_advanced_assault_info" : "Informations d’Assaut avancées",
+    "bai_advanced_assault_info_desc" : "Change les informations d’assaut avancées.",
 
     "bai_show_time_left" : "Montre 'Temps Restant'",
-    "bai_show_time_left_desc" : "Montre le 'Temps Restant' dans la boite d'assaut\nCette option n'est pas précise quand vous vous connectez dans un partie en cours. Mais cela deviendra plus précis au fur et à mesure.",
+    "bai_show_time_left_desc" : "Montre le 'Temps Restant' dans la boite d’assaut\nCette option n’est pas précise quand vous vous connectez dans un partie en cours. Mais cela deviendra plus précis au fur et à mesure.",
      
     "bai_time_format" : "Format de Temps",
     "bai_time_format_desc" : "Change le format de temps utilisé par 'Temps Restant'\n\nExemple:\n[xx.xx (en s) - 88.64]\n['xx.xx' s - 88.64 s]\n[xx (en s) - 88]\n['xx' s - 88 s]\n['xx' min 'yy' s] - 1 min 28 s]\n[xx:yy - 01:28]",
@@ -150,8 +161,11 @@
     "bai_time_format_5" : "'xx' min 'yy' s",
     "bai_time_format_6" : "xx:yy",
 
-    "bai_show_spawns_left" : "Montre les 'Spawns restants'",
-    "bai_show_spawns_left_desc" : "Montre les 'Spawns restants' dans la boite d'assaut\nCette option n'est pas précise quand vous vous connectez dans un partie en cours. Mais cela deviendra plus précis au fur et à mesure.",
+    "bai_show_break_time_left" : "Montre le 'temps de pause restant'",
+    "bai_show_break_time_left_desc" : "Montre le 'temps de pause restant' dans le panneau d’assaut\n\nNote:\nCette option est imprécise si un script de la carte a volontairement agrandi le temps de pause entre les assauts. (Client seulement)\nSi MIA n’est pas sûr à propos du temps restant, il montrera une minute de temps de pause (Hôte uniquement)",
+
+    "bai_show_spawns_left" : "Montre les 'Apparitions restants'",
+    "bai_show_spawns_left_desc" : "Montre les 'Apparitions restants' dans la boite d’assaut\nCette option n’est pas précise quand vous vous connectez dans un partie en cours. Mais cela deviendra plus précis au fur et à mesure.",
     
     "bai_aai_panel" : "Style de panneau",
     "bai_aai_panel_desc" : "Modifie le style de panneau AAI",
@@ -163,12 +177,12 @@
 
     "bai_text_desc" : "Écrivez votre texte de la longueur souhaitée",
 
-    "bai_text_short_desc" : "Certains HUDs ont des petites boites d'assaut et utilise des textes plus courts à la place. Écrivez votre texte personnalisé le plus court possible",
+    "bai_text_short_desc" : "Certains HUDs ont des petites boites d’assaut et utilise des textes plus courts à la place. Écrivez votre texte personnalisé le plus court possible",
     "bai_custom_text" : "Texte personnalisé ici",
     "bai_custom_text_desc" : "Écrivez votre texte personnalisé ici",
     
     "bai_faction_assault_text" : "Montre le nom de la faction dans la boite d´assaut",
-    "bai_faction_assault_text_desc" : "Montre le nom de la faction durant un assaut dans la boite d´assaut\n'Texte personnalisé' est utilisé en priorité. Non applicable en mode Crime Spree",
+    "bai_faction_assault_text_desc" : "Montre le nom de la faction durant un assaut dans la boite d´assaut\n’Texte personnalisé' est utilisé en priorité. Non applicable en mode Crime Spree",
 
     "bai_assault_panel_position" : "Position de la bannière d´assaut",
     "bai_assault_panel_position_desc" : "Ajuste la position de la bannière d´assaut sur l´écran",
@@ -177,6 +191,8 @@
     "bai_other_options_desc" : "",
     
     "bai_hudlist" : "HUDList",
+    "bai_hudlist_move_hudlist" : "Position d’HUDList",
+    "bai_hudlist_move_hudlist_desc" : "Bouge HUDList gauche ou droite pour éviter le chevauchement avec d’autres panneaux.\n\nAttention : Une fois activé, cela prendra le dessus sur le décalage précédemment paramètré.",
 
     "bai_animations" : "Options d´animation",
     "bai_animations_desc" : "Change comment les animations doivent fonctionner en jeu",
@@ -245,10 +261,10 @@
     "hud_fade_default" : "Retrait",
     
     "hud_overdue" : "Retard",
-    "hud_time_left" : "Temps restant: ",
-    "hud_time_left_short" : "Temps: ",
-    "hud_spawns_left" : "Spawns restants: ",
-    "hud_spawns_left_short" : "Spawns: ",
+    "hud_time_left" : "Temps restant : ",
+    "hud_time_left_short" : "Temps : ",
+    "hud_spawns_left" : "Apparitions restants : ",
+    "hud_spawns_left_short" : "Apparitions : ",
     "hud_min" : "min",
     "hud_s" : "s",
     
