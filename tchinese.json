@@ -60,13 +60,13 @@
     "bai_show_wave_survived" : "在突襲横幅中顯示'波數存活'",
     "bai_show_wave_survived_desc" : "當你和你的隊友在安全屋突襲中從一波突襲中存活下来將會顯示.",
     
-    "bai_hide_hostage_panel" : "在什麼時候隱藏人質小組?",
+    "bai_hide_hostage_panel" : "在什麼時候隱藏人質?",
     "bai_hide_hostage_panel_assault_desc" : "普通突襲時隱藏",
     "bai_hide_hostage_panel_captain_desc" : "隊長到達時隱藏",
     "bai_hide_hostage_panel_endless_desc" : "無盡突襲時隱藏",
 
-    "bai_completely_hide_hostage_panel" : "Completely Hide Hostage Panel",
-    "bai_completely_hide_hostage_panel_desc" : "當您進入任務時，人質面板將不可見\n此設置啟用時忽略突襲、冬日隊長和無盡突襲中的“隱藏人質小組”選項",
+    "bai_completely_hide_hostage_panel" : "完全隱藏人質面板",
+    "bai_completely_hide_hostage_panel_desc" : "當您進入任務時，人質面板將不可見\n此設置啟用時忽略突襲、冬日隊長和無盡突襲中的“隱藏人質”選項",
 
     "bai_show_difficulty_name_instead_of_skulls" : "將横幅中難度顯示替换為難度名稱",
     "bai_show_difficulty_name_instead_of_skulls_desc" : "在突襲横幅中顯示當前難度名稱而不顯示難度等級（X 個骷髏頭）\n犯罪狂歡模式下無效",
