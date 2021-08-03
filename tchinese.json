@@ -1,11 +1,11 @@
 {
-    "bai_mod_title" : "更好的突襲橫幅(設定)",
+    "bai_mod_title" : "更好的突襲橫幅",
     "bai_mod_desc" : "在這裡更改BAI的設定",
-	
+
     "bai_language" : "語言",
     "bai_language_desc" : "更改mod使用語言,要使這個選項生效,需要重啟遊戲",
     "bai_language_1" : "自動檢測",
-	
+
     "bai_compatibility" : "HUD 兼容選項",
     "bai_compatibility_desc" : "可根據你所使用的 HUD 選擇所需要的兼容選項.\n若選錯可能會導致遊戲崩潰.\n默認自動識別當前使用的HUD",
     "bai_compatibility_1" : "自動識別",
@@ -18,7 +18,6 @@
     "bai_compatibility_8" : "Restoration Mod",
     "bai_compatibility_9" : "MUI",
     "bai_compatibility_10" : "KineticHUD",
-    "bai_compatibility_11" : "Halo: Reach HUD",
 
     "bai_holoui" : "適用於 HoloUI 的設定突變",
     "bai_holoui_desc" : "這些是為 HoloUI 而生的功能",
@@ -47,11 +46,6 @@
     "bai_c1" : "C1",
     "bai_c2" : "C2",
 
-    "bai_halo_reach_hud" : "Halo: Reach HUD選項",
-    "bai_halo_reach_hud_desc" : "將BAI特定設置應用於 Halo: Reach HUD",
-    "bai_halo_reach_hud_use_bai_color" : "使用BAI中的顏色",
-    "bai_halo_reach_hud_use_bai_color_desc" : "啟用後，攻擊面板將使用BAI中的顏色\n否則將使用默認顏色",
-
     "bai_button_ok" : "OK",
     "bai_detected_wolfhud" : "偵測到已啟用的 WolfHUD",
     "bai_detected_wolfhud_desc" : "WolfHUD 的高级突襲横幅功能與 BAI 不兼容且已被禁用. 你可以在 BAI 的設置界面中設置 '突襲狀態顯示' 功能 .",
@@ -62,20 +56,20 @@
 
     "bai_savedata_not_compatible" : "當前 BAI 配置文件與這個版本的 BAI 不兼容",
     "bai_savedata_not_compatible_desc" : "看来 BAI 的運作機制更新導致你的配置文件與新版本的 BAI 不兼容，可惜的是我無法加載配置文件，但至少幫你恢復默認以防止遊戲崩潰。\n\n對此造成的不便深表歉意。",
-
+    
     "bai_show_wave_survived" : "在突襲横幅中顯示'波數存活'",
     "bai_show_wave_survived_desc" : "當你和你的隊友在安全屋突襲中從一波突襲中存活下来將會顯示.",
     
-    "bai_hide_hostage_panel" : "在什麼時候隱藏人質面板?",
+    "bai_hide_hostage_panel" : "在什麼時候隱藏人質小組?",
     "bai_hide_hostage_panel_assault_desc" : "普通突襲時隱藏",
     "bai_hide_hostage_panel_captain_desc" : "隊長到達時隱藏",
     "bai_hide_hostage_panel_endless_desc" : "無盡突襲時隱藏",
 
-    "bai_completely_hide_hostage_panel" : "完全隱藏人質面板",
-    "bai_completely_hide_hostage_panel_desc" : "當你進入一个劫案時,不顯示人質面板.\n當打勾時,分時候隱藏人質面板的選項無效",
+    "bai_completely_hide_hostage_panel" : "Completely Hide Hostage Panel",
+    "bai_completely_hide_hostage_panel_desc" : "當您進入任務時，人質面板將不可見\n此設置啟用時忽略突襲、冬日隊長和無盡突襲中的“隱藏人質小組”選項",
 
     "bai_show_difficulty_name_instead_of_skulls" : "將横幅中難度顯示替换為難度名稱",
-    "bai_show_difficulty_name_instead_of_skulls_desc" : "在突襲横幅中顯示當前難度名稱而不顯示難度等級（X 个骷髏頭）\n犯罪狂歡模式下無效",
+    "bai_show_difficulty_name_instead_of_skulls_desc" : "在突襲横幅中顯示當前難度名稱而不顯示難度等級（X 個骷髏頭）\n犯罪狂歡模式下無效",
 
     "bai_host_only" : "當你作為主機時...",
     "bai_client_only" : "當你作為一名玩家時...",
@@ -84,8 +78,8 @@
     "bai_r_desc" : "設置红色的數值",
     "bai_g" : "绿色數值",
     "bai_g_desc" : "設置绿色的數值",
-    "bai_b" : "蓝色數值",
-    "bai_b_desc" : "設置蓝色的數值",
+    "bai_b" : "藍色數值",
+    "bai_b_desc" : "設置藍色的數值",
 
     "bai_color": "横幅顏色設置",
     "bai_color_desc": "更改突襲横幅的顏色數值",
@@ -165,14 +159,7 @@
     "bai_faction_assault_text" : "在突襲横幅中顯示敵人陣營",
     "bai_faction_assault_text_desc" : "在突襲横幅中顯示敵人的陣營\n'自定義文本' 無法與此功能同時使用. 犯罪狂歡模式下無效",
 
-    "bai_modules" : "模塊",
-    "bai_modules_desc" : "模塊改善或擴展了BAI的功能。 如果模塊有其他選項，則將在此處列出.",
-
-    "bai_assault_panel_position" : "突襲面板位置",
-    "bai_assault_panel_position_desc" : "在螢幕上設置突擊面板位置",
-    "bai_assault_panel_position_1" : "右",
-    "bai_assault_panel_position_2" : "中央",
-    "bai_assault_panel_position_3" : "左",
+    "bai_host_warning" : "看起來主機沒有運行 BAI。某些功能可能無法正常工作。當連接到其他主機時，此消息將再次顯示。",
     
     "hud_assault_alpha_fss_mod_1" : "自殺",
     "hud_assault_alpha_fss_mod_2" : "受虐狂",
@@ -242,5 +229,4 @@
     "hud_fss_mod_1" : "嘗試自殺中",
     "hud_fss_mod_2" : "持續受虐中",
     "hud_fss_mod_3" : "抖M認證中",
-    "hud_no_return" : "沒有回報"
 }
