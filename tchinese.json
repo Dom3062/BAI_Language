@@ -71,7 +71,7 @@
     "bai_detected_wave_survived_desc" : "Wave Survived mod 與BAI不兼容.BAI可以在你倖存下来的時候顯示 '波數存活'. 推薦禁用或移除該 MOD .",
 
     "bai_savedata_not_compatible" : "當前 BAI 配置文件與這個版本的 BAI 不兼容",
-    "bai_savedata_not_compatible_desc" : "看来 BAI 的運作機制更新導致你的配置文件與新版本的 BAI 不兼容，可惜的是我無法加載配置文件，但至少幫你恢復默認以防止遊戲崩潰。\n\n對此造成的不便深表歉意。",
+    "bai_savedata_not_compatible_desc" : "看来 BAI 的運作機制更新導致你的配置文件與新版本的 BAI 不兼容，無法加載配置文件，恢復默認以防止遊戲崩潰。\n\n對此造成的不便深表歉意。",
     
     "bai_show_wave_survived" : "在突襲横幅中顯示'波數存活'",
     "bai_show_wave_survived_desc" : "當你和你的隊友在安全屋突襲中從一波突襲中存活下来將會顯示.",
@@ -144,31 +144,31 @@
     "bai_enabled_not_assault_desc" : "若啟用, 這個狀態將顯示在突襲横幅中. 若不啟用,該狀態不會顯示在横幅中.",
     "bai_enabled_assault_desc" : "若啟用, 這個狀態將顯示在突襲横幅中. 若不啟用,該狀態不會顯示在横幅中.",
 
-    "bai_show_advanced_assault_info" : "Show Advanced Assault Info",
-    "bai_show_advanced_assault_info_desc" : "Shows 'Spawns Left' and 'Time Left' information in the Assault Box\nThe info is not available on endless assault and when captain is present",
+    "bai_show_advanced_assault_info" : "顯示進階攻擊信息",
+    "bai_show_advanced_assault_info_desc" : "在突擊框中顯示“Spawns Left”和“Time Left”信息\n該信息在無盡突擊和冬日隊長在場時不可用",
 
-    "bai_advanced_assault_info" : "Advanced Assault Info",
-    "bai_advanced_assault_info_desc" : "Changes Advanced Assault Info",
+    "bai_advanced_assault_info" : "進階攻擊信息",
+    "bai_advanced_assault_info_desc" : "更改進階攻擊信息",
 
-    "bai_show_time_left" : "Show 'Time Left'",
-    "bai_show_time_left_desc" : "Shows 'Time Left' in the Assault Box\nThis option is not accurate when you jump in to a game in progress. But it will get accurate later on",
+    "bai_show_time_left" : "顯示'剩餘時間'",
+    "bai_show_time_left_desc" : "在突擊框中顯示“剩餘時間”\n當你加入一個進行中的遊戲時,數值顯示可能不準確，一小會後將會糾正",
     
-    "bai_time_format" : "Time Format",
-    "bai_time_format_desc" : "Changes Time Format showed with 'Time Left' info\n\nExample:",
-    "bai_time_format_1" : "xx.xx (in s)",
-    "bai_time_format_2" : "'xx.xx' s",
-    "bai_time_format_3" : "xx (in s)",
-    "bai_time_format_4" : "'xx' s",
-    "bai_time_format_5" : "'xx' min 'yy' s",
+    "bai_time_format" : "時間格式",
+    "bai_time_format_desc" : "設定突擊橫幅中'剩餘時間'的顯示格式\n\nExample:",
+    "bai_time_format_1" : "xx.xx(單位為秒)",
+    "bai_time_format_2" : "'xx.xx' 秒",
+    "bai_time_format_3" : "xx(單位為秒)",
+    "bai_time_format_4" : "xx 秒",
+    "bai_time_format_5" : "'xx' 分鐘 'yy' 秒",
     "bai_time_format_6" : "xx:yy",
 
-    "bai_show_break_time_left" : "Show 'Break Time Left'",
-    "bai_show_break_time_left_desc" : "Shows 'Break Time Left' in the Assault Box\n\nNote:\nThis option is not accurate when a map script artifically increased break time between assaults. (client only)\nIf not BAI is not sure about the remaining time, it shows 1 minute remaining. (host only)",
+    "bai_show_break_time_left" : "顯示剩餘撤離時間'",
+    "bai_show_break_time_left_desc" : "在突擊框中顯示“剩餘撤離時間”\n\nNote:\n當地圖腳本人為增加攻擊之間的撤離時間時，此選項不准確(僅限客戶端)\n如果BAI 不確定剩餘時間，則顯示剩餘 1 分鐘.（僅限主機）",",
 
-    "bai_show_spawns_left" : "Show 'Spawns Left'",
+    "bai_show_spawns_left" : "剩餘重生時間",
     "bai_show_spawns_left_desc" : "Shows 'Spawns Left' in the Assault Box\nThis option is not accurate when you jump in to a game in progress. But it will get accurate later on",
 
-    "bai_spawn_numbers" : "Spawn Numbers",
+    "bai_spawn_numbers" : "重生數字",
     "bai_spawn_numbers_desc" : "Defines how spawns should be calculated",
     "bai_spawn_numbers_1" : "Show total spawns allowed for an assault",
     "bai_spawn_numbers_2" : "Show number of spawned enemies",
