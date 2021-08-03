@@ -151,7 +151,7 @@
     "bai_advanced_assault_info_desc" : "更改進階攻擊信息",
 
     "bai_show_time_left" : "顯示'剩餘時間'",
-    "bai_show_time_left_desc" : "在突擊框中顯示“剩餘時間”\n當你加入一個進行中的遊戲時,數值顯示可能不準確,一小會後將會糾正",
+    "bai_show_time_left_desc" : "在突擊框中顯示“剩餘時間”\n當你加入一個進行中的遊戲時,數值顯示可能不準確,需要一點時間讀取才會顯示正確剩餘時間",
     
     "bai_time_format" : "時間格式",
     "bai_time_format_desc" : "設定突擊橫幅中'剩餘時間'的顯示格式\n\nExample:",
@@ -166,7 +166,7 @@
     "bai_show_break_time_left_desc" : "在突擊框中顯示“剩餘休息時間”\n\nNote:\n當地圖腳本人為增加攻擊之間的撤離時間時,數值可能不准確(僅限客戶端)\n如果BAI 不確定剩餘時間,則顯示剩餘 1 分鐘.（僅限主機）",",
 
     "bai_show_spawns_left" : "顯示'剩餘敵人數量'",
-    "bai_show_spawns_left_desc" : "在突襲框中顯示“敵人剩餘數量”\n當你加入一個進行中的遊戲時,數值顯示可能不準確,一小會後將會糾正",
+    "bai_show_spawns_left_desc" : "在突襲框中顯示 '剩餘敵人數量'\n當您加入到正在進行的遊戲時,數值顯示可能不準確,需要一點時間讀取才會顯示正確剩餘時間",
 
     "bai_spawn_numbers" : "重生數字",
     "bai_spawn_numbers_desc" : "設置如何計算生成數",
