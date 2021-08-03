@@ -165,8 +165,8 @@
     "bai_show_break_time_left" : "顯示剩餘休息時間'",
     "bai_show_break_time_left_desc" : "在突擊框中顯示“剩餘休息時間”\n\nNote:\n當地圖腳本人為增加攻擊之間的撤離時間時,數值可能不准確(僅限客戶端)\n如果BAI 不確定剩餘時間,則顯示剩餘 1 分鐘.（僅限主機）",",
 
-    "bai_show_spawns_left" : "Show 'Spawns Left'",
-    "bai_show_spawns_left_desc" : "Shows 'Spawns Left' in the Assault Box\nThis option is not accurate when you jump in to a game in progress. But it will get accurate later on",
+    "bai_show_spawns_left" : "顯示'剩餘敵人數量'",
+    "bai_show_spawns_left_desc" : "在突襲框中顯示 '剩餘敵人數量'\n當您加入到正在進行的遊戲時,數值顯示可能不準確,需要一點時間讀取才會顯示正確剩餘時間",
 
     "bai_spawn_numbers" : "Spawn Numbers",
     "bai_spawn_numbers_desc" : "Defines how spawns should be calculated",
