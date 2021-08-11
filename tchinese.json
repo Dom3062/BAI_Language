@@ -30,7 +30,7 @@
     "bai_hudlist_compatibility" : "HUDList 兼容性",
     "bai_hudlist_compatibility_desc": "在這裡您可以選擇與HUD列表的兼容性\n應用錯誤的HUD列表兼容性可能會導致您的遊戲崩潰\n\n[自動檢測：BAI 將嘗試檢測HUD列表,並在必要時應用兼容性]\n[任何其他選項：強制BAI加載兼容性代碼]",
     "bai_hudlist_compatibility_warning": "警告",
-    "bai_compatibility_warning_desc" : "您即將更改兼容性. 除非BAI的檢測有問題,否則請勿更改此設置.\n建議將此設置保留為默認防止崩潰. BAI 的檢測系統可以檢測到突擊面板的變化（例如 HUD 添加/移除）\n選擇錯誤的兼容性選項可能會導致您的遊戲崩潰.n您想繼續嗎 ?",
+    "bai_hudlist_compatibility_warning_desc" : "您即將更改兼容性. 除非BAI的檢測有問題,否則請勿更改此設置.\n建議將此設置保留為默認防止崩潰. BAI 的檢測系統可以檢測到突擊面板的變化（例如 HUD 添加/移除）\n選擇錯誤的兼容性選項可能會導致您的遊戲崩潰.n您想繼續嗎 ?",
     "bai_hudlist_compatibility_warning_i_know_what_im_doing": "我明白後果",
     "bai_hudlist_compatibility_warning_keep_me_safe": "我改變主意了, 確保我的安全.",
 
