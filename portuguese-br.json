@@ -19,9 +19,20 @@
     "bai_language_1" : "Auto detectação",
 
     "bai_compatibility" : "Compatibilidade da HUD",
-    "bai_compatibility_desc" : "Aqui deixa você selecionar a compatibilidade de uma certa HUD que você tá usando\nAplicando a HUD errda pode ser que o seu jogo crasha\n\n[Auto detectação: BAI vai tentar detectar a HUD instalada]\n[Qualquer outra opção: Força o BAI carregar a compatibilidade para essa HUD]",
+    "bai_compatibility_desc" : "Aqui você pode selecionar uma compatibilidade com HUD\nAplicando a HUD errada pode causar Crash\n\n[Auto detectação: BAI irá tentar detectar a sua HUD e aplicar a compatibilidade se necessário]\n[Qualquer outra opção: Força o BAI para carregar a compatibilidade para essa HUD]",
+    "bai_compatibility_warning" : "Aviso",
+    "bai_compatibility_warning_desc" : "Você está a prestes a selecionar uma compatibilidade. Essa configuração NÃO DEVE ser mudada, a menos tem um problema na detectação do BAI.\nÉ recomendado manter no seu estado padrão para evitar Crashes. A detectação do BAI é esperta suficiente para detectar mudanças do Painel da Operação (Quando tira ou adiciona uma HUD, por exemplo).\nSelecionando uma opção errada pode causar Crashes.\nDeseja continuar?",
+    "bai_compatibility_warning_i_know_what_im_doing" : "Entendo o que estou fazendo.",
+    "bai_compatibility_warning_keep_me_safe" : "Mudei de ideia. Desejo ficar seguro.",
     "bai_compatibility_1" : "Auto detectação",
     "bai_compatibility_2" : "Vanilla",
+
+    "bai_hudlist_compatibility" : "Compatibilidade de HUDList",
+    "bai_hudlist_compatibility_desc": "Aqui você pode selecionar uma compatibilidade com HUDList\nAplicando a HUDList errada pode causar Crash\n\n[Auto detectação: BAI irá tentar detectar a sua HUDList e aplicar a compatibilidade se necessário]\n[Qualquer outra opção: Força o BAI para carregar a compatibilidade para essa HUDList]",
+    "bai_hudlist_compatibility_warning": "Aviso",
+    "bai_hudlist_compatibility_warning_desc": "Você está a prestes a selecionar uma compatibilidade. Essa configuração NÃO DEVE ser mudada, a menos tem um problema na detectação do BAI.\nÉ recomendado manter no seu estado padrão para evitar Crashes. A detectação do BAI é esperta suficiente para detectar mudanças do Painel da Operação (Quando tira ou adiciona uma HUDList, por exemplo).\nSelecionando uma opção errada pode causar Crashes.\nDeseja continuar?",
+    "bai_hudlist_compatibility_warning_i_know_what_im_doing": "Entendo o que estou fazendo.",
+    "bai_hudlist_compatibility_warning_keep_me_safe": "Mudei de ideia. Desejo ficar seguro.",
 
     "bai_holoui_desc" : "Aplique as opções específicas ao HoloUI",
     "bai_holoui_update_text_color" : "Atualizar a cor do texto",
@@ -51,18 +62,20 @@
     "bai_halo_reach_hud_use_bai_color_desc" : "Quando ativado, o banner do assault vai usar cores do BAI\nCaso contrário, a cor padrão vai ser usada",
 
     "bai_button_ok" : "OK",
-    "bai_detected_wolfhud" : "Detectou alguma incompatibilidade com WolfHUD",
-    "bai_detected_wolfhud_desc" : "A opção de 'Advanced Assault Info de WolfHUD não é compátivel e foi desligado. Essa opção foi ligada nas configurações do BAI com nome de 'Informação de Assault Avançado' e 'Estágios do Assault'.",
-    "bai_detected_assault_states" : "Detectou alguma incompatibilidade com o mod 'Assault States'",
-    "bai_detected_assault_states_desc" : "O mod 'Assault States' é incompátivel com BAI. BAI foi feito pra estágios do Assault. É recomendado que remove ou desativar o mod 'Assault States'.",
-    "bai_detected_wave_survived" : "Detectou alguma incompatibilidade com o mod 'Wave Survived'",
-    "bai_detected_wave_survived_desc" : "O mod 'Wave Survived' é incompátivel com BAI. BAI foi feito pra mostra o banner o texto de onda sobrevivida. É compátivel com o mod 'Wave Survived'.",
+    "bai_detected_wolfhud" : "Detectado incompatibilidade com WolfHUD",
+    "bai_detected_wolfhud_desc" : "A opção 'Advanced Assault Info' do WolfHUD não é compatível com BAI e foi desativado. A mesma opção foi ativado em BAI, em 'Informações avançadas da Operação' e 'Estágios da Operação'.",
+    "bai_detected_vanillahudplus" : "Detectado incompatibilidade com VanillaHUDPlus",
+    "bai_detected_vanillahudplus_desc" : "A opção 'Advanced Assault Info' do VanillaHUDPlus não é compatível com BAI e foi desativado. A mesma opção foi ativado em BAI, em 'Informações avançadas da Operação' e 'Estágios da Operação'.",
+    "bai_detected_assault_states" : "Detectado incompatibilidade com o mod 'Assault States'",
+    "bai_detected_assault_states_desc" : "o mod 'Assault States' é incompatível com BAI. BAI tem suporte com os estágios da Operação. É recomendado que desabilite ou remove o mod 'Assault States'.",
+    "bai_detected_wave_survived" : "Detectado incompatibilidade com o mod 'Wave Survived'",
+    "bai_detected_wave_survived_desc" : "o mod 'Wave Survived' é incompatível com BAI. BAI tem suporte para mostrar o texto de Operação Sobrevivida. É recomendado que desabilite ou remove o mod 'Wave Survived'.",
 
     "bai_savedata_not_compatible" : "Os dados salvos não é compátivel com essa versão do BAI",
     "bai_savedata_not_compatible_desc" : "Parece que mudou o jeito do BAI funcionar e fez o seu save do BAI ficar compátivel com essa nova versão. Desculpa se não pude carregar o seu save, pelo menos as configurações voltaram ao seu estágio padrão, pra não ter risco de crashar.\n\nDesculpa por isso.",
     
-    "bai_show_wave_survived" : "Mostrar o texto de 'Onda Sobrevivida'",
-    "bai_show_wave_survived_desc" : "Mostra o texto de onda sobrevivida (do Safehouse Raid) toda vez quando você e o seu time sobreviva um assault da polícia",
+    "bai_show_wave_survived" : "Mostrar o texto de 'Operação Sobrevivida'",
+    "bai_show_wave_survived_desc" : "Mostra o texto de Operação Sobrevivida (do Safehouse Raid) toda vez quando você e o seu time sobreviva uma Operação da polícia",
     
     "bai_hide_hostage_panel" : "Esconder o contador de refém",
     "bai_hide_hostage_panel_assault_desc" : "Esconde o contador de refém durante a Operação Policial",
@@ -129,8 +142,8 @@
     "bai_assault_states" : "Estágios da Operação",
     "bai_assault_states_desc" : "Mude as cores dos estágios e os estágios aparecendo na Caixa da Operação",
 
-    "bai_enabled_not_assault_desc" : "Se ligado, irá mostra na Caixa da Operação. Se não, Esse estágio não irá aparecer na caixa",
-    "bai_enabled_assault_desc" : "Se ligado, vai mostra na Caixa da Operação. Se não, a caixa normal da Operação irá aparecer",
+    "bai_enabled_not_assault_desc" : "Se ligado, irá mostrar na Caixa da Operação. Se não, Esse estágio não irá aparecer na caixa",
+    "bai_enabled_assault_desc" : "Se ligado, vai mostrar na Caixa da Operação. Se não, a caixa normal da Operação irá aparecer",
 
     "bai_show_advanced_assault_info" : "Mostrar as informações",
     "bai_show_advanced_assault_info_desc" : "Mostra 'Spawns restantes' e 'Tempo restante' na Caixa da Operação\nNão irá aparecer enquanto tiver a Operação Sem Fim ou quando o Captain estiver presente",
@@ -149,6 +162,9 @@
     "bai_time_format_4" : "'xx' s",
     "bai_time_format_5" : "'xx' min 'yy' s",
     "bai_time_format_6" : "xx:yy",
+
+    "bai_show_break_time_left" : "Mostrar 'Intervalo Restante'",
+    "bai_show_break_time_left_desc" : "Mostrar 'Intervalo Restante' no painel da Operação\n\nNota:Essa opção não é priciso quando o mapa tem um script que aumenta esse intervalo entre as Operações (Apenas Cliente)\nSe o BAI não tiver certeza quanto tempo o intervalo tem, irá mostrar 1 minuto. (Apenas Host).",
 
     "bai_show_spawns_left" : "Mostrar 'Spawns restantes'",
     "bai_show_spawns_left_desc" : "Mostra quantos 'Spawns restam' na caixa da Operação\nTalvez não seja preciso quando você entra em um jogo em progresso, mas depois fica preciso",
@@ -199,6 +215,8 @@
     "bai_other_options_desc" : "",
 
     "bai_hudlist" : "HUDList",
+    "bai_hudlist_move_hudlist" : "Mover HUDList",
+    "bai_hudlist_move_hudlist_desc" : "Move a lista esquerda e direita da HUDList para evitar que colidem com os outros painels.\n\nAviso: quando ativado, isso ignora as posições configuradas.",
 
     "bai_animations" : "Animações",
     "bai_animations_desc" : "Muda como as animações devem se comportar no jogo",
@@ -211,6 +229,9 @@
 	
     "bai_animation_speed" : "Velocidade da Animação",
     "bai_animation_speed_desc" : "Aumentando esse valor vai fazer a animação ir devagar. Diminuindo vai fazer rápido.",
+    
+    "bai_chat" : "Chat",
+    "bai_chat_desc" : "Define quais informações devem ser enviados pelo chat",
     
     "bai_normal" : "Normal",
     "bai_hard" : "Hard",
@@ -283,17 +304,19 @@
     "hud_fade_default" : "Fade",
 
     "hud_overdue" : "Tempo Extra",
-    "hud_time_left" : "Tempo restando: ",
+    "hud_time_left" : "Tempo restante: ",
     "hud_time_left_short" : "Tempo: ",
-    "hud_spawns_left" : "Spawns restando: ",
+    "hud_spawns_left" : "Spawns restante: ",
     "hud_spawns_left_short" : "Spawns: ",
+    "hud_break_time_left" : "Intervalo restante: ",
+    "hud_break_time_left_short" : "Intervalo: ",
     "hud_min" : "min",
     "hud_s" : "s",
 
     "hud_assault_default" : "Operação",
     "hud_endless_default" : "Sem fim",
-    "hud_captain_default" : "Captain",
-    "hud_captain_active" : "Chegou Captain",
+    "hud_captain_default" : "Capitão",
+    "hud_captain_active" : "Chegou Capitão",
     "hud_survived_default" : "Sobreviveu",
     "hud_fss_mod_1" : "Suicídio",
     "hud_fss_mod_2" : "Machismo",
