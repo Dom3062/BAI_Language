@@ -145,6 +145,14 @@
 
     "bai_faction_assault_text" : "zeige fraktionsname im vorstoßfeld an",
     "bai_faction_assault_text_desc" : "zeigt den name der fraktion währden eines vorstoßes im vorstoßfeld an\n'persönlicher text' überschreibt diese einstellung. Nicht anwendbar in der Crime_Spree",
+
+    "bai_normal" : "Normal",
+    "bai_hard" : "Schwer",
+    "bai_very_hard" : "Sehr schwer",
+    "bai_overkill" : "OVERKILL",
+    "bai_mayhem" : "Chaos",
+    "bai_death_wish" : "Todeswunsch",
+    "bai_death_sentence" : "Todesurteil",
     
     "hud_assault_alpha_fss_mod_1" : "selbstmord",
     "hud_assault_alpha_fss_mod_2" : "Masochismus",

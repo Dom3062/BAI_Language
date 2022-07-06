@@ -13,6 +13,7 @@
     "bai_incompatible_huds" : "The value '$VALUE' is not compatible with:\n",
     "bai_incompatible_huds_option" : "This option is not compatible with:\n",
     "bai_default_option" : "If you have different HUD installed, this option will default to:\n'$VALUE'",
+    "bai_default_option_2": "This option will default to '$VALUE' if selected",
 
     "bai_language" : "Language",
     "bai_language_desc" : "Changes mod language. To take effect, a level restart is required.",
@@ -26,6 +27,7 @@
     "bai_compatibility_warning_keep_me_safe" : "I changed my mind. Keep me safe.",
     "bai_compatibility_1" : "Autodetect",
     "bai_compatibility_2" : "Vanilla",
+    "bai_compatibility_hudlist_disabled" : "Disable HUDList detection",
 
     "bai_hudlist_compatibility" : "HUDList Compatibility",
     "bai_hudlist_compatibility_desc": "Here you can select a compatibility with HUDList\nApplying wrong HUDlist compatibility may cause your game to crash\n\n[Autodetect: BAI will try to detect HUDList and apply compatibility if necessary]\n[Any other option: Forces BAI to load compatibility code]",
@@ -53,6 +55,7 @@
     "bai_restoration_mod_use_alpha_endless_text_desc" : "Uses shorter version of 'ENDLESS POLICE ASSAULT IN PROGRESS' text",
     "bai_restoration_mod_early_alpha_corner_only" : "Early Alpha Corner only",
     "bai_restoration_mod_early_alpha_corner_only_desc" : "These choices only affects 'Early Alpha Corner' in Restoration Mod",
+
     "bai_c1" : "C1",
     "bai_c2" : "C2",
 
@@ -163,7 +166,7 @@
     "bai_time_format_6" : "xx:yy",
 
     "bai_show_break_time_left" : "Show 'Break Time Left'",
-    "bai_show_break_time_left_desc" : "Shows 'Break Time Left' in the Assault Box\n\nNote:\nThis option is not accurate when a map script artifically increased break time between assaults. (client only)\nIf not BAI is not sure about the remaining time, it shows 1 minute remaining. (host only)",
+    "bai_show_break_time_left_desc" : "Shows 'Break Time Left' in the Assault Box\n\nNote:\nThis option is not accurate when a map script artifically increased break time between assaults. (client only)\nIf BAI is not sure about the remaining time, it shows 1 minute remaining. (host only)",
 
     "bai_show_spawns_left" : "Show 'Spawns Left'",
     "bai_show_spawns_left_desc" : "Shows 'Spawns Left' in the Assault Box\nThis option is not accurate when you jump in to a game in progress. But it will get accurate later on",
@@ -209,6 +212,12 @@
     "bai_assault_panel_position_8" : "Bottom Center",
     "bai_assault_panel_position_9" : "Bottom Right",
     "bai_assault_panel_position_default_position" : "or default position",
+
+    "bai_wave_counter" : "Wave Panel",
+    "bai_wave_counter_desc" : "Sets Wave Panel position",
+    "bai_wave_counter_1" : "Panel",
+    "bai_wave_counter_2" : "Text close to Assault Box",
+    "bai_wave_counter_3" : "In the Assault Text",
 
     "bai_other_options" : "Other Options",
     "bai_other_options_desc" : "",

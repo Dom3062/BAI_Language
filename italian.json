@@ -175,6 +175,14 @@
 
     "bai_enable_animations" : "Attiva animazioni",
     "bai_enable_animations_desc" : "Quando disattivato, tutte le animazioni saranno istantanee (comportamento di default)",
+
+    "bai_normal" : "Normale",
+    "bai_hard" : "Difficile",
+    "bai_very_hard" : "Molto difficile",
+    "bai_overkill" : "OVERKILL",
+    "bai_mayhem" : "Distruzione",
+    "bai_death_wish" : "Apocalisse",
+    "bai_death_sentence" : "Sentenza di morte",
     
     "hud_assault_alpha_fss_mod_1" : "SUICIDA",
     "hud_assault_alpha_fss_mod_2" : "MASOCHISMO",

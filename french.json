@@ -203,6 +203,14 @@
     "bai_animation_speed" : "Vitesse d´animation",
     "bai_animation_speed_desc" : "Augmenter cette valeur fera changer l´animation de couleur plus lentement. La réduire la rendra plus rapide.",
 
+    "bai_normal" : "Normal",
+    "bai_hard" : "Difficile",
+    "bai_very_hard" : "Très difficile",
+    "bai_overkill" : "OVERKILL",
+    "bai_mayhem" : "Chaotique",
+    "bai_death_wish" : "Suicidaire",
+    "bai_death_sentence" : "Peine de mort",
+
     "hud_assault_alpha_fss_mod_1" : "SUICIDE",
     "hud_assault_alpha_fss_mod_2" : "MASOCHISTE",
     "hud_assault_alpha_fss_mod_3" : "MASOCHISTE ?",

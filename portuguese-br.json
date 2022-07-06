@@ -26,6 +26,7 @@
     "bai_compatibility_warning_keep_me_safe" : "Mudei de ideia. Desejo ficar seguro.",
     "bai_compatibility_1" : "Auto detectação",
     "bai_compatibility_2" : "Vanilla",
+    "bai_compatibility_hudlist_disabled" : "Disable HUDList detection",
 
     "bai_hudlist_compatibility" : "Compatibilidade de HUDList",
     "bai_hudlist_compatibility_desc": "Aqui você pode selecionar uma compatibilidade com HUDList\nAplicando a HUDList errada pode causar Crash\n\n[Auto detectação: BAI irá tentar detectar a sua HUDList e aplicar a compatibilidade se necessário]\n[Qualquer outra opção: Força o BAI para carregar a compatibilidade para essa HUDList]",
@@ -234,8 +235,8 @@
     "bai_chat_desc" : "Define quais informações devem ser enviados pelo chat",
     
     "bai_normal" : "Normal",
-    "bai_hard" : "Hard",
-    "bai_very_hard" : "Very Hard",
+    "bai_hard" : "Difícil",
+    "bai_very_hard" : "Muito Difícil",
     "bai_overkill" : "OVERKILL",
     "bai_mayhem" : "Mayhem",
     "bai_death_wish" : "Death Wish",

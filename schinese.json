@@ -26,6 +26,7 @@
     "bai_compatibility_warning_keep_me_safe" : "不了，使用默认的设置",
     "bai_compatibility_1" : "自动侦测",
     "bai_compatibility_2" : "原版",
+    "bai_compatibility_hudlist_disabled" : "禁用HUDList侦测",
 	
 	"bai_hudlist_compatibility" : "适用于HUDList的设置",
     "bai_hudlist_compatibility_desc": "在这里您可以选择与HUDList的兼容选项\n使用错误的HUDlist兼容选项可能会导致游戏崩溃\n\n[自动检测：BAI将尝试检测HUDList并在必要时更改兼容选项] \n [其他：强制BAI加载兼容代码]",
