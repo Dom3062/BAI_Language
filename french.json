@@ -13,6 +13,7 @@
     "bai_incompatible_huds" : "La valeur '$VALUE' est incompatible avec :\n",
     "bai_incompatible_huds_option" : "La valeur '$VALUE' est incompatible avec :\n",
     "bai_default_option" : "Si vous avez un HUD différent d´installé, cette option se définira par défaut :\n'$VALUE'",
+    "bai_default_option_2": "Cette option aura pour défaut '$VALUE' si selectionnée",
     
     "bai_language" : "Langage",
     "bai_language_desc" : "Change le langage du mod. Pour que cela prenne effet, un redémarrage du niveau est nécessaire.",
@@ -26,6 +27,7 @@
     "bai_compatibility_warning_keep_me_safe" : "J’ai changé d’avis. Empêche-moi de faire des bétises.",
     "bai_compatibility_1" : "Détecte automatiquement",
     "bai_compatibility_2" : "Par défaut",
+    "bai_compatibility_hudlist_disabled" : "Désactiver la détection d'HUDList",
 
     "bai_hudlist_compatibility" : "Compatibilité HUDList",
     "bai_hudlist_compatibility_desc": "Ici, vous pouvez sélectionner une compatibilité avec HUDList\nl’application d’une mauvaise compatibilité HUDList peut provoquer le plantage de votre jeu\n\n[Détection automatique: BAI essayera de détecter automatiquement HUDList et appliquer le code de compatibilité si nécessaire]\n[N´importe quelle autre option : Force BAI d´appliquer le code de compatibilité.]",
@@ -186,6 +188,22 @@
 
     "bai_assault_panel_position" : "Position de la bannière d´assaut",
     "bai_assault_panel_position_desc" : "Ajuste la position de la bannière d´assaut sur l´écran",
+    "bai_assault_panel_position_1" : "Haut-gauche",
+    "bai_assault_panel_position_2" : "Haut-centre",
+    "bai_assault_panel_position_3" : "Haut-droite",
+    "bai_assault_panel_position_4" : "Centre-gauche",
+    "bai_assault_panel_position_5" : "Centre",
+    "bai_assault_panel_position_6" : "Center-droit",
+    "bai_assault_panel_position_7" : "Bas-gauche",
+    "bai_assault_panel_position_8" : "Bas-centre",
+    "bai_assault_panel_position_9" : "Bas-droite",
+    "bai_assault_panel_position_default_position" : "ou position par défaut",
+    
+    "bai_wave_counter" : "Panneau de vagues",
+    "bai_wave_counter_desc" : "Ajuste la position du panneau de vagues",
+    "bai_wave_counter_1" : "Panneau",
+    "bai_wave_counter_2" : "Texte proche du panneau d'assaut",
+    "bai_wave_counter_3" : "Dans le texte d'assaut",
     
     "bai_other_options" : "Autres options",
     "bai_other_options_desc" : "",
